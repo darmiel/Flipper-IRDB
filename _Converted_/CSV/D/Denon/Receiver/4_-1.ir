@@ -1,301 +1,301 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TAPE_DECK_SELECT_A/B
+name: Tape_deck_select_a/b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 53 00 00 00
 #
-name: TAPE_DECK_PLAY_REVERSE
+name: Tape_deck_play_reverse
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: TAPE_DECK_FAST_FORWARD
+name: Tape_deck_fast_forward
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: TAPE_DECK_REWIND
+name: Tape_deck_rewind
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: TAPE_DECK_PLAY
+name: Tape_deck_play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: TAPE_DECK_PAUSE
+name: Tape_deck_pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5D 00 00 00
 #
-name: TAPE_DECK_STOP
+name: Tape_deck_stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5E 00 00 00
 #
-name: TAPE_DECK_RECORD
+name: Tape_deck_record
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5F 00 00 00
 #
-name: SURROUND_MODE_DSP_WIDE_SCREEN
+name: Surround_mode_dsp_wide_screen
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 81 00 00 00
 #
-name: SURROUND_MODE_DSP_SUPER_STADIUM
+name: Surround_mode_dsp_super_stadium
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 82 00 00 00
 #
-name: SURROUND_MODE_DSP_ROCK_ARENA
+name: Surround_mode_dsp_rock_arena
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 83 00 00 00
 #
-name: SURROUND_MODE_DSP_JAZZ_CLUB
+name: Surround_mode_dsp_jazz_club
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 84 00 00 00
 #
-name: SURROUND_MODE_DSP_CLASSIC_CONCERT
+name: Surround_mode_dsp_classic_concert
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 85 00 00 00
 #
-name: SURROUND_MODE_DSP_MONO_MOVIE
+name: Surround_mode_dsp_mono_movie
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 86 00 00 00
 #
-name: SURROUND_MODE_DSP_MATRIX
+name: Surround_mode_dsp_matrix
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 87 00 00 00
 #
-name: SURROUND_MODE_DSP_VIDEO_GAME
+name: Surround_mode_dsp_video_game
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 88 00 00 00
 #
-name: SURROUND_MODE_DSP_VIRTUAL
+name: Surround_mode_dsp_virtual
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 89 00 00 00
 #
-name: SURROUND_MODE_THX_ULTRA2_CINEMA
+name: Surround_mode_thx_ultra2_cinema
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 8A 00 00 00
 #
-name: SURROUND_MODE_THX_MUSIC
+name: Surround_mode_thx_music
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 8B 00 00 00
 #
-name: SURROUND_MODE_THX_EX
+name: Surround_mode_thx_ex
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 8C 00 00 00
 #
-name: SURROUND_MODE_DTS_NEO:6_CINEMA
+name: Surround_mode_dts_neo:6_cinema
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 8D 00 00 00
 #
-name: SURROUND_MODE_DTS_NEO:6_MUSIC
+name: Surround_mode_dts_neo:6_music
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 8E 00 00 00
 #
-name: SURROUND_MODE_DOLBY_PL_II_CINEMA
+name: Surround_mode_dolby_pl_ii_cinema
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 8F 00 00 00
 #
-name: SURROUND_MODE_DOLBY_PL_II_MUSIC
+name: Surround_mode_dolby_pl_ii_music
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 90 00 00 00
 #
-name: SURROUND_MODE_DOLBY_PL
+name: Surround_mode_dolby_pl
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 91 00 00 00
 #
-name: SURROUND_MODE_DTS_ES_MATRIX
+name: Surround_mode_dts_es_matrix
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 93 00 00 00
 #
-name: SURROUND_MODE_DOLBY_DIGITAL_EX
+name: Surround_mode_dolby_digital_ex
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 94 00 00 00
 #
-name: SURROUND_MODE_CINEMA
+name: Surround_mode_cinema
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 95 00 00 00
 #
-name: SURROUND_MODE_MUSIC
+name: Surround_mode_music
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 96 00 00 00
 #
-name: SURROUND_MODE_GAME
+name: Surround_mode_game
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 97 00 00 00
 #
-name: MODE_NIGHT
+name: Mode_night
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 98 00 00 00
 #
-name: ROOM_EQ_/_MULTEQ_TOGGLE_MODE
+name: Room_eq_/_multeq_toggle_mode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 9D 00 00 00
 #
-name: INPUT_MODE_/_HDMI_MONITOR_AUTO
+name: Input_mode_/_hdmi_monitor_auto
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: B3 00 00 00
 #
-name: INPUT_MODE_PCM
+name: Input_mode_pcm
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: B4 00 00 00
 #
-name: INPUT_MODE_DTS
+name: Input_mode_dts
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: B5 00 00 00
 #
-name: INPUT_MODE_RF
+name: Input_mode_rf
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: B6 00 00 00
 #
-name: INPUT_MODE_EXT._IN
+name: Input_mode_ext._in
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: B7 00 00 00
 #
-name: INPUT_MODE_EXT._IN_2
+name: Input_mode_ext._in_2
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: B8 00 00 00
 #
-name: MAIN_ZONE_ON
+name: Main_zone_on
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: B9 00 00 00
 #
-name: MAIN_ZONE_OFF
+name: Main_zone_off
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: BA 00 00 00
 #
-name: MULTI_ZONE_2_ON
+name: Multi_zone_2_on
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: BB 00 00 00
 #
-name: MULTI_ZONE_2_OFF
+name: Multi_zone_2_off
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: BC 00 00 00
 #
-name: DAT_DECK_SEARCH_FORWARD
+name: Dat_deck_search_forward
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D8 00 00 00
 #
-name: DAT_DECK_SEARCH_BACKWARD
+name: Dat_deck_search_backward
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D9 00 00 00
 #
-name: DAT_DECK_FAST_FORWARD
+name: Dat_deck_fast_forward
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DA 00 00 00
 #
-name: DAT_DECK_REWIND
+name: Dat_deck_rewind
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DB 00 00 00
 #
-name: DAT_DECK_PLAY
+name: Dat_deck_play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DC 00 00 00
 #
-name: DAT_DECK_PAUSE
+name: Dat_deck_pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DD 00 00 00
 #
-name: DAT_DECK_STOP
+name: Dat_deck_stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DE 00 00 00
 #
-name: DAT_DECK_RECORD
+name: Dat_deck_record
 type: parsed
 protocol: NECext
 address: 04 00 00 00

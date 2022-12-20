@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 80 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 81 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 82 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 83 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 84 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 85 00 00 00
 #
-name: select-
+name: Select-
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 86 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 87 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 88 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 89 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 8A 00 00 00
 #
-name: select+
+name: Select+
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 8C 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 8D 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 8E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 82 13 00 00
 command: 9C 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -157,7 +157,7 @@ protocol: NECext
 address: 82 13 00 00
 command: 9E 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 82 13 00 00

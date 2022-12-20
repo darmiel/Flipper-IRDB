@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 01 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 02 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 03 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 04 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 09 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0A 00 00 00
 #
-name: OFF_TIMER
+name: Off_timer
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0C 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0D 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0E 00 00 00
 #
-name: CH-CALL
+name: Ch-call
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -145,43 +145,43 @@ protocol: NECext
 address: 02 00 00 00
 command: 1D 00 00 00
 #
-name: ON_TIMER
+name: On_timer
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 34 00 00 00
 #
-name: HOUR
+name: Hour
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 35 00 00 00
 #
-name: MINUTE
+name: Minute
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 36 00 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 58 00 00 00
 #
-name: CONTROL_UP
+name: Control_up
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 59 00 00 00
 #
-name: CONTROL_DOWN
+name: Control_down
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 5A 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 02 00 00 00

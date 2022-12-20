@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 06 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 19 00 00 00
 #
-name: CD-2/TAPE2
+name: Cd-2/tape2
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1A 00 00 00
 #
-name: CD-TAPE_2_INPUT
+name: Cd-tape_2_input
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1A 00 00 00
 #
-name: TAPE_2_MON
+name: Tape_2_mon
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1A 00 00 00
 #
-name: CD2/TAPE2_ON/OFF
+name: Cd2/tape2_on/off
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1A 00 00 00
 #
-name: VIDEO3
+name: Video3
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1D 00 00 00
 #
-name: VIDEO_3_INPUT
+name: Video_3_input
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1D 00 00 00
 #
-name: DVD_INPUT
+name: Dvd_input
 type: parsed
 protocol: NECext
 address: B8 03 00 00
@@ -61,31 +61,31 @@ protocol: NECext
 address: B8 03 00 00
 command: 1D 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1D 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1D 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1E 00 00 00
 #
-name: VIDEO_4_INPUT
+name: Video_4_input
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 1E 00 00 00
 #
-name: LD_INPUT
+name: Ld_input
 type: parsed
 protocol: NECext
 address: B8 03 00 00
@@ -97,133 +97,133 @@ protocol: NECext
 address: B8 03 00 00
 command: 1E 00 00 00
 #
-name: TUNER_AUTO_MEMORY
+name: Tuner_auto_memory
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 4D 00 00 00
 #
-name: AUTO_MEMORY
+name: Auto_memory
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 4D 00 00 00
 #
-name: SUB-
+name: Sub-
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 54 00 00 00
 #
-name: SUB+
+name: Sub+
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 55 00 00 00
 #
-name: LOUDNESS-
+name: Loudness-
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 58 00 00 00
 #
-name: BASS_-
+name: Bass_-
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 58 00 00 00
 #
-name: LOUDNESS+
+name: Loudness+
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 59 00 00 00
 #
-name: BASS_+
+name: Bass_+
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 59 00 00 00
 #
-name: TONE-
+name: Tone-
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 5A 00 00 00
 #
-name: TREBLE_-
+name: Treble_-
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 5A 00 00 00
 #
-name: TONE+
+name: Tone+
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 5B 00 00 00
 #
-name: TREBLE_+
+name: Treble_+
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 5B 00 00 00
 #
-name: DOLBY_DIG
+name: Dolby_dig
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 5C 00 00 00
 #
-name: DOLBY_DIGITAL
+name: Dolby_digital
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 5C 00 00 00
 #
-name: DOLBY_DIGITAL
+name: Dolby_digital
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 5C 00 00 00
 #
-name: DVD_INPUT
+name: Dvd_input
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 80 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 80 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: 80 00 00 00
 #
-name: ANALOG
+name: Analog
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: CA 00 00 00
 #
-name: DTS
+name: Dts
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: CB 00 00 00
 #
-name: DTS
+name: Dts
 type: parsed
 protocol: NECext
 address: B8 03 00 00
 command: CB 00 00 00
 #
-name: MIDNIGHT_MODE
+name: Midnight_mode
 type: parsed
 protocol: NECext
 address: B8 03 00 00

@@ -4,19 +4,19 @@ Version: 1
 # Model: Sony CFD-S35CP CD Radio Cassette-Corder
 # Remote: Sony RMT-CF15CPAD
 # 
-name: OPERATE
+name: Operate
 type: parsed
 protocol: SIRC15
 address: 44 00 00 00
 command: 15 00 00 00
 # 
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: SIRC15
 address: 44 00 00 00
 command: 60 00 00 00
 # 
-name: FUNCTION
+name: Function
 type: parsed
 protocol: SIRC15
 address: 44 00 00 00
@@ -88,97 +88,97 @@ protocol: SIRC15
 address: 64 00 00 00
 command: 0D 00 00 00
 # 
-name: MODE
+name: Mode
 type: parsed
 protocol: SIRC15
 address: 44 00 00 00
 command: 11 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: SIRC15
 address: 44 00 00 00
 command: 12 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: SIRC15
 address: 44 00 00 00
 command: 13 00 00 00
 # 
-name: TUNE+
+name: Tune+
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 73 00 00 00
 # 
-name: TUNE-
+name: Tune-
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 74 00 00 00
 # 
-name: BAND
+name: Band
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 6F 00 00 00
 # 
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 2C 00 00 00
 # 
-name: PLAY
+name: Play
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 32 00 00 00
 # 
-name: PAUSE
+name: Pause
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 39 00 00 00
 # 
-name: STOP
+name: Stop
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 38 00 00 00
 # 
-name: REWIND
+name: Rewind
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 3A 00 00 00
 # 
-name: FORWARD
+name: Forward
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 3B 00 00 00
 # 
-name: FOLDER+
+name: Folder+
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 3E 00 00 00
 # 
-name: FOLDER-
+name: Folder-
 type: parsed
 protocol: SIRC15
 address: 64 00 00 00
 command: 3F 00 00 00
 # 
-name: SOUND
+name: Sound
 type: parsed
 protocol: SIRC15
 address: 44 00 00 00
 command: 30 00 00 00
 # 
-name: MEGA BASS
+name: Mega_bass
 type: parsed
 protocol: SIRC15
 address: 44 00 00 00

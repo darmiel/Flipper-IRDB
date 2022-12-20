@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 2241 4481 8911 8911 8911 2241 2241 4481 8911 853730
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8937 2241 2241 2241 6696 2241 2241 8937 8937 2241 2241 2241 6696 2241 2241 853730
 #
-name: POLARITY
+name: Polarity
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8937 2241 11177 2241 2241 8937 8937 2241 11177 2241 2241 853730
 #
-name: TUNE-
+name: Tune-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 2241 2241 2241 2241 6696 8911 8911 2241 2241 2241 2241 2241 6696 853730
 #
-name: TUNE+
+name: Tune+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8937 2241 6696 2241 6696 8937 8937 2241 6696 2241 6696 80378 8937 2241 6696 2241 6696 8937 8937 2241 6696 2241 6696 802819
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 2241 6696 6696 8911 8911 2241 2241 6696 6696 80378 8911 2241 2241 6696 6696 8911 8911 2241 2241 6696 6696 802845
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 4481 4481 6696 8937 8937 2215 4481 4481 6696 80378 8937 2215 4481 4481 6696 838566
 #
-name: CD
+name: Cd
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 15607 8937 8937 2215 15607 853730
 #
-name: DIRECT
+name: Direct
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8937 2241 2241 2241 2241 2241 2241 2241 2241 8937 8937 2241 2241 2241 2241 2241 2241 2241 2241 853730
 #
-name: AM/FM
+name: Am/fm
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 6696 2241 2241 2241 2241 8937 8937 2241 6696 2241 2241 2241 2241 853730
 #
-name: TUNER
+name: Tuner
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 2241 2241 11151 8937 8937 2241 2241 2241 11151 853730
 #
-name: AUX
+name: Aux
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 2241 2241 2241 4481 4481 8911 8911 2241 2241 2241 2241 4481 4481 853730
 #
-name: TAPE
+name: Tape
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 6696 4481 4481 8911 8911 2241 6696 4481 4481 853730
 #
-name: VIDEO
+name: Video
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 4481 6696 4481 8911 8911 2241 4481 6696 4481 853730
 #
-name: AUTO
+name: Auto
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
@@ -157,7 +157,7 @@ frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2241 4481 2241 4481 2241 2241 8911 8911 2241 4481 2241 4481 2241 2241 853730
 #
-name: MEMORY
+name: Memory
 type: raw
 frequency: 38381
 duty_cycle: 0.330000

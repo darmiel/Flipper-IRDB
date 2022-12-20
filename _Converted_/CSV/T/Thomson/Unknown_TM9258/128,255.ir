@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 80 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 84 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 88 00 00 00
 #
-name: trackNext
+name: Tracknext
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 8C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 8D 00 00 00
 #
-name: trackBack
+name: Trackback
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 90 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 91 00 00 00
 #
-name: soundEffect
+name: Soundeffect
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 93 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 94 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 95 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 99 00 00 00
 #
-name: presUp
+name: Presup
 type: parsed
 protocol: NECext
 address: 80 FF 00 00
 command: 9C 00 00 00
 #
-name: presDown
+name: Presdown
 type: parsed
 protocol: NECext
 address: 80 FF 00 00

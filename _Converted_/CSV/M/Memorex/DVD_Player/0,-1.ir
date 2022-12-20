@@ -25,7 +25,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 83 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -49,31 +49,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 8F 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 90 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 90 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 91 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 93 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -91,43 +91,43 @@ protocol: NECext
 address: 00 00 00 00
 command: C1 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C2 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C4 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C5 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C6 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C8 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C9 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -139,37 +139,37 @@ protocol: NECext
 address: 00 00 00 00
 command: CD 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D0 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D1 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D2 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D2 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D3 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00

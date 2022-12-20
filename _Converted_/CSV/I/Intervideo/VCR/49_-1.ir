@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CH/TRACKING_^
+name: Ch/tracking_^
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 01 00 00 00
 #
-name: CH/TRACKING_V
+name: Ch/tracking_v
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 02 00 00 00
 #
-name: AUDIO_OUT
+name: Audio_out
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 31 00 00 00
 command: 07 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -73,49 +73,49 @@ protocol: NECext
 address: 31 00 00 00
 command: 0F 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE/STILL_
+name: Pause/still_
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 11 00 00 00
 #
-name: REW/SRCH_<<
+name: Rew/srch_<<
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 12 00 00 00
 #
-name: FF/SRCH_>>
+name: Ff/srch_>>
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 13 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 14 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 15 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 19 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -139,121 +139,121 @@ protocol: NECext
 address: 31 00 00 00
 command: 1D 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1E 00 00 00
 #
-name: AUTO_TRACKING
+name: Auto_tracking
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1F 00 00 00
 #
-name: OTR_OFF
+name: Otr_off
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 40 00 00 00
 #
-name: OTR_ON
+name: Otr_on
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 41 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 43 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 44 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 46 00 00 00
 #
-name: SLOW_^
+name: Slow_^
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 47 00 00 00
 #
-name: SLOW_V
+name: Slow_v
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 48 00 00 00
 #
-name: AUDIO_DUB
+name: Audio_dub
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 49 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4C 00 00 00
 #
-name: TV_MONITOR
+name: Tv_monitor
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 51 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 5B 00 00 00
 #
-name: CHANNEL_SCAN
+name: Channel_scan
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 5C 00 00 00
 #
-name: TAPE_SPEED
+name: Tape_speed
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 5E 00 00 00
 #
-name: ADD
+name: Add
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 99 00 00 00
 #
-name: CH_PROG_AUTO
+name: Ch_prog_auto
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 9E 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 9F 00 00 00
 #
-name: BLANK_SEARCH
+name: Blank_search
 type: parsed
 protocol: NECext
 address: 31 00 00 00

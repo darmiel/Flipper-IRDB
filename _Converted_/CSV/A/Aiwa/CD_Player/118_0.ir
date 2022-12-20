@@ -67,37 +67,37 @@ protocol: NECext
 address: 76 00 00 00
 command: 0B 00 00 00
 #
-name: REMAIN/ENTER
+name: Remain/enter
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 0D 00 00 00
 #
-name: PLAY/PAUSE_>
+name: Play/pause_>
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 15 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 16 00 00 00
 #
-name: SKIP/SEARCH_>>
+name: Skip/search_>>
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 18 00 00 00
 #
-name: SKIP/SEARCH_<<
+name: Skip/search_<<
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 19 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 76 00 00 00

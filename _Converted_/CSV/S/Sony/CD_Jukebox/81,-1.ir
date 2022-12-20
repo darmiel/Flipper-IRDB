@@ -55,37 +55,37 @@ protocol: NECext
 address: 51 00 00 00
 command: 08 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 0B 00 00 00
 #
-name: CHECK
+name: Check
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 0D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 15 00 00 00
 #
-name: CONTINUE
+name: Continue
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 1D 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 51 00 00 00
@@ -109,139 +109,139 @@ protocol: NECext
 address: 51 00 00 00
 command: 27 00 00 00
 #
-name: TIME/TEXT
+name: Time/text
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 28 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 2C 00 00 00
 #
-name: POWER_ON_(CD-3)
+name: Power_on_(cd-3)
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 2E 00 00 00
 #
-name: POWER_OFF_(CD-3)
+name: Power_off_(cd-3)
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 2F 00 00 00
 #
-name: <<_SKIP
+name: <<_skip
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 30 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 30 00 00 00
 #
-name: >>_SKIP
+name: >>_skip
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 31 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 32 00 00 00
 #
-name: <<_SEARCH
+name: <<_search
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 33 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 33 00 00 00
 #
-name: >>_SEARCH
+name: >>_search
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 34 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 34 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 39 00 00 00
 #
-name: DISC_-
+name: Disc_-
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 3D 00 00 00
 #
-name: DISK_SKIP_-
+name: Disk_skip_-
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 3D 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 3E 00 00 00
 #
-name: DISK_SKIP_+
+name: Disk_skip_+
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 3E 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 4A 00 00 00
 #
-name: TRACK
+name: Track
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 4B 00 00 00
 #
-name: BLOCK
+name: Block
 type: parsed
 protocol: NECext
 address: 51 00 00 00

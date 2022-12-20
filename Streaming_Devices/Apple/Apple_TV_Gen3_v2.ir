@@ -3,43 +3,43 @@ Version:1
 #
 # Apple TV Gen 3 v2
 #
-name:Menu
+name: Menu
 type:parsed
 protocol:NECext
 address:EE870000
 command:022E0000
 #
-name:Play_Pause
+name: Play_pause
 type:parsed
 protocol:NECext
 address:EE870000
 command:5E2E0000
 #
-name:Up
+name: Up
 type:parsed
 protocol:NECext
 address:EE870000
 command:0B2E0000
 #
-name:Down
+name: Down
 type:parsed
 protocol:NECext
 address:EE870000
 command:0D2E0000
 #
-name:Left
+name: Left
 type:parsed
 protocol:NECext
 address:EE870000
 command:082E0000
 #
-name:Right
+name: Right
 type:parsed
 protocol:NECext
 address:EE870000
 command:072E0000
 #
-name:Center
+name: Center
 type:parsed
 protocol:NECext
 address:EE870000

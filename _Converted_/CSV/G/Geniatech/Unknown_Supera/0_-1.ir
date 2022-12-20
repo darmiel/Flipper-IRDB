@@ -67,7 +67,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -97,13 +97,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: DAYLIGHT
+name: Daylight
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -151,25 +151,25 @@ protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: AUDIO_ONLY
+name: Audio_only
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: CRT/LCD
+name: Crt/lcd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -181,25 +181,25 @@ protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: RES
+name: Res
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: AV/TV
+name: Av/tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00

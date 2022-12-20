@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 00 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 01 00 00 00
 #
-name: SLOW_FORWARD
+name: Slow_forward
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 02 00 00 00
 #
-name: SLOW_REVERSE
+name: Slow_reverse
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 03 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 04 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 05 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 06 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 08 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 09 00 00 00
 #
-name: VCR_V
+name: Vcr_v
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0A 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0E 00 00 00
 #
-name: T.RETURN
+name: T.return
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 72 00 00 00
 #
-name: TIME/COUNTER
+name: Time/counter
 type: parsed
 protocol: NECext
 address: 19 00 00 00

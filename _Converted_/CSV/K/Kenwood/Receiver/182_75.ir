@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LD_0
+name: Ld_0
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 00 00 00 00
 #
-name: LD_1
+name: Ld_1
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 01 00 00 00
 #
-name: LD_2
+name: Ld_2
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 02 00 00 00
 #
-name: LD_3
+name: Ld_3
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 03 00 00 00
 #
-name: LD_4
+name: Ld_4
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 04 00 00 00
 #
-name: LD_5
+name: Ld_5
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 05 00 00 00
 #
-name: LD_6
+name: Ld_6
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 06 00 00 00
 #
-name: LD_7
+name: Ld_7
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 07 00 00 00
 #
-name: LD_8
+name: Ld_8
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 08 00 00 00
 #
-name: LD_9
+name: Ld_9
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 09 00 00 00
 #
-name: LD_+10
+name: Ld_+10
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 0A 00 00 00
 #
-name: LD_FUNCTION
+name: Ld_function
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 10 00 00 00
 #
-name: LD_STOP
+name: Ld_stop
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 11 00 00 00
 #
-name: LD_PAUSE
+name: Ld_pause
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 12 00 00 00
 #
-name: LD_SCAN_<<
+name: Ld_scan_<<
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 14 00 00 00
 #
-name: LD_SCAN_>>
+name: Ld_scan_>>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 15 00 00 00
 #
-name: LD_ANY_V
+name: Ld_any_v
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 16 00 00 00
 #
-name: LD_ANY_^
+name: Ld_any_^
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 17 00 00 00
 #
-name: LD_ENTER
+name: Ld_enter
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 19 00 00 00
 #
-name: LD_PLAY
+name: Ld_play
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 9A 00 00 00
 #
-name: LD_POWER
+name: Ld_power
 type: parsed
 protocol: NECext
 address: B6 4B 00 00

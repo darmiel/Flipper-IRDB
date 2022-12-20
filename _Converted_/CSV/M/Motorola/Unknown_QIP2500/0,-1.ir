@@ -61,277 +61,277 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: function-a
+name: Function-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: function-a_triangle
+name: Function-a_triangle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: ppv
+name: Ppv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: vod
+name: Vod
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: dvr_play
+name: Dvr_play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: dvr_stop
+name: Dvr_stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: dvr_fastforward
+name: Dvr_fastforward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: dvr_rewind
+name: Dvr_rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: dvr_pause
+name: Dvr_pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: pip_on-off
+name: Pip_on-off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: pip_swap
+name: Pip_swap
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: pip_move
+name: Pip_move
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: pip_ch-plus
+name: Pip_ch-plus
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: pip_ch-minus
+name: Pip_ch-minus
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: function-b
+name: Function-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: function-b_square
+name: Function-b_square
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: function-c
+name: Function-c
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: function-c_circle
+name: Function-c_circle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: dvr_record
+name: Dvr_record
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 33 00 00 00
 #
-name: arrow_up
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: arrow_down
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: arrow_left
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: arrow_right
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: day_plus
+name: Day_plus
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: day_minus
+name: Day_minus
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 39 00 00 00
 #
-name: PAGEUP
+name: Pageup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: PAGEDOWN
+name: Pagedown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: dvr_replay
+name: Dvr_replay
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: dvr_list
+name: Dvr_list
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3D 00 00 00
 #
-name: dvr_livetv
+name: Dvr_livetv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3E 00 00 00
 #
-name: aspect
+name: Aspect
 type: parsed
 protocol: NECext
 address: 00 00 00 00

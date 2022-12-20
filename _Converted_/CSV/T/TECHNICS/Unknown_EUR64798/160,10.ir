@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 00 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 01 00 00 00
 #
-name: SEARCH-LEFT
+name: Search-left
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 02 00 00 00
 #
-name: SEARCH-RIGHT
+name: Search-right
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
@@ -97,67 +97,67 @@ protocol: NECext
 address: A0 0A 00 00
 command: 19 00 00 00
 #
-name: LEVEL-UP
+name: Level-up
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 20 00 00 00
 #
-name: LEVEL-DOWN
+name: Level-down
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 21 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 47 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 48 00 00 00
 #
-name: SKIP-LEFT
+name: Skip-left
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 49 00 00 00
 #
-name: SKIP-RIGHT
+name: Skip-right
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 4A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 4D 00 00 00
 #
-name: TIME-MODE
+name: Time-mode
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 55 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 80 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 81 00 00 00
 #
-name: GT10
+name: Gt10
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
@@ -169,31 +169,31 @@ protocol: NECext
 address: A0 0A 00 00
 command: 85 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8A 00 00 00
 #
-name: AUTO-CUE
+name: Auto-cue
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8B 00 00 00
 #
-name: PEAK
+name: Peak
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8F 00 00 00
 #
-name: TAPE-LENGTH
+name: Tape-length
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: AB 00 00 00
 #
-name: SIDE
+name: Side
 type: parsed
 protocol: NECext
 address: A0 0A 00 00

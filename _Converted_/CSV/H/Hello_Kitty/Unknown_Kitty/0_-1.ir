@@ -25,19 +25,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 83 00 00 00
 #
-name: title-return
+name: Title-return
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 84 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 86 00 00 00
 #
-name: rev
+name: Rev
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -61,37 +61,37 @@ protocol: NECext
 address: 00 00 00 00
 command: 8F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 90 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 91 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 92 00 00 00
 #
-name: enter-play
+name: Enter-play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 93 00 00 00
 #
-name: repeatAB
+name: Repeatab
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 94 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -109,49 +109,49 @@ protocol: NECext
 address: 00 00 00 00
 command: C1 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C2 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C4 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C5 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C6 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C7 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C8 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C9 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -163,37 +163,37 @@ protocol: NECext
 address: 00 00 00 00
 command: CD 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: CE 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D0 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D1 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D2 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D3 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00

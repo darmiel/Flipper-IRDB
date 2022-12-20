@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 06 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 06 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0E 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0F 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 05 01 00 00
@@ -97,37 +97,37 @@ protocol: NECext
 address: 05 01 00 00
 command: 19 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1C 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1D 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1D 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1E 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 01 00 00

@@ -7,19 +7,19 @@ protocol: NECext
 address: 80 54 00 00
 command: 00 00 00 00
 #
-name: DISPLAY/POWER
+name: Display/power
 type: parsed
 protocol: NECext
 address: 80 54 00 00
 command: 01 00 00 00
 #
-name: DISPLAY/MUTE
+name: Display/mute
 type: parsed
 protocol: NECext
 address: 80 54 00 00
 command: 02 00 00 00
 #
-name: RGB/MUTE
+name: Rgb/mute
 type: parsed
 protocol: NECext
 address: 80 54 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 80 54 00 00
 command: 09 00 00 00
 #
-name: AUDIO/MUTE
+name: Audio/mute
 type: parsed
 protocol: NECext
 address: 80 54 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 80 54 00 00
 command: 0D 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 54 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 80 54 00 00
 command: 18 00 00 00
 #
-name: FUNCTION
+name: Function
 type: parsed
 protocol: NECext
 address: 80 54 00 00

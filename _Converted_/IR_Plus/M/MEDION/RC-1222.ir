@@ -16,25 +16,25 @@ protocol: NECext
 address: 67 98 00 00
 command: 95 6A 00 00
 #
-name: S.MODE
+name: S.mode
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: 3F C0 00 00
 #
-name: P.MODE
+name: P.mode
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: BF 40 00 00
 #
-name: FAV+
+name: Fav+
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: 7F 80 00 00
 #
-name: FAV-
+name: Fav-
 type: parsed
 protocol: NECext
 address: 67 98 00 00
@@ -58,7 +58,7 @@ protocol: NECext
 address: 67 98 00 00
 command: 1D E2 00 00
 #
-name: REVEAL
+name: Reveal
 type: parsed
 protocol: NECext
 address: 67 98 00 00
@@ -112,73 +112,73 @@ protocol: NECext
 address: 67 98 00 00
 command: 3D C2 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: 6D 92 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: AD 52 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: 2D D2 00 00
 #
-name: SIZE
+name: Size
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: 27 D8 00 00
 #
-name: TV/RADIO
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: 67 98 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: E5 1A 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: EF 10 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: ED 12 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: B7 48 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: AF 50 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 67 98 00 00
 command: 15 EA 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 67 98 00 00
@@ -190,7 +190,7 @@ protocol: NECext
 address: 67 98 00 00
 command: 37 C8 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 67 98 00 00
@@ -202,7 +202,7 @@ protocol: NECext
 address: 67 98 00 00
 command: 4D B2 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 67 98 00 00
@@ -214,7 +214,7 @@ protocol: NECext
 address: 67 98 00 00
 command: F7 08 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 67 98 00 00
@@ -226,7 +226,7 @@ protocol: NECext
 address: 67 98 00 00
 command: 8D 72 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 67 98 00 00
@@ -286,7 +286,7 @@ protocol: NECext
 address: 67 98 00 00
 command: B5 4A 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 67 98 00 00
@@ -298,7 +298,7 @@ protocol: NECext
 address: 67 98 00 00
 command: 75 8A 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 67 98 00 00

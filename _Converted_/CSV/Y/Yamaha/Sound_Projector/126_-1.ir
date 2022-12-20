@@ -1,451 +1,451 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DSP_PLII_MOVIE
+name: Dsp_plii_movie
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 67 00 00 00
 #
-name: PL_II_MOVIE
+name: Pl_ii_movie
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 67 00 00 00
 #
-name: DSP:_PLII_MOVIE
+name: Dsp:_plii_movie
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 67 00 00 00
 #
-name: DSP_PLII_MUSIC
+name: Dsp_plii_music
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 68 00 00 00
 #
-name: PL_II_MUSIC
+name: Pl_ii_music
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 68 00 00 00
 #
-name: DSP:_PLII_MUSIC
+name: Dsp:_plii_music
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 68 00 00 00
 #
-name: DSP_NEO:6_CIN
+name: Dsp_neo:6_cin
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 69 00 00 00
 #
-name: NEO:6_MOVIE
+name: Neo:6_movie
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 69 00 00 00
 #
-name: DSP:_NEO6_MOVIE
+name: Dsp:_neo6_movie
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 69 00 00 00
 #
-name: DSP_NEO:6_MUS
+name: Dsp_neo:6_mus
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 6A 00 00 00
 #
-name: NEO:6_MUSIC
+name: Neo:6_music
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 6A 00 00 00
 #
-name: DSP:_NEO6_MUSIC
+name: Dsp:_neo6_music
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 6A 00 00 00
 #
-name: INPUT_MODE_TOG
+name: Input_mode_tog
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 8D 00 00 00
 #
-name: NIGHT_MODE_ON
+name: Night_mode_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 9B 00 00 00
 #
-name: NIGHT_MODE_CINEMA
+name: Night_mode_cinema
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 9B 00 00 00
 #
-name: NIGHT_MODE:_CINEMA
+name: Night_mode:_cinema
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 9B 00 00 00
 #
-name: DSP:_NIGHT_CINEMA
+name: Dsp:_night_cinema
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 9B 00 00 00
 #
-name: NIGHT/TV_MODE:_OFF
+name: Night/tv_mode:_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 9C 00 00 00
 #
-name: DSP:_NIGHT/TV_M_OFF
+name: Dsp:_night/tv_m_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 9C 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A2 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A3 00 00 00
 #
-name: INPUT_MODE_AUTO
+name: Input_mode_auto
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A6 00 00 00
 #
-name: INPUT_MODE:_AUTO
+name: Input_mode:_auto
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A6 00 00 00
 #
-name: INPUT_MODE_DTS
+name: Input_mode_dts
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A8 00 00 00
 #
-name: INPUT_MODE:_DTS
+name: Input_mode:_dts
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A8 00 00 00
 #
-name: INPUT_MODE_ANALOG
+name: Input_mode_analog
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: AA 00 00 00
 #
-name: INPUT_MODE:_ANALOG
+name: Input_mode:_analog
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: AA 00 00 00
 #
-name: SLEEP_OFF
+name: Sleep_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B3 00 00 00
 #
-name: SLEEP:_OFF
+name: Sleep:_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B3 00 00 00
 #
-name: SLEEP_120
+name: Sleep_120
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B4 00 00 00
 #
-name: SLEEP_TIMER:_120_MIN
+name: Sleep_timer:_120_min
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B4 00 00 00
 #
-name: SLEEP:_120MIN
+name: Sleep:_120min
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B4 00 00 00
 #
-name: SLEEP_90
+name: Sleep_90
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B5 00 00 00
 #
-name: SLEEP_TIMER:_90_MIN
+name: Sleep_timer:_90_min
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B5 00 00 00
 #
-name: SLEEP:_90MIN
+name: Sleep:_90min
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B5 00 00 00
 #
-name: SLEEP_60
+name: Sleep_60
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B6 00 00 00
 #
-name: SLEEP_TIMER:_60_MIN
+name: Sleep_timer:_60_min
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B6 00 00 00
 #
-name: SLEEP:_60MIN
+name: Sleep:_60min
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B6 00 00 00
 #
-name: SLEEP_30
+name: Sleep_30
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B7 00 00 00
 #
-name: SLEEP_TIMER:_30_MIN
+name: Sleep_timer:_30_min
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B7 00 00 00
 #
-name: SLEEP:_30MIN
+name: Sleep:_30min
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B7 00 00 00
 #
-name: DSP_PLII_GAME
+name: Dsp_plii_game
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: C7 00 00 00
 #
-name: PL_II_GAME
+name: Pl_ii_game
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: C7 00 00 00
 #
-name: DSP:_PLII_GAME
+name: Dsp:_plii_game
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: C7 00 00 00
 #
-name: NEURAL_SURROUND
+name: Neural_surround
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: CC 00 00 00
 #
-name: DSP:_NEURAL
+name: Dsp:_neural
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: CC 00 00 00
 #
-name: NIGHT_MODE_MUS
+name: Night_mode_mus
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: CF 00 00 00
 #
-name: NIGHT_MODE:_MUSIC
+name: Night_mode:_music
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: CF 00 00 00
 #
-name: DSP:_NIGHT_MUSIC
+name: Dsp:_night_music
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: CF 00 00 00
 #
-name: MUSIC_ENHANCER:_ON
+name: Music_enhancer:_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: D8 00 00 00
 #
-name: DSP:_M_ENHAN_ON
+name: Dsp:_m_enhan_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: D8 00 00 00
 #
-name: MUSIC_ENHANCER:_OFF
+name: Music_enhancer:_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: D9 00 00 00
 #
-name: DSP:_M_ENHAN_OFF
+name: Dsp:_m_enhan_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: D9 00 00 00
 #
-name: INPUT_MODE_DTS
+name: Input_mode_dts
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: DA 00 00 00
 #
-name: MUTE_-20DB
+name: Mute_-20db
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: DF 00 00 00
 #
-name: MUTE_-20DB
+name: Mute_-20db
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: DF 00 00 00
 #
-name: DSP_CONC._HALL
+name: Dsp_conc._hall
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: E1 00 00 00
 #
-name: DSP:_CONCERT_HALL
+name: Dsp:_concert_hall
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: E1 00 00 00
 #
-name: DSP_JAZZ_CLUB
+name: Dsp_jazz_club
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: EC 00 00 00
 #
-name: DSP:_JAZZ_CLUB
+name: Dsp:_jazz_club
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: EC 00 00 00
 #
-name: DSP_MUSIC_VIDEO
+name: Dsp_music_video
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: F3 00 00 00
 #
-name: DSP:_MUSIC_VIDEO
+name: Dsp:_music_video
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: F3 00 00 00
 #
-name: DSP_SPORTS
+name: Dsp_sports
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: F8 00 00 00
 #
-name: DSP:_SPORTS
+name: Dsp:_sports
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: F8 00 00 00
 #
-name: DSP_SPECTACLE
+name: Dsp_spectacle
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: F9 00 00 00
 #
-name: DSP:_SPECTACLE
+name: Dsp:_spectacle
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: F9 00 00 00
 #
-name: DSP_SCI-FI
+name: Dsp_sci-fi
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: FA 00 00 00
 #
-name: DSP:_SCI-FI
+name: Dsp:_sci-fi
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: FA 00 00 00
 #
-name: DSP_ADVENTURE
+name: Dsp_adventure
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: FB 00 00 00
 #
-name: DSP:_ADVENTURE
+name: Dsp:_adventure
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: FB 00 00 00
 #
-name: DSP_PROLOGIC
+name: Dsp_prologic
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: FD 00 00 00
 #
-name: PROLOGIC
+name: Prologic
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: FD 00 00 00
 #
-name: DSP:_PRO-LOGIC
+name: Dsp:_pro-logic
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: FD 00 00 00
 #
-name: 5_CH_STEREO
+name: 5_ch_stereo
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: FF 00 00 00
 #
-name: DSP:_BM_5CHSTEREO
+name: Dsp:_bm_5chstereo
 type: parsed
 protocol: NECext
 address: 7E 00 00 00

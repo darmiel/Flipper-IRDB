@@ -61,115 +61,115 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: pp
+name: Pp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: dbb
+name: Dbb
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: stereo
+name: Stereo
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: spatial
+name: Spatial
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 50 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 51 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 52 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 53 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 55 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00

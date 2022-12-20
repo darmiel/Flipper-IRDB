@@ -3,7 +3,7 @@ Version: 1
 # 
 # Sylvania 24 Button LED
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -15,13 +15,13 @@ protocol: NEC
 address: 00 00 00 00
 command: 1F 00 00 00
 # 
-name: Brightness +
+name: Brightness_+
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 09 00 00 00
 # 
-name: Brightness -
+name: Brightness_-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -51,7 +51,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 15 00 00 00
 # 
-name: Dark Orange
+name: Dark_orange
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -63,7 +63,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 40 00 00 00
 # 
-name: Light Orange
+name: Light_orange
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -75,7 +75,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 1C 00 00 00
 # 
-name: Light Green
+name: Light_green
 type: parsed
 protocol: NEC
 address: 00 00 00 00

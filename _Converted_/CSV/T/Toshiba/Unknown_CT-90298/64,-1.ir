@@ -61,163 +61,163 @@ protocol: NECext
 address: 40 00 00 00
 command: 09 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 10 00 00 00
 #
-name: picture_preset
+name: Picture_preset
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: audio_stereo_2channel
+name: Audio_stereo_2channel
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 13 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 14 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 15 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 16 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: p_up
+name: P_up
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: p_down
+name: P_down
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1F 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 21 00 00 00
 #
-name: stillpicture
+name: Stillpicture
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 22 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 2B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 2C 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 43 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 48 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 49 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4A 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4B 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 52 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 53 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 54 00 00 00
 #
-name: widescreen
+name: Widescreen
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 59 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 00 00 00

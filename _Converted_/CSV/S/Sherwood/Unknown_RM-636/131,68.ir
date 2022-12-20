@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 83 44 00 00
@@ -67,265 +67,265 @@ protocol: NECext
 address: 83 44 00 00
 command: 0A 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 0C 00 00 00
 #
-name: CD_PAUSE
+name: Cd_pause
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 0D 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 0E 00 00 00
 #
-name: CD_FAST_REWIND
+name: Cd_fast_rewind
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 0F 00 00 00
 #
-name: CD_FAST_FORWARD
+name: Cd_fast_forward
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 10 00 00 00
 #
-name: CD_SKIP_BACKWARD
+name: Cd_skip_backward
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 11 00 00 00
 #
-name: CD_SKIP_FORWARD
+name: Cd_skip_forward
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 12 00 00 00
 #
-name: CD_1_ALL
+name: Cd_1_all
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 13 00 00 00
 #
-name: CD_RANDOM
+name: Cd_random
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 14 00 00 00
 #
-name: PSCAN
+name: Pscan
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 18 00 00 00
 #
-name: DECK_B_RECORD
+name: Deck_b_record
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 1D 00 00 00
 #
-name: DECK_B_PAUSE
+name: Deck_b_pause
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 1E 00 00 00
 #
-name: DECK_B_BACK
+name: Deck_b_back
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 1F 00 00 00
 #
-name: DECK_B_FORWARD
+name: Deck_b_forward
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 20 00 00 00
 #
-name: DECK_B_STOP
+name: Deck_b_stop
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 21 00 00 00
 #
-name: DECK_B_FAST_REWIND
+name: Deck_b_fast_rewind
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 22 00 00 00
 #
-name: DECK_B_FAST_FORWARD
+name: Deck_b_fast_forward
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 23 00 00 00
 #
-name: DECK_A_RECORD
+name: Deck_a_record
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 25 00 00 00
 #
-name: DECK_A_PAUSE
+name: Deck_a_pause
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 26 00 00 00
 #
-name: DECK_A_BACK
+name: Deck_a_back
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 27 00 00 00
 #
-name: DECK_A_FORWARD
+name: Deck_a_forward
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 28 00 00 00
 #
-name: DECK_A_STOP
+name: Deck_a_stop
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 29 00 00 00
 #
-name: DECK_A_FAST_REWIND
+name: Deck_a_fast_rewind
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 2A 00 00 00
 #
-name: DECK_A_FAST_FORWARD
+name: Deck_a_fast_forward
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 2B 00 00 00
 #
-name: CD_INTRO
+name: Cd_intro
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 32 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 34 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 35 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 36 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 37 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 3A 00 00 00
 #
-name: CD_A_B
+name: Cd_a_b
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 3C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 3D 00 00 00
 #
-name: ROCK
+name: Rock
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 47 00 00 00
 #
-name: CLASSIC
+name: Classic
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 48 00 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 49 00 00 00
 #
-name: FLAT
+name: Flat
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 4A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 4D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 55 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 56 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 57 00 00 00
 #
-name: POPS
+name: Pops
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 5B 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 5C 00 00 00
 #
-name: DISK
+name: Disk
 type: parsed
 protocol: NECext
 address: 83 44 00 00
 command: 5E 00 00 00
 #
-name: JAZZ
+name: Jazz
 type: parsed
 protocol: NECext
 address: 83 44 00 00

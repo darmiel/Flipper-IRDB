@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MenuDown
+name: Menudown
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 00 00 00 00
 #
-name: Display/Info
+name: Display/info
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 01 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 02 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 03 00 00 00
 #
-name: Input/Setup
+name: Input/setup
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 04 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 05 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 40 2F 00 00
 command: 0A 00 00 00
 #
-name: Angle/PiP
+name: Angle/pip
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 40 2F 00 00
 command: 0E 00 00 00
 #
-name: MenuRight/Next
+name: Menuright/next
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
@@ -115,13 +115,13 @@ protocol: NECext
 address: 40 2F 00 00
 command: 12 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 13 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
@@ -133,79 +133,79 @@ protocol: NECext
 address: 40 2F 00 00
 command: 15 00 00 00
 #
-name: MenuUp
+name: Menuup
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 16 00 00 00
 #
-name: MenuLeft/Back
+name: Menuleft/back
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 17 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 18 00 00 00
 #
-name: Repeat/PrevChan
+name: Repeat/prevchan
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 19 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1A 00 00 00
 #
-name: MenuSelect/OK
+name: Menuselect/ok
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1B 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1C 00 00 00
 #
-name: ScanBackwards/Rewind
+name: Scanbackwards/rewind
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1D 00 00 00
 #
-name: ScanForwards/FastForward
+name: Scanforwards/fastforward
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1F 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: FF 00 00 00
 #
-name: Exit/Return
+name: Exit/return
 type: parsed
 protocol: NECext
 address: 40 2F 00 00

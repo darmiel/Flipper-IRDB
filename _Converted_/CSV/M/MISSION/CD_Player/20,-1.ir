@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 20 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 21 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 30 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 32 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 14 00 00 00

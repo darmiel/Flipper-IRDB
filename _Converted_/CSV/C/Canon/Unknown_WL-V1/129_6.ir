@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FOCUS_-_MANUAL
+name: Focus_-_manual
 type: parsed
 protocol: NECext
 address: 81 06 00 00
@@ -43,73 +43,73 @@ protocol: NECext
 address: 81 06 00 00
 command: 06 00 00 00
 #
-name: FOCUS_-_AUTO
+name: Focus_-_auto
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 07 00 00 00
 #
-name: FOCUS_-_NEAR
+name: Focus_-_near
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 08 00 00 00
 #
-name: FOCUS_-_FAR
+name: Focus_-_far
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 09 00 00 00
 #
-name: ZOOMOUT
+name: Zoomout
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 0A 00 00 00
 #
-name: ZOOMIN
+name: Zoomin
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 0B 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 0C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 0D 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 0E 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 0F 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 10 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 14 00 00 00
 #
-name: PRESET_SET/CANCEL
+name: Preset_set/cancel
 type: parsed
 protocol: NECext
 address: 81 06 00 00

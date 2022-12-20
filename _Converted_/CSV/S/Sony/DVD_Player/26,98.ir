@@ -1,181 +1,181 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STEP>
+name: Step>
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 14 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 20 00 00 00
 #
-name: FILE
+name: File
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 20 00 00 00
 #
-name: AUDIO_/_FILE
+name: Audio_/_file
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 20 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 21 00 00 00
 #
-name: SORT
+name: Sort
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 21 00 00 00
 #
-name: ANGLE_/_SORT
+name: Angle_/_sort
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 21 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 22 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 22 00 00 00
 #
-name: SUBTITLE_/_EDIT
+name: Subtitle_/_edit
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 22 00 00 00
 #
-name: DISC_-
+name: Disc_-
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 3D 00 00 00
 #
-name: DISC_SKIP_--
+name: Disc_skip_--
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 3D 00 00 00
 #
-name: DISC_SKIP_-
+name: Disc_skip_-
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 3D 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 3E 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 3E 00 00 00
 #
-name: DISC_SKIP_+
+name: Disc_skip_+
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 3E 00 00 00
 #
-name: FLIP
+name: Flip
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 3F 00 00 00
 #
-name: FOLDER_(ALL)
+name: Folder_(all)
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 40 00 00 00
 #
-name: FOLDER_.ALL
+name: Folder_.all
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 40 00 00 00
 #
-name: ALL
+name: All
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 40 00 00 00
 #
-name: FOLDER_ALL
+name: Folder_all
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 40 00 00 00
 #
-name: DVD_FOLDER
+name: Dvd_folder
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 41 00 00 00
 #
-name: FOLDER_.DVD
+name: Folder_.dvd
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 41 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 41 00 00 00
 #
-name: FOLDER_DVD
+name: Folder_dvd
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 41 00 00 00
 #
-name: CD_FOLDER
+name: Cd_folder
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 42 00 00 00
 #
-name: FOLDER_.CD
+name: Folder_.cd
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 42 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 42 00 00 00
 #
-name: FOLDER_CD
+name: Folder_cd
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 42 00 00 00
 #
-name: FOLDER_A
+name: Folder_a
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 1A 62 00 00
 command: 43 00 00 00
 #
-name: FOLDER_B
+name: Folder_b
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
@@ -199,7 +199,7 @@ protocol: NECext
 address: 1A 62 00 00
 command: 44 00 00 00
 #
-name: FOLDER_C
+name: Folder_c
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 1A 62 00 00
 command: 45 00 00 00
 #
-name: FOLDER_D
+name: Folder_d
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
@@ -223,7 +223,7 @@ protocol: NECext
 address: 1A 62 00 00
 command: 46 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 1A 62 00 00

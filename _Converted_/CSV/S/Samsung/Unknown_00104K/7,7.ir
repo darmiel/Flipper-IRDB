@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: s.mode
+name: S.mode
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 00 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 02 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 07 07 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0F 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -109,67 +109,67 @@ protocol: NECext
 address: 07 07 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 12 00 00 00
 #
-name: turbo
+name: Turbo
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 13 00 00 00
 #
-name: s.menu
+name: S.menu
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 14 00 00 00
 #
-name: s.std
+name: S.std
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 15 00 00 00
 #
-name: p.std
+name: P.std
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 16 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1A 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1B 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1F 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 23 00 00 00
 #
-name: ttx/mix
+name: Ttx/mix
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 2C 00 00 00
 #
-name: p.size
+name: P.size
 type: parsed
 protocol: NECext
 address: 07 07 00 00

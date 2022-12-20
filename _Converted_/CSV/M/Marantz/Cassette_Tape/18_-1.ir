@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2A 00 00 00
 #
-name: DECK_A
+name: Deck_a
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2C 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2C 00 00 00
 #
-name: DECK_B
+name: Deck_b
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2E 00 00 00
 #
-name: TAPE_2
+name: Tape_2
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2E 00 00 00
 #
-name: REVERSE_PLAY
+name: Reverse_play
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2F 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2F 00 00 00
 #
-name: REC_PAUSE
+name: Rec_pause
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 30 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 30 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 32 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 32 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 34 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 36 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 12 00 00 00

@@ -1,223 +1,223 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: TV_OPERATE
+name: Tv_operate
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: TV_VOLUME_^
+name: Tv_volume_^
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: TV_CHANNEL_^
+name: Tv_channel_^
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: TV_MENU
+name: Tv_menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: LAST_CH
+name: Last_ch
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: TV_MUTE
+name: Tv_mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: TV_VOLUME_V
+name: Tv_volume_v
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: TV_1
+name: Tv_1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: TV_1_(Q_Z)
+name: Tv_1_(q_z)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: TV_2
+name: Tv_2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: TV_2_(A_B_C)
+name: Tv_2_(a_b_c)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: TV_3
+name: Tv_3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: TV_3_(D_E_F)
+name: Tv_3_(d_e_f)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: TV_4
+name: Tv_4
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: TV_4_(G_H_I)
+name: Tv_4_(g_h_i)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: TV_5
+name: Tv_5
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: TV_5_(J_K_L)
+name: Tv_5_(j_k_l)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: TV_6_(CL)
+name: Tv_6_(cl)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: TV_6_(M_N_O)
+name: Tv_6_(m_n_o)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: TV_7
+name: Tv_7
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: TV_7_(P_R_S)
+name: Tv_7_(p_r_s)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: TV_8
+name: Tv_8
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: TV_8_(T_U_V_AM)
+name: Tv_8_(t_u_v_am)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: TV_9
+name: Tv_9
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: TV_9_(W_X_Y_PM)
+name: Tv_9_(w_x_y_pm)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: TV_0
+name: Tv_0
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: TV_0_(?_!)
+name: Tv_0_(?_!)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: TV_OPERATE
+name: Tv_operate
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: TV_CHANNEL_V
+name: Tv_channel_v
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: TV_PROGRAMME_^
+name: Tv_programme_^
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: TV_PROGRAMME_V
+name: Tv_programme_v
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: VOL_^
+name: Vol_^
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: VOL_V
+name: Vol_v
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 00 00 00 00

@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FM_MONO_MODE
+name: Fm_mono_mode
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 14 00 00 00
 #
-name: FM_STEREO_MODE
+name: Fm_stereo_mode
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 15 00 00 00
 #
-name: BYPASS_ON
+name: Bypass_on
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 16 00 00 00
 #
-name: BYPASS_OFF
+name: Bypass_off
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 17 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 54 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 54 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 55 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 55 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 56 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
@@ -97,31 +97,31 @@ protocol: NECext
 address: 1A E8 00 00
 command: 85 00 00 00
 #
-name: BASS_+
+name: Bass_+
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 87 00 00 00
 #
-name: ROOM_1
+name: Room_1
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 88 00 00 00
 #
-name: REMOTE_INDIV
+name: Remote_indiv
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 89 00 00 00
 #
-name: REMOTE_ALL
+name: Remote_all
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: 8A 00 00 00
 #
-name: TUNE_MODE
+name: Tune_mode
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
@@ -151,43 +151,43 @@ protocol: NECext
 address: 1A E8 00 00
 command: C3 00 00 00
 #
-name: BASE_-
+name: Base_-
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: C4 00 00 00
 #
-name: TREBLE_+
+name: Treble_+
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: C5 00 00 00
 #
-name: TREBLE_-
+name: Treble_-
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: C6 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: C7 00 00 00
 #
-name: PRESET_MODE
+name: Preset_mode
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: C8 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 1A E8 00 00
 command: C9 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 1A E8 00 00

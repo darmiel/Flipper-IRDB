@@ -2,98 +2,98 @@ Filetype: IR signals file
 Version: 1
 #
 # TV_POWER [raw] {11110111-000110}
-name: TV_POWER
+name: Tv_power
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 06 00 00 00
 #
 # POWER [raw] {11100101-001100}
-name: POWER
+name: Power
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 0C 00 00 00
 #
 # TV_MUTE [raw] {11010111-100000}
-name: TV_MUTE
+name: Tv_mute
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 20 00 00 00
 #
 # TV_VOL+ [raw] {11010111-110000}
-name: TV_VOL+
+name: Tv_vol+
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 30 00 00 00
 #
 # TV_VOL- [raw] {11010111-111110}
-name: TV_VOL-
+name: Tv_vol-
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 3E 00 00 00
 #
 # EJECT [raw] {11000101-101101}
-name: EJECT
+name: Eject
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 2D 00 00 00
 #
 # TV_CH+ [raw] {11010111-110011}
-name: TV_CH+
+name: Tv_ch+
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 33 00 00 00
 #
 # TV_CH- [raw] {11110111-110110}
-name: TV_CH-
+name: Tv_ch-
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 36 00 00 00
 #
 # PLAY [raw] {11100101-110101}
-name: PLAY
+name: Play
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 35 00 00 00
 #
 # REW [raw] {11100101-110010}
-name: REW
+name: Rew
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 32 00 00 00
 #
 # FFWD [raw] {11100101-110100}
-name: FFWD
+name: Ffwd
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 34 00 00 00
 #
 # STOP [raw] {11100101-110110}
-name: STOP
+name: Stop
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 36 00 00 00
 #
 # PAUSE [raw] {11100101-101001}
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 29 00 00 00
 #
 # SKIP [raw] {10000101-101010}
-name: SKIP
+name: Skip
 type: parsed
 protocol: RC5
 address: 05 00 00 00
@@ -177,147 +177,147 @@ address: 05 00 00 00
 command: 0A 00 00 00
 #
 # CH+ [raw] {11100101-100000}
-name: CH+
+name: Ch+
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 20 00 00 00
 #
 # CH- [raw] {11100101-100001}
-name: CH-
+name: Ch-
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 21 00 00 00
 #
 # VCR+ [raw] {10100101-000101}
-name: VCR+
+name: Vcr+
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 45 00 00 00
 #
 # MENU [raw] {11100101-011101}
-name: MENU
+name: Menu
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 1D 00 00 00
 #
 # CLEAR [raw] {11100101-110001}
-name: CLEAR
+name: Clear
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 31 00 00 00
 #
 # STATUS [raw] {11000101-001111}
-name: STATUS
+name: Status
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 0F 00 00 00
 #
 # F_TRK [raw] {11000101-100110}
-name: F_TRK
+name: F_trk
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 26 00 00 00
 #
 # R_TRK [raw] {11000101-100101}
-name: R_TRK
+name: R_trk
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 25 00 00 00
 #
 # RECORD [raw] {11000101-110111}
-name: RECORD
+name: Record
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 37 00 00 00
 #
 # OTR [raw] {11000101-100111}
-name: OTR
+name: Otr
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 27 00 00 00
 #
 # TRACKING+ [raw] {10000101-001101}
-name: TRACKING+
+name: Tracking+
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 4D 00 00 00
 #
 # TRACKING- [raw] {10100101-001110}
-name: TRACKING-
+name: Tracking-
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 4E 00 00 00
 #
 # MEMO [raw] {11100101-111011}
-name: MEMO
+name: Memo
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 3B 00 00 00
 #
 # SP/SLP [raw] {11100101-111010}
-name: SP/SLP
+name: Sp/slp
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 3A 00 00 00
 #
 # AUDIO [raw] {11100101-100011}
-name: AUDIO
+name: Audio
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 23 00 00 00
 #
 # PICT_CONTROL [raw] {10100101-000110}
-name: PICT_CONTROL
+name: Pict_control
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 46 00 00 00
 #
 # TV/VCR [raw] {11100101-111110}
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 3E 00 00 00
 #
 # CLK_CNT [raw] {11100101-111100}
-name: CLK_CNT
+name: Clk_cnt
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 3C 00 00 00
 #
 # VESS_<< [raw] {10100101-110001}
-name: VESS_<<
+name: Vess_<<
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 71 00 00 00
 #
 # VESS_>> [raw] {10100101-110000}
-name: VESS_>>
+name: Vess_>>
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 70 00 00 00
 #
 # VARIABLE_PLAY [raw] {11100101-101000}
-name: VARIABLE_PLAY
+name: Variable_play
 type: parsed
 protocol: RC5
 address: 05 00 00 00

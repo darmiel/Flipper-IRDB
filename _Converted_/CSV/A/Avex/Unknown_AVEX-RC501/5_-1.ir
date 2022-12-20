@@ -61,109 +61,109 @@ protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: switch_prgs
+name: Switch_prgs
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0A 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: calibrate
+name: Calibrate
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0E 00 00 00
 #
-name: prog
+name: Prog
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1D 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: otr-rec
+name: Otr-rec
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 24 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: fast
+name: Fast
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2A 00 00 00
 #
-name: pic_rew
+name: Pic_rew
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2C 00 00 00
 #
-name: pic_ff
+name: Pic_ff
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2E 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2F 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 31 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 32 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 36 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 00 00 00

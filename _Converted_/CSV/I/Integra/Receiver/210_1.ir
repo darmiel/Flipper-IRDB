@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DOCK_STOP
+name: Dock_stop
 type: parsed
 protocol: NECext
 address: D2 01 00 00

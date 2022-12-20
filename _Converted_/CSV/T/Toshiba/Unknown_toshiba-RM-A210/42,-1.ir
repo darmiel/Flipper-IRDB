@@ -61,73 +61,73 @@ protocol: NECext
 address: 2A 00 00 00
 command: 09 00 00 00
 #
-name: intro_scan
+name: Intro_scan
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 0C 00 00 00
 #
-name: random_play
+name: Random_play
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 0D 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 10 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 13 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 14 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 14 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 16 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 17 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 18 00 00 00
 #
-name: rwnd
+name: Rwnd
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 19 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 1A 00 00 00
 #
-name: frwnd
+name: Frwnd
 type: parsed
 protocol: NECext
 address: 2A 00 00 00

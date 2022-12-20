@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 03 00 00 00
 #
-name: AUDIO_POWER
+name: Audio_power
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 08 00 00 00
 #
-name: AUDIO_MUTE
+name: Audio_mute
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 09 00 00 00
 #
-name: REAR_VOL+
+name: Rear_vol+
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 46 00 00 00
 #
-name: REAR_VOL-
+name: Rear_vol-
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 47 00 00 00
 #
-name: SURROUND_SELECTOR
+name: Surround_selector
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 49 00 00 00
 #
-name: PRESET_VOLUME
+name: Preset_volume
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 4F 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 53 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 1A C5 00 00
 command: 54 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 1A C5 00 00

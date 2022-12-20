@@ -61,55 +61,55 @@ protocol: NECext
 address: 14 00 00 00
 command: 09 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0B 00 00 00
 #
-name: REVIEW
+name: Review
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0F 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1C 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1D 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 20 00 00 00
 #
-name: PREV_TRACK
+name: Prev_track
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 21 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 22 00 00 00
 #
-name: PREV_INDEX
+name: Prev_index
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 23 00 00 00
 #
-name: DIRECT_PR/PLAY
+name: Direct_pr/play
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -121,25 +121,25 @@ protocol: NECext
 address: 14 00 00 00
 command: 29 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2B 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2D 00 00 00
 #
-name: FAST
+name: Fast
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -151,37 +151,37 @@ protocol: NECext
 address: 14 00 00 00
 command: 31 00 00 00
 #
-name: SEARCH_BACKW
+name: Search_backw
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 32 00 00 00
 #
-name: SEARCH_FORW
+name: Search_forw
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 36 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 3B 00 00 00
 #
-name: FTS
+name: Fts
 type: parsed
 protocol: NECext
 address: 14 00 00 00

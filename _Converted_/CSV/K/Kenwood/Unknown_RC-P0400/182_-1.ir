@@ -61,85 +61,85 @@ protocol: NECext
 address: B6 00 00 00
 command: 09 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 0A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 11 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 14 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: SEARCH_REV
+name: Search_rev
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: SEARCH_FWD
+name: Search_fwd
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4D 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 51 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 52 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 53 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 54 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: B6 00 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Alarm_Wake_To
+name: Alarm_wake_to
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: Alarm_Time
+name: Alarm_time
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -25,49 +25,49 @@ protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: Tune_MP3_Up
+name: Tune_mp3_up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1A 00 00 00
 #
-name: Time_Plus
+name: Time_plus
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 24 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 24 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 01 00 00 00
 command: 30 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 40 00 00 00
 #
-name: Alarm_On_Off
+name: Alarm_on_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -115,43 +115,43 @@ protocol: NECext
 address: 01 00 00 00
 command: 50 00 00 00
 #
-name: X_EJECT_CD
+name: X_eject_cd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 58 00 00 00
 #
-name: Tune_MP3_Down
+name: Tune_mp3_down
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 58 00 00 00
 #
-name: FM_AM
+name: Fm_am
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 60 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 60 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 60 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 60 00 00 00
 #
-name: Time_Minus
+name: Time_minus
 type: parsed
 protocol: NECext
 address: 01 00 00 00

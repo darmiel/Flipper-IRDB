@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: c/p+
+name: C/p+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 01 00 00 00
 #
-name: c/p-
+name: C/p-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 03 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 04 00 00 00
 #
-name: contrast-
+name: Contrast-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 05 00 00 00
 #
-name: contrast+
+name: Contrast+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 06 00 00 00
 #
-name: color-
+name: Color-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 07 00 00 00
 #
-name: color+
+name: Color+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 09 00 00 00
 #
-name: tv/video
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0D 00 00 00
 #
-name: standby
+name: Standby
 type: parsed
 protocol: NECext
 address: 02 00 00 00

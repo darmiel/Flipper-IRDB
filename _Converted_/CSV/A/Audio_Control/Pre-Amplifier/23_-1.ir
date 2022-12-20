@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ZONE_2_VOL._UP
+name: Zone_2_vol._up
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 01 00 00 00
 #
-name: ZONE_2_VOL._DOWN
+name: Zone_2_vol._down
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 02 00 00 00
 #
-name: ZONE_2_MUTE_TOG.
+name: Zone_2_mute_tog.
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 03 00 00 00
 #
-name: ZONE_2_MUTE_ON
+name: Zone_2_mute_on
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 04 00 00 00
 #
-name: ZONE_2_MUTE_OFF
+name: Zone_2_mute_off
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 05 00 00 00
 #
-name: ZONE_2_CD
+name: Zone_2_cd
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 06 00 00 00
 #
-name: ZONE_2_DVD
+name: Zone_2_dvd
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 07 00 00 00
 #
-name: ZONE_2_SAT
+name: Zone_2_sat
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 08 00 00 00
 #
-name: ZONE_2_AV
+name: Zone_2_av
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 09 00 00 00
 #
-name: ZONE_2_TAPE
+name: Zone_2_tape
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 0A 00 00 00
 #
-name: ZONE_2_VCR
+name: Zone_2_vcr
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 0B 00 00 00
 #
-name: ZONE_2_DVR
+name: Zone_2_dvr
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 0C 00 00 00
 #
-name: ZONE_2_AUX
+name: Zone_2_aux
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 0D 00 00 00
 #
-name: ZONE_2_NET
+name: Zone_2_net
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 13 00 00 00
 #
-name: ZONE_3_VOL._UP
+name: Zone_3_vol._up
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 14 00 00 00
 #
-name: ZONE_3_VOL._DOWN
+name: Zone_3_vol._down
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 15 00 00 00
 #
-name: ZONE_3_MUTE
+name: Zone_3_mute
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 16 00 00 00
 #
-name: ZONE_3_MUTE_ON
+name: Zone_3_mute_on
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 17 00 00 00
 #
-name: ZONE_3_MUTE_OFF
+name: Zone_3_mute_off
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 18 00 00 00
 #
-name: ZONE_3_POWER_ON
+name: Zone_3_power_on
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 79 00 00 00
 #
-name: ZONE_3_POWER_OFF
+name: Zone_3_power_off
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 7A 00 00 00
 #
-name: ZONE_2_PWR_ON
+name: Zone_2_pwr_on
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 7B 00 00 00
 #
-name: ZONE_2_PWR_OFF
+name: Zone_2_pwr_off
 type: parsed
 protocol: NECext
 address: 17 00 00 00

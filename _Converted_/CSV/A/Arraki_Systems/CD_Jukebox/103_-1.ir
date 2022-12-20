@@ -19,7 +19,7 @@ protocol: NECext
 address: 67 00 00 00
 command: 02 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 67 00 00 00
@@ -43,13 +43,13 @@ protocol: NECext
 address: 67 00 00 00
 command: 06 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 07 00 00 00
 #
-name: CD#
+name: Cd#
 type: parsed
 protocol: NECext
 address: 67 00 00 00
@@ -67,13 +67,13 @@ protocol: NECext
 address: 67 00 00 00
 command: 0A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 0B 00 00 00
 #
-name: DISC-
+name: Disc-
 type: parsed
 protocol: NECext
 address: 67 00 00 00
@@ -85,37 +85,37 @@ protocol: NECext
 address: 67 00 00 00
 command: 0D 00 00 00
 #
-name: TR#
+name: Tr#
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 0E 00 00 00
 #
-name: RESUME
+name: Resume
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 0F 00 00 00
 #
-name: 1CD
+name: 1cd
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 10 00 00 00
 #
-name: DISC+
+name: Disc+
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 11 00 00 00
 #
-name: TR-
+name: Tr-
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 12 00 00 00
 #
-name: TR+
+name: Tr+
 type: parsed
 protocol: NECext
 address: 67 00 00 00
@@ -127,67 +127,67 @@ protocol: NECext
 address: 67 00 00 00
 command: 14 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 15 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 16 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 17 00 00 00
 #
-name: ARTIST
+name: Artist
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 18 00 00 00
 #
-name: ALLCD
+name: Allcd
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 19 00 00 00
 #
-name: SEQL
+name: Seql
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 1A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 1B 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 1C 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 1D 00 00 00
 #
-name: NUMBER
+name: Number
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 1E 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 67 00 00 00

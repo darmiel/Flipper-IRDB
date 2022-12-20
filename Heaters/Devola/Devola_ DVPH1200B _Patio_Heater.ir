@@ -3,7 +3,7 @@ Version: 1
 # 
 # Devola DVPH1200B Patio Heater
 #
-name: On/Off
+name: On/off
 type: parsed
 protocol: NEC
 address: 00 00 00 00

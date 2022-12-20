@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 0/_SPACE
+name: 0/_space
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 00 00 00 00
 #
-name: 0/SPACE_B
+name: 0/space_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
@@ -19,439 +19,439 @@ protocol: NECext
 address: 04 0F 00 00
 command: 01 00 00 00
 #
-name: 1_B
+name: 1_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 01 00 00 00
 #
-name: 2/ABC
+name: 2/abc
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 02 00 00 00
 #
-name: 2/ABC_B
+name: 2/abc_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 02 00 00 00
 #
-name: 3/DEF
+name: 3/def
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 03 00 00 00
 #
-name: 3/DEF_B
+name: 3/def_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 03 00 00 00
 #
-name: 4/GHI
+name: 4/ghi
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 04 00 00 00
 #
-name: 4/GHI_B
+name: 4/ghi_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 04 00 00 00
 #
-name: 5/JKL
+name: 5/jkl
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 05 00 00 00
 #
-name: 5/JKL_B
+name: 5/jkl_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 05 00 00 00
 #
-name: 6/MNO
+name: 6/mno
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 06 00 00 00
 #
-name: 6/MNO_B
+name: 6/mno_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 06 00 00 00
 #
-name: 7/PQRS
+name: 7/pqrs
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 07 00 00 00
 #
-name: 7/PQRS_B
+name: 7/pqrs_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 07 00 00 00
 #
-name: 8/TUV
+name: 8/tuv
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 08 00 00 00
 #
-name: 8/TUV_B
+name: 8/tuv_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 08 00 00 00
 #
-name: 9/WXYZ
+name: 9/wxyz
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 09 00 00 00
 #
-name: 9/WXYZ_B
+name: 9/wxyz_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 09 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0A 00 00 00
 #
-name: CLEAR_B
+name: Clear_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0B 00 00 00
 #
-name: ENTER_B
+name: Enter_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0B 00 00 00
 #
-name: ON/STANDBY
+name: On/standby
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0C 00 00 00
 #
-name: ON/STANDBY_B
+name: On/standby_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0C 00 00 00
 #
-name: START/LOGO
+name: Start/logo
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0D 00 00 00
 #
-name: START/LOGO_B
+name: Start/logo_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0E 00 00 00
 #
-name: MUTE_B
+name: Mute_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0E 00 00 00
 #
-name: MORE
+name: More
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0F 00 00 00
 #
-name: MORE_B
+name: More_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 10 00 00 00
 #
-name: VOL+_B
+name: Vol+_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 11 00 00 00
 #
-name: VOL-_B
+name: Vol-_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 11 00 00 00
 #
-name: CHANNEL/PAGE_+
+name: Channel/page_+
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 12 00 00 00
 #
-name: CHANNEL/PAGE_+_B
+name: Channel/page_+_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 12 00 00 00
 #
-name: CHANNEL/PAGE_-
+name: Channel/page_-
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 13 00 00 00
 #
-name: CHANNEL/PAGE_-_B
+name: Channel/page_-_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 13 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 14 00 00 00
 #
-name: FORWARD_B
+name: Forward_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 14 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 15 00 00 00
 #
-name: REWIND_B
+name: Rewind_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 16 00 00 00
 #
-name: PLAY_B
+name: Play_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 16 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 17 00 00 00
 #
-name: RECORD_B
+name: Record_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 18 00 00 00
 #
-name: PAUSE_B
+name: Pause_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 18 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 19 00 00 00
 #
-name: STOP_B
+name: Stop_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 19 00 00 00
 #
-name: SKIP_>L
+name: Skip_>l
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1A 00 00 00
 #
-name: SKIP_>L_B
+name: Skip_>l_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1A 00 00 00
 #
-name: REPLAY_L<
+name: Replay_l<
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1B 00 00 00
 #
-name: REPLAY_L<_B
+name: Replay_l<_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1B 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1E 00 00 00
 #
-name: CURSOR_UP_B
+name: Cursor_up_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1E 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1F 00 00 00
 #
-name: CURSOR_DOWN_B
+name: Cursor_down_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1F 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 20 00 00 00
 #
-name: CURSOR_LEFT_B
+name: Cursor_left_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 20 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 21 00 00 00
 #
-name: CURSOR_RIGHT_B
+name: Cursor_right_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 21 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 22 00 00 00
 #
-name: CURSOR_ENTER_B
+name: Cursor_enter_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 22 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 23 00 00 00
 #
-name: BACK_B
+name: Back_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 23 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 24 00 00 00
 #
-name: DVD_MENU_B
+name: Dvd_menu_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 24 00 00 00
 #
-name: LIVE_TV
+name: Live_tv
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 25 00 00 00
 #
-name: LIVE_TV_B
+name: Live_tv_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 25 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 26 00 00 00
 #
-name: GUIDE_B
+name: Guide_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 26 00 00 00
 #
-name: RECORDED_TV
+name: Recorded_tv
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 48 00 00 00
 #
-name: RECORDED_TV_B
+name: Recorded_tv_b
 type: parsed
 protocol: NECext
 address: 04 0F 00 00

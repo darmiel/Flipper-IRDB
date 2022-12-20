@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: 73 9A 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
@@ -25,169 +25,169 @@ protocol: NECext
 address: 73 9A 00 00
 command: 07 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 09 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 0A 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 0B 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 0D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 0E 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 0F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 12 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 13 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 14 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 15 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 16 00 00 00
 #
-name: task
+name: Task
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 17 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 19 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 1A 00 00 00
 #
-name: run
+name: Run
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 1B 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 1D 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 1E 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 1F 00 00 00
 #
-name: myvideo
+name: Myvideo
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 40 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 41 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 42 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 43 00 00 00
 #
-name: myphoto
+name: Myphoto
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 45 00 00 00
 #
-name: mytv
+name: Mytv
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 46 00 00 00
 #
-name: warp
+name: Warp
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 47 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 4A 00 00 00
 #
-name: detail
+name: Detail
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
@@ -241,19 +241,19 @@ protocol: NECext
 address: 73 9A 00 00
 command: 53 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 54 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 73 9A 00 00
 command: 55 00 00 00
 #
-name: mymusic
+name: Mymusic
 type: parsed
 protocol: NECext
 address: 73 9A 00 00

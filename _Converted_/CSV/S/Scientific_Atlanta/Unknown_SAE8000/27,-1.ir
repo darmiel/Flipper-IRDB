@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: select_up
+name: Select_up
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 02 00 00 00
 #
-name: select_left
+name: Select_left
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 03 00 00 00
 #
-name: select_right
+name: Select_right
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 04 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 05 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 06 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 07 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 08 00 00 00
 #
-name: select_down
+name: Select_down
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0C 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0D 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0E 00 00 00
 #
-name: KPASTERISK
+name: Kpasterisk
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -133,79 +133,79 @@ protocol: NECext
 address: 1B 00 00 00
 command: 19 00 00 00
 #
-name: live
+name: Live
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1E 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 21 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 22 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 26 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 27 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 28 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 29 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 2C 00 00 00
 #
-name: pip_ch+
+name: Pip_ch+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -229,73 +229,73 @@ protocol: NECext
 address: 1B 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 33 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 34 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 35 00 00 00
 #
-name: select_page+
+name: Select_page+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 36 00 00 00
 #
-name: select_page-
+name: Select_page-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 37 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 39 00 00 00
 #
-name: pound
+name: Pound
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 3A 00 00 00
 #
-name: pip_POWER
+name: Pip_power
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 3B 00 00 00
 #
-name: pip_swap
+name: Pip_swap
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 3C 00 00 00
 #
-name: pip_move
+name: Pip_move
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 3D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 3E 00 00 00
 #
-name: pip_ch-
+name: Pip_ch-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

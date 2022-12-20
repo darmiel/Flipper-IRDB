@@ -61,103 +61,103 @@ protocol: NECext
 address: 0A 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0F 00 00 00
 #
-name: S/REWIND
+name: S/rewind
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0F 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 28 00 00 00
 #
-name: S/AV
+name: S/av
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 28 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 2F 00 00 00
 #
-name: S/PLAY
+name: S/play
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 2F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 46 00 00 00
 #
-name: S/MUTE
+name: S/mute
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 46 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 4F 00 00 00
 #
-name: S/FORWARD
+name: S/forward
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 4F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 50 00 00 00
 #
-name: S/P+
+name: S/p+
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 50 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 51 00 00 00
 #
-name: S/P-
+name: S/p-
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 51 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 52 00 00 00
 #
-name: S/STOP
+name: S/stop
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -169,37 +169,37 @@ protocol: NECext
 address: 0A 00 00 00
 command: 53 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 55 00 00 00
 #
-name: S/VOL-
+name: S/vol-
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 55 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 56 00 00 00
 #
-name: S/VOL+
+name: S/vol+
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 56 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 57 00 00 00
 #
-name: S/OK
+name: S/ok
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -211,25 +211,25 @@ protocol: NECext
 address: 0A 00 00 00
 command: 61 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 6A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 6A 00 00 00
 #
-name: S/MENU
+name: S/menu
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 6A 00 00 00
 #
-name: S/PAUSE
+name: S/pause
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -241,7 +241,7 @@ protocol: NECext
 address: 0A 00 00 00
 command: 6B 00 00 00
 #
-name: S/F1
+name: S/f1
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -253,7 +253,7 @@ protocol: NECext
 address: 0A 00 00 00
 command: 6C 00 00 00
 #
-name: S/F2
+name: S/f2
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -265,7 +265,7 @@ protocol: NECext
 address: 0A 00 00 00
 command: 6D 00 00 00
 #
-name: S/F3
+name: S/f3
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -277,13 +277,13 @@ protocol: NECext
 address: 0A 00 00 00
 command: 6E 00 00 00
 #
-name: S/F4
+name: S/f4
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 6E 00 00 00
 #
-name: TVf4
+name: Tvf4
 type: parsed
 protocol: NECext
 address: 0A 00 00 00

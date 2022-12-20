@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: AB-Taste
+name: Ab-taste
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -19,49 +19,49 @@ protocol: NECext
 address: 07 00 00 00
 command: 03 00 00 00
 #
-name: TurnOffOn
+name: Turnoffon
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 07 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: MixText
+name: Mixtext
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: PauseVideoText
+name: Pausevideotext
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -127,37 +127,37 @@ protocol: NECext
 address: 07 00 00 00
 command: 23 00 00 00
 #
-name: AdvNum
+name: Advnum
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 25 00 00 00
 #
-name: OffText
+name: Offtext
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 26 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 27 00 00 00
 #
-name: ShowClock
+name: Showclock
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 27 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 32 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 34 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00

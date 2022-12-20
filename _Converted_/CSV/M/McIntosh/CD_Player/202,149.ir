@@ -1,211 +1,211 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 1_DISC
+name: 1_disc
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 00 00 00 00
 #
-name: 2_DISC
+name: 2_disc
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 01 00 00 00
 #
-name: 3_DISC
+name: 3_disc
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 02 00 00 00
 #
-name: 4_DISC
+name: 4_disc
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 03 00 00 00
 #
-name: 5_DISC
+name: 5_disc
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 04 00 00 00
 #
-name: 6_DISC
+name: 6_disc
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 05 00 00 00
 #
-name: DATA
+name: Data
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 0E 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 13 00 00 00
 #
-name: SINGLE_DISC
+name: Single_disc
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 1A 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 40 00 00 00
 #
-name: REV_<<
+name: Rev_<<
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 41 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 42 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 43 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 44 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 45 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 46 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 47 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 48 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 49 00 00 00
 #
-name: REVIEW
+name: Review
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 4A 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 4B 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 4D 00 00 00
 #
-name: 0_TRACK
+name: 0_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 4E 00 00 00
 #
-name: 1_TRACK
+name: 1_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 4F 00 00 00
 #
-name: 2_TRACK
+name: 2_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 50 00 00 00
 #
-name: 3_TRACK
+name: 3_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 51 00 00 00
 #
-name: 4_TRACK
+name: 4_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 52 00 00 00
 #
-name: 5_TRACK
+name: 5_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 53 00 00 00
 #
-name: 6_TRACK
+name: 6_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 54 00 00 00
 #
-name: 7_TRACK
+name: 7_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 55 00 00 00
 #
-name: 8_TRACK
+name: 8_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 56 00 00 00
 #
-name: 9_TRACK
+name: 9_track
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 57 00 00 00
 #
-name: VOL_^
+name: Vol_^
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 58 00 00 00
 #
-name: VOL_V
+name: Vol_v
 type: parsed
 protocol: NECext
 address: CA 95 00 00
 command: 59 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: CA 95 00 00

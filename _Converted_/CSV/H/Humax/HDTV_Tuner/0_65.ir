@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 00 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 00 41 00 00
@@ -73,247 +73,247 @@ protocol: NECext
 address: 00 41 00 00
 command: 0C 00 00 00
 #
-name: TV/RADIO
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 0D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 0E 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 0F 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 10 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 11 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 12 00 00 00
 #
-name: CURSOR_OK_/_LIST
+name: Cursor_ok_/_list
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 13 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 14 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 15 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 16 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 17 00 00 00
 #
-name: VOLUME_MUTE
+name: Volume_mute
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 18 00 00 00
 #
-name: COLOR_3_YELLOW
+name: Color_3_yellow
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 1A 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 1B 00 00 00
 #
-name: COLOR_1_RED
+name: Color_1_red
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 1C 00 00 00
 #
-name: COLOR_2_GREEN
+name: Color_2_green
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 1D 00 00 00
 #
-name: COLOR_4_BLUE
+name: Color_4_blue
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 1F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 40 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 41 00 00 00
 #
-name: OPTIONS
+name: Options
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 42 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 43 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 45 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 46 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 4C 00 00 00
 #
-name: WIDE
+name: Wide
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 4E 00 00 00
 #
-name: V-FORMAT
+name: V-format
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 4F 00 00 00
 #
-name: TR_PLAY
+name: Tr_play
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 60 00 00 00
 #
-name: TR_REC
+name: Tr_rec
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 61 00 00 00
 #
-name: TR_PAUSE
+name: Tr_pause
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 62 00 00 00
 #
-name: TR_STOP
+name: Tr_stop
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 63 00 00 00
 #
-name: TR_SCAN_>>
+name: Tr_scan_>>
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 64 00 00 00
 #
-name: TR_SCAN_<<
+name: Tr_scan_<<
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 65 00 00 00
 #
-name: TR_SKIP_<<
+name: Tr_skip_<<
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 66 00 00 00
 #
-name: TR_SKIP_>>
+name: Tr_skip_>>
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 67 00 00 00
 #
-name: BOK+
+name: Bok+
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 6A 00 00 00
 #
-name: BOK
+name: Bok
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 6B 00 00 00
 #
-name: TR_SLOW
+name: Tr_slow
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 6C 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 6D 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 41 00 00
 command: 6E 00 00 00
 #
-name: MEDIA
+name: Media
 type: parsed
 protocol: NECext
 address: 00 41 00 00

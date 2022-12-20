@@ -1,193 +1,193 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_REW
+name: Cd_rew
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 06 00 00 00
 #
-name: CD_FFWD
+name: Cd_ffwd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 07 00 00 00
 #
-name: CD_DISC
+name: Cd_disc
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 08 00 00 00
 #
-name: SOURCEDIRECT
+name: Sourcedirect
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 54 00 00 00
 #
-name: TUNER_DOWN
+name: Tuner_down
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 90 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 91 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 92 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 93 00 00 00
 #
-name: TAPE1
+name: Tape1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 94 00 00 00
 #
-name: TAPE2MONITOR
+name: Tape2monitor
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: TUNER_UP
+name: Tuner_up
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C9 00 00 00
 #
-name: CD_PLAYPAUSE
+name: Cd_playpause
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: CD_SKIPBACK
+name: Cd_skipback
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: CD_SKIPFORWARD
+name: Cd_skipforward
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: TA_LEFT
+name: Ta_left
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: TA_RIGHT
+name: Ta_right
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D1 00 00 00
 #
-name: TA_REW
+name: Ta_rew
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: TA_FFWD
+name: Ta_ffwd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TA_STOP
+name: Ta_stop
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D5 00 00 00
 #
-name: TB_LEFT
+name: Tb_left
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TB_RIGHT
+name: Tb_right
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: TB_REW
+name: Tb_rew
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: TB_FFWD
+name: Tb_ffwd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TB_PAUSE
+name: Tb_pause
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DC 00 00 00
 #
-name: TB_STOP
+name: Tb_stop
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DD 00 00 00
 #
-name: TB_REC
+name: Tb_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00

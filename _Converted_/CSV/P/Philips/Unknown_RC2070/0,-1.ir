@@ -61,25 +61,25 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: singele_double_digits
+name: Singele_double_digits
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: C/P
+name: C/p
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -91,121 +91,121 @@ protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: brightness_up
+name: Brightness_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: brightness_down
+name: Brightness_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: contrast_up
+name: Contrast_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: contrast_down
+name: Contrast_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: bass_up
+name: Bass_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: bass_down
+name: Bass_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: treble_up
+name: Treble_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: treble_down
+name: Treble_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: balance_left
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: balance_right
+name: Balance_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: tt_menu_enter
+name: Tt_menu_enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: tt_next
+name: Tt_next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: swap_channel
+name: Swap_channel
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: I/II
+name: I/ii
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: stereo_dunno
+name: Stereo_dunno
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: alt_POWER
+name: Alt_power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -217,85 +217,85 @@ protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: tt_shrink
+name: Tt_shrink
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: tt_clock
+name: Tt_clock
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: tt_expand
+name: Tt_expand
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: tt_question
+name: Tt_question
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2C 00 00 00
 #
-name: tt_X
+name: Tt_x
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: tt_halfimage
+name: Tt_halfimage
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: vcr_rewind_yellow
+name: Vcr_rewind_yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: vcr_fastforward_blue
+name: Vcr_fastforward_blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: tt_info
+name: Tt_info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: vcr_stop_green
+name: Vcr_stop_green
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: vcr_playrecord_red
+name: Vcr_playrecord_red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: IN_OUT
+name: In_out
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: tt_on
+name: Tt_on
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: tt_off
+name: Tt_off
 type: parsed
 protocol: NECext
 address: 00 00 00 00

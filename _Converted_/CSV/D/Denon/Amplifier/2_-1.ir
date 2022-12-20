@@ -1,595 +1,595 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 41 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 42 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 43 00 00 00
 #
-name: AUX/VIDEO-1
+name: Aux/video-1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 44 00 00 00
 #
-name: AUX/VIDEO-2
+name: Aux/video-2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 45 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 4B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 4C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 4D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 50 00 00 00
 #
-name: TAPE_MONITOR
+name: Tape_monitor
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 58 00 00 00
 #
-name: TAPE-1/1>2
+name: Tape-1/1>2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 59 00 00 00
 #
-name: TAPE-2/2>1
+name: Tape-2/2>1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 5A 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 81 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 82 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 83 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 84 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 8B 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 8C 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 8D 00 00 00
 #
-name: AMP_POWER
+name: Amp_power
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 90 00 00 00
 #
-name: SOURCE_DIRECT
+name: Source_direct
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 91 00 00 00
 #
-name: TAPE-1
+name: Tape-1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 99 00 00 00
 #
-name: TAPE-2
+name: Tape-2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 9A 00 00 00
 #
-name: SP-A
+name: Sp-a
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: AC 00 00 00
 #
-name: SP-B
+name: Sp-b
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: AD 00 00 00
 #
-name: SURR.AUT.BAL
+name: Surr.aut.bal
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C0 00 00 00
 #
-name: AMP_POWER
+name: Amp_power
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C1 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C1 00 00 00
 #
-name: AMP_PHONO
+name: Amp_phono
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C3 00 00 00
 #
-name: AMP_CD
+name: Amp_cd
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C4 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C4 00 00 00
 #
-name: AMP_TUNER
+name: Amp_tuner
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C5 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C5 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C6 00 00 00
 #
-name: AMP_DBS/BS
+name: Amp_dbs/bs
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C8 00 00 00
 #
-name: DBS/BS
+name: Dbs/bs
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C8 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C9 00 00 00
 #
-name: AMP_VDP
+name: Amp_vdp
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CA 00 00 00
 #
-name: VDP
+name: Vdp
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CA 00 00 00
 #
-name: AMP_V.AUX
+name: Amp_v.aux
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CC 00 00 00
 #
-name: V.AUX
+name: V.aux
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CC 00 00 00
 #
-name: AMP_VCR-1
+name: Amp_vcr-1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CD 00 00 00
 #
-name: VCR-1
+name: Vcr-1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CD 00 00 00
 #
-name: AMP_VCR-2
+name: Amp_vcr-2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CE 00 00 00
 #
-name: VCR-2
+name: Vcr-2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CE 00 00 00
 #
-name: AMP_DAT/TAPE-1
+name: Amp_dat/tape-1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D2 00 00 00
 #
-name: TAPE-1
+name: Tape-1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D2 00 00 00
 #
-name: AMP_DAT/TAPE-2
+name: Amp_dat/tape-2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D3 00 00 00
 #
-name: DAT/TAPE-2
+name: Dat/tape-2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D3 00 00 00
 #
-name: AMP_CINEMA
+name: Amp_cinema
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D5 00 00 00
 #
-name: CINEMA
+name: Cinema
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D5 00 00 00
 #
-name: AMP_VIDEO_SELECT
+name: Amp_video_select
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D8 00 00 00
 #
-name: VIDEO_SELECT
+name: Video_select
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D8 00 00 00
 #
-name: AMP_A.V.S.E
+name: Amp_a.v.s.e
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D9 00 00 00
 #
-name: A.V.S.E
+name: A.v.s.e
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D9 00 00 00
 #
-name: AMP_REC_SELECT
+name: Amp_rec_select
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: DB 00 00 00
 #
-name: AUDIO_REC_SELECT
+name: Audio_rec_select
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: DB 00 00 00
 #
-name: AMP_PANEL
+name: Amp_panel
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: DE 00 00 00
 #
-name: PANEL
+name: Panel
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: DE 00 00 00
 #
-name: AMP_SCREEN
+name: Amp_screen
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: DF 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: DF 00 00 00
 #
-name: AMP_CENTER_MODE
+name: Amp_center_mode
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E4 00 00 00
 #
-name: SURROUND_CENTER
+name: Surround_center
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E4 00 00 00
 #
-name: AMP_SURR.MODE
+name: Amp_surr.mode
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E6 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E6 00 00 00
 #
-name: AMP_BYPASS
+name: Amp_bypass
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E7 00 00 00
 #
-name: AMP_DELAY_V
+name: Amp_delay_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E8 00 00 00
 #
-name: SURR.DELAY_V
+name: Surr.delay_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E8 00 00 00
 #
-name: AMP_DELAY_^
+name: Amp_delay_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E9 00 00 00
 #
-name: SURR.DELAY_^
+name: Surr.delay_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E9 00 00 00
 #
-name: AMP_T.TONE
+name: Amp_t.tone
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: EA 00 00 00
 #
-name: SURR./PARAM.T.TONE
+name: Surr./param.t.tone
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: EA 00 00 00
 #
-name: 3CH_LOGIC
+name: 3ch_logic
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: EB 00 00 00
 #
-name: AMP_CENTER
+name: Amp_center
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: EC 00 00 00
 #
-name: OUTPUT_CENTER
+name: Output_center
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: EC 00 00 00
 #
-name: AMP_REAR
+name: Amp_rear
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: ED 00 00 00
 #
-name: OUTPUT_REAR
+name: Output_rear
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: ED 00 00 00
 #
-name: AMP_SP-A
+name: Amp_sp-a
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: EE 00 00 00
 #
-name: OUTPUT_FRONT
+name: Output_front
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: EE 00 00 00
 #
-name: AMP_SP-B
+name: Amp_sp-b
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: EF 00 00 00
 #
-name: AMP_MUTING
+name: Amp_muting
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F0 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F0 00 00 00
 #
-name: AMP_MASTER_VOL_^
+name: Amp_master_vol_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F1 00 00 00
 #
-name: MASTER_^
+name: Master_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F1 00 00 00
 #
-name: AMP_MASTER_VOL_V
+name: Amp_master_vol_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F2 00 00 00
 #
-name: MASTER_V
+name: Master_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F2 00 00 00
 #
-name: AMP_REAR_^
+name: Amp_rear_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F3 00 00 00
 #
-name: SURR.REAR_^
+name: Surr.rear_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F3 00 00 00
 #
-name: AMP_REAR_V
+name: Amp_rear_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F4 00 00 00
 #
-name: SURR.REAR_V
+name: Surr.rear_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F4 00 00 00
 #
-name: AMP_CENTER_^
+name: Amp_center_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F5 00 00 00
 #
-name: SURR.CENTER_^
+name: Surr.center_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F5 00 00 00
 #
-name: AMP_CENTER_V
+name: Amp_center_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F6 00 00 00
 #
-name: SURR.CENTER_V
+name: Surr.center_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F6 00 00 00
 #
-name: AMP_BALANCE_<
+name: Amp_balance_<
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F7 00 00 00
 #
-name: SURR.BAL_<
+name: Surr.bal_<
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F7 00 00 00
 #
-name: AMP_BALANCE_>
+name: Amp_balance_>
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F8 00 00 00
 #
-name: SURR.BAL_>
+name: Surr.bal_>
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F8 00 00 00
 #
-name: AMP_VDP_DIRECT
+name: Amp_vdp_direct
 type: parsed
 protocol: NECext
 address: 02 00 00 00

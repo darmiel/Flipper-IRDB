@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 3D 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 7D 00 00 00
 #
-name: DEGAUSS
+name: Degauss
 type: parsed
 protocol: NECext
 address: A4 00 00 00

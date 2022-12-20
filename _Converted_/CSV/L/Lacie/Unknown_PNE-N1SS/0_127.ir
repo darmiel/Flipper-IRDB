@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 26 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 3E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 4C 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 56 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 5C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 64 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 66 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 7C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 7E 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 8C 00 00 00
 #
-name: X_SETTINGS
+name: X_settings
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 94 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: A4 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: A4 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: AC 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: B4 00 00 00
 #
-name: X_SHUTDOWN
+name: X_shutdown
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: C4 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 7F 00 00

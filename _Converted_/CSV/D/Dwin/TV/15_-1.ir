@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CTR_+
+name: Ctr_+
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 70 00 00 00
 #
-name: SUB_+
+name: Sub_+
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 71 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 73 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 74 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 75 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 77 00 00 00
 #
-name: 0_-_DVI2
+name: 0_-_dvi2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 7C 00 00 00
 #
-name: 1_-_COMPOSITE_1
+name: 1_-_composite_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 7D 00 00 00
 #
-name: 2_-_COMPOSITE_2
+name: 2_-_composite_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 7E 00 00 00
 #
-name: 3_-_SVIDEO_1
+name: 3_-_svideo_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 7F 00 00 00
 #
-name: 4_-_SVIDEO_2
+name: 4_-_svideo_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 80 00 00 00
 #
-name: 5_-_COMPONENT_1
+name: 5_-_component_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 81 00 00 00
 #
-name: 6_-_COMPONENT_2
+name: 6_-_component_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 82 00 00 00
 #
-name: 7_-_RGB1
+name: 7_-_rgb1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 83 00 00 00
 #
-name: 8_-_RGB2
+name: 8_-_rgb2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 84 00 00 00
 #
-name: 9_-_DVI_1
+name: 9_-_dvi_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 85 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 87 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 88 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8A 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8C 00 00 00
 #
-name: ARROW_DN
+name: Arrow_dn
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8E 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8F 00 00 00
 #
-name: MODE_+
+name: Mode_+
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

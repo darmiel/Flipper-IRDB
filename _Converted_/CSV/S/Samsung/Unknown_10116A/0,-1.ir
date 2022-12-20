@@ -37,37 +37,37 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: S.MODE-II
+name: S.mode-ii
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: TTX/MIX
+name: Ttx/mix
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: CH/P+
+name: Ch/p+
 type: parsed
 protocol: NECext
 address: 00 00 00 00

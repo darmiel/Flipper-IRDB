@@ -10,25 +10,25 @@ protocol: NECext
 address: 3F 00 00 00
 command: DE 21 00 00
 #
-name: FLAME
+name: Flame
 type: parsed
 protocol: NECext
 address: 3F 00 00 00
 command: 1E E1 00 00
 #
-name: TEMP
+name: Temp
 type: parsed
 protocol: NECext
 address: 3F 00 00 00
 command: BE 41 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 3F 00 00 00
 command: FE 01 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 3F 00 00 00

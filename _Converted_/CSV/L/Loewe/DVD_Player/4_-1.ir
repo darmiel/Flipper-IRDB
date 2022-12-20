@@ -61,19 +61,19 @@ protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0F 00 00 00
 #
-name: V_=_KNAPP
+name: V_=_knapp
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -91,67 +91,67 @@ protocol: NECext
 address: 04 00 00 00
 command: 21 00 00 00
 #
-name: I_(INFO)
+name: I_(info)
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 22 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 30 00 00 00
 #
-name: STOPP
+name: Stopp
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 31 00 00 00
 #
-name: BILD_KNAPP
+name: Bild_knapp
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4B 00 00 00
 #
-name: LJUD_KNAPP
+name: Ljud_knapp
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4E 00 00 00
 #
-name: CURSOR_UPP
+name: Cursor_upp
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 58 00 00 00
 #
-name: CURSOR_NER
+name: Cursor_ner
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 59 00 00 00
 #
-name: NSTER
+name: Nster
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: GER
+name: Ger
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -163,25 +163,25 @@ protocol: NECext
 address: 04 00 00 00
 command: 82 00 00 00
 #
-name: E_(EXIT)
+name: E_(exit)
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 83 00 00 00
 #
-name: PIP_KNAPP
+name: Pip_knapp
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 85 00 00 00
 #
-name: EPG_KNAPP
+name: Epg_knapp
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: C8 00 00 00
 #
-name: M_(MENY)
+name: M_(meny)
 type: parsed
 protocol: NECext
 address: 04 00 00 00

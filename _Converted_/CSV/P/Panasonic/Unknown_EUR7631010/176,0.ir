@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 00 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 04 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 05 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: B0 00 00 00
@@ -97,97 +97,97 @@ protocol: NECext
 address: B0 00 00 00
 command: 19 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 33 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 3D 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 49 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 4A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 63 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 64 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 80 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 81 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 82 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 85 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 86 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 87 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 88 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 91 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 92 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: B0 00 00 00

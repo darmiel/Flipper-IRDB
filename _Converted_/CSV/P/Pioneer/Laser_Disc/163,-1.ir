@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -67,91 +67,91 @@ protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: FRAME_<<
+name: Frame_<<
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: FRAME_>>
+name: Frame_>>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: SIDE_A/B
+name: Side_a/b
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9A 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9B 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9C 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9C 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9D 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A3 00 00 00

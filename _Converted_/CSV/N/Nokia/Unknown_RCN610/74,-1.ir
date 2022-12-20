@@ -61,7 +61,7 @@ protocol: NECext
 address: 4A 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
@@ -97,13 +97,13 @@ protocol: NECext
 address: 4A 00 00 00
 command: 22 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 23 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 4A 00 00 00
 command: 2F 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
@@ -181,19 +181,19 @@ protocol: NECext
 address: 4A 00 00 00
 command: 3F 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 70 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 72 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 4A 00 00 00

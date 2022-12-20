@@ -1,289 +1,289 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 0_A
+name: 0_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 40 00 00 00
 #
-name: 0_B
+name: 0_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 40 00 00 00
 #
-name: 1_A
+name: 1_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 41 00 00 00
 #
-name: 1_B
+name: 1_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 41 00 00 00
 #
-name: 2_A
+name: 2_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 42 00 00 00
 #
-name: 2_B
+name: 2_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 42 00 00 00
 #
-name: 3_A
+name: 3_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 43 00 00 00
 #
-name: 3_B
+name: 3_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 43 00 00 00
 #
-name: 4_A
+name: 4_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 44 00 00 00
 #
-name: 4_B
+name: 4_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 44 00 00 00
 #
-name: 5_A
+name: 5_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 45 00 00 00
 #
-name: 5_B
+name: 5_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 45 00 00 00
 #
-name: 6_A
+name: 6_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 46 00 00 00
 #
-name: 6_B
+name: 6_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 46 00 00 00
 #
-name: 7_A
+name: 7_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 47 00 00 00
 #
-name: 7_B
+name: 7_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 47 00 00 00
 #
-name: 8_A
+name: 8_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 48 00 00 00
 #
-name: 8_B
+name: 8_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 48 00 00 00
 #
-name: 9_A
+name: 9_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 49 00 00 00
 #
-name: 9_B
+name: 9_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 49 00 00 00
 #
-name: POWER_A
+name: Power_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 4C 00 00 00
 #
-name: POWER_B
+name: Power_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 4C 00 00 00
 #
-name: MUTE_A
+name: Mute_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 4D 00 00 00
 #
-name: MUTE_B
+name: Mute_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 4D 00 00 00
 #
-name: +_A
+name: +_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 50 00 00 00
 #
-name: +_B
+name: +_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 50 00 00 00
 #
-name: -_A
+name: -_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 51 00 00 00
 #
-name: -_B
+name: -_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 51 00 00 00
 #
-name: MEMORY_A
+name: Memory_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 57 00 00 00
 #
-name: MEMORY_B
+name: Memory_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 57 00 00 00
 #
-name: CHANNEL_+_A
+name: Channel_+_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 60 00 00 00
 #
-name: CHANNEL_+_B
+name: Channel_+_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 60 00 00 00
 #
-name: UP_A
+name: Up_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 60 00 00 00
 #
-name: UP_B
+name: Up_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 60 00 00 00
 #
-name: CHANNEL_-_A
+name: Channel_-_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 61 00 00 00
 #
-name: CHANNEL_-_B
+name: Channel_-_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 61 00 00 00
 #
-name: DOWN_A
+name: Down_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 61 00 00 00
 #
-name: DOWN_B
+name: Down_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 61 00 00 00
 #
-name: PRESET/DIRECT_A
+name: Preset/direct_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 62 00 00 00
 #
-name: PRESET/DIRECT_B
+name: Preset/direct_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 62 00 00 00
 #
-name: XM_A
+name: Xm_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 63 00 00 00
 #
-name: XM_B
+name: Xm_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 63 00 00 00
 #
-name: CATEGORY_>>_A
+name: Category_>>_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 70 00 00 00
 #
-name: CATEGORY_>>_B
+name: Category_>>_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 70 00 00 00
 #
-name: CATEGORY_<<_A
+name: Category_<<_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 71 00 00 00
 #
-name: CATEGORY_<<_B
+name: Category_<<_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 71 00 00 00
 #
-name: DISPLAY_A
+name: Display_a
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 7A 00 00 00
 #
-name: DISPLAY_B
+name: Display_b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

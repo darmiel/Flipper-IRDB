@@ -13,61 +13,61 @@ protocol: NECext
 address: 18 F7 00 00
 command: 02 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 06 00 00 00
 #
-name: OPERATE_MENU
+name: Operate_menu
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 06 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 07 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 07 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 08 00 00 00
 #
-name: END
+name: End
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 09 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 14 00 00 00
 #
-name: STATIC
+name: Static
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 15 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 17 00 00 00
 #
-name: IDTV_1
+name: Idtv_1
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 18 F7 00 00
 command: 18 00 00 00
 #
-name: IDTV_2
+name: Idtv_2
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 18 F7 00 00
 command: 19 00 00 00
 #
-name: IDTV_3
+name: Idtv_3
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 18 F7 00 00
 command: 1A 00 00 00
 #
-name: IDTV_4
+name: Idtv_4
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 18 F7 00 00
 command: 1B 00 00 00
 #
-name: IDTV_5
+name: Idtv_5
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 18 F7 00 00
 command: 1C 00 00 00
 #
-name: RGB_6
+name: Rgb_6
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
@@ -139,97 +139,97 @@ protocol: NECext
 address: 18 F7 00 00
 command: 1D 00 00 00
 #
-name: RGB_7
+name: Rgb_7
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1E 00 00 00
 #
-name: RGB_8
+name: Rgb_8
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1F 00 00 00
 #
-name: RGB_9
+name: Rgb_9
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 40 00 00 00
 #
-name: HDTV
+name: Hdtv
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 41 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 43 00 00 00
 #
-name: SOUND_MUTE
+name: Sound_mute
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 45 00 00 00
 #
-name: PICTURE_MUTE
+name: Picture_mute
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 47 00 00 00
 #
-name: INPUT_LIST
+name: Input_list
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 4D 00 00 00
 #
-name: CUR_UP
+name: Cur_up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5C 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5C 00 00 00
 #
-name: CUR_DOWN
+name: Cur_down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5D 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5D 00 00 00
 #
-name: CUR_RIGHT
+name: Cur_right
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5E 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5E 00 00 00
 #
-name: CUR_LEFT
+name: Cur_left
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5F 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 18 F7 00 00

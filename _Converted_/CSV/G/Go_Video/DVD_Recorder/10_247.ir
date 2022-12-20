@@ -7,7 +7,7 @@ protocol: NECext
 address: 0A F7 00 00
 command: 00 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
@@ -67,61 +67,61 @@ protocol: NECext
 address: 0A F7 00 00
 command: 0B 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 0D 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 0E 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 0F 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 10 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 13 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 14 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 17 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 18 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 1C 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
@@ -133,85 +133,85 @@ protocol: NECext
 address: 0A F7 00 00
 command: 40 00 00 00
 #
-name: DISC_MENU
+name: Disc_menu
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 41 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 42 00 00 00
 #
-name: PLAY_OPTIONS
+name: Play_options
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 43 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 47 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 4A 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 4B 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 4C 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 4D 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 4E 00 00 00
 #
-name: GUIDER
+name: Guider
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 4F 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 50 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 54 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 0A F7 00 00
 command: 55 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 0A F7 00 00

@@ -7,7 +7,7 @@ protocol: NECext
 address: 84 3C 00 00
 command: 20 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -19,31 +19,31 @@ protocol: NECext
 address: 84 3C 00 00
 command: 22 00 00 00
 #
-name: yes
+name: Yes
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 23 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 24 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 25 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 26 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 84 3C 00 00
 command: 2A 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 84 3C 00 00
 command: 2C 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 2D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 84 3C 00 00
 command: 30 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -121,25 +121,25 @@ protocol: NECext
 address: 84 3C 00 00
 command: 33 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 34 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 35 00 00 00
 #
-name: mosaic
+name: Mosaic
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 36 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -157,37 +157,37 @@ protocol: NECext
 address: 84 3C 00 00
 command: 39 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 3A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 3B 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 3C 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 3D 00 00 00
 #
-name: orange
+name: Orange
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 3E 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 84 3C 00 00
 command: 42 00 00 00
 #
-name: envelope
+name: Envelope
 type: parsed
 protocol: NECext
 address: 84 3C 00 00

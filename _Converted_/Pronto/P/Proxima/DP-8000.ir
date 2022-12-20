@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 594 594 232 594 232 3149 1058 594 1884 1884 1058 594 594 594 232 2426 594 1420 232 1058 232 155214
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 594 594 232 594 232 3149 594 1007 2246 1523 232 594 232 594 594 594 232 594 232 1523 232 1007 232 594 232 1007 232 155188
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 594 594 232 594 232 3149 1007 594 1471 1471 232 1007 1471 1007 232 1471 232 1471 594 594 232 155085
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 594 594 232 594 232 3149 594 1007 2297 1420 594 1420 1007 594 232 1420 594 594 2297 155059
 #
-name: EFFECT
+name: Effect
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 594 594 232 594 232 3149 1033 594 1833 1833 232 594 594 594 1033 2426 232 594 594 594 1833 154801
 #
-name: COMPUTER
+name: Computer
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 594 594 232 594 232 3123 594 1007 2685 1523 232 1833 1007 2685 232 594 2685 154750
 #
-name: VIDEO
+name: Video
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 594 594 232 594 232 3149 1007 594 1884 1884 2685 1007 232 1626 594 594 594 594 232 594 232 155059
 #
-name: LEFT
+name: Left
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 645 645 232 645 232 3123 645 1007 2246 1523 1859 645 645 645 232 1523 3872 157099
 #
-name: RIGHT
+name: Right
 type: raw
 frequency: 38740
 duty_cycle: 0.330000

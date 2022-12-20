@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 00 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 01 00 00 00
 #
-name: VOLUME_R
+name: Volume_r
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 02 00 00 00
 #
-name: VOLUME_L
+name: Volume_l
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 03 00 00 00
 #
-name: BALANCE_L
+name: Balance_l
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 04 00 00 00
 #
-name: BALANCE_R
+name: Balance_r
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 05 00 00 00
 #
-name: AUDIO_RESET
+name: Audio_reset
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 08 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 09 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 0A 00 00 00
 #
-name: TRACK_L
+name: Track_l
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 0B 00 00 00
 #
-name: TRACK_R
+name: Track_r
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 0C 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 0D 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 0E 00 00 00
 #
-name: MANUAL
+name: Manual
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 11 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 12 00 00 00
 #
-name: TUNING_R
+name: Tuning_r
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 13 00 00 00
 #
-name: TUNING_L
+name: Tuning_l
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 14 00 00 00
 #
-name: PRESET_STEP
+name: Preset_step
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 17 00 00 00
 #
-name: FM/MPX
+name: Fm/mpx
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 18 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 19 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 1A 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 1B 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 1C 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 41 00 00 00

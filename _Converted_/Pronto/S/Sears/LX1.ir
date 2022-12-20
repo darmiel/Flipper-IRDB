@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
@@ -67,55 +67,55 @@ frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 90750
 #
-name: TV/VIDEO
+name: Tv/video
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 1799 1799 1799 1799 872 872 872 872 90723
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 1799 1799 872 872 872 872 872 872 872 872 90723
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 1799 1799 872 872 872 872 872 872 1799 872 89933
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 872 872 1799 1799 872 872 872 872 872 872 90723
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 872 872 1799 1799 872 872 872 872 1799 872 89905
 #
-name: SLEEP
+name: Sleep
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 1799 1799 872 872 1799 872 872 1799 90750
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 872 872 872 872 1772 872 872 872 872 872 872 872 89905
 #
-name: RECALL
+name: Recall
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1854 872 872 872 872 872 872 872 872 872 872 1799 1799 872 872 872 872 1799 1799 90723
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 36683
 duty_cycle: 0.330000

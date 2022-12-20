@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER/LINE_1
+name: Tuner/line_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00

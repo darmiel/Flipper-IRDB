@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
@@ -67,109 +67,109 @@ protocol: NECext
 address: 7F 00 00 00
 command: 0A 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 0D 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 0E 00 00 00
 #
-name: Counter_Display
+name: Counter_display
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 10 00 00 00
 #
-name: F.Fwd
+name: F.fwd
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 12 00 00 00
 #
-name: Audio_MONI
+name: Audio_moni
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 13 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 14 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 15 00 00 00
 #
-name: Pause/Still(Jog)
+name: Pause/still(jog)
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 17 00 00 00
 #
-name: Index_SkipForward
+name: Index_skipforward
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 18 00 00 00
 #
-name: Index_SkipBack
+name: Index_skipback
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 19 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 1A 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 1F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 40 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 41 00 00 00
 #
-name: Audio_DUB
+name: Audio_dub
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 42 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 44 00 00 00
 #
-name: Zero_Return
+name: Zero_return
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
@@ -187,151 +187,151 @@ protocol: NECext
 address: 7F 00 00 00
 command: 47 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 48 00 00 00
 #
-name: AD-Skip
+name: Ad-skip
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 49 00 00 00
 #
-name: Counter_Reset
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 4C 00 00 00
 #
-name: Tape_Speed
+name: Tape_speed
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 50 00 00 00
 #
-name: A-TR
+name: A-tr
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 5C 00 00 00
 #
-name: Tape_Remain
+name: Tape_remain
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 5E 00 00 00
 #
-name: Fwd(Jog)
+name: Fwd(jog)
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 65 00 00 00
 #
-name: Rev(Jog)
+name: Rev(jog)
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 74 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 81 00 00 00
 #
-name: VPS/PDC
+name: Vps/pdc
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 82 00 00 00
 #
-name: Arrow_Right
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 83 00 00 00
 #
-name: Arrow_Left
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 84 00 00 00
 #
-name: OTPB
+name: Otpb
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 89 00 00 00
 #
-name: Arrow_Up
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 8D 00 00 00
 #
-name: Arrow_Down
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 8E 00 00 00
 #
-name: Showview_DeLuxe
+name: Showview_deluxe
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 98 00 00 00
 #
-name: Add_T
+name: Add_t
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 99 00 00 00
 #
-name: D/WLY
+name: D/wly
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 9A 00 00 00
 #
-name: Set_Ch.No
+name: Set_ch.no
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 9D 00 00 00
 #
-name: Set_Auto
+name: Set_auto
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 9E 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 9F 00 00 00
 #
-name: Audio_MIX
+name: Audio_mix
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: B5 00 00 00
 #
-name: TheatreMode_BBE
+name: Theatremode_bbe
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: B9 00 00 00
 #
-name: TheatreMode_Q.Surround
+name: Theatremode_q.surround
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: BA 00 00 00
 #
-name: TheatreMode_Midnight
+name: Theatremode_midnight
 type: parsed
 protocol: NECext
 address: 7F 00 00 00

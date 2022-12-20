@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 07 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 09 00 00 00
 #
-name: PAGE_CHAPTER_+
+name: Page_chapter_+
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 0B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 0C 00 00 00
 #
-name: LIST_COVERS_<>
+name: List_covers_<>
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 0D 00 00 00
 #
-name: PAGE_CHAPTER_-
+name: Page_chapter_-
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 0E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 0F 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 12 00 00 00
 #
-name: FFORWARD
+name: Fforward
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 14 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 18 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 1A 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 6E 92 00 00
 command: 26 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 6E 92 00 00

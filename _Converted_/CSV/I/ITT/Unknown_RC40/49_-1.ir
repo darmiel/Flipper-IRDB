@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STANDBY_ON-OFF
+name: Standby_on-off
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -55,31 +55,31 @@ protocol: NECext
 address: 31 00 00 00
 command: 0F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 12 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 31 00 00 00

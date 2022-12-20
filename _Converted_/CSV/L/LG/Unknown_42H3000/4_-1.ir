@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 00 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 03 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 06 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -115,133 +115,133 @@ protocol: NECext
 address: 04 00 00 00
 command: 19 00 00 00
 #
-name: qview
+name: Qview
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1A 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1E 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 20 00 00 00
 #
-name: topt
+name: Topt
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 21 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 28 00 00 00
 #
-name: avmode
+name: Avmode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 30 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 39 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 40 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 41 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 43 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 44 00 00 00
 #
-name: qmenu
+name: Qmenu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 45 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 53 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 61 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 63 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 71 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 72 00 00 00
 #
-name: simplink
+name: Simplink
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 7E 00 00 00
 #
-name: energy
+name: Energy
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 95 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: AA 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: AB 00 00 00
 #
-name: tv/rad
+name: Tv/rad
 type: parsed
 protocol: NECext
 address: 04 00 00 00

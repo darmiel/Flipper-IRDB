@@ -61,169 +61,169 @@ protocol: NECext
 address: 0A 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0C 00 00 00
 #
-name: PILOTO
+name: Piloto
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 21 00 00 00
 #
-name: volver
+name: Volver
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 22 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 28 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 2F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 30 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 32 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 36 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 37 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 46 00 00 00
 #
-name: DIGITAL+
+name: Digital+
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 48 00 00 00
 #
-name: TDT
+name: Tdt
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 4A 00 00 00
 #
-name: GUIA
+name: Guia
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 4F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 50 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 51 00 00 00
 #
-name: SERV
+name: Serv
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 52 00 00 00
 #
-name: salir
+name: Salir
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 53 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 55 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 56 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 57 00 00 00
 #
-name: prefe
+name: Prefe
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 61 00 00 00
 #
-name: PERSO
+name: Perso
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -259,13 +259,13 @@ protocol: NECext
 address: 0A 00 00 00
 command: 6F 00 00 00
 #
-name: MICANAL
+name: Micanal
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 72 00 00 00
 #
-name: screen
+name: Screen
 type: parsed
 protocol: NECext
 address: 0A 00 00 00

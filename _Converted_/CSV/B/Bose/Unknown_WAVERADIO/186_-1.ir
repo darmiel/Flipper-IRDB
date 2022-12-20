@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 03 00 00 00
 #
-name: STATION
+name: Station
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 04 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: BA 00 00 00
@@ -67,43 +67,43 @@ protocol: NECext
 address: BA 00 00 00
 command: 0C 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0F 00 00 00
 #
-name: TUNE+
+name: Tune+
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 10 00 00 00
 #
-name: TUNE-
+name: Tune-
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 11 00 00 00
 #
-name: ALARM/TIME
+name: Alarm/time
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 12 00 00 00
 #
-name: ALARM/WAKEUPTO
+name: Alarm/wakeupto
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 13 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 1E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: BA 00 00 00

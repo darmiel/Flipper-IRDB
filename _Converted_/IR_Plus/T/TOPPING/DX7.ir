@@ -10,7 +10,7 @@ protocol: NECext
 address: 77 88 00 00
 command: E7 18 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 77 88 00 00
@@ -28,7 +28,7 @@ protocol: NECext
 address: 77 88 00 00
 command: B8 47 00 00
 #
-name: HP+LINEOUT
+name: Hp+lineout
 type: parsed
 protocol: NECext
 address: 77 88 00 00
@@ -46,37 +46,37 @@ protocol: NECext
 address: 77 88 00 00
 command: E9 16 00 00
 #
-name: HEADPHONE
+name: Headphone
 type: parsed
 protocol: NECext
 address: 77 88 00 00
 command: FB 04 00 00
 #
-name: LINE-OUT
+name: Line-out
 type: parsed
 protocol: NECext
 address: 77 88 00 00
 command: BF 40 00 00
 #
-name: FIR
+name: Fir
 type: parsed
 protocol: NECext
 address: 77 88 00 00
 command: AB 54 00 00
 #
-name: IIR
+name: Iir
 type: parsed
 protocol: NECext
 address: 77 88 00 00
 command: AF 50 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 77 88 00 00
 command: EF 10 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 77 88 00 00

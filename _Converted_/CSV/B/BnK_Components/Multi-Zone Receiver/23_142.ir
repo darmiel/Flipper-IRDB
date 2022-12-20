@@ -1,337 +1,337 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BK017_POWER_OFF
+name: Bk017_power_off
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 01 00 00 00
 #
-name: BK017_POWER_ON
+name: Bk017_power_on
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 02 00 00 00
 #
-name: BK017_MUTE
+name: Bk017_mute
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 03 00 00 00
 #
-name: BK017_INPUT_1
+name: Bk017_input_1
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 05 00 00 00
 #
-name: BK017_INPUT_3
+name: Bk017_input_3
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 06 00 00 00
 #
-name: BK017_INPUT_8
+name: Bk017_input_8
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 07 00 00 00
 #
-name: BK017_INPUT_2
+name: Bk017_input_2
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 09 00 00 00
 #
-name: BK017_INPUT_7
+name: Bk017_input_7
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 0B 00 00 00
 #
-name: BK017_INPUT_4
+name: Bk017_input_4
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 0D 00 00 00
 #
-name: BK017_TUNER_1
+name: Bk017_tuner_1
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 0E 00 00 00
 #
-name: BK017_INPUT_5
+name: Bk017_input_5
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 0F 00 00 00
 #
-name: BK017_STATION-
+name: Bk017_station-
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 17 00 00 00
 #
-name: BK017_STATION+
+name: Bk017_station+
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 18 00 00 00
 #
-name: BK017_TUNE-
+name: Bk017_tune-
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 1B 00 00 00
 #
-name: BK017_TUNE+
+name: Bk017_tune+
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 1C 00 00 00
 #
-name: BK017_LEFT
+name: Bk017_left
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 1F 00 00 00
 #
-name: BK017_RIGHT
+name: Bk017_right
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 20 00 00 00
 #
-name: BK017_VOLUME-
+name: Bk017_volume-
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 23 00 00 00
 #
-name: BK017_VOLUME+
+name: Bk017_volume+
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 24 00 00 00
 #
-name: BK017_NUMBER_+10
+name: Bk017_number_+10
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 29 00 00 00
 #
-name: BK017_EQ
+name: Bk017_eq
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 2A 00 00 00
 #
-name: BK017_DOWN
+name: Bk017_down
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 2D 00 00 00
 #
-name: BK017_UP
+name: Bk017_up
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 2E 00 00 00
 #
-name: BK017_ENTER
+name: Bk017_enter
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 30 00 00 00
 #
-name: BK017_NUMBER_1
+name: Bk017_number_1
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 31 00 00 00
 #
-name: BK017_NUMBER_2
+name: Bk017_number_2
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 32 00 00 00
 #
-name: BK017_NUMBER_3
+name: Bk017_number_3
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 33 00 00 00
 #
-name: BK017_NUMBER_4
+name: Bk017_number_4
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 35 00 00 00
 #
-name: BK017_NUMBER_5
+name: Bk017_number_5
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 36 00 00 00
 #
-name: BK017_NUMBER_6
+name: Bk017_number_6
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 37 00 00 00
 #
-name: BK017_NUMBER_7
+name: Bk017_number_7
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 39 00 00 00
 #
-name: BK017_NUMBER_8
+name: Bk017_number_8
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 3A 00 00 00
 #
-name: BK017_NUMBER_9
+name: Bk017_number_9
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 3B 00 00 00
 #
-name: BK017_NUMBER_0
+name: Bk017_number_0
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 3E 00 00 00
 #
-name: BK017_SAVE
+name: Bk017_save
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 40 00 00 00
 #
-name: BK017_TUNER_3
+name: Bk017_tuner_3
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 44 00 00 00
 #
-name: BK017_INPUT_6
+name: Bk017_input_6
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 4A 00 00 00
 #
-name: BK017_PRESET+
+name: Bk017_preset+
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 4B 00 00 00
 #
-name: BK017_D-IN
+name: Bk017_d-in
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 5A 00 00 00
 #
-name: BK017_BASS-
+name: Bk017_bass-
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 65 00 00 00
 #
-name: BK017_SOURCE+
+name: Bk017_source+
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 66 00 00 00
 #
-name: BK017_INPUT_9
+name: Bk017_input_9
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 6E 00 00 00
 #
-name: BK017_AM
+name: Bk017_am
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 76 00 00 00
 #
-name: BK017_TREBLE-
+name: Bk017_treble-
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 79 00 00 00
 #
-name: BK017_VIDEO-
+name: Bk017_video-
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 7A 00 00 00
 #
-name: BK017_EXIT
+name: Bk017_exit
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 7D 00 00 00
 #
-name: BK017_TUNER_2
+name: Bk017_tuner_2
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 84 00 00 00
 #
-name: BK017_FM
+name: Bk017_fm
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: 8E 00 00 00
 #
-name: BK017_SOURCE-
+name: Bk017_source-
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: A6 00 00 00
 #
-name: BK017_SLEEP
+name: Bk017_sleep
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: B3 00 00 00
 #
-name: BK017_PRESET-
+name: Bk017_preset-
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: C6 00 00 00
 #
-name: BK017_LOUDNESS
+name: Bk017_loudness
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: CF 00 00 00
 #
-name: BK017_AUTO_LEVEL
+name: Bk017_auto_level
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: E4 00 00 00
 #
-name: BK017_BASS+
+name: Bk017_bass+
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: E5 00 00 00
 #
-name: BK017_TREBLE+
+name: Bk017_treble+
 type: parsed
 protocol: NECext
 address: 17 8E 00 00
 command: F9 00 00 00
 #
-name: BK017_VIDEO+
+name: Bk017_video+
 type: parsed
 protocol: NECext
 address: 17 8E 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OUTPUT_5
+name: Output_5
 type: parsed
 protocol: NECext
 address: A5 00 00 00

@@ -61,13 +61,13 @@ protocol: NECext
 address: 40 40 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 0A 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 40 40 00 00
@@ -79,79 +79,79 @@ protocol: NECext
 address: 40 40 00 00
 command: 0C 00 00 00
 #
-name: List_Ok
+name: List_ok
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 0D 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 0F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 10 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 11 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 12 00 00 00
 #
-name: Audio/Red
+name: Audio/red
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 13 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 14 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 15 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 16 00 00 00
 #
-name: Tv/Radio
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 18 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 40 40 00 00
@@ -163,43 +163,43 @@ protocol: NECext
 address: 40 40 00 00
 command: 1A 00 00 00
 #
-name: Position/Green
+name: Position/green
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 1B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 1C 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 1D 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 1E 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 1F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 40 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 40 40 00 00
@@ -217,25 +217,25 @@ protocol: NECext
 address: 40 40 00 00
 command: 43 00 00 00
 #
-name: Audio_Channel/Blue
+name: Audio_channel/blue
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 44 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 45 00 00 00
 #
-name: Pal/Ntsc
+name: Pal/ntsc
 type: parsed
 protocol: NECext
 address: 40 40 00 00
 command: 46 00 00 00
 #
-name: Av/Tv
+name: Av/tv
 type: parsed
 protocol: NECext
 address: 40 40 00 00

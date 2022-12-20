@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: D2 0D 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: D2 0D 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: D2 0D 00 00
 command: 16 00 00 00
 #
-name: Pause-Record
+name: Pause-record
 type: parsed
 protocol: NECext
 address: D2 0D 00 00
 command: 18 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: D2 0D 00 00
 command: 19 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: D2 0D 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: D2 0D 00 00
 command: 1B 00 00 00
 #
-name: SkipForward
+name: Skipforward
 type: parsed
 protocol: NECext
 address: D2 0D 00 00

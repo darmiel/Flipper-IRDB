@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 02 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -43,19 +43,19 @@ protocol: NECext
 address: 6E 00 00 00
 command: 07 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 08 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 09 00 00 00
 #
-name: STILL
+name: Still
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -85,31 +85,31 @@ protocol: NECext
 address: 6E 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 14 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 15 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 16 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 18 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -127,31 +127,31 @@ protocol: NECext
 address: 6E 00 00 00
 command: 1D 00 00 00
 #
-name: VISS
+name: Viss
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 41 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 42 00 00 00
 #
-name: SHOW
+name: Show
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 47 00 00 00
 #
-name: LP
+name: Lp
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 48 00 00 00
 #
-name: REST
+name: Rest
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -163,37 +163,37 @@ protocol: NECext
 address: 6E 00 00 00
 command: 4D 00 00 00
 #
-name: MARK
+name: Mark
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 50 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 56 00 00 00
 #
-name: A/T
+name: A/t
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 5F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 83 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 8E 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 6E 00 00 00

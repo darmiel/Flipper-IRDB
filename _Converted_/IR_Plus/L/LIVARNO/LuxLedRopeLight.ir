@@ -16,13 +16,13 @@ protocol: NECext
 address: FF 00 00 00
 command: 7E 81 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: BE 41 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: FF 00 00 00

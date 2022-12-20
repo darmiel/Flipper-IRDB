@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 00 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -73,43 +73,43 @@ protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00

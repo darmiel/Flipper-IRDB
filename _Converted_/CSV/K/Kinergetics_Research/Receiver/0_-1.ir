@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD-A
+name: Cd-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: CD-B
+name: Cd-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: ON_-A
+name: On_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: ON_-B
+name: On_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: AM/FM-A
+name: Am/fm-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: AM/FM-B
+name: Am/fm-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: MUTE-A
+name: Mute-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: MUTE-B
+name: Mute-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: TAPE_-A
+name: Tape_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: TAPE_-B
+name: Tape_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: AUX-A
+name: Aux-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: AUX-B
+name: Aux-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: TUNER_-A
+name: Tuner_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: TUNER_-B
+name: Tuner_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: PRESET_UP_-A
+name: Preset_up_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: PRESET_UP_-B
+name: Preset_up_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: PRESET_DOWN_-A
+name: Preset_down_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: PRESET_DOWN_-B
+name: Preset_down_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: SEEK_UP_-A
+name: Seek_up_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: SEEK_UP_-B
+name: Seek_up_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: SEEK_DOWN_-A
+name: Seek_down_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: SEEK_DOWN_-B
+name: Seek_down_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: VOLUME_DOWN_-A
+name: Volume_down_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: VOLUME_DOWN_-B
+name: Volume_down_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: VOLUME_UP_-A
+name: Volume_up_-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: VOLUME_UP_-B
+name: Volume_up_-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00

@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 00 00 00 00
 #
-name: discskip
+name: Discskip
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 02 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 04 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 05 00 00 00
 #
-name: shuffle
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 06 00 00 00
 #
-name: introcheck
+name: Introcheck
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 07 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 08 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 09 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 0A 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 0B 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 0C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 0D 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 86 61 00 00
@@ -139,43 +139,43 @@ protocol: NECext
 address: 86 61 00 00
 command: 18 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 19 00 00 00
 #
-name: memorycheck
+name: Memorycheck
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 1A 00 00 00
 #
-name: disc1
+name: Disc1
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 1B 00 00 00
 #
-name: disc2
+name: Disc2
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 1C 00 00 00
 #
-name: disc3
+name: Disc3
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 1D 00 00 00
 #
-name: disc4
+name: Disc4
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 1E 00 00 00
 #
-name: disc5
+name: Disc5
 type: parsed
 protocol: NECext
 address: 86 61 00 00

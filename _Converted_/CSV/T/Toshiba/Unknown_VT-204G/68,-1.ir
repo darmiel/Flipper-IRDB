@@ -61,169 +61,169 @@ protocol: NECext
 address: 44 00 00 00
 command: 0A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0B 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0D 00 00 00
 #
-name: PAUSE/STILL
+name: Pause/still
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 10 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 12 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 13 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 14 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 15 00 00 00
 #
-name: COUNT/TR
+name: Count/tr
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 16 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 18 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 19 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 1B 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 1F 00 00 00
 #
-name: SHIFT_R
+name: Shift_r
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 4D 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 4F 00 00 00
 #
-name: SHIFT_L
+name: Shift_l
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 51 00 00 00
 #
-name: OSP
+name: Osp
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 5C 00 00 00
 #
-name: INPUT_SELECT
+name: Input_select
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 5F 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 83 00 00 00
 #
-name: T.SEARCH
+name: T.search
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 85 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 96 00 00 00
 #
-name: VPS
+name: Vps
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 97 00 00 00
 #
-name: INDEX_+
+name: Index_+
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 9E 00 00 00
 #
-name: INDEX_-
+name: Index_-
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 9F 00 00 00
 #
-name: SAT.CONT.
+name: Sat.cont.
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: BC 00 00 00
 #
-name: SAT.MONI.
+name: Sat.moni.
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: C0 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: EF 00 00 00
 #
-name: SHOWVIEW
+name: Showview
 type: parsed
 protocol: NECext
 address: 44 00 00 00

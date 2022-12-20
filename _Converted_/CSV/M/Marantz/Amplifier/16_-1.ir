@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON/OFF
+name: Power_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE_ATT
+name: Mute_att
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: SPEAKER_A/B
+name: Speaker_a/b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1D 00 00 00
 #
-name: SOURCE_DIRECT
+name: Source_direct
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: LOUDNESS
+name: Loudness
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 32 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: EXIT_MENU
+name: Exit_menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 53 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: ENTER_(OK)
+name: Enter_(ok)
 type: parsed
 protocol: NECext
 address: 10 00 00 00

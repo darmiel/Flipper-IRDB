@@ -61,349 +61,349 @@ protocol: NECext
 address: 1A 9A 00 00
 command: 09 00 00 00
 #
-name: ENTER/JUMP
+name: Enter/jump
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 0B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 0B 00 00 00
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 0B 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 10 00 00 00
 #
-name: CHANNEL+
+name: Channel+
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 10 00 00 00
 #
-name: CHANNEL/PAGE_UP
+name: Channel/page_up
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 10 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 11 00 00 00
 #
-name: CHANNEL_
+name: Channel_
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 11 00 00 00
 #
-name: CHANNEL/PAGE_DOWN
+name: Channel/page_down
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 15 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1A 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1B 00 00 00
 #
-name: FRAME_<<
+name: Frame_<<
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1B 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1B 00 00 00
 #
-name: BACK_<<
+name: Back_<<
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1B 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1B 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1C 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1C 00 00 00
 #
-name: FAST_FWD_>>
+name: Fast_fwd_>>
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1C 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1C 00 00 00
 #
-name: RECORD_ON/OFF
+name: Record_on/off
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1D 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1D 00 00 00
 #
-name: REC_ON/OFF
+name: Rec_on/off
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1D 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 23 00 00 00
 #
-name: SLOW_>
+name: Slow_>
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 23 00 00 00
 #
-name: SLOW_MOTION_-
+name: Slow_motion_-
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 23 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 2B 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5B 00 00 00
 #
-name: MENU_SELECT
+name: Menu_select
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5E 00 00 00
 #
-name: SE3ECT
+name: Se3ect
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5E 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5E 00 00 00
 #
-name: MENU_UP_ARROW
+name: Menu_up_arrow
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5F 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5F 00 00 00
 #
-name: MENU_DOWN_ARROW
+name: Menu_down_arrow
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 60 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 60 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 60 00 00 00
 #
-name: MENU_RIGHT_ARROW
+name: Menu_right_arrow
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 61 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 61 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 61 00 00 00
 #
-name: MENU_LEFT_ARROW
+name: Menu_left_arrow
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 62 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 62 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 62 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 63 00 00 00
 #
-name: TIVO
+name: Tivo
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 6F 00 00 00
 #
-name: TIVO_CENTRAL
+name: Tivo_central
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 6F 00 00 00
 #
-name: TIVO_MAN
+name: Tivo_man
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 6F 00 00 00
 #
-name: TIVO_BUTTON
+name: Tivo_button
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 6F 00 00 00
 #
-name: THUMBS_UP
+name: Thumbs_up
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 70 00 00 00
 #
-name: THUMB_UP
+name: Thumb_up
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 70 00 00 00
 #
-name: THUMBS_DOWN
+name: Thumbs_down
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 71 00 00 00
 #
-name: THUMB_DOWN
+name: Thumb_down
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 71 00 00 00
 #
-name: ADVANCE
+name: Advance
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 72 00 00 00
 #
-name: ADVANCE>
+name: Advance>
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 72 00 00 00
 #
-name: GUIDE/LIVE_TV
+name: Guide/live_tv
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 73 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 73 00 00 00
 #
-name: GUIDE(LIVE_TV)
+name: Guide(live_tv)
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00

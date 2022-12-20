@@ -13,7 +13,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: ON_DEMAND
+name: On_demand
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -25,13 +25,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: ON_DEMAND
+name: On_demand
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: PPV
+name: Ppv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -43,13 +43,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: PPV
+name: Ppv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: PPV_INFO
+name: Ppv_info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -109,55 +109,55 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: CH_DN
+name: Ch_dn
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: ENTER_/_MUSIC
+name: Enter_/_music
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: ENTER_#PAD
+name: Enter_#pad
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: OK/SELECT
+name: Ok/select
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -169,49 +169,49 @@ protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: OK_/_SELECT
+name: Ok_/_select
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: INPUT_TV/VCR
+name: Input_tv/vcr
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -223,313 +223,313 @@ protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: FFWD
+name: Ffwd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: FAST_FOWARD
+name: Fast_foward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: RW
+name: Rw
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: TUNER_JUMP
+name: Tuner_jump
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: SWAP
+name: Swap
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: HELP[
+name: Help[
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 33 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: DN
+name: Dn
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 39 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: PAGE_+
+name: Page_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: PAGE_DN
+name: Page_dn
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: PAGE_-
+name: Page_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: MY_DVR
+name: My_dvr
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3D 00 00 00
 #
-name: LIVE_TV
+name: Live_tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3E 00 00 00
 #
-name: LIVE
+name: Live
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3E 00 00 00
 #
-name: 30_SECOND_SKIP
+name: 30_second_skip
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: SKIP_30_SECONDS
+name: Skip_30_seconds
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00

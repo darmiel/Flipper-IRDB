@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 16 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 17 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 18 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 19 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 80 7B 00 00

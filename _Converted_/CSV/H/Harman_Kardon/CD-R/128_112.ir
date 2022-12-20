@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 21 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 22 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 23 00 00 00
 #
-name: TRACKING_+
+name: Tracking_+
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 24 00 00 00
 #
-name: TRACKING_-
+name: Tracking_-
 type: parsed
 protocol: NECext
 address: 80 70 00 00

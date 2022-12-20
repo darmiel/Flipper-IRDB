@@ -1,313 +1,313 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Z3_PRESET_UP
+name: Z3_preset_up
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 00 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 00 00 00 00
 #
-name: Z3_PRESET_DOWN
+name: Z3_preset_down
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 01 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 02 00 00 00
 #
-name: Z3_VOL+
+name: Z3_vol+
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 02 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 03 00 00 00
 #
-name: Z3_VOL-
+name: Z3_vol-
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 03 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 03 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 04 00 00 00
 #
-name: Z3_POWER_ON
+name: Z3_power_on
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 04 00 00 00
 #
-name: ZONE_2_ON
+name: Zone_2_on
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 04 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 05 00 00 00
 #
-name: Z3_MUTING_(TOGGLE)
+name: Z3_muting_(toggle)
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 05 00 00 00
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 05 00 00 00
 #
-name: Z3_TAPE1(TAPE)
+name: Z3_tape1(tape)
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 08 00 00 00
 #
-name: INPUT:_TAPE
+name: Input:_tape
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 08 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 08 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 09 00 00 00
 #
-name: Z3_CD
+name: Z3_cd
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 09 00 00 00
 #
-name: INPUT:_CD
+name: Input:_cd
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 09 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0A 00 00 00
 #
-name: Z3_PHONO
+name: Z3_phono
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0A 00 00 00
 #
-name: INPUT:_PHONO
+name: Input:_phono
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0A 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0B 00 00 00
 #
-name: Z3_TUNER
+name: Z3_tuner
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0B 00 00 00
 #
-name: INPUT:_TUNER
+name: Input:_tuner
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0B 00 00 00
 #
-name: VIDEO_3_GAME/TV
+name: Video_3_game/tv
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0D 00 00 00
 #
-name: Z3_GAME/TV
+name: Z3_game/tv
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0D 00 00 00
 #
-name: INPUT:_GAME/TV
+name: Input:_game/tv
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0D 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0D 00 00 00
 #
-name: VIDEO_2_CBL/SAT
+name: Video_2_cbl/sat
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0E 00 00 00
 #
-name: Z3_CBL/SAT
+name: Z3_cbl/sat
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0E 00 00 00
 #
-name: INPUT:_CBL/SAT
+name: Input:_cbl/sat
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0E 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0E 00 00 00
 #
-name: VIDEO_1_VCR/DVR
+name: Video_1_vcr/dvr
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0F 00 00 00
 #
-name: Z3_VCR/DVR
+name: Z3_vcr/dvr
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0F 00 00 00
 #
-name: INPUT:_VCR/DVR
+name: Input:_vcr/dvr
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0F 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 0F 00 00 00
 #
-name: Z3_FM
+name: Z3_fm
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 46 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 46 00 00 00
 #
-name: Z3_AM
+name: Z3_am
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 47 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 47 00 00 00
 #
-name: VIDEO_6_PC
+name: Video_6_pc
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 9D 00 00 00
 #
-name: Z3_AUX2
+name: Z3_aux2
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 9D 00 00 00
 #
-name: INPUT:_AUX_2
+name: Input:_aux_2
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 9D 00 00 00
 #
-name: VIDEO_5
+name: Video_5
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 9D 00 00 00
 #
-name: VIDEO_4_AUX1
+name: Video_4_aux1
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 9F 00 00 00
 #
-name: Z3_AUX1(AUX)
+name: Z3_aux1(aux)
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 9F 00 00 00
 #
-name: INPUT:_AUX_1
+name: Input:_aux_1
 type: parsed
 protocol: NECext
 address: D2 15 00 00
 command: 9F 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: D2 15 00 00

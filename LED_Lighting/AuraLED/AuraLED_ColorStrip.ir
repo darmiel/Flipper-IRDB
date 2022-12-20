@@ -3,7 +3,7 @@ Version: 1
 # 
 # AuraLED ColorStrip LEDs
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -75,31 +75,31 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 9223 4493 632 512 632 512 632 512 632 513 631 513 631 513 631 514 630 514 630 1629 629 1629 629 1630 628 1631 627 518 626 1632 626 1633 625 1634 624 1635 633 1625 633 1626 632 513 631 513 631 513 631 512 632 512 632 512 632 512 632 512 622 1635 623 1634 624 1634 624 1633 625 1632 626 41178 9189 2219 627
 # 
-name: Orange_Yellow
+name: Orange_yellow
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 08 F7 00 00
 # 
-name: Green_Turquoise
+name: Green_turquoise
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 09 F6 00 00
 # 
-name: Blue_Purple
+name: Blue_purple
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 0A F5 00 00
 # 
-name: Yellow_Orange
+name: Yellow_orange
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 0C F3 00 00
 # 
-name: Blue_Turquoise
+name: Blue_turquoise
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -111,19 +111,19 @@ protocol: NECext
 address: 00 EF 00 00
 command: 0E F1 00 00
 # 
-name: Yellow_Orange
+name: Yellow_orange
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 10 EF 00 00
 # 
-name: Light_Blue_Turquoise
+name: Light_blue_turquoise
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 11 EE 00 00
 # 
-name: Light_Purple
+name: Light_purple
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -135,13 +135,13 @@ protocol: NECext
 address: 00 EF 00 00
 command: 14 EB 00 00
 # 
-name: Light_Blue
+name: Light_blue
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 15 EA 00 00
 # 
-name: Pink_Purple
+name: Pink_purple
 type: parsed
 protocol: NECext
 address: 00 EF 00 00

@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 0D 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 10 00 00 00
 #
-name: INPUT/SETUP
+name: Input/setup
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 12 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 18 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 16 00 00
@@ -37,67 +37,67 @@ protocol: NECext
 address: 04 16 00 00
 command: 19 00 00 00
 #
-name: OK/SELECT
+name: Ok/select
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 1A 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 1A 00 00 00
 #
-name: MENU/VIEW
+name: Menu/view
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 1C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 1C 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 21 00 00 00
 #
-name: SPACE/FOREWARD
+name: Space/foreward
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 22 00 00 00
 #
-name: MOVIES
+name: Movies
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 26 00 00 00
 #
-name: SEEK_BACK
+name: Seek_back
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 29 00 00 00
 #
-name: RAND
+name: Rand
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 2F 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 04 16 00 00
 command: 32 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 04 16 00 00

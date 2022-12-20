@@ -88,19 +88,19 @@ protocol: NECext
 address: FD 00 00 00
 command: 57 A8 00 00
 #
-name: Menu audio
+name: Menu_audio
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 75 8A 00 00
 #
-name: Menu video
+name: Menu_video
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: E7 18 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FD 00 00 00
 command: A5 5A 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 27 D8 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -178,13 +178,13 @@ protocol: NECext
 address: FD 00 00 00
 command: 8F 70 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 55 AA 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -208,7 +208,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 9D 62 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: FD 00 00 00

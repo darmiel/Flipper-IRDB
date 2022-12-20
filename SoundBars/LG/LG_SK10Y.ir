@@ -31,49 +31,49 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: 1F 00 00 00
 # 
-name: Play_Pause
+name: Play_pause
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 4F 00 00 00
 # 
-name: SkipForward
+name: Skipforward
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 07 00 00 00
 # 
-name: SkipBack
+name: Skipback
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 06 00 00 00
 # 
-name: SoundEffect
+name: Soundeffect
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 2F 00 00 00
 # 
-name: EQ
+name: Eq
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 98 00 00 00
 # 
-name: AV_Sync
+name: Av_sync
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: D9 00 00 00
 # 
-name: AutoVol
+name: Autovol
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 1C 00 00 00
 # 
-name: Auto_Power
+name: Auto_power
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00

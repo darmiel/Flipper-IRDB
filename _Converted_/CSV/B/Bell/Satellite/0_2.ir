@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 02 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 00 02 00 00
 command: 0A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 02 00 00
@@ -67,13 +67,13 @@ protocol: NECext
 address: 00 02 00 00
 command: 0E 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 10 00 00 00
 #
-name: SEL.
+name: Sel.
 type: parsed
 protocol: NECext
 address: 00 02 00 00
@@ -85,85 +85,85 @@ protocol: NECext
 address: 00 02 00 00
 command: 11 00 00 00
 #
-name: CANCL
+name: Cancl
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 12 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 12 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 14 00 00 00
 #
-name: VIEW
+name: View
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 16 00 00 00
 #
-name: MENU_RT.
+name: Menu_rt.
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 18 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1A 00 00 00
 #
-name: MENU_UP
+name: Menu_up
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1A 00 00 00
 #
-name: RECAL
+name: Recal
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1B 00 00 00
 #
-name: MENU_LEFT
+name: Menu_left
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1C 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1E 00 00 00
 #
-name: MENU_DWN.
+name: Menu_dwn.
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1E 00 00 00
 #
-name: RECRD
+name: Recrd
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 21 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 02 00 00

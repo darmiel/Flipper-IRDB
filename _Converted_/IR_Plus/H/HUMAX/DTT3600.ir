@@ -88,7 +88,7 @@ protocol: NECext
 address: CC 08 00 00
 command: 4D B2 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: CC 08 00 00
@@ -100,7 +100,7 @@ protocol: NECext
 address: CC 08 00 00
 command: 77 88 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: CC 08 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: CC 08 00 00
 command: B7 48 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: CC 08 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: CC 08 00 00
 command: D7 28 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: CC 08 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: CC 08 00 00
 command: 57 A8 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: CC 08 00 00
@@ -166,13 +166,13 @@ protocol: NECext
 address: CC 08 00 00
 command: 3D C2 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: CC 08 00 00
 command: 4F B0 00 00
 #
-name: Subt List
+name: Subt_list
 type: parsed
 protocol: NECext
 address: CC 08 00 00
@@ -190,7 +190,7 @@ protocol: NECext
 address: CC 08 00 00
 command: 7D 82 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: CC 08 00 00

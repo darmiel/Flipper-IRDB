@@ -55,37 +55,37 @@ protocol: NECext
 address: 0C 00 00 00
 command: 09 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0D 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0D 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0E 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0E 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
@@ -97,103 +97,103 @@ protocol: NECext
 address: 0C 00 00 00
 command: 11 00 00 00
 #
-name: DASH
+name: Dash
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 12 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 13 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 20 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 21 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 22 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 23 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 24 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 25 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 25 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 26 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 27 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 28 00 00 00
 #
-name: ACTIVE
+name: Active
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 29 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2A 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2E 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5B 00 00 00
 #
-name: FORMAT
+name: Format
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

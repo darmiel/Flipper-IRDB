@@ -3,7 +3,7 @@ Version: 1
 # 
 # Nexillumi LED lights
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -63,37 +63,37 @@ protocol: NEC
 address: 00 00 00 00
 command: 49 00 00 00
 # 
-name: DIY_1
+name: Diy_1
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0C 00 00 00
 # 
-name: DIY_2
+name: Diy_2
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 9219 4417 653 535 622 536 623 536 624 535 624 536 623 536 623 537 623 537 623 1664 623 1665 621 1666 620 1668 620 1667 621 1668 622 1667 622 1667 619 1667 619 541 620 1667 619 1668 619 541 619 541 618 542 618 542 617 542 617 1669 616 542 617 542 617 1669 616 1669 617 1669 616 1669 617 39298 9097 2203 588
 # 
-name: DIY_3
+name: Diy_3
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0E 00 00 00
 # 
-name: DIY_4
+name: Diy_4
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 08 00 00 00
 # 
-name: DIY_5
+name: Diy_5
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 9210 4449 649 536 625 538 625 539 623 540 622 540 623 540 623 540 622 540 621 1667 620 1667 620 1667 619 1667 619 1667 619 1667 619 1667 618 1667 618 1668 618 541 618 540 619 1668 617 541 617 540 619 540 618 540 618 540 618 1667 618 1667 618 540 617 1668 617 1668 617 1667 618 1667 617 39249 9096 2200 591
 # 
-name: DIY_6
+name: Diy_6
 type: parsed
 protocol: NEC
 address: 00 00 00 00

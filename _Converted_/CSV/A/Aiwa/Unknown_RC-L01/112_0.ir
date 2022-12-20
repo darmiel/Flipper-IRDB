@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 00 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 0C 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 0D 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 0E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 11 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 12 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 13 00 00 00
 #
-name: tape_play
+name: Tape_play
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 14 00 00 00
 #
-name: tape_stop
+name: Tape_stop
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 15 00 00 00
 #
-name: tape_next
+name: Tape_next
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 16 00 00 00
 #
-name: tape_prev
+name: Tape_prev
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 17 00 00 00
 #
-name: tape_rec
+name: Tape_rec
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 18 00 00 00
 #
-name: tape_pause
+name: Tape_pause
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 19 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 1F 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 40 00 00 00
 #
-name: tunermode
+name: Tunermode
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 4E 00 00 00
 #
-name: repet
+name: Repet
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 51 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 52 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 53 00 00 00
 #
-name: t-standby
+name: T-standby
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 5A 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 5D 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 70 00 00 00
@@ -193,43 +193,43 @@ protocol: NECext
 address: 70 00 00 00
 command: 9A 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 9B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: C4 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: C5 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: C6 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: C7 00 00 00
 #
-name: dimmer
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: CD 00 00 00
 #
-name: tray
+name: Tray
 type: parsed
 protocol: NECext
 address: 70 00 00 00

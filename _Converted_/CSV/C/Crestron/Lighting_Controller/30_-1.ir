@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 1E 00 00 00
 command: 00 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1E 00 00 00
 command: 01 00 00 00
 #
-name: SCENE_1
+name: Scene_1
 type: parsed
 protocol: NECext
 address: 1E 00 00 00
 command: 02 00 00 00
 #
-name: SCENE_2
+name: Scene_2
 type: parsed
 protocol: NECext
 address: 1E 00 00 00
 command: 03 00 00 00
 #
-name: SCENE_3
+name: Scene_3
 type: parsed
 protocol: NECext
 address: 1E 00 00 00
 command: 04 00 00 00
 #
-name: SCENE_4
+name: Scene_4
 type: parsed
 protocol: NECext
 address: 1E 00 00 00
 command: 05 00 00 00
 #
-name: RAISE
+name: Raise
 type: parsed
 protocol: NECext
 address: 1E 00 00 00
 command: 21 00 00 00
 #
-name: LOWER
+name: Lower
 type: parsed
 protocol: NECext
 address: 1E 00 00 00

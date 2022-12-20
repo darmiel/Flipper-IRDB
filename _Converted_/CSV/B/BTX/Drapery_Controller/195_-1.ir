@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 3_STOP
+name: 3_stop
 type: parsed
 protocol: NECext
 address: C3 00 00 00

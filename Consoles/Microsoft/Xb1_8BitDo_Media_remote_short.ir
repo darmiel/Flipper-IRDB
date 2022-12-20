@@ -3,7 +3,7 @@ Version: 1
 # 
 # 8BitDo-Media Remote for Xbox-short edition
 #
-name: Xbox_Button
+name: Xbox_button
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
@@ -57,7 +57,7 @@ protocol: NECext
 address: 80 D8 00 00
 command: 26 D9 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
@@ -69,13 +69,13 @@ protocol: NECext
 address: 80 D8 00 00
 command: 1F E0 00 00
 # 
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
 command: 10 EF 00 00
 # 
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
@@ -93,7 +93,7 @@ protocol: NECext
 address: 80 D8 00 00
 command: 19 E6 00 00
 # 
-name: FFwd
+name: Ffwd
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
@@ -105,13 +105,13 @@ protocol: NECext
 address: 80 D8 00 00
 command: 15 EA 00 00
 # 
-name: Skip_Fwd
+name: Skip_fwd
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
 command: 1A E5 00 00
 # 
-name: Skip_Back
+name: Skip_back
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
@@ -123,13 +123,13 @@ protocol: NECext
 address: 80 D8 00 00
 command: 0E F1 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
 command: 11 EE 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 80 D8 00 00

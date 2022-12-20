@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 01 00 00 00
 #
-name: VOLYM_-
+name: Volym_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 02 00 00 00
 #
-name: VOLYM_+
+name: Volym_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 03 00 00 00
 #
-name: INPUT_FM-AM
+name: Input_fm-am
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 06 00 00 00
 #
-name: INPUT_TV
+name: Input_tv
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0E 00 00 00
 #
-name: INPUT_AUX
+name: Input_aux
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0F 00 00 00
 #
-name: INPUT_CBL-SAT
+name: Input_cbl-sat
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 15 00 00 00
 #
-name: CH/PRESET_-
+name: Ch/preset_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 18 00 00 00
 #
-name: CH/PRESET_+
+name: Ch/preset_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 19 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 1A 00 00 00
 #
-name: CURSOR_NER/TUNE
+name: Cursor_ner/tune
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 20 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
@@ -133,103 +133,103 @@ protocol: NECext
 address: BA 4B 00 00
 command: 49 00 00 00
 #
-name: POWER_ON/OFF
+name: Power_on/off
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 4C 00 00 00
 #
-name: INPUT_CD-DVD
+name: Input_cd-dvd
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 53 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 55 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 56 00 00 00
 #
-name: SEEK_<<
+name: Seek_<<
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 57 00 00 00
 #
-name: SEEK_>>
+name: Seek_>>
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 58 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 5C 00 00 00
 #
-name: GER/SEARCH
+name: Ger/search
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 60 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 64 00 00 00
 #
-name: SYSTEM
+name: System
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 70 00 00 00
 #
-name: SETTINGS
+name: Settings
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 80 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 90 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 9D 00 00 00
 #
-name: NSTER/SEARC
+name: Nster/searc
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: A0 00 00 00
 #
-name: CURSOR_UPP/TUNE
+name: Cursor_upp/tune
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: C0 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: D0 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: BA 4B 00 00

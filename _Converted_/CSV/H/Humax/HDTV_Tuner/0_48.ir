@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -73,115 +73,115 @@ protocol: NECext
 address: 00 30 00 00
 command: 0D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 0E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 0F 00 00 00
 #
-name: CH._LIST
+name: Ch._list
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 10 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 11 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 12 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 13 00 00 00
 #
-name: CURSOR_ENTER/OK
+name: Cursor_enter/ok
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 14 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 15 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 16 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 18 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 19 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 1A 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 1B 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 1C 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 1D 00 00 00
 #
-name: CC
+name: Cc
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 40 00 00 00
 #
-name: FORMAT
+name: Format
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 41 00 00 00
 #
-name: SIGNAL_METER
+name: Signal_meter
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 42 00 00 00
 #
-name: CH._ADD/SKIP
+name: Ch._add/skip
 type: parsed
 protocol: NECext
 address: 00 30 00 00

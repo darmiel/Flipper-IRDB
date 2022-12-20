@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CDV_1
+name: Cdv_1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 01 00 00 00
 #
-name: CDV_PLAY_>
+name: Cdv_play_>
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

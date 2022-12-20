@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 8A F5 00 00
 command: 03 00 00 00
 #
-name: store
+name: Store
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 8A F5 00 00
 command: 07 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 8A F5 00 00
 command: 0B 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -85,67 +85,67 @@ protocol: NECext
 address: 8A F5 00 00
 command: 0E 00 00 00
 #
-name: t_ab
+name: T_ab
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 0F 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 10 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 11 00 00 00
 #
-name: st_lt
+name: St_lt
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 13 00 00 00
 #
-name: east
+name: East
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 15 00 00 00
 #
-name: west
+name: West
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 16 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 17 00 00 00
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 18 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 19 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 1A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 8A F5 00 00

@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NEXT_SONG
+name: Next_song
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 03 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 07 00 00 00
 #
-name: PREV_SONG
+name: Prev_song
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 0B 00 00 00
 #
-name: NEXT_ALBUM
+name: Next_album
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 0C 00 00 00
 #
-name: PREV_ALBUM
+name: Prev_album
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 0D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 0E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 10 00 00 00
 #
-name: NEXT_PLAY_LIST
+name: Next_play_list
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 14 00 00 00
 #
-name: PREV_PLAY_LIST
+name: Prev_play_list
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 15 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 16 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 17 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 18 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 1F 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 1F 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 1F 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 1F 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 20 00 00 00
 #
-name: NEXT_BOOK_CHAPTER
+name: Next_book_chapter
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 20 00 00 00
 #
-name: PREVIOUS_BOOK_CHAPTE
+name: Previous_book_chapte
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 21 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 21 00 00 00
 #
-name: BACKLIGHT
+name: Backlight
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 22 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 22 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 23 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 24 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 01 DE 00 00
 command: 25 00 00 00
 #
-name: LED
+name: Led
 type: parsed
 protocol: NECext
 address: 01 DE 00 00

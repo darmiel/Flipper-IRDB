@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_DISC
+name: Cd_disc
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: B8 00 00 00
 command: 0D 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -79,157 +79,157 @@ protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: P.CALL_V
+name: P.call_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: TAPE_2
+name: Tape_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: P.CALL_^
+name: P.call_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: VOLUME_CTRL_V
+name: Volume_ctrl_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOLUME_CTRL_^
+name: Volume_ctrl_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C9 00 00 00
 #
-name: CD_PLAY/PAUSE
+name: Cd_play/pause
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: TAPEA_REV_PLAY_<
+name: Tapea_rev_play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: TAPEA_PLAY_>
+name: Tapea_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D1 00 00 00
 #
-name: TAPEA_<<
+name: Tapea_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: TAPEA_>>
+name: Tapea_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TAPEA_STOP_[]
+name: Tapea_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D5 00 00 00
 #
-name: TAPEA_REC
+name: Tapea_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D6 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: TAPEB_REV_PLAY_<
+name: Tapeb_rev_play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TAPEB_PLAY_>
+name: Tapeb_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: TAPEB_<<
+name: Tapeb_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: TAPEB_>>
+name: Tapeb_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TAPEB_STOP_[]
+name: Tapeb_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DD 00 00 00
 #
-name: TAPEB_REC
+name: Tapeb_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: SURR.MODE
+name: Surr.mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00

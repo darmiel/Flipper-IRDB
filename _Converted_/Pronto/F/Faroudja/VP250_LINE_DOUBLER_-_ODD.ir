@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 808 1667 808 808 808 808 808 808 808 808 1667 1667 808 808 808 808 808 808 808 808 1667 808 85954
 #
-name: INPUT_MODE
+name: Input_mode
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 834 834 834 834 834 834 834 834 1667 1667 834 834 834 834 834 834 834 834 834 834 86684
 #
-name: FACTORY_PRESET
+name: Factory_preset
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 834 834 834 834 834 834 834 834 1667 1667 834 834 834 834 834 834 1667 1667 86736
 #
-name: USER_PRESET
+name: User_preset
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 782 1667 782 782 782 782 782 782 782 782 1667 1667 782 782 782 782 782 782 1667 782 782 782 85980
 #
-name: FUNCTION+
+name: Function+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 834 834 834 834 834 834 834 834 1667 1667 834 834 834 834 1667 1667 834 834 86710
 #
-name: FUNCTION-
+name: Function-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 834 834 834 834 834 834 834 834 1667 1667 834 834 834 834 1667 834 834 1667 86710
 #
-name: VALUE+
+name: Value+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 808 1667 808 808 808 808 808 808 808 808 1667 1667 808 808 808 808 1667 1667 1667 808 85928
 #
-name: VALUE-
+name: Value-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 808 1667 808 808 808 808 808 808 808 808 1667 1667 808 808 808 808 1667 808 808 808 808 808 86006
 #
-name: SELECT+
+name: Select+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 1667 834 834 834 834 834 834 1667 1667 834 834 834 834 1667 1667 834 834 86710
 #
-name: SELECT-
+name: Select-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 1667 834 834 834 834 834 834 1667 1667 834 834 834 834 1667 834 834 1667 86710
 #
-name: ADJUST_UP
+name: Adjust_up
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 782 782 782 1667 782 782 782 782 782 782 1667 1667 782 782 782 782 1667 1667 1667 782 85954
 #
-name: ADJUST_DOWN
+name: Adjust_down
 type: raw
 frequency: 38381
 duty_cycle: 0.330000

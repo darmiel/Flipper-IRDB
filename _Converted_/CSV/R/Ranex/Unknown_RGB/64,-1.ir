@@ -67,7 +67,7 @@ protocol: NECext
 address: 40 00 00 00
 command: 0B 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 40 00 00 00
 command: 13 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 00 00 00

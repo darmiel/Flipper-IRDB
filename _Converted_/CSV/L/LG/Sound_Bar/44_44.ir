@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CURSOR_ENTER/STOP
+name: Cursor_enter/stop
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 05 00 00 00
 #
-name: CURSOR_LEFT/PREV
+name: Cursor_left/prev
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 06 00 00 00
 #
-name: CURSOR_RIGHT/NEXT
+name: Cursor_right/next
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 07 00 00 00
 #
-name: FOLDER_+
+name: Folder_+
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 0C 00 00 00
 #
-name: FOLDER_-
+name: Folder_-
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 0D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 16 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 1E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 1F 00 00 00
 #
-name: SOUND_EFFECT
+name: Sound_effect
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
@@ -121,61 +121,61 @@ protocol: NECext
 address: 2C 2C 00 00
 command: 4B 00 00 00
 #
-name: CURSOR_UP/REPEAT
+name: Cursor_up/repeat
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 4E 00 00 00
 #
-name: CURSOR_DOWN/PLAY
+name: Cursor_down/play
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 4F 00 00 00
 #
-name: DOBLY_DRC
+name: Dobly_drc
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 62 00 00 00
 #
-name: WOOFER_LEVEL
+name: Woofer_level
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 66 00 00 00
 #
-name: BLUETOOTH
+name: Bluetooth
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 84 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 8A 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A3 00 00 00
 #
-name: OPTICAL
+name: Optical
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: B6 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: C2 00 00 00
 #
-name: AV_SYNC
+name: Av_sync
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00

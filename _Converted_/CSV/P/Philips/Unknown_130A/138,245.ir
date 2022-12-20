@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: audiodown
+name: Audiodown
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 00 00 00 00
 #
-name: int/ext
+name: Int/ext
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 01 00 00 00
 #
-name: dec
+name: Dec
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 03 00 00 00
 #
-name: mo/st
+name: Mo/st
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 06 00 00 00
 #
-name: audioup
+name: Audioup
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 07 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 09 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 8A F5 00 00
 command: 10 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 11 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -103,25 +103,25 @@ protocol: NECext
 address: 8A F5 00 00
 command: 17 00 00 00
 #
-name: h/v
+name: H/v
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 19 00 00 00
 #
-name: dev
+name: Dev
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 1A 00 00 00
 #
-name: p-aud
+name: P-aud
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 1B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 8A F5 00 00

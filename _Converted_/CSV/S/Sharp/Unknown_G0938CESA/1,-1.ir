@@ -133,97 +133,97 @@ protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: program_timer
+name: Program_timer
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 19 00 00 00
 #
-name: disp_del
+name: Disp_del
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: ch_scan
+name: Ch_scan
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: setup_move
+name: Setup_move
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 20 00 00 00
 #
-name: fback_clr
+name: Fback_clr
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2F 00 00 00
 #
-name: message
+name: Message
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3B 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4F 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 50 00 00 00
 #
-name: calendar
+name: Calendar
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 76 00 00 00
 #
-name: LANGUAGE
+name: Language
 type: parsed
 protocol: NECext
 address: 01 00 00 00

@@ -61,103 +61,103 @@ protocol: NECext
 address: 4A 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 0C 00 00 00
 #
-name: up
+name: Up
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 0E 00 00 00
 #
-name: down
+name: Down
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 28 00 00 00
 #
-name: IDEAL
+name: Ideal
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 29 00 00 00
 #
-name: last
+name: Last
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 2A 00 00 00
 #
-name: info
+name: Info
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 2D 00 00 00
 #
-name: right
+name: Right
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 2E 00 00 00
 #
-name: left
+name: Left
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 2F 00 00 00
 #
-name: text
+name: Text
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 33 00 00 00
 #
-name: stop
+name: Stop
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 35 00 00 00
 #
-name: size
+name: Size
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 38 00 00 00
 #
-name: ok_red
+name: Ok_red
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 3C 00 00 00
 #
-name: sound_green
+name: Sound_green
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 3D 00 00 00
 #
-name: vision_yellow
+name: Vision_yellow
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 3E 00 00 00
 #
-name: menu_blue
+name: Menu_blue
 type: parsed
 protocol: NECext
 address: 4A 00 00 00
 command: 3F 00 00 00
 #
-name: tv
+name: Tv
 type: parsed
 protocol: NECext
 address: 4A 00 00 00

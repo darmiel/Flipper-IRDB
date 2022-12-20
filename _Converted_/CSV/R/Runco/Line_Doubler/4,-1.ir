@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NORMALIZE
+name: Normalize
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: FUNCTION_+
+name: Function_+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: FUNCTION_-
+name: Function_-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0D 00 00 00
 #
-name: FUNCTION_SET
+name: Function_set
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0E 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: DVNR
+name: Dvnr
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: INCREMENTAL_FREEZE
+name: Incremental_freeze
 type: parsed
 protocol: NECext
 address: 04 00 00 00

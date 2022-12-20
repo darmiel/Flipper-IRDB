@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: tuner+
+name: Tuner+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 10 00 00 00
 #
-name: tuner-
+name: Tuner-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 11 00 00 00
 #
-name: tuner-toggle
+name: Tuner-toggle
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 12 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 15 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 16 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 18 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

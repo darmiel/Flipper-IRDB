@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: OK/SELECT
+name: Ok/select
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0A 00 00 00
 #
-name: VIDEO1
+name: Video1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 11 00 00 00
 #
-name: VIDEO2
+name: Video2
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 12 00 00 00
 #
-name: VIDEO3
+name: Video3
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 14 00 00 00
 #
-name: POWER_(TOGGLE)
+name: Power_(toggle)
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: VIDEO4
+name: Video4
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7A 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 03 00 00 00

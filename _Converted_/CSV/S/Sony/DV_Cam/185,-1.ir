@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PHOTO
+name: Photo
 type: parsed
 protocol: NECext
 address: B9 00 00 00
 command: 15 00 00 00
 #
-name: START/STOP
+name: Start/stop
 type: parsed
 protocol: NECext
 address: B9 00 00 00
 command: 19 00 00 00
 #
-name: SEARCH_MODE
+name: Search_mode
 type: parsed
 protocol: NECext
 address: B9 00 00 00
 command: 2D 00 00 00
 #
-name: DATA_CODE
+name: Data_code
 type: parsed
 protocol: NECext
 address: B9 00 00 00

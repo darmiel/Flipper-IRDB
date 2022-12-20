@@ -3,7 +3,7 @@ Version: 1
 # 
 # Xpelair XPA360CF Fan
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 FC 00 00

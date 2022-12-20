@@ -10,13 +10,13 @@ protocol: NEC
 address: 02 00 00 00
 command: EB 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 6B 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 02 00 00 00

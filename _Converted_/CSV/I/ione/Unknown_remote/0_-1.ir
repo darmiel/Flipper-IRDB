@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: LIVE
+name: Live
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: DOWN_ARROW
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: IMAGES
+name: Images
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: RIGHT_ARROW
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: LEFT_ARROW
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 40 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 42 00 00 00
 #
-name: PREVIOUS_CHAPTER
+name: Previous_chapter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 44 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 46 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 48 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -127,13 +127,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 4A 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -145,19 +145,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 4E 00 00 00
 #
-name: NUMERIC_STAR
+name: Numeric_star
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4F 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 50 00 00 00
 #
-name: BLUE_BUTTON
+name: Blue_button
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -169,19 +169,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 52 00 00 00
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 53 00 00 00
 #
-name: MORE/INFO
+name: More/info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 54 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -199,13 +199,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 57 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 58 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -223,19 +223,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 5B 00 00 00
 #
-name: ESC/BACK
+name: Esc/back
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5C 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5D 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 00 00 00 00

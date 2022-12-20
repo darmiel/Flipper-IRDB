@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: FIND
+name: Find
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -145,31 +145,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: FUNC
+name: Func
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: MEM_UP
+name: Mem_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: MEM_DOWN
+name: Mem_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 00 00 00 00

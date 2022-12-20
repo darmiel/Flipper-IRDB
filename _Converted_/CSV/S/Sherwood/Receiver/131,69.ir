@@ -7,73 +7,73 @@ protocol: NECext
 address: 83 45 00 00
 command: 74 00 00 00
 #
-name: SURR_MODE:_HALL
+name: Surr_mode:_hall
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: 75 00 00 00
 #
-name: SURR_MODE:_STADIUM
+name: Surr_mode:_stadium
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: 76 00 00 00
 #
-name: SURR_MODE:_CHURCH
+name: Surr_mode:_church
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: 77 00 00 00
 #
-name: OPTICAL_1
+name: Optical_1
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: 79 00 00 00
 #
-name: ANALOG
+name: Analog
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: 7B 00 00 00
 #
-name: SURR_MODE:_TRUE_SURR
+name: Surr_mode:_true_surr
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: 7C 00 00 00
 #
-name: DIGITAL_INPUT
+name: Digital_input
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: E1 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: E3 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: E4 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: E5 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: 83 45 00 00
 command: E6 00 00 00
 #
-name: VIDEO_5
+name: Video_5
 type: parsed
 protocol: NECext
 address: 83 45 00 00

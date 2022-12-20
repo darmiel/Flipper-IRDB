@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: QUIT
+name: Quit
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 01 00 00 00
 #
-name: -_VERTICAL
+name: -_vertical
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 03 00 00 00
 #
-name: SET-UP
+name: Set-up
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 09 00 00 00
 #
-name: LIN_T-B_/_L-R
+name: Lin_t-b_/_l-r
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0B 00 00 00
 #
-name: SIZE
+name: Size
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0F 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 11 00 00 00
 #
-name: +_VERTICAL
+name: +_vertical
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1D 00 00 00
 #
-name: SKEW
+name: Skew
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 23 00 00 00
 #
-name: PIN
+name: Pin
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2B 00 00 00
 #
-name: S-ING_/_W-M
+name: S-ing_/_w-m
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2D 00 00 00
 #
-name: T/L_KEY
+name: T/l_key
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2F 00 00 00
 #
-name: T/L_PIN
+name: T/l_pin
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 31 00 00 00
 #
-name: T/L_S
+name: T/l_s
 type: parsed
 protocol: NECext
 address: 06 00 00 00

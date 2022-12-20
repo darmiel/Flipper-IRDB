@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 23 00 00 00
@@ -13,19 +13,19 @@ protocol: NECext
 address: 23 00 00 00
 command: 3C 00 00 00
 #
-name: 3D_SOUND_/_GREEN
+name: 3d_sound_/_green
 type: parsed
 protocol: NECext
 address: 23 00 00 00
 command: 3D 00 00 00
 #
-name: PIP_SOUND_/_YELLOW
+name: Pip_sound_/_yellow
 type: parsed
 protocol: NECext
 address: 23 00 00 00
 command: 3E 00 00 00
 #
-name: PIP_/_BLUE
+name: Pip_/_blue
 type: parsed
 protocol: NECext
 address: 23 00 00 00

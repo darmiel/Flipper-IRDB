@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: GREEN_+
+name: Green_+
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 00 00 00 00
 #
-name: BLUE_+
+name: Blue_+
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 01 00 00 00
 #
-name: SOUND_MODE
+name: Sound_mode
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 02 00 00 00
 #
-name: GREEN_-
+name: Green_-
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 03 00 00 00
 #
-name: BLUE_-
+name: Blue_-
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 04 00 00 00
 #
-name: WHITE
+name: White
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 05 00 00 00
 #
-name: MEMORY_2
+name: Memory_2
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 06 00 00 00
 #
-name: MEMORY_3
+name: Memory_3
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 07 00 00 00
 #
-name: MEMORY_4
+name: Memory_4
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 08 00 00 00
 #
-name: MEMORY_6
+name: Memory_6
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 09 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 0A 00 00 00
 #
-name: STEP
+name: Step
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
@@ -79,73 +79,73 @@ protocol: NECext
 address: 02 BD 00 00
 command: 0D 00 00 00
 #
-name: RED_+
+name: Red_+
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 0E 00 00 00
 #
-name: MEMORY_1
+name: Memory_1
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 0F 00 00 00
 #
-name: SLEEP_TIMER
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 10 00 00 00
 #
-name: COLOR
+name: Color
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 11 00 00 00
 #
-name: FAST_SPEED_(1_SEC)
+name: Fast_speed_(1_sec)
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 13 00 00 00
 #
-name: POWER:_OFF
+name: Power:_off
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 14 00 00 00
 #
-name: FADE
+name: Fade
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 15 00 00 00
 #
-name: MEMORY_7
+name: Memory_7
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 16 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 17 00 00 00
 #
-name: SLOW_SPEED_(60_SEC)
+name: Slow_speed_(60_sec)
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 18 00 00 00
 #
-name: POWER:_ON
+name: Power:_on
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 19 00 00 00
 #
-name: MEMORY_5
+name: Memory_5
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
@@ -157,7 +157,7 @@ protocol: NECext
 address: 02 BD 00 00
 command: 1B 00 00 00
 #
-name: MEDIUM_SPEED_(5_SEC)
+name: Medium_speed_(5_sec)
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 02 BD 00 00
 command: 1E 00 00 00
 #
-name: RED_-
+name: Red_-
 type: parsed
 protocol: NECext
 address: 02 BD 00 00

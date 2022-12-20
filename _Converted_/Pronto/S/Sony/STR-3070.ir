@@ -55,13 +55,13 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 1193 596 596 596 596 596 1193 596 1193 596 1193 596 596 596 1193 596 596 596 596 596 596 596 1193 24351
 #
-name: On-screen--POWER
+name: On-screen--power
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 1193 596 1193 596 596 596 596 596 1193 596 596 596 1193 596 596 596 596 596 596 596 596 596 1193 24948
 #
-name: Titler-POWER
+name: Titler-power
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -85,7 +85,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 596 596 596 596 596 596 1193 596 1193 596 1193 596 1193 596 596 596 596 596 1193 596 1193 596 596 24351
 #
-name: Cursor_Right
+name: Cursor_right
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -103,13 +103,13 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 596 596 596 596 1193 596 596 596 1193 596 596 596 1193 596 596 596 1193 596 596 596 596 596 1193 24948
 #
-name: S_Field_User/Pre
+name: S_field_user/pre
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 596 596 1193 596 1193 596 1193 596 1193 596 1193 596 1193 596 596 596 1193 596 596 596 596 596 1193 23159
 #
-name: S_Field_mode
+name: S_field_mode
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -133,7 +133,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 1193 596 596 596 1193 596 596 596 1193 596 596 596 1193 596 596 596 1193 596 596 596 596 596 1193 24351
 #
-name: POWER
+name: Power
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -151,7 +151,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 596 596 1193 596 596 596 1193 596 596 596 596 596 1193 596 596 596 1193 596 596 596 596 596 1193 24948
 #
-name: EQ-POWER
+name: Eq-power
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -169,7 +169,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 596 596 1193 596 1193 596 596 596 596 596 596 596 1193 596 596 596 596 596 596 596 596 596 1193 25544
 #
-name: CD
+name: Cd
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -211,7 +211,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 1193 596 1193 596 596 596 596 596 596 596 1193 596 596 596 596 596 596 596 596 596 596 596 1193 25544
 #
-name: DDS/DBFB
+name: Dds/dbfb
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -229,7 +229,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2361 596 596 596 596 596 1193 596 596 596 596 596 596 596 1193 596 596 596 596 596 596 596 596 596 1193 26141
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 40244
 duty_cycle: 0.330000

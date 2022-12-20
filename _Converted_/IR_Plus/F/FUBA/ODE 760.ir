@@ -10,7 +10,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 65 9A 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 8F 70 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 9F 60 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: FD 00 00 00
 command: A5 5A 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 27 D8 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 97 68 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -202,13 +202,13 @@ protocol: NECext
 address: FD 00 00 00
 command: 5D A2 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 9D 62 00 00
 #
-name: Txt Expand
+name: Txt_expand
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -232,13 +232,13 @@ protocol: NECext
 address: FD 00 00 00
 command: FF 00 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 3F C0 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -250,13 +250,13 @@ protocol: NECext
 address: FD 00 00 00
 command: DF 20 00 00
 #
-name: Sleep Timer
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: FD 02 00 00
 #
-name: On Pip
+name: On_pip
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -274,13 +274,13 @@ protocol: NECext
 address: FD 00 00 00
 command: FD 02 00 00
 #
-name: On/Tim
+name: On/tim
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 9D 62 00 00
 #
-name: Game Coo
+name: Game_coo
 type: parsed
 protocol: NECext
 address: FD 00 00 00

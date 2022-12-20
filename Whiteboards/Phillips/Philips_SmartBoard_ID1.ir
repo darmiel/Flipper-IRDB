@@ -49,7 +49,7 @@ protocol: RC6
 address: 00 00 00 00
 command: F5 00 00 00
 # 
-name: Aspect Rat
+name: Aspect_rat
 type: parsed
 protocol: RC6
 address: 00 00 00 00

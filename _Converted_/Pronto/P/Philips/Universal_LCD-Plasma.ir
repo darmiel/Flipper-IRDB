@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_OFF
+name: Power_off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 1745 872 872 89115
 #
-name: POWER_ON
+name: Power_on
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 872 872 872 872 872 872 1745 872 872 872 872 872 872 872 872 872 872 872 88215
 #
-name: AV_1
+name: Av_1
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 872 872 1745 872 872 1745 872 872 872 872 1745 1745 872 872 89115
 #
-name: AV_2
+name: Av_2
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 872 872 1745 872 872 872 872 872 872 872 872 1745 872 872 872 872 89115
 #
-name: HDMI_1
+name: Hdmi_1
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 872 872 1745 872 872 872 872 872 872 872 872 1745 872 872 1745 872 88215
 #
-name: HDMI_2
+name: Hdmi_2
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 872 872 872 872 872 872 1745 872 872 872 872 872 872 872 872 1745 1745 872 872 872 88215
 #
-name: SIDE
+name: Side
 type: raw
 frequency: 36683
 duty_cycle: 0.330000

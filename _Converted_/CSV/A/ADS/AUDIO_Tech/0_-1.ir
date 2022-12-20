@@ -7,7 +7,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -31,19 +31,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: T/S
+name: T/s
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -97,25 +97,25 @@ protocol: NECext
 address: 00 00 00 00
 command: 4F 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 53 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 57 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 58 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -127,19 +127,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 5A 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5B 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5C 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00

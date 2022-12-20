@@ -7,13 +7,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 00 00 00 00
 #
-name: TUNER_1
+name: Tuner_1
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 00 00 00 00
 #
-name: RADIO_CH_1
+name: Radio_ch_1
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -25,13 +25,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 01 00 00 00
 #
-name: TUNER_2
+name: Tuner_2
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 01 00 00 00
 #
-name: RADIO_CH_2
+name: Radio_ch_2
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -43,13 +43,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 02 00 00 00
 #
-name: TUNER_3
+name: Tuner_3
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 02 00 00 00
 #
-name: RADIO_CH_3
+name: Radio_ch_3
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 03 00 00 00
 #
-name: TUNER_4
+name: Tuner_4
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 03 00 00 00
 #
-name: RADIO_CH_4
+name: Radio_ch_4
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 04 00 00 00
 #
-name: TUNER_5
+name: Tuner_5
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 04 00 00 00
 #
-name: RADIO_CH_5
+name: Radio_ch_5
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -97,13 +97,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 05 00 00 00
 #
-name: TUNER_6
+name: Tuner_6
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 05 00 00 00
 #
-name: RADIO_CH_6
+name: Radio_ch_6
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -115,13 +115,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 06 00 00 00
 #
-name: TUNER_7
+name: Tuner_7
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 06 00 00 00
 #
-name: RADIO_CH_7
+name: Radio_ch_7
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 07 00 00 00
 #
-name: TUNER_8
+name: Tuner_8
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 07 00 00 00
 #
-name: RADIO_CH_8
+name: Radio_ch_8
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -151,13 +151,13 @@ protocol: NECext
 address: 0D 00 00 00
 command: 08 00 00 00
 #
-name: TUNER_9
+name: Tuner_9
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 08 00 00 00
 #
-name: RADIO_CH_9
+name: Radio_ch_9
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -169,103 +169,103 @@ protocol: NECext
 address: 0D 00 00 00
 command: 09 00 00 00
 #
-name: RADIO_CH_0
+name: Radio_ch_0
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 09 00 00 00
 #
-name: TUNER_MEMORY
+name: Tuner_memory
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 0E 00 00 00
 #
-name: TUNER_AM/FM
+name: Tuner_am/fm
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 0F 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 0F 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 10 00 00 00
 #
-name: TUNER_PRESET
+name: Tuner_preset
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 10 00 00 00
 #
-name: CH/PRESET_+
+name: Ch/preset_+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 10 00 00 00
 #
-name: CH._PRESET_+
+name: Ch._preset_+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 10 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 10 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 11 00 00 00
 #
-name: CH/PRESET_-
+name: Ch/preset_-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 11 00 00 00
 #
-name: CH._PRESET_-
+name: Ch._preset_-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 11 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 11 00 00 00
 #
-name: SCAN_+
+name: Scan_+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 12 00 00 00
 #
-name: TUNER_(-)
+name: Tuner_(-)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 13 00 00 00
 #
-name: SCAN_-
+name: Scan_-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 13 00 00 00
 #
-name: TUNER_PRESET_A
+name: Tuner_preset_a
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -277,7 +277,7 @@ protocol: NECext
 address: 0D 00 00 00
 command: 30 00 00 00
 #
-name: TUNER_PRESET_B
+name: Tuner_preset_b
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -289,7 +289,7 @@ protocol: NECext
 address: 0D 00 00 00
 command: 31 00 00 00
 #
-name: TUNER_PRESET_C
+name: Tuner_preset_c
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
@@ -307,55 +307,55 @@ protocol: NECext
 address: 0D 00 00 00
 command: 33 00 00 00
 #
-name: TUNER_SHIFT
+name: Tuner_shift
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 33 00 00 00
 #
-name: RADIO_CH_>10
+name: Radio_ch_>10
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 33 00 00 00
 #
-name: SHIFT/_>10
+name: Shift/_>10
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 33 00 00 00
 #
-name: SHIFT
+name: Shift
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 33 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 52 00 00 00
 #
-name: DIRECT_TUNE/ENTER
+name: Direct_tune/enter
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 53 00 00 00
 #
-name: TUNER_DIRECT_INPUT
+name: Tuner_direct_input
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 53 00 00 00
 #
-name: RADIO_D.TUNNING
+name: Radio_d.tunning
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 53 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 0D 00 00 00

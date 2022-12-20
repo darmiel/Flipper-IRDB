@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT_SELECT
+name: Input_select
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 13 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 17 00 00 00
 #
-name: STATUS
+name: Status
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 39 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 57 00 00 00
 #
-name: ADJUSTMENT_+
+name: Adjustment_+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 9C 00 00 00
 #
-name: ADJUSTMENT_-
+name: Adjustment_-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 9D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0D 00 00 00

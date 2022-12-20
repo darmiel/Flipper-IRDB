@@ -1,559 +1,559 @@
 Filetype: IR signals file
 Version: 1
 #
-name: tv/0
+name: Tv/0
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: vcr/0
+name: Vcr/0
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 00 00 00 00
 #
-name: tv/1
+name: Tv/1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: vcr/1
+name: Vcr/1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 01 00 00 00
 #
-name: tv/2
+name: Tv/2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: vcr/2
+name: Vcr/2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 02 00 00 00
 #
-name: tv/3
+name: Tv/3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: vcr/3
+name: Vcr/3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 03 00 00 00
 #
-name: tv/4
+name: Tv/4
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: vcr/4
+name: Vcr/4
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 04 00 00 00
 #
-name: tv/5
+name: Tv/5
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: vcr/5
+name: Vcr/5
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 05 00 00 00
 #
-name: tv/6
+name: Tv/6
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: vcr/6
+name: Vcr/6
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 06 00 00 00
 #
-name: tv/7
+name: Tv/7
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: vcr/7
+name: Vcr/7
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 07 00 00 00
 #
-name: tv/8
+name: Tv/8
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: vcr/8
+name: Vcr/8
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 08 00 00 00
 #
-name: tv/9
+name: Tv/9
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: vcr/9
+name: Vcr/9
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: tv/digits
+name: Tv/digits
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: vcr/digits
+name: Vcr/digits
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0A 00 00 00
 #
-name: tv/sdigits
+name: Tv/sdigits
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: vcr/stt.suspend
+name: Vcr/stt.suspend
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0B 00 00 00
 #
-name: tv/standby
+name: Tv/standby
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: vcr/standby
+name: Vcr/standby
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: tv/MUTE
+name: Tv/mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: tv/s1
+name: Tv/s1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: vcr/s1
+name: Vcr/s1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0E 00 00 00
 #
-name: tv/sext
+name: Tv/sext
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: tv/sok
+name: Tv/sok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: vcr/select
+name: Vcr/select
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0F 00 00 00
 #
-name: tv/volume+
+name: Tv/volume+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: tv/volume-
+name: Tv/volume-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: tv/s5
+name: Tv/s5
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: vcr/tt.suspend
+name: Vcr/tt.suspend
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1D 00 00 00
 #
-name: tv/program+
+name: Tv/program+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: vcr/program+
+name: Vcr/program+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: tv/program-
+name: Tv/program-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: vcr/program-
+name: Vcr/program-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: tv/s0
+name: Tv/s0
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: tv/smute
+name: Tv/smute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: vcr/sbackward
+name: Vcr/sbackward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 25 00 00 00
 #
-name: vcr/sforward
+name: Vcr/sforward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: tv/tt.suspend
+name: Tv/tt.suspend
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: vcr/spause
+name: Vcr/spause
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: tv/s3
+name: Tv/s3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: tv/tt.enlarge
+name: Tv/tt.enlarge
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: tv/s4
+name: Tv/s4
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: tv/s2
+name: Tv/s2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: vcr/pause
+name: Vcr/pause
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 30 00 00 00
 #
-name: vcr/sdisplay
+name: Vcr/sdisplay
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 31 00 00 00
 #
-name: vcr/backward
+name: Vcr/backward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 32 00 00 00
 #
-name: vcr/forward
+name: Vcr/forward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 34 00 00 00
 #
-name: vcr/play
+name: Vcr/play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: vcr/stop
+name: Vcr/stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 36 00 00 00
 #
-name: vcr/record
+name: Vcr/record
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 37 00 00 00
 #
-name: tv/ext
+name: Tv/ext
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: vcr/ext
+name: Vcr/ext
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 38 00 00 00
 #
-name: vcr/stt.enlarge
+name: Vcr/stt.enlarge
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3A 00 00 00
 #
-name: tv/text
+name: Tv/text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: vcr/text
+name: Vcr/text
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3C 00 00 00
 #
-name: vcr/stext
+name: Vcr/stext
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3D 00 00 00
 #
-name: tv/select
+name: Tv/select
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: vcr/tt.enlarge
+name: Vcr/tt.enlarge
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 45 00 00 00
 #
-name: vcr/s3
+name: Vcr/s3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 48 00 00 00
 #
-name: vcr/s2
+name: Vcr/s2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 49 00 00 00
 #
-name: tv/s9
+name: Tv/s9
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4D 00 00 00
 #
-name: tv/s7
+name: Tv/s7
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4E 00 00 00
 #
-name: tv/sprogram+
+name: Tv/sprogram+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 50 00 00 00
 #
-name: vcr/sprogram+
+name: Vcr/sprogram+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 50 00 00 00
 #
-name: tv/sprogram-
+name: Tv/sprogram-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 51 00 00 00
 #
-name: vcr/sprogram-
+name: Vcr/sprogram-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 51 00 00 00
 #
-name: tv/menu
+name: Tv/menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 52 00 00 00
 #
-name: vcr/menu
+name: Vcr/menu
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 52 00 00 00
 #
-name: vcr/smenu
+name: Vcr/smenu
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 53 00 00 00
 #
-name: tv/svol-
+name: Tv/svol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 55 00 00 00
 #
-name: vcr/svol-
+name: Vcr/svol-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 55 00 00 00
 #
-name: tv/svol+
+name: Tv/svol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 56 00 00 00
 #
-name: vcr/svol+
+name: Vcr/svol+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 56 00 00 00
 #
-name: tv/ok
+name: Tv/ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 57 00 00 00
 #
-name: vcr/ok
+name: Vcr/ok
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 57 00 00 00
 #
-name: tv/s6
+name: Tv/s6
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 58 00 00 00
 #
-name: tv/red
+name: Tv/red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6B 00 00 00
 #
-name: tv/green
+name: Tv/green
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6C 00 00 00
 #
-name: tv/yellow
+name: Tv/yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6D 00 00 00
 #
-name: tv/blue
+name: Tv/blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6E 00 00 00
 #
-name: tv/grey
+name: Tv/grey
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6F 00 00 00
 #
-name: vcr/splay
+name: Vcr/splay
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 70 00 00 00
 #
-name: vcr/sstop
+name: Vcr/sstop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 71 00 00 00
 #
-name: tv/smenu
+name: Tv/smenu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 7A 00 00 00
 #
-name: vcr/sok
+name: Vcr/sok
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 7D 00 00 00
 #
-name: tv/s8
+name: Tv/s8
 type: parsed
 protocol: NECext
 address: 00 00 00 00

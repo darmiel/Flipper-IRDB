@@ -19,55 +19,55 @@ protocol: NECext
 address: C8 91 00 00
 command: 71 8E 00 00
 # 
-name: Tv_ARC
+name: Tv_arc
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 0F F0 00 00
 # 
-name: OPT
+name: Opt
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 0E F1 00 00
 # 
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 0D F2 00 00
 # 
-name: Main_Up
+name: Main_up
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 1E E1 00 00
 # 
-name: Main_Down
+name: Main_down
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 1F E0 00 00
 # 
-name: Bass_Up
+name: Bass_up
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 5C A3 00 00
 # 
-name: Bas_Down
+name: Bas_down
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 5D A2 00 00
 # 
-name: Voice_Up
+name: Voice_up
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 6A 95 00 00
 # 
-name: Voice_Down
+name: Voice_down
 type: parsed
 protocol: NECext
 address: C8 91 00 00

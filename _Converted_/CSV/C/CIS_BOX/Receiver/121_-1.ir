@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 10 00 00 00
 #
-name: PRE_UP
+name: Pre_up
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 10 00 00 00
 #
-name: PRESET_DN
+name: Preset_dn
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 11 00 00 00
 #
-name: PRE_DN
+name: Pre_dn
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 12 00 00 00
 #
-name: VOL_DN
+name: Vol_dn
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 14 00 00 00
 #
-name: VID2
+name: Vid2
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1E 00 00 00
 #
-name: VID_2
+name: Vid_2
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1E 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 21 00 00 00
 #
-name: VID1
+name: Vid1
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 22 00 00 00
 #
-name: VID_1
+name: Vid_1
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 22 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 23 00 00 00
 #
-name: MD_TAPE
+name: Md_tape
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 23 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 25 00 00 00
 #
-name: CD/SACD
+name: Cd/sacd
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 25 00 00 00
 #
-name: PWR_ON
+name: Pwr_on
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 2E 00 00 00
 #
-name: PWR_OFF
+name: Pwr_off
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 2F 00 00 00
 #
-name: VID3
+name: Vid3
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 42 00 00 00
 #
-name: VID4
+name: Vid4
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 43 00 00 00
 #
-name: MD
+name: Md
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 69 00 00 00
 #
-name: TV/_SAT/_CABLE
+name: Tv/_sat/_cable
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 6A 00 00 00
 #
-name: TV_SAT
+name: Tv_sat
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 6A 00 00 00
 #
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 6B 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 79 00 00 00

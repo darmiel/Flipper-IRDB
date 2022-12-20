@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: X_2_LNB
+name: X_2_lnb
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 00 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 02 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 03 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 04 00 00 00
 #
-name: TV/SAT
+name: Tv/sat
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 05 00 00 00
 #
-name: N/W
+name: N/w
 type: parsed
 protocol: NECext
 address: 08 40 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 08 40 00 00
 command: 0A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 08 40 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 08 40 00 00
 command: 0E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 0F 00 00 00
 #
-name: B/W
+name: B/w
 type: parsed
 protocol: NECext
 address: 08 40 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 08 40 00 00
 command: 12 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 08 40 00 00
@@ -115,43 +115,43 @@ protocol: NECext
 address: 08 40 00 00
 command: 15 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 16 00 00 00
 #
-name: V/H
+name: V/h
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 19 00 00 00
 #
-name: C/KU
+name: C/ku
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 1A 00 00 00
 #
-name: SKEW
+name: Skew
 type: parsed
 protocol: NECext
 address: 08 40 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 08 40 00 00

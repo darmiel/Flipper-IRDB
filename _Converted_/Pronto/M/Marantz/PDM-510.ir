@@ -2,14 +2,14 @@ Filetype: IR signals file
 Version: 1
 #
 # Deck-A [raw] {11110010-101100}
-name: Deck-A
+name: Deck-a
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2C 00 00 00
 #
 # Deck-B [raw] {11110010-101110}
-name: Deck-B
+name: Deck-b
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -37,7 +37,7 @@ address: 12 00 00 00
 command: 37 00 00 00
 #
 # Record-MUTE [raw] {11110010-101010}
-name: Record-MUTE
+name: Record-mute
 type: parsed
 protocol: RC5
 address: 12 00 00 00

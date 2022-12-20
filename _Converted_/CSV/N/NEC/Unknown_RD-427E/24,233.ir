@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -19,13 +19,13 @@ protocol: NECext
 address: 18 E9 00 00
 command: 05 00 00 00
 #
-name: Auto_Adj
+name: Auto_adj
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 06 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -43,73 +43,73 @@ protocol: NECext
 address: 18 E9 00 00
 command: 10 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 14 00 00 00
 #
-name: Lamp_Mode
+name: Lamp_mode
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 16 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 17 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 25 00 00 00
 #
-name: PAGEUP
+name: Pageup
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 2A 00 00 00
 #
-name: PAGEDOWN
+name: Pagedown
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 2B 00 00 00
 #
-name: Mouse_L-Click
+name: Mouse_l-click
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 2C 00 00 00
 #
-name: Mouse_R-Click
+name: Mouse_r-click
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 2D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 46 00 00 00
 #
-name: Pic-MUTE
+name: Pic-mute
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 47 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 48 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 18 E9 00 00
 command: 4C 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -139,31 +139,31 @@ protocol: NECext
 address: 18 E9 00 00
 command: 8A 00 00 00
 #
-name: Cursor_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: B8 00 00 00
 #
-name: Cursor_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: BA 00 00 00
 #
-name: Cursor_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: BC 00 00 00
 #
-name: Cursor_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: BE 00 00 00
 #
-name: S-Video
+name: S-video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00

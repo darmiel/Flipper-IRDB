@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 02 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 03 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 06 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 07 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 08 00 00 00
 #
-name: STILL
+name: Still
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 09 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 0A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 0D 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 0E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 0F 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 89 77 00 00
@@ -85,103 +85,103 @@ protocol: NECext
 address: 89 77 00 00
 command: 14 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 16 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 17 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 18 00 00 00
 #
-name: SPEED_UP
+name: Speed_up
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 1A 00 00 00
 #
-name: SPEED_DOWN
+name: Speed_down
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 1B 00 00 00
 #
-name: VID_MODE
+name: Vid_mode
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 4E 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 50 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 51 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 53 00 00 00
 #
-name: PROG_LIST
+name: Prog_list
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 54 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 55 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 56 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 58 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 59 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 5C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 5D 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 89 77 00 00

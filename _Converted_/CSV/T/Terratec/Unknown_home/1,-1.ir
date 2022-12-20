@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 00 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: +/-5dB
+name: +/-5db
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: CENTER_-
+name: Center_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: CENTER_+
+name: Center_+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: SURROUND_-
+name: Surround_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: SURROUND_+
+name: Surround_+
 type: parsed
 protocol: NECext
 address: 01 00 00 00

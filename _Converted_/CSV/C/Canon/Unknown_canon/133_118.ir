@@ -1,181 +1,181 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 00 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 02 00 00 00
 #
-name: start/stop
+name: Start/stop
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 03 00 00 00
 #
-name: remote_set
+name: Remote_set
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 04 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 05 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 10 00 00 00
 #
-name: self_timer
+name: Self_timer
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 12 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 17 00 00 00
 #
-name: tv_screen
+name: Tv_screen
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 1B 00 00 00
 #
-name: ZOOMIN
+name: Zoomin
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 1C 00 00 00
 #
-name: ZOOMOUT
+name: Zoomout
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 1D 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 20 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 21 00 00 00
 #
-name: set
+name: Set
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 24 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 25 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 27 00 00 00
 #
-name: d.effects
+name: D.effects
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 28 00 00 00
 #
-name: data_code
+name: Data_code
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 31 00 00 00
 #
-name: zero_set_memory
+name: Zero_set_memory
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 32 00 00 00
 #
-name: audio_dub.
+name: Audio_dub.
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 33 00 00 00
 #
-name: search_select
+name: Search_select
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 34 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 35 00 00 00
 #
-name: bwd
+name: Bwd
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 36 00 00 00
 #
-name: audio_monitor
+name: Audio_monitor
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 39 00 00 00
 #
-name: st-2
+name: St-2
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 3A 00 00 00
 #
-name: st-1
+name: St-1
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 3B 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 85 76 00 00
 command: 50 00 00 00
 #
-name: x2
+name: X2
 type: parsed
 protocol: NECext
 address: 85 76 00 00

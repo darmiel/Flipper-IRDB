@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MONO_T0
+name: Mono_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1C 00 00 00
 #
-name: MONO_T1
+name: Mono_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1C 00 00 00
 #
-name: -_(SCAN/TUNE)_T0
+name: -_(scan/tune)_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 22 00 00 00
 #
-name: -_(SCAN/TUNE)_T1
+name: -_(scan/tune)_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 22 00 00 00
 #
-name: +_(SCAN/TUNE)_T0
+name: +_(scan/tune)_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 28 00 00 00
 #
-name: +_(SCAN/TUNE)_T1
+name: +_(scan/tune)_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 28 00 00 00
 #
-name: BAND_T0
+name: Band_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: BAND_T1
+name: Band_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: STORE_T0
+name: Store_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 37 00 00 00
 #
-name: STORE_T1
+name: Store_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 37 00 00 00
 #
-name: PRESET_T0
+name: Preset_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: PRESET_T1
+name: Preset_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: SIGNAL_T0
+name: Signal_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 39 00 00 00
 #
-name: SIGNAL_T1
+name: Signal_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 39 00 00 00
 #
-name: TUNE_T0
+name: Tune_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: TUNE_T1
+name: Tune_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: SCAN_T0
+name: Scan_t0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3B 00 00 00
 #
-name: SCAN_T1
+name: Scan_t1
 type: parsed
 protocol: NECext
 address: 11 00 00 00

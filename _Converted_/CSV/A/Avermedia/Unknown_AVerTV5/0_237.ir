@@ -61,121 +61,121 @@ protocol: NECext
 address: 00 ED 00 00
 command: 0A 00 00 00
 #
-name: mts-stero
+name: Mts-stero
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 0B 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 0C 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 0F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 10 00 00 00
 #
-name: av-pc
+name: Av-pc
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 12 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 13 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 14 00 00 00
 #
-name: picture
+name: Picture
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 15 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 18 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 1A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 1B 00 00 00
 #
-name: ch-rtn
+name: Ch-rtn
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 1C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 1F 00 00 00
 #
-name: pip-ch
+name: Pip-ch
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 41 00 00 00
 #
-name: pip-pos
+name: Pip-pos
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 42 00 00 00
 #
-name: pip
+name: Pip
 type: parsed
 protocol: NECext
 address: 00 ED 00 00
 command: 43 00 00 00
 #
-name: bgm-res
+name: Bgm-res
 type: parsed
 protocol: NECext
 address: 00 ED 00 00

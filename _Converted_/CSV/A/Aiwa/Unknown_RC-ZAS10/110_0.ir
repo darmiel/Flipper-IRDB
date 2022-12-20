@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -73,43 +73,43 @@ protocol: NECext
 address: 6E 00 00 00
 command: 0B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 40 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 41 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 42 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 43 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 44 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 4D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 6E 00 00 00

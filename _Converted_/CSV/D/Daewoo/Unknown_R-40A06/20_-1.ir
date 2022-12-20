@@ -61,19 +61,19 @@ protocol: NECext
 address: 14 00 00 00
 command: 09 00 00 00
 #
-name: sleep
+name: Sleep
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0D 00 00 00
 #
-name: recall
+name: Recall
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 11 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 14 00 00 00
 command: 14 00 00 00
 #
-name: off
+name: Off
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 15 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: 14 00 00 00
 command: 17 00 00 00
 #
-name: down
+name: Down
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 18 00 00 00
 #
-name: center
+name: Center
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -127,31 +127,31 @@ protocol: NECext
 address: 14 00 00 00
 command: 25 00 00 00
 #
-name: Normal--Ok
+name: Normal--ok
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 27 00 00 00
 #
-name: skip
+name: Skip
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 32 00 00 00
 #
-name: move
+name: Move
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 33 00 00 00
 #
-name: delete
+name: Delete
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 34 00 00 00
 #
-name: mode
+name: Mode
 type: parsed
 protocol: NECext
 address: 14 00 00 00

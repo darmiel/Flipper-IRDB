@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 8F 00 00 00
 command: 84 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 8F 00 00 00
 command: 85 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 8F 00 00 00

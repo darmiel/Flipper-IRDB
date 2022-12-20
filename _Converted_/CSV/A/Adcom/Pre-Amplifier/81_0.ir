@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 00 00 00 00
 #
-name: TUNING_<
+name: Tuning_<
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 02 00 00 00
 #
-name: TUNING_-
+name: Tuning_-
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 02 00 00 00
 #
-name: TUNING_>
+name: Tuning_>
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 03 00 00 00
 #
-name: TUNING_+
+name: Tuning_+
 type: parsed
 protocol: NECext
 address: 51 00 00 00
@@ -79,109 +79,109 @@ protocol: NECext
 address: 51 00 00 00
 command: 0B 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 0C 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 0D 00 00 00
 #
-name: VIDEO/TAPE_2
+name: Video/tape_2
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 0E 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 10 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 11 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 12 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 13 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 13 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 17 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 17 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 19 00 00 00
 #
-name: TRACK_<<
+name: Track_<<
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 1A 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 1A 00 00 00
 #
-name: TRACK_>>
+name: Track_>>
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 1B 00 00 00
 #
-name: VOLUME_<
+name: Volume_<
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 1E 00 00 00
 #
-name: VOLUME_>
+name: Volume_>
 type: parsed
 protocol: NECext
 address: 51 00 00 00
 command: 1F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 51 00 00 00

@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: vcr1
+name: Vcr1
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0F 00 00 00
 #
-name: tuner+
+name: Tuner+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 10 00 00 00
 #
-name: tuner-
+name: Tuner-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
@@ -25,109 +25,109 @@ protocol: NECext
 address: 7A 00 00 00
 command: 12 00 00 00
 #
-name: vcr2
+name: Vcr2
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 13 00 00 00
 #
-name: phono
+name: Phono
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 14 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 15 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 16 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 17 00 00 00
 #
-name: tape/md
+name: Tape/md
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 18 00 00 00
 #
-name: volume^
+name: Volume^
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1D 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1E 00 00 00
 #
-name: tv/dbs
+name: Tv/dbs
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 54 00 00 00
 #
-name: v-aux
+name: V-aux
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 55 00 00 00
 #
-name: effect
+name: Effect
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 56 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 57 00 00 00
 #
-name: test
+name: Test
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 85 00 00 00
 #
-name: level
+name: Level
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 86 00 00 00
 #
-name: decoder
+name: Decoder
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
@@ -193,55 +193,55 @@ protocol: NECext
 address: 7A 00 00 00
 command: 91 00 00 00
 #
-name: setV
+name: Setv
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 9C 00 00 00
 #
-name: set^
+name: Set^
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 9D 00 00 00
 #
-name: set+
+name: Set+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 9E 00 00 00
 #
-name: set-
+name: Set-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 9F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: C2 00 00 00
 #
-name: parameterV
+name: Parameterv
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: C4 00 00 00
 #
-name: parameter^
+name: Parameter^
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: C5 00 00 00
 #
-name: parameter+
+name: Parameter+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: C6 00 00 00
 #
-name: parameter-
+name: Parameter-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

@@ -61,175 +61,175 @@ protocol: NECext
 address: 44 00 00 00
 command: 0A 00 00 00
 #
-name: track_down
+name: Track_down
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0E 00 00 00
 #
-name: track_up
+name: Track_up
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 10 00 00 00
 #
-name: tv/vcr
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 12 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 13 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 14 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 15 00 00 00
 #
-name: tv/catv
+name: Tv/catv
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 17 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 18 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 19 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 1B 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 1F 00 00 00
 #
-name: index
+name: Index
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 46 00 00 00
 #
-name: shift_right
+name: Shift_right
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 4D 00 00 00
 #
-name: timer_record
+name: Timer_record
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 4F 00 00 00
 #
-name: shift_left
+name: Shift_left
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 51 00 00 00
 #
-name: otr_right
+name: Otr_right
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 5B 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 5C 00 00 00
 #
-name: tape_speed
+name: Tape_speed
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 5D 00 00 00
 #
-name: tv/line
+name: Tv/line
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 5F 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 83 00 00 00
 #
-name: zero_return
+name: Zero_return
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 87 00 00 00
 #
-name: counter_reset
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 96 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: A0 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: A1 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: A2 00 00 00
 #
-name: otr_left
+name: Otr_left
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: AC 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 44 00 00 00

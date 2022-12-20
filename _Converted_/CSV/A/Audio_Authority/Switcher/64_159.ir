@@ -43,55 +43,55 @@ protocol: NECext
 address: 40 9F 00 00
 command: 0B 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 0C 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 10 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 11 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 13 00 00 00
 #
-name: ZONE
+name: Zone
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 14 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 16 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 17 00 00 00
 #
-name: ALL
+name: All
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 18 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
@@ -103,13 +103,13 @@ protocol: NECext
 address: 40 9F 00 00
 command: 1B 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 40 9F 00 00
 command: 1E 00 00 00
 #
-name: UNIT
+name: Unit
 type: parsed
 protocol: NECext
 address: 40 9F 00 00

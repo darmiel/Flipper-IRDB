@@ -61,79 +61,79 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: PP
+name: Pp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: VOL_p
+name: Vol_p
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: VOL+m
+name: Vol+m
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: PlP
+name: Plp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: i-ii
+name: I-ii
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -181,37 +181,37 @@ protocol: NECext
 address: 00 00 00 00
 command: 2F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: feature
+name: Feature
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: install
+name: Install
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: picture
+name: Picture
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: sound
+name: Sound
 type: parsed
 protocol: NECext
 address: 00 00 00 00

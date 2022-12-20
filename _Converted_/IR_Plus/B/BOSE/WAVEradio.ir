@@ -10,19 +10,19 @@ protocol: NECext
 address: A2 5D 00 00
 command: CD 32 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
 command: 5F A0 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
 command: 0F F0 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
@@ -34,7 +34,7 @@ protocol: NECext
 address: A2 5D 00 00
 command: 7F 80 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
@@ -76,37 +76,37 @@ protocol: NECext
 address: A2 5D 00 00
 command: CF 30 00 00
 #
-name: TUNE+
+name: Tune+
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
 command: F7 08 00 00
 #
-name: STATION
+name: Station
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
 command: DF 20 00 00
 #
-name: TUNE-
+name: Tune-
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
 command: 77 88 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
 command: 87 78 00 00
 #
-name: ALARM/TIME
+name: Alarm/time
 type: parsed
 protocol: NECext
 address: A2 5D 00 00
 command: B7 48 00 00
 #
-name: ALARM/WAKEUPTO
+name: Alarm/wakeupto
 type: parsed
 protocol: NECext
 address: A2 5D 00 00

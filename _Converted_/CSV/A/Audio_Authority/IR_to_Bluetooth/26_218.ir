@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAYSTATION
+name: Playstation
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 15 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 16 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 1A DA 00 00
 command: 52 00 00 00
 #
-name: START
+name: Start
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 1A DA 00 00
 command: 5B 00 00 00
 #
-name: TRIANGLE
+name: Triangle
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 5C 00 00 00
 #
-name: CIRCLE
+name: Circle
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
@@ -79,67 +79,67 @@ protocol: NECext
 address: 1A DA 00 00
 command: 5E 00 00 00
 #
-name: SQUARE
+name: Square
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 5F 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 6B 00 00 00
 #
-name: MACRO_1
+name: Macro_1
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 6C 00 00 00
 #
-name: MACRO_2
+name: Macro_2
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 6D 00 00 00
 #
-name: MACRO_3
+name: Macro_3
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 6E 00 00 00
 #
-name: MACRO_4
+name: Macro_4
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 6F 00 00 00
 #
-name: MACRO_5
+name: Macro_5
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 70 00 00 00
 #
-name: MACRO_6
+name: Macro_6
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 71 00 00 00
 #
-name: MACRO_7
+name: Macro_7
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 72 00 00 00
 #
-name: MACRO_8
+name: Macro_8
 type: parsed
 protocol: NECext
 address: 1A DA 00 00
 command: 73 00 00 00
 #
-name: MACRO_9
+name: Macro_9
 type: parsed
 protocol: NECext
 address: 1A DA 00 00

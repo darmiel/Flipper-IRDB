@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWERToggle
+name: Powertoggle
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 0C 00 00 00
 # 
-name: VolumeUp
+name: Volumeup
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 02 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 05 00 00 00
 # 
-name: VolumeMute
+name: Volumemute
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 08 00 00 00
 # 
-name: ChannelUp
+name: Channelup
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 09 00 00 00
 # 
-name: ChannelDown
+name: Channeldown
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 06 00 00 00
 # 
-name: FM
+name: Fm
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 16 00 00 00
 # 
-name: BassUp
+name: Bassup
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 01 00 00 00
 # 
-name: BassDown
+name: Bassdown
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 04 00 00 00
 # 
-name: InputAux
+name: Inputaux
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 17 00 00 00
 # 
-name: InputBT
+name: Inputbt
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 0F 00 00 00
 # 
-name: InputLine
+name: Inputline
 type: parsed
 protocol: NEC
 address: 20 00 00 00
@@ -91,13 +91,13 @@ protocol: NEC
 address: 20 00 00 00
 command: 07 00 00 00
 # 
-name: TrebleUp
+name: Trebleup
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 00 00 00 00
 # 
-name: TrebleDown
+name: Trebledown
 type: parsed
 protocol: NEC
 address: 20 00 00 00

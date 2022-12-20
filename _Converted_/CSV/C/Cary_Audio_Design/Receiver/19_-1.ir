@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 41 00 00 00
 #
-name: AUTO_DETECT
+name: Auto_detect
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 43 00 00 00
 #
-name: PLIIX
+name: Pliix
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -25,37 +25,37 @@ protocol: NECext
 address: 13 00 00 00
 command: 45 00 00 00
 #
-name: CES_7.1
+name: Ces_7.1
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 46 00 00 00
 #
-name: AUTO_DECODE
+name: Auto_decode
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 48 00 00 00
 #
-name: NEO_96/24
+name: Neo_96/24
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 49 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 4C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 4D 00 00 00
 #
-name: ZONE
+name: Zone
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -67,127 +67,127 @@ protocol: NECext
 address: 13 00 00 00
 command: 4F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 50 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 51 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 54 00 00 00
 #
-name: 7.1_A
+name: 7.1_a
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 55 00 00 00
 #
-name: 2XF
+name: 2xf
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 57 00 00 00
 #
-name: 7.1_B
+name: 7.1_b
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 58 00 00 00
 #
-name: LATE
+name: Late
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 59 00 00 00
 #
-name: 1/_DVD
+name: 1/_dvd
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 5C 00 00 00
 #
-name: 4/_CD
+name: 4/_cd
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 5D 00 00 00
 #
-name: 7/_TV
+name: 7/_tv
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 5E 00 00 00
 #
-name: 3/_DVCR
+name: 3/_dvcr
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 5F 00 00 00
 #
-name: SUR._MODE
+name: Sur._mode
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 60 00 00 00
 #
-name: INPUT_+
+name: Input_+
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 61 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 62 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 63 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 64 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 65 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 66 00 00 00
 #
-name: 6/_TUNER
+name: 6/_tuner
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 70 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 71 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -211,25 +211,25 @@ protocol: NECext
 address: 13 00 00 00
 command: 75 00 00 00
 #
-name: 9/_DIRECT
+name: 9/_direct
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 78 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 79 00 00 00
 #
-name: INPUT_-
+name: Input_-
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 7C 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 13 00 00 00

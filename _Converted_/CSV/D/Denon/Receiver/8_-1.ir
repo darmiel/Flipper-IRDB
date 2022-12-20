@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_REPEAT
+name: Cd_repeat
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 54 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 54 00 00 00
 #
-name: CD_SKIP_>>
+name: Cd_skip_>>
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 58 00 00 00
 #
-name: SKIP_+
+name: Skip_+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 58 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 58 00 00 00
 #
-name: CD-FF
+name: Cd-ff
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 58 00 00 00
 #
-name: CD_SEARCH_>>_(>>)
+name: Cd_search_>>_(>>)
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 58 00 00 00
 #
-name: CD_SKIP_<<
+name: Cd_skip_<<
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 59 00 00 00
 #
-name: SKIP_-
+name: Skip_-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 59 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 59 00 00 00
 #
-name: CD-RW
+name: Cd-rw
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 59 00 00 00
 #
-name: CD_SEARCH_<<_(<<)
+name: Cd_search_<<_(<<)
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 59 00 00 00
 #
-name: CD_SCAN_>>
+name: Cd_scan_>>
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -85,31 +85,31 @@ protocol: NECext
 address: 08 00 00 00
 command: 5A 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5A 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5A 00 00 00
 #
-name: CD-SEARCH+
+name: Cd-search+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5A 00 00 00
 #
-name: CD_SCAN_FWD_>>
+name: Cd_scan_fwd_>>
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5A 00 00 00
 #
-name: CD_SCAN_<<
+name: Cd_scan_<<
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -121,187 +121,187 @@ protocol: NECext
 address: 08 00 00 00
 command: 5B 00 00 00
 #
-name: REV
+name: Rev
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5B 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5B 00 00 00
 #
-name: CD-SEACH-
+name: Cd-seach-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5B 00 00 00
 #
-name: CD_SCAN_REV_<<
+name: Cd_scan_rev_<<
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5B 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5C 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5C 00 00 00
 #
-name: CD-PLAY
+name: Cd-play
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5C 00 00 00
 #
-name: CD_PAUSE_
+name: Cd_pause_
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5D 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5D 00 00 00
 #
-name: PAUSE_A/B
+name: Pause_a/b
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5D 00 00 00
 #
-name: CD-PAUSE
+name: Cd-pause
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5D 00 00 00
 #
-name: CD_PAUSE_(A/B)
+name: Cd_pause_(a/b)
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5D 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5E 00 00 00
 #
-name: CD-STOP
+name: Cd-stop
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5E 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 64 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 65 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 66 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 67 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 68 00 00 00
 #
-name: DISC_6
+name: Disc_6
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 69 00 00 00
 #
-name: CD_RANDOM
+name: Cd_random
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6A 00 00 00
 #
-name: CD_DISC_SKIP
+name: Cd_disc_skip
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6B 00 00 00
 #
-name: SKIP_-
+name: Skip_-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6B 00 00 00
 #
-name: SKIP_+_REV
+name: Skip_+_rev
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6B 00 00 00
 #
-name: CD_DISC_SKIP_+
+name: Cd_disc_skip_+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6B 00 00 00
 #
-name: CD_DISC_SKIP_+_(POW)
+name: Cd_disc_skip_+_(pow)
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6B 00 00 00
 #
-name: CD-SKIP_DISC+
+name: Cd-skip_disc+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6B 00 00 00
 #
-name: CD_DISC_SKIP_(<)
+name: Cd_disc_skip_(<)
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -373,259 +373,259 @@ protocol: NECext
 address: 08 00 00 00
 command: 8C 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 8D 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 90 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 91 00 00 00
 #
-name: DVD-MENU
+name: Dvd-menu
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 91 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 92 00 00 00
 #
-name: DVD-RETURN
+name: Dvd-return
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 92 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 98 00 00 00
 #
-name: DVD-FF
+name: Dvd-ff
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 98 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 99 00 00 00
 #
-name: DVD-RW
+name: Dvd-rw
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 99 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 9A 00 00 00
 #
-name: DVD-SEARCH+
+name: Dvd-search+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 9A 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 9B 00 00 00
 #
-name: DVD-SEARCH-
+name: Dvd-search-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 9B 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 9D 00 00 00
 #
-name: DVD-PAUSE
+name: Dvd-pause
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 9D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A0 00 00 00
 #
-name: DVD-PLAY
+name: Dvd-play
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A0 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A1 00 00 00
 #
-name: DVD-STOP
+name: Dvd-stop
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A1 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A4 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A5 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A6 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A7 00 00 00
 #
-name: DVD-DISPLAY
+name: Dvd-display
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A7 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A8 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A9 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AB 00 00 00
 #
-name: DVD-DISC_SKIP+
+name: Dvd-disc_skip+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AB 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AC 00 00 00
 #
-name: DVD-CURSOR_UP
+name: Dvd-cursor_up
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AC 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AD 00 00 00
 #
-name: DVD-CURSOR_DOWN
+name: Dvd-cursor_down
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AD 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AE 00 00 00
 #
-name: DVD-CURSOR_RIGHT
+name: Dvd-cursor_right
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AE 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AF 00 00 00
 #
-name: DVD-CURSOR_LEFT
+name: Dvd-cursor_left
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: AF 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: B1 00 00 00
 #
-name: DVD-POWER
+name: Dvd-power
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: B1 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: BB 00 00 00
 #
-name: DVD-SELECT
+name: Dvd-select
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: BB 00 00 00
 #
-name: DVD-DVD_SETUP
+name: Dvd-dvd_setup
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: BC 00 00 00
 #
-name: DVD-TITLE
+name: Dvd-title
 type: parsed
 protocol: NECext
 address: 08 00 00 00

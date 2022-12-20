@@ -73,85 +73,85 @@ protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: CONTINUE
+name: Continue
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: INTRO_SCAN
+name: Intro_scan
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 00 00 00 00
 #
-name: TRACK
+name: Track
 type: parsed
 protocol: NECext
 address: B3 00 00 00

@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MONO
+name: Mono
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 156 7373 156 7373 156 7373 156 7373 156 7373 156 4872 156 4872 156 7373 156 4872 156 7373 156 4872 156 47524
 #
-name: DISP_INTENS
+name: Disp_intens
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 156 7373 156 7373 156 7373 156 7373 156 7373 156 4872 156 7373 156 7373 156 4872 156 7373 156 4872 156 45022
 #
-name: MODE
+name: Mode
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
@@ -55,25 +55,25 @@ frequency: 38381
 duty_cycle: 0.330000
 data: 156 7373 156 7373 156 7373 156 7373 156 7373 156 4872 156 7373 156 7373 156 4872 156 4872 156 7373 156 45022
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 156 7373 156 7373 156 7373 156 7373 156 7373 156 4872 156 4872 156 7373 156 7373 156 7373 156 4872 156 45022
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 156 7373 156 7373 156 7373 156 7373 156 7373 156 4872 156 7373 156 7373 156 7373 156 7373 156 4872 156 42521
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 156 7373 156 7373 156 7373 156 7373 156 7373 156 4872 156 4872 156 7373 156 4872 156 4872 156 7373 156 47524
 #
-name: POLARITY
+name: Polarity
 type: raw
 frequency: 38381
 duty_cycle: 0.330000

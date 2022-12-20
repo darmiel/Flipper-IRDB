@@ -4,7 +4,7 @@ Filetype: IR signals file
 #
 Version: 1
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 32 00 00 00
@@ -16,13 +16,13 @@ protocol: NEC
 address: 32 00 00 00
 command: 2E 00 00 00
 # 
-name: VolUp
+name: Volup
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 11 00 00 00
 # 
-name: VolDown
+name: Voldown
 type: parsed
 protocol: NEC
 address: 32 00 00 00
@@ -70,31 +70,31 @@ protocol: NEC
 address: 32 00 00 00
 command: 07 00 00 00
 # 
-name: AspectRatio
+name: Aspectratio
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 64 00 00 00
 # 
-name: 3D
+name: 3d
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 89 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 52 00 00 00
 # 
-name: DB
+name: Db
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 44 00 00 00
 # 
-name: SleepTimer
+name: Sleeptimer
 type: parsed
 protocol: NEC
 address: 32 00 00 00
@@ -106,7 +106,7 @@ protocol: NEC
 address: 32 00 00 00
 command: 10 00 00 00
 # 
-name: ReSync
+name: Resync
 type: parsed
 protocol: NEC
 address: 32 00 00 00
@@ -124,37 +124,37 @@ protocol: NEC
 address: 32 00 00 00
 command: 0E 00 00 00
 # 
-name: HDMI1
+name: Hdmi1
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 16 00 00 00
 # 
-name: HDMI2
+name: Hdmi2
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 30 00 00 00
 # 
-name: VGA1
+name: Vga1
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 1B 00 00 00
 # 
-name: VGA2
+name: Vga2
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 1E 00 00 00
 # 
-name: VIDEO
+name: Video
 type: parsed
 protocol: NEC
 address: 32 00 00 00
 command: 1C 00 00 00
 # 
-name: YPbPr
+name: Ypbpr
 type: parsed
 protocol: NEC
 address: 32 00 00 00

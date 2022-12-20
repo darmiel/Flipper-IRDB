@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 00 00 00 00
 #
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 30 00 00 00
@@ -19,49 +19,49 @@ protocol: NECext
 address: 30 00 00 00
 command: 03 00 00 00
 #
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 04 00 00 00
 #
-name: IN/OUT
+name: In/out
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 05 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 06 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 07 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 08 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 09 00 00 00
 #
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 10 00 00 00
 #
-name: PRESET_4
+name: Preset_4
 type: parsed
 protocol: NECext
 address: 30 00 00 00

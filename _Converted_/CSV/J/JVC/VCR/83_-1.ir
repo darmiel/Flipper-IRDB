@@ -1,379 +1,379 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 03 00 00 00
 #
-name: B_STOP
+name: B_stop
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 03 00 00 00
 #
-name: VCRB_STOP_[]
+name: Vcrb_stop_[]
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 03 00 00 00
 #
-name: VIDEO_B_STOP_[]
+name: Video_b_stop_[]
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 03 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 03 00 00 00
 #
-name: VCR_B_STOP[]
+name: Vcr_b_stop[]
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 03 00 00 00
 #
-name: B_EJECT
+name: B_eject
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 04 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 04 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 06 00 00 00
 #
-name: B_FF_>>
+name: B_ff_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 06 00 00 00
 #
-name: VCRB_FF_>>/>>
+name: Vcrb_ff_>>/>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 06 00 00 00
 #
-name: VCRB_FF_>>_/>>\
+name: Vcrb_ff_>>_/>>\
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 06 00 00 00
 #
-name: VIDEO_B_>>/>>
+name: Video_b_>>/>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 06 00 00 00
 #
-name: FFWD_>>
+name: Ffwd_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 06 00 00 00
 #
-name: VCR_B_FFWD_>>/>>
+name: Vcr_b_ffwd_>>/>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 06 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 07 00 00 00
 #
-name: B_REW_<<
+name: B_rew_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 07 00 00 00
 #
-name: VCRB_REW_<</<<
+name: Vcrb_rew_<</<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 07 00 00 00
 #
-name: VCRB_REW_<<_/<<
+name: Vcrb_rew_<<_/<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 07 00 00 00
 #
-name: VIDEO_B_<</<<
+name: Video_b_<</<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 07 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 07 00 00 00
 #
-name: VCR_B_REW_<</<<
+name: Vcr_b_rew_<</<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0B 00 00 00
 #
-name: B_POWER_VIDEO
+name: B_power_video
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0B 00 00 00
 #
-name: VCRB_POWER
+name: Vcrb_power
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0B 00 00 00
 #
-name: VIDEO_B_OPERATE
+name: Video_b_operate
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0B 00 00 00
 #
-name: VIDEO_POWER
+name: Video_power
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0B 00 00 00
 #
-name: VCR_B_POWER
+name: Vcr_b_power
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0C 00 00 00
 #
-name: B_PLAY/X2
+name: B_play/x2
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0C 00 00 00
 #
-name: VCRB_PLAY_>
+name: Vcrb_play_>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0C 00 00 00
 #
-name: VIDEO_B_PLAY_>
+name: Video_b_play_>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0C 00 00 00
 #
-name: PLAY/X2_>
+name: Play/x2_>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0C 00 00 00
 #
-name: VCR_B_PLAY>
+name: Vcr_b_play>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0D 00 00 00
 #
-name: B_PAUSE/STILL
+name: B_pause/still
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0D 00 00 00
 #
-name: VCRB_PAUSE_
+name: Vcrb_pause_
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0D 00 00 00
 #
-name: VIDEO_B_PAUSE_
+name: Video_b_pause_
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0D 00 00 00
 #
-name: PAUSE/STILL_
+name: Pause/still_
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0D 00 00 00
 #
-name: VCR_B_PAUSE
+name: Vcr_b_pause
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 0D 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 13 00 00 00
 #
-name: B_TV/VIDEO
+name: B_tv/video
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 13 00 00 00
 #
-name: VCRB_TV/VIDEO
+name: Vcrb_tv/video
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 13 00 00 00
 #
-name: VIDEO_B_TV/VIDEO
+name: Video_b_tv/video
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 13 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 13 00 00 00
 #
-name: VCR_B_TV/VIDEO
+name: Vcr_b_tv/video
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 13 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 14 00 00 00
 #
-name: B_VARIABLE_SEARCH_>>
+name: B_variable_search_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 14 00 00 00
 #
-name: VCRB_SHUTTLE_>>(+)
+name: Vcrb_shuttle_>>(+)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 14 00 00 00
 #
-name: VCRB_SHUT_PLUS_>>
+name: Vcrb_shut_plus_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 14 00 00 00
 #
-name: VIDEO_B_VAR_SRCH_>>
+name: Video_b_var_srch_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 14 00 00 00
 #
-name: VAR.SEARCH_FWD_>>
+name: Var.search_fwd_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 14 00 00 00
 #
-name: VCRB_SRCH>>(VARIABLE
+name: Vcrb_srch>>(variable
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 14 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 15 00 00 00
 #
-name: B_VARIABLE_SEARCH_<<
+name: B_variable_search_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 15 00 00 00
 #
-name: VCRB_SHUTTLE_<<_(-)
+name: Vcrb_shuttle_<<_(-)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 15 00 00 00
 #
-name: VCRB_SHUT_PLUS_<<
+name: Vcrb_shut_plus_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 15 00 00 00
 #
-name: VIDEO_B_VAR_SRCH_<<
+name: Video_b_var_srch_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 15 00 00 00
 #
-name: VAR.SEARCH_REV_<<
+name: Var.search_rev_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 15 00 00 00
 #
-name: VCRB_SRCH<<(VARIABLE
+name: Vcrb_srch<<(variable
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 15 00 00 00
 #
-name: VIDEO_B_AUDIO_MONITO
+name: Video_b_audio_monito
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 17 00 00 00
 #
-name: AUDIO_MONITOR
+name: Audio_monitor
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 17 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -385,49 +385,49 @@ protocol: NECext
 address: 53 00 00 00
 command: 18 00 00 00
 #
-name: B_CH_-
+name: B_ch_-
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 18 00 00 00
 #
-name: VCRB_CH/SET_-
+name: Vcrb_ch/set_-
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 18 00 00 00
 #
-name: VCRB_CH_V
+name: Vcrb_ch_v
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 18 00 00 00
 #
-name: VIDEO_B_TV_PROG_-
+name: Video_b_tv_prog_-
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 18 00 00 00
 #
-name: SET_-
+name: Set_-
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 18 00 00 00
 #
-name: SET_REV
+name: Set_rev
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 18 00 00 00
 #
-name: VCR_B_CH_-
+name: Vcr_b_ch_-
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 18 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -439,55 +439,55 @@ protocol: NECext
 address: 53 00 00 00
 command: 19 00 00 00
 #
-name: B_CH_+
+name: B_ch_+
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 19 00 00 00
 #
-name: VCRB_CH/SET_+
+name: Vcrb_ch/set_+
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 19 00 00 00
 #
-name: VCRB_CH_^
+name: Vcrb_ch_^
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 19 00 00 00
 #
-name: VIDEO_B_TV_PROG_+
+name: Video_b_tv_prog_+
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 19 00 00 00
 #
-name: SET_+
+name: Set_+
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 19 00 00 00
 #
-name: SET_FWD
+name: Set_fwd
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 19 00 00 00
 #
-name: VCR_B_CH_+
+name: Vcr_b_ch_+
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 19 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 1A 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -505,13 +505,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 21 00 00 00
 #
-name: VCRB_1
+name: Vcrb_1
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 21 00 00 00
 #
-name: VIDEO_B_1
+name: Video_b_1
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -523,7 +523,7 @@ protocol: NECext
 address: 53 00 00 00
 command: 21 00 00 00
 #
-name: VCR_B_1_(ABC)
+name: Vcr_b_1_(abc)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -541,13 +541,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 22 00 00 00
 #
-name: VCRB_2
+name: Vcrb_2
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 22 00 00 00
 #
-name: VIDEO_B_2
+name: Video_b_2
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -559,7 +559,7 @@ protocol: NECext
 address: 53 00 00 00
 command: 22 00 00 00
 #
-name: VCR_B_2_(DEF)
+name: Vcr_b_2_(def)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -577,13 +577,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 23 00 00 00
 #
-name: VCRB_3
+name: Vcrb_3
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 23 00 00 00
 #
-name: VIDEO_B_3
+name: Video_b_3
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -595,7 +595,7 @@ protocol: NECext
 address: 53 00 00 00
 command: 23 00 00 00
 #
-name: VCR_B_3_(GHI)
+name: Vcr_b_3_(ghi)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -613,13 +613,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 24 00 00 00
 #
-name: VCRB_4
+name: Vcrb_4
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 24 00 00 00
 #
-name: VIDEO_B_4
+name: Video_b_4
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -631,7 +631,7 @@ protocol: NECext
 address: 53 00 00 00
 command: 24 00 00 00
 #
-name: VCR_B_4_(JKL)
+name: Vcr_b_4_(jkl)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -649,13 +649,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 25 00 00 00
 #
-name: VCRB_5
+name: Vcrb_5
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 25 00 00 00
 #
-name: VIDEO_B_5
+name: Video_b_5
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -667,7 +667,7 @@ protocol: NECext
 address: 53 00 00 00
 command: 25 00 00 00
 #
-name: VCR_B_5_(MNO)
+name: Vcr_b_5_(mno)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -685,13 +685,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 26 00 00 00
 #
-name: VCRB_6
+name: Vcrb_6
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 26 00 00 00
 #
-name: VIDEO_B_6
+name: Video_b_6
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -703,7 +703,7 @@ protocol: NECext
 address: 53 00 00 00
 command: 26 00 00 00
 #
-name: VCR_B_6_(PQR)
+name: Vcr_b_6_(pqr)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -721,13 +721,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 27 00 00 00
 #
-name: VCRB_7
+name: Vcrb_7
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 27 00 00 00
 #
-name: VIDEO_B_7
+name: Video_b_7
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -739,7 +739,7 @@ protocol: NECext
 address: 53 00 00 00
 command: 27 00 00 00
 #
-name: VCR_B_7_(STU)
+name: Vcr_b_7_(stu)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -757,13 +757,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 28 00 00 00
 #
-name: VCRB_8_(DAILY_M-F)
+name: Vcrb_8_(daily_m-f)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 28 00 00 00
 #
-name: VIDEO_B_8_(DAILY)
+name: Video_b_8_(daily)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -775,7 +775,7 @@ protocol: NECext
 address: 53 00 00 00
 command: 28 00 00 00
 #
-name: VCR_B_8_(VWX)
+name: Vcr_b_8_(vwx)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -793,13 +793,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 29 00 00 00
 #
-name: VCRB_9_(WEEKLY)
+name: Vcrb_9_(weekly)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 29 00 00 00
 #
-name: VIDEO_B_9_(WEEKLY)
+name: Video_b_9_(weekly)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -811,43 +811,43 @@ protocol: NECext
 address: 53 00 00 00
 command: 29 00 00 00
 #
-name: VCR_B_9_(WEEKLY)
+name: Vcr_b_9_(weekly)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 29 00 00 00
 #
-name: B_SP/EP
+name: B_sp/ep
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 31 00 00 00
 #
-name: VCRB_SP/EP
+name: Vcrb_sp/ep
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 31 00 00 00
 #
-name: VIDEO_B_///_(SP/EP)
+name: Video_b_///_(sp/ep)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 31 00 00 00
 #
-name: SP/EP
+name: Sp/ep
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 31 00 00 00
 #
-name: VCR_B_SP/EP
+name: Vcr_b_sp/ep
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 31 00 00 00
 #
-name: B_AM/PM
+name: B_am/pm
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -865,13 +865,13 @@ protocol: NECext
 address: 53 00 00 00
 command: 33 00 00 00
 #
-name: VCRB_0_(AUX)
+name: Vcrb_0_(aux)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 33 00 00 00
 #
-name: VIDEO_B_0_(AUX)
+name: Video_b_0_(aux)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -883,259 +883,259 @@ protocol: NECext
 address: 53 00 00 00
 command: 33 00 00 00
 #
-name: VCR_B_0_(AUX)
+name: Vcr_b_0_(aux)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 33 00 00 00
 #
-name: B_TIMER
+name: B_timer
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 35 00 00 00
 #
-name: VCRB_TIMER
+name: Vcrb_timer
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 35 00 00 00
 #
-name: VID_B_5_TIMER_(CH)
+name: Vid_b_5_timer_(ch)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 35 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 35 00 00 00
 #
-name: VCR_B_TIMER
+name: Vcr_b_timer
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 35 00 00 00
 #
-name: B_SKIP
+name: B_skip
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 36 00 00 00
 #
-name: VCRB_CANCEL(C/RESET
+name: Vcrb_cancel(c/reset
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 36 00 00 00
 #
-name: VCRB_CANCEL/CHSKIP
+name: Vcrb_cancel/chskip
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 36 00 00 00
 #
-name: VIDEO_B_CANCEL
+name: Video_b_cancel
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 36 00 00 00
 #
-name: CANCEL/SKIP
+name: Cancel/skip
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 36 00 00 00
 #
-name: VCR_B_CANCEL
+name: Vcr_b_cancel
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 36 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 37 00 00 00
 #
-name: B_MENU
+name: B_menu
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 37 00 00 00
 #
-name: VCRB_MENU
+name: Vcrb_menu
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 37 00 00 00
 #
-name: VIDEO_B_REVIEW
+name: Video_b_review
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 37 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 37 00 00 00
 #
-name: VCR_B_MENU
+name: Vcr_b_menu
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 37 00 00 00
 #
-name: B_DISPLAY
+name: B_display
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 38 00 00 00
 #
-name: VCRB_DISPLAY
+name: Vcrb_display
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 38 00 00 00
 #
-name: VIDEO_B_DISPLAY
+name: Video_b_display
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 38 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 38 00 00 00
 #
-name: VCR_B_DISPLAY
+name: Vcr_b_display
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 38 00 00 00
 #
-name: B_GOTO
+name: B_goto
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3B 00 00 00
 #
-name: GO-TO
+name: Go-to
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3B 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3C 00 00 00
 #
-name: B_SELECT
+name: B_select
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3C 00 00 00
 #
-name: VCRB_SELECT
+name: Vcrb_select
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3C 00 00 00
 #
-name: VCRB_OK
+name: Vcrb_ok
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3C 00 00 00
 #
-name: VID_B_3_SELECT(CMEM)
+name: Vid_b_3_select(cmem)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3C 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3C 00 00 00
 #
-name: VCR_B_SELECT
+name: Vcr_b_select
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3C 00 00 00
 #
-name: B_ENTER
+name: B_enter
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3E 00 00 00
 #
-name: VCRB_ENTER_(OSD)
+name: Vcrb_enter_(osd)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3E 00 00 00
 #
-name: ENTER/ADD
+name: Enter/add
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3E 00 00 00
 #
-name: VCR_B_ENTER/OSD
+name: Vcr_b_enter/osd
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 3E 00 00 00
 #
-name: B_TRACKING_+
+name: B_tracking_+
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 41 00 00 00
 #
-name: AUTO_TRACKING_UP
+name: Auto_tracking_up
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 41 00 00 00
 #
-name: B_TRACKING_-
+name: B_tracking_-
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 42 00 00 00
 #
-name: AUTO_TRACKING_DOWN
+name: Auto_tracking_down
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 42 00 00 00
 #
-name: B_TV_MONITOR
+name: B_tv_monitor
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 4B 00 00 00
 #
-name: TV/MONITOR
+name: Tv/monitor
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 4B 00 00 00
 #
-name: VID_B_4_TRANS(CHSRCH
+name: Vid_b_4_trans(chsrch
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -1147,121 +1147,121 @@ protocol: NECext
 address: 53 00 00 00
 command: 6E 00 00 00
 #
-name: SELECT_FWD
+name: Select_fwd
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 80 00 00 00
 #
-name: VCRB_SHUT_PLUS_^
+name: Vcrb_shut_plus_^
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 82 00 00 00
 #
-name: SELECT_REV
+name: Select_rev
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 84 00 00 00
 #
-name: VCRB_SHUT_PLUS_V
+name: Vcrb_shut_plus_v
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 86 00 00 00
 #
-name: VCRB_C.MEMORY_(ADD)
+name: Vcrb_c.memory_(add)
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 90 00 00 00
 #
-name: VCRB_C.MEMORY
+name: Vcrb_c.memory
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 90 00 00 00
 #
-name: VCR_B_IN/OUT/START_C
+name: Vcr_b_in/out/start_c
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 90 00 00 00
 #
-name: B_INDEX
+name: B_index
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 91 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 91 00 00 00
 #
-name: B_MARK
+name: B_mark
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 93 00 00 00
 #
-name: MARK
+name: Mark
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 93 00 00 00
 #
-name: B_ERASE
+name: B_erase
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 94 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 94 00 00 00
 #
-name: B_SKIP_SEARCH
+name: B_skip_search
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 96 00 00 00
 #
-name: VCRB_SKIP_SEARCH
+name: Vcrb_skip_search
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 96 00 00 00
 #
-name: SKIP/BLANK
+name: Skip/blank
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 96 00 00 00
 #
-name: VCR_B_SKIP_SRCH
+name: Vcr_b_skip_srch
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 96 00 00 00
 #
-name: B_INTRO
+name: B_intro
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 97 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: 97 00 00 00
 #
-name: FRAME_<<
+name: Frame_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -1273,73 +1273,73 @@ protocol: NECext
 address: 53 00 00 00
 command: AF 00 00 00
 #
-name: JOG_REV
+name: Jog_rev
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: AF 00 00 00
 #
-name: VCR_B_JOG_<<
+name: Vcr_b_jog_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: AF 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: B7 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: B8 00 00 00
 #
-name: VCRB_REVIEW
+name: Vcrb_review
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: C3 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: CC 00 00 00
 #
-name: B_REC/PLAY/X2
+name: B_rec/play/x2
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: CC 00 00 00
 #
-name: VCRB_REC
+name: Vcrb_rec
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: CC 00 00 00
 #
-name: VIDEO_B_REC
+name: Video_b_rec
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: CC 00 00 00
 #
-name: REC/PLAY/X2
+name: Rec/play/x2
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: CC 00 00 00
 #
-name: VCR_B_RECORD
+name: Vcr_b_record
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: CC 00 00 00
 #
-name: REC/PAUSE
+name: Rec/pause
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -1351,7 +1351,7 @@ protocol: NECext
 address: 53 00 00 00
 command: EA 00 00 00
 #
-name: FRAME_>>
+name: Frame_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00
@@ -1363,13 +1363,13 @@ protocol: NECext
 address: 53 00 00 00
 command: ED 00 00 00
 #
-name: JOG_FWD
+name: Jog_fwd
 type: parsed
 protocol: NECext
 address: 53 00 00 00
 command: ED 00 00 00
 #
-name: VCR_B_JOG_>>
+name: Vcr_b_jog_>>
 type: parsed
 protocol: NECext
 address: 53 00 00 00

@@ -11,7 +11,7 @@ protocol: NECext
 address: 10 E7 00 00
 command: 01 FE 00 00
 # 
-name: On/Off
+name: On/off
 type: parsed
 protocol: NECext
 address: 10 E7 00 00
@@ -47,7 +47,7 @@ protocol: NECext
 address: 10 E7 00 00
 command: 0D F2 00 00
 # 
-name: COAX
+name: Coax
 type: parsed
 protocol: NECext
 address: 10 E7 00 00

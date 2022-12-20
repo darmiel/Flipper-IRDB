@@ -1,169 +1,169 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT_RIGHT
+name: Input_right
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 0A 00 00 00
 #
-name: INPUT_LEFT
+name: Input_left
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 0B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 0C 00 00 00
 #
-name: MASTER_VOL_+
+name: Master_vol_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 12 00 00 00
 #
-name: MASTER_VOL_-
+name: Master_vol_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 14 00 00 00
 #
-name: REAR_BAL_L
+name: Rear_bal_l
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 26 00 00 00
 #
-name: REAR_BAL_R
+name: Rear_bal_r
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 27 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 32 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 38 00 00 00
 #
-name: DOLBY_SURR
+name: Dolby_surr
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 3D 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 3E 00 00 00
 #
-name: EFFECT_+
+name: Effect_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 42 00 00 00
 #
-name: EFFECT_-
+name: Effect_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 43 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4B 00 00 00
 #
-name: FRONT_BAL_L
+name: Front_bal_l
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4C 00 00 00
 #
-name: FRONT_BAL_R
+name: Front_bal_r
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4D 00 00 00
 #
-name: REAR_+
+name: Rear_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4E 00 00 00
 #
-name: REAR_-
+name: Rear_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4F 00 00 00
 #
-name: CENTER_+
+name: Center_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 54 00 00 00
 #
-name: CENTER_-
+name: Center_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 55 00 00 00
 #
-name: SUB_+
+name: Sub_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 56 00 00 00
 #
-name: SUB_-
+name: Sub_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 57 00 00 00
 #
-name: MENU_SELECT_+
+name: Menu_select_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 78 00 00 00
 #
-name: MENU_SELECT_-
+name: Menu_select_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 79 00 00 00
 #
-name: MENU_SELECT_UP
+name: Menu_select_up
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 7A 00 00 00
 #
-name: MENU_SELECT_DWN
+name: Menu_select_dwn
 type: parsed
 protocol: NECext
 address: 1A E9 00 00

@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 00 00 00 00
 #
-name: pause_still
+name: Pause_still
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0A 00 00 00
 #
-name: rev.play
+name: Rev.play
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0B 00 00 00
 #
-name: still_adv
+name: Still_adv
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0C 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 90 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 90 00 00 00
 command: 19 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 90 00 00 00
@@ -109,73 +109,73 @@ protocol: NECext
 address: 90 00 00 00
 command: 3B 00 00 00
 #
-name: vtr
+name: Vtr
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 3D 00 00 00
 #
-name: time_search
+name: Time_search
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 44 00 00 00
 #
-name: mem_rep
+name: Mem_rep
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 53 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 54 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 56 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 8E 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 8F 00 00 00
 #
-name: monitor
+name: Monitor
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 91 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: F0 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: F1 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: F2 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 90 00 00 00

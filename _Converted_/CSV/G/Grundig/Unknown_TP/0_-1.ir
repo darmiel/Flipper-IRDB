@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: SPEAKER
+name: Speaker
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -25,49 +25,49 @@ protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: IDTV
+name: Idtv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: BRIGHTNESS+
+name: Brightness+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: BRIGHTNESS-
+name: Brightness-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: CONTRAST+
+name: Contrast+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: CONTRAST-
+name: Contrast-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: P/C
+name: P/c
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -157,37 +157,37 @@ protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: INFORMATION
+name: Information
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: VIDEOTEXT
+name: Videotext
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 00 00 00 00

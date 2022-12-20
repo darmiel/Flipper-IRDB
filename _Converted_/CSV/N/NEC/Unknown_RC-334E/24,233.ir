@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 03 00 00 00
 #
-name: RGB_1
+name: Rgb_1
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 04 00 00 00
 #
-name: RGB_2
+name: Rgb_2
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 06 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 08 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 14 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 43 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 46 00 00 00
 #
-name: RGB_MODE
+name: Rgb_mode
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 4D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00

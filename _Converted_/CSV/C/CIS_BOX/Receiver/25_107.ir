@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 12 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 13 00 00 00
 #
-name: VID_2
+name: Vid_2
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 1E 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 21 00 00 00
 #
-name: VID_1
+name: Vid_1
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 22 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 23 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 25 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 2E 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 2F 00 00 00
 #
-name: VID_3
+name: Vid_3
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 42 00 00 00
 #
-name: MD
+name: Md
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 69 00 00 00
 #
-name: TV_SAT
+name: Tv_sat
 type: parsed
 protocol: NECext
 address: 19 6B 00 00
 command: 6A 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 19 6B 00 00

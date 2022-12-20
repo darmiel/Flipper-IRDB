@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 18 00 00 00
 #
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 19 00 00 00
 #
-name: DYNAMICS
+name: Dynamics
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 33 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5A 00 00 00
 #
-name: PARAMETER_SUB
+name: Parameter_sub
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 74 00 00 00
 #
-name: PARAMETER_MAIN
+name: Parameter_main
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 76 00 00 00
 #
-name: DPC_LEFT_>
+name: Dpc_left_>
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 78 00 00 00
 #
-name: DPC_LEFT_<
+name: Dpc_left_<
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 79 00 00 00
 #
-name: DPC_RIGHT_<
+name: Dpc_right_<
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7A 00 00 00
 #
-name: DPC_RIGHT_>
+name: Dpc_right_>
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

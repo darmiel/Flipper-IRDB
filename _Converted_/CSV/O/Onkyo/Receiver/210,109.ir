@@ -1,217 +1,217 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER_PRESET_>
+name: Tuner_preset_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: TUNER_STATION_+_(CH)
+name: Tuner_station_+_(ch)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: PRESETUP
+name: Presetup
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: TUNER_PRESET_+
+name: Tuner_preset_+
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: TUNER_PRESET_^
+name: Tuner_preset_^
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: TUNER_PRESET_<
+name: Tuner_preset_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: TUNER_STATION_-_(CH)
+name: Tuner_station_-_(ch)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: PRESETDOWN
+name: Presetdown
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: TUNER_PRESET_-
+name: Tuner_preset_-
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: TUNER_PRESET_V
+name: Tuner_preset_v
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: VOLUP
+name: Volup
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: MASTER_VOLUME_UP
+name: Master_volume_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: MASTER_VOL_UP
+name: Master_vol_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: VOLDOWN
+name: Voldown
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: MASTER_VOLUME_DOWN
+name: Master_volume_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: MASTER_VOL_DOWN
+name: Master_vol_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 04 00 00 00
 #
-name: POWER_(MAIN)
+name: Power_(main)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 04 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 04 00 00 00
 #
-name: POWER_(RCVR)
+name: Power_(rcvr)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 04 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 05 00 00 00
 #
-name: AUDIO_MUTING
+name: Audio_muting
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 05 00 00 00
 #
-name: MUTING_/_REMOTE_SPKR
+name: Muting_/_remote_spkr
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 05 00 00 00
 #
-name: AUX-1
+name: Aux-1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 06 00 00 00
 #
-name: TAPE-2
+name: Tape-2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 07 00 00 00
 #
-name: TAPE_2
+name: Tape_2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
@@ -223,19 +223,19 @@ protocol: NECext
 address: D2 6D 00 00
 command: 07 00 00 00
 #
-name: TAPE-1
+name: Tape-1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 08 00 00 00
 #
-name: TAPE/DAT_(+10)
+name: Tape/dat_(+10)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 08 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
@@ -247,43 +247,43 @@ protocol: NECext
 address: D2 6D 00 00
 command: 08 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 09 00 00 00
 #
-name: CD_(12)
+name: Cd_(12)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 09 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0A 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0B 00 00 00
 #
-name: DAT
+name: Dat
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0C 00 00 00
 #
-name: VCR-2
+name: Vcr-2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0D 00 00 00
 #
-name: VIDEO-2_(9)
+name: Video-2_(9)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
@@ -295,37 +295,37 @@ protocol: NECext
 address: D2 6D 00 00
 command: 0D 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0D 00 00 00
 #
-name: VIDEO-2
+name: Video-2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0D 00 00 00
 #
-name: VIDEO-3
+name: Video-3
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0D 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0D 00 00 00
 #
-name: VCR-1/VDP
+name: Vcr-1/vdp
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: VIDEO-1_(8)
+name: Video-1_(8)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
@@ -337,31 +337,31 @@ protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: VIDEO-1
+name: Video-1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: VIDEO-2
+name: Video-2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: VDP_(6)
+name: Vdp_(6)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
@@ -373,1027 +373,1027 @@ protocol: NECext
 address: D2 6D 00 00
 command: 0F 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0F 00 00 00
 #
-name: VIDEO-3
+name: Video-3
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0F 00 00 00
 #
-name: VIDEO-1
+name: Video-1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0F 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0F 00 00 00
 #
-name: AUX-2
+name: Aux-2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 11 00 00 00
 #
-name: DBS_(7)
+name: Dbs_(7)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 11 00 00 00
 #
-name: DECKB_STOP_[]
+name: Deckb_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 13 00 00 00
 #
-name: TAPE1_DECKB_STOP_[]
+name: Tape1_deckb_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 13 00 00 00
 #
-name: DECK-B_STOP_[]
+name: Deck-b_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 13 00 00 00
 #
-name: DECKB_STOP[]
+name: Deckb_stop[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 13 00 00 00
 #
-name: DECKB/DAT_STOP_[]
+name: Deckb/dat_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 13 00 00 00
 #
-name: DECK_B_STOP_[]
+name: Deck_b_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 13 00 00 00
 #
-name: DECKB_PLAY_>
+name: Deckb_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 15 00 00 00
 #
-name: TAPE1_DECKB_PLAY_>
+name: Tape1_deckb_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 15 00 00 00
 #
-name: DECK-B_PLAY_>
+name: Deck-b_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 15 00 00 00
 #
-name: DECKB_PLAY>
+name: Deckb_play>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 15 00 00 00
 #
-name: DECKB/DAT_PLAY_>
+name: Deckb/dat_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 15 00 00 00
 #
-name: DECK_B_PLAY_>
+name: Deck_b_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 15 00 00 00
 #
-name: DECKB_R.PLAY_<
+name: Deckb_r.play_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECKB_PLAY_REV_<
+name: Deckb_play_rev_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECKB_REV_PLAY_(<<)
+name: Deckb_rev_play_(<<)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: TAPE1_DECKB_REV_PLAY
+name: Tape1_deckb_rev_play
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECK-B_R.PLAY_<
+name: Deck-b_r.play_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECKB_REV_PLAY_<
+name: Deckb_rev_play_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECKB_PLAY<
+name: Deckb_play<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECKB/DAT_REV_PLAY_<
+name: Deckb/dat_rev_play_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECK_B_PLAY_REV_<
+name: Deck_b_play_rev_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECKB_REC/PAUSE
+name: Deckb_rec/pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 18 00 00 00
 #
-name: TAPE1_DECKB_REC/PAUS
+name: Tape1_deckb_rec/paus
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 18 00 00 00
 #
-name: DECK-B_REC/PAUSE
+name: Deck-b_rec/pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 18 00 00 00
 #
-name: DECKB/DAT_REC/PAUSE
+name: Deckb/dat_rec/pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 18 00 00 00
 #
-name: DECK_B_REC/PAUSE
+name: Deck_b_rec/pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 18 00 00 00
 #
-name: DECKB_FFWD_>>
+name: Deckb_ffwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: DECKB_FF_>>
+name: Deckb_ff_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: DECKB_>>
+name: Deckb_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: TAPE1_DECKB_FFWD_>>
+name: Tape1_deckb_ffwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: DECK-B_FFWD_>>
+name: Deck-b_ffwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: DECKB_FFWD>>
+name: Deckb_ffwd>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: DECKB/DAT_FWD_>>
+name: Deckb/dat_fwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: DECK_B_FFWD_>>
+name: Deck_b_ffwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: DECKB_REW_<<
+name: Deckb_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1A 00 00 00
 #
-name: DECKB_<<
+name: Deckb_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1A 00 00 00
 #
-name: TAPE1_DECKB_REW_<<
+name: Tape1_deckb_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1A 00 00 00
 #
-name: DECK-B_REW_<<
+name: Deck-b_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1A 00 00 00
 #
-name: DECKB/DAT_REW_<<
+name: Deckb/dat_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1A 00 00 00
 #
-name: DECK_B_REW_<<
+name: Deck_b_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1A 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1B 00 00 00
 #
-name: CD_PLAY>
+name: Cd_play>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1B 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1C 00 00 00
 #
-name: CD_STOP[]
+name: Cd_stop[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1C 00 00 00
 #
-name: CD_SKIP_>>
+name: Cd_skip_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1D 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1D 00 00 00
 #
-name: CD_SKIP_FWD_>>
+name: Cd_skip_fwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1D 00 00 00
 #
-name: CD_SKIP_<<
+name: Cd_skip_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1E 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1E 00 00 00
 #
-name: CD_SKIP_REV_<<
+name: Cd_skip_rev_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1E 00 00 00
 #
-name: CD_PAUSE_
+name: Cd_pause_
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1F 00 00 00
 #
-name: REAR_LEVEL_^
+name: Rear_level_^
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 42 00 00 00
 #
-name: REAR_BALANCE_UP
+name: Rear_balance_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 42 00 00 00
 #
-name: REAR_LEVEL_UP
+name: Rear_level_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 42 00 00 00
 #
-name: REAR/SIMUL_UP
+name: Rear/simul_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 42 00 00 00
 #
-name: REAR_LEVEL_V
+name: Rear_level_v
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 43 00 00 00
 #
-name: REAR_BALANCE_DOWN
+name: Rear_balance_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 43 00 00 00
 #
-name: REAR_LEVEL_DOWN
+name: Rear_level_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 43 00 00 00
 #
-name: REAR/SIMUL_DOWN
+name: Rear/simul_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 43 00 00 00
 #
-name: 2/DIRECT
+name: 2/direct
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 44 00 00 00
 #
-name: TUNER_CLASS
+name: Tuner_class
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4A 00 00 00
 #
-name: GROUP
+name: Group
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4A 00 00 00
 #
-name: CLASS
+name: Class
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4A 00 00 00
 #
-name: TUNER_GROUP
+name: Tuner_group
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4A 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4C 00 00 00
 #
-name: SUR_MODE
+name: Sur_mode
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4C 00 00 00
 #
-name: DOLBY_SURROUND
+name: Dolby_surround
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4C 00 00 00
 #
-name: SURR_MODE
+name: Surr_mode
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4C 00 00 00
 #
-name: SURR_DELAY_MODE
+name: Surr_delay_mode
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4C 00 00 00
 #
-name: SURR_MODE_>
+name: Surr_mode_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4C 00 00 00
 #
-name: DECKA_STOP_[]
+name: Decka_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4D 00 00 00
 #
-name: TAPE1_DECKA_STOP_[]
+name: Tape1_decka_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4D 00 00 00
 #
-name: DECK-A_STOP_[]
+name: Deck-a_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4D 00 00 00
 #
-name: DECKA_STOP[]
+name: Decka_stop[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4D 00 00 00
 #
-name: DECK_A_STOP[]
+name: Deck_a_stop[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4D 00 00 00
 #
-name: DECKA_PLAY_>
+name: Decka_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4E 00 00 00
 #
-name: TAPE1_DECKA_PLAY_>
+name: Tape1_decka_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4E 00 00 00
 #
-name: DECK-A_PLAY_>
+name: Deck-a_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4E 00 00 00
 #
-name: DECKA_PLAY>
+name: Decka_play>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4E 00 00 00
 #
-name: DECK_A_PLAY>
+name: Deck_a_play>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4E 00 00 00
 #
-name: DECKA_R.PLAY_<
+name: Decka_r.play_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: DECKA_PLAY_REV_<
+name: Decka_play_rev_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: DECKA_REV_PLAY_(POW)
+name: Decka_rev_play_(pow)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: TAPE1_DECKA_REV_PLAY
+name: Tape1_decka_rev_play
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: DECK-A_R.PLAY_<
+name: Deck-a_r.play_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: DECKA_REV_PLAY_<
+name: Decka_rev_play_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: DECKA_PLAY<
+name: Decka_play<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: DECK_A_PLAY_REV<
+name: Deck_a_play_rev<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: DECKA_REC/PAUSE
+name: Decka_rec/pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 50 00 00 00
 #
-name: TAPE1_DECKA_REC/PAUS
+name: Tape1_decka_rec/paus
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 50 00 00 00
 #
-name: DECK-A_REC/PAUSE
+name: Deck-a_rec/pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 50 00 00 00
 #
-name: DECK_A_REC/PAUSE
+name: Deck_a_rec/pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 50 00 00 00
 #
-name: DECKA_FFWD_>>
+name: Decka_ffwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 51 00 00 00
 #
-name: DECKA_FF_>>
+name: Decka_ff_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 51 00 00 00
 #
-name: DECKA_>>
+name: Decka_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 51 00 00 00
 #
-name: TAPE1_DECKA_FFWD_>>
+name: Tape1_decka_ffwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 51 00 00 00
 #
-name: DECK-A_FFWD_>>
+name: Deck-a_ffwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 51 00 00 00
 #
-name: DECKA_FWD_>>
+name: Decka_fwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 51 00 00 00
 #
-name: DECK_A_FFWD>>
+name: Deck_a_ffwd>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 51 00 00 00
 #
-name: DECKA_REW_<<
+name: Decka_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 52 00 00 00
 #
-name: DECKA_<<
+name: Decka_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 52 00 00 00
 #
-name: TAPE1_DECKA_REW_<<
+name: Tape1_decka_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 52 00 00 00
 #
-name: DECK-A_REW_<<
+name: Deck-a_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 52 00 00 00
 #
-name: DECK_A_REW<<
+name: Deck_a_rew<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 52 00 00 00
 #
-name: DELAY_TIME
+name: Delay_time
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 53 00 00 00
 #
-name: SURR_DELAY_TIME
+name: Surr_delay_time
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 53 00 00 00
 #
-name: SPEAKERS_A
+name: Speakers_a
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 59 00 00 00
 #
-name: 7/SP_A
+name: 7/sp_a
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 59 00 00 00
 #
-name: SPEAKERS_MAIN
+name: Speakers_main
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 59 00 00 00
 #
-name: MAIN_SPEAKERS
+name: Main_speakers
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 59 00 00 00
 #
-name: SPEAKERS_B
+name: Speakers_b
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5A 00 00 00
 #
-name: 8/SP_B
+name: 8/sp_b
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5A 00 00 00
 #
-name: SPEAKERS_SUB_ROOM
+name: Speakers_sub_room
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5A 00 00 00
 #
-name: REMOTE_SPEAKERS
+name: Remote_speakers
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5A 00 00 00
 #
-name: SPEAKERS_REMOTE
+name: Speakers_remote
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5A 00 00 00
 #
-name: CD_DISC
+name: Cd_disc
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5C 00 00 00
 #
-name: CD_DISK_(POWER)
+name: Cd_disk_(power)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5D 00 00 00
 #
-name: PHONO_PLAY/REJECT
+name: Phono_play/reject
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5F 00 00 00
 #
-name: CENTER_LEVEL_^
+name: Center_level_^
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 80 00 00 00
 #
-name: CENTER_UP
+name: Center_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 80 00 00 00
 #
-name: CENTER_LEVEL_UP
+name: Center_level_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 80 00 00 00
 #
-name: CENTER_LEVEL_V
+name: Center_level_v
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 81 00 00 00
 #
-name: CENTER_DOWN
+name: Center_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 81 00 00 00
 #
-name: CENTER_LEVEL_DOWN
+name: Center_level_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 81 00 00 00
 #
-name: CURSOR_^
+name: Cursor_^
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 82 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 82 00 00 00
 #
-name: MENU_UP
+name: Menu_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 82 00 00 00
 #
-name: CURSOR_V
+name: Cursor_v
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 83 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 83 00 00 00
 #
-name: MENU_DOWN
+name: Menu_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 83 00 00 00
 #
-name: CURSOR_<
+name: Cursor_<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 84 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 84 00 00 00
 #
-name: MENU_LEFT
+name: Menu_left
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 84 00 00 00
 #
-name: CURSOR_>
+name: Cursor_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 85 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 85 00 00 00
 #
-name: MENU_RIGHT
+name: Menu_right
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 85 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 8A 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 8B 00 00 00
 #
-name: DAT_PLAY_>
+name: Dat_play_>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 8C 00 00 00
 #
-name: DAT_REC/PAUSE
+name: Dat_rec/pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 8D 00 00 00
 #
-name: DAT_REC/PAUSE_O/
+name: Dat_rec/pause_o/
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 8D 00 00 00
 #
-name: DAT_STOP_[]
+name: Dat_stop_[]
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 8E 00 00 00
 #
-name: DAT_>>
+name: Dat_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 8F 00 00 00
 #
-name: DAT_SRCH_FWD_>>
+name: Dat_srch_fwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 8F 00 00 00
 #
-name: DAT_<<_(<)
+name: Dat_<<_(<)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 90 00 00 00
 #
-name: DAT_SRCH_REV_<<
+name: Dat_srch_rev_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 90 00 00 00
 #
-name: CD_EJECT
+name: Cd_eject
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 91 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 95 00 00 00
 #
-name: 0/DIMMER
+name: 0/dimmer
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 95 00 00 00
 #
-name: CURSOR_ENTER/ESCAPE
+name: Cursor_enter/escape
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 97 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 97 00 00 00
 #
-name: MENU_ENTER
+name: Menu_enter
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 97 00 00 00
 #
-name: ENTER/ESCAPE
+name: Enter/escape
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 97 00 00 00
 #
-name: CENTER_OFF/ON
+name: Center_off/on
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 98 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9A 00 00 00
 #
-name: TEST_MENU
+name: Test_menu
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9A 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9A 00 00 00
 #
-name: SURR_FUNC_TEST
+name: Surr_func_test
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9A 00 00 00
 #
-name: SURR_FUNCT_TEST
+name: Surr_funct_test
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9A 00 00 00
 #
-name: SURR_TEST_TONE
+name: Surr_test_tone
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9A 00 00 00
 #
-name: VIDEO-4_(11)
+name: Video-4_(11)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9C 00 00 00
 #
-name: VIDEO_6
+name: Video_6
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9C 00 00 00
 #
-name: VIDEO-3_(10)
+name: Video-3_(10)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9D 00 00 00
 #
-name: VIDEO_5
+name: Video_5
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
@@ -1405,103 +1405,103 @@ protocol: NECext
 address: D2 6D 00 00
 command: 9F 00 00 00
 #
-name: VIDEO-4
+name: Video-4
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9F 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9F 00 00 00
 #
-name: REAR_BALANCE_L
+name: Rear_balance_l
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C0 00 00 00
 #
-name: REAR/SIMUL_L_BALANCE
+name: Rear/simul_l_balance
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C0 00 00 00
 #
-name: REAR_BALANCE_R
+name: Rear_balance_r
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C1 00 00 00
 #
-name: REAR/SIMUL_R_BALANCE
+name: Rear/simul_r_balance
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C1 00 00 00
 #
-name: MULTI_SOURCE_LVL_^
+name: Multi_source_lvl_^
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C2 00 00 00
 #
-name: MULTI_SOURCE_^
+name: Multi_source_^
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C2 00 00 00
 #
-name: MULTI_SOURCE_LVL_V
+name: Multi_source_lvl_v
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C3 00 00 00
 #
-name: MULTI_SOURCE_V
+name: Multi_source_v
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C3 00 00 00
 #
-name: DAT_>>
+name: Dat_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: CA 00 00 00
 #
-name: DAT_FFWD_>>
+name: Dat_ffwd_>>
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: CA 00 00 00
 #
-name: DAT_<<
+name: Dat_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: CB 00 00 00
 #
-name: DAT_REW_<<
+name: Dat_rew_<<
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: CB 00 00 00
 #
-name: ENTER/ZONE_2
+name: Enter/zone_2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: CC 00 00 00
 #
-name: MULTI_SOURCE
+name: Multi_source
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: CC 00 00 00
 #
-name: SIMUL_SOURCE
+name: Simul_source
 type: parsed
 protocol: NECext
 address: D2 6D 00 00

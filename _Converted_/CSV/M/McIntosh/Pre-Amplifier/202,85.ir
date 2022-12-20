@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 01 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 02 00 00 00
 #
-name: REVERSE
+name: Reverse
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 03 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 04 00 00 00
 #
-name: ACC_ON
+name: Acc_on
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 05 00 00 00
 #
-name: ACC_OFF
+name: Acc_off
 type: parsed
 protocol: NECext
 address: CA 55 00 00
@@ -43,103 +43,103 @@ protocol: NECext
 address: CA 55 00 00
 command: 07 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 08 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 09 00 00 00
 #
-name: LV
+name: Lv
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 0A 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 0B 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 0B 00 00 00
 #
-name: VCR_2
+name: Vcr_2
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 0C 00 00 00
 #
-name: V-AUX
+name: V-aux
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 0D 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 0D 00 00 00
 #
-name: TRIM
+name: Trim
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 0E 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 10 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 10 00 00 00
 #
-name: CD_2
+name: Cd_2
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 11 00 00 00
 #
-name: CD2
+name: Cd2
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 11 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 12 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 13 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 13 00 00 00
 #
-name: TAPE_2
+name: Tape_2
 type: parsed
 protocol: NECext
 address: CA 55 00 00
@@ -151,91 +151,91 @@ protocol: NECext
 address: CA 55 00 00
 command: 16 00 00 00
 #
-name: PH/AUX
+name: Ph/aux
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 17 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 40 00 00 00
 #
-name: SYS_OFF
+name: Sys_off
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 41 00 00 00
 #
-name: SYSTEM_OFF
+name: System_off
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 41 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 42 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 43 00 00 00
 #
-name: SURROUND_UP
+name: Surround_up
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 44 00 00 00
 #
-name: LEVEL_UP
+name: Level_up
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 44 00 00 00
 #
-name: SURROUND_DOWN
+name: Surround_down
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 45 00 00 00
 #
-name: LEVEL_DOWN
+name: Level_down
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 45 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 46 00 00 00
 #
-name: SP
+name: Sp
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 47 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 47 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: CA 55 00 00
@@ -307,37 +307,37 @@ protocol: NECext
 address: CA 55 00 00
 command: 59 00 00 00
 #
-name: SEEK_DOWN
+name: Seek_down
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 5A 00 00 00
 #
-name: SEEK_UP
+name: Seek_up
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 5B 00 00 00
 #
-name: REVIEW
+name: Review
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 5C 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 5D 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 5E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: CA 55 00 00

@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OFF_TIMER
+name: Off_timer
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -115,43 +115,43 @@ protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: PICTURE_ADJUST+
+name: Picture_adjust+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5A 00 00 00
 #
-name: PICTURE_ADJUST-
+name: Picture_adjust-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5B 00 00 00
 #
-name: PICTURE_MODE
+name: Picture_mode
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 79 00 00 00
 #
-name: PICTURE_ADJUST
+name: Picture_adjust
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7B 00 00 00
 #
-name: COLOUR_SYSTEM
+name: Colour_system
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 92 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 9D 00 00 00
 #
-name: SOUND_SYSTEM
+name: Sound_system
 type: parsed
 protocol: NECext
 address: 03 00 00 00

@@ -1,409 +1,409 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SETUP_HOME
+name: Setup_home
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C0 00 00 00
 #
-name: AUDIO_COAX/OPT
+name: Audio_coax/opt
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C2 00 00 00
 #
-name: AUDIO_COAX/OPT_AUTO
+name: Audio_coax/opt_auto
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C2 00 00 00
 #
-name: RESOLUTION_1080P/24F
+name: Resolution_1080p/24f
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C3 00 00 00
 #
-name: MODE_THX_MUSIC
+name: Mode_thx_music
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C4 00 00 00
 #
-name: THX_MUSIC
+name: Thx_music
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C4 00 00 00
 #
-name: MODE_THX_GAMES
+name: Mode_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C5 00 00 00
 #
-name: THX_GAMES
+name: Thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C5 00 00 00
 #
-name: MODE_NEURAL_CINEMA
+name: Mode_neural_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C6 00 00 00
 #
-name: MODE_NEURAL_MUSIC
+name: Mode_neural_music
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C7 00 00 00
 #
-name: RESOLUTION_SOURCE
+name: Resolution_source
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: C9 00 00 00
 #
-name: RESOLUTION_THRU
+name: Resolution_thru
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CA 00 00 00
 #
-name: RESOLUTION_THROUGH
+name: Resolution_through
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CA 00 00 00
 #
-name: RESOLUTION:_THROUGH
+name: Resolution:_through
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CA 00 00 00
 #
-name: RESOLUTION_AUTO
+name: Resolution_auto
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CB 00 00 00
 #
-name: RESOLUTION:_AUTO
+name: Resolution:_auto
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CB 00 00 00
 #
-name: RESOLUTION_480P
+name: Resolution_480p
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CC 00 00 00
 #
-name: RESOLUTION:_480P
+name: Resolution:_480p
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CC 00 00 00
 #
-name: RESOLUTION_720P
+name: Resolution_720p
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CD 00 00 00
 #
-name: RESOLUTION:_720P
+name: Resolution:_720p
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CD 00 00 00
 #
-name: RESOLUTION_1080I
+name: Resolution_1080i
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CE 00 00 00
 #
-name: RESOLUTION:_1080I
+name: Resolution:_1080i
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CE 00 00 00
 #
-name: RESOLUTION_1080P
+name: Resolution_1080p
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CF 00 00 00
 #
-name: RESOLUTION:_1080P
+name: Resolution:_1080p
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: CF 00 00 00
 #
-name: AUDIO_AUTO
+name: Audio_auto
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D0 00 00 00
 #
-name: AUDIO:_AUTO
+name: Audio:_auto
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D0 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D0 00 00 00
 #
-name: AUDIO_ANALOG
+name: Audio_analog
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D1 00 00 00
 #
-name: ANALOG
+name: Analog
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D1 00 00 00
 #
-name: AUDIO_MULTI_CHANNEL
+name: Audio_multi_channel
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D2 00 00 00
 #
-name: AUDIO:_ANALOG
+name: Audio:_analog
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D2 00 00 00
 #
-name: MULITCH
+name: Mulitch
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D2 00 00 00
 #
-name: AUDIO_HDMI
+name: Audio_hdmi
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D3 00 00 00
 #
-name: HDMI
+name: Hdmi
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D3 00 00 00
 #
-name: MODE_PLLX_THX_MUSIC
+name: Mode_pllx_thx_music
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D4 00 00 00
 #
-name: MODE_PLLX_THX_GAMES
+name: Mode_pllx_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D6 00 00 00
 #
-name: PLIIX_THX_GAMES
+name: Pliix_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D6 00 00 00
 #
-name: NEO:_6_THX_GAMES
+name: Neo:_6_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D6 00 00 00
 #
-name: PLIIX_THX_GAMES
+name: Pliix_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D6 00 00 00
 #
-name: MODE_NEO_THX_GAMES
+name: Mode_neo_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D7 00 00 00
 #
-name: NEO:6_THX_GAMES
+name: Neo:6_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D7 00 00 00
 #
-name: MODE_NEURAL_THX_GAME
+name: Mode_neural_thx_game
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D7 00 00 00
 #
-name: MODE_PLLX_THX_CINEMA
+name: Mode_pllx_thx_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D8 00 00 00
 #
-name: PLIIX_THX_CINEMA
+name: Pliix_thx_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D8 00 00 00
 #
-name: MODE:_PLIIX_CINEMA
+name: Mode:_pliix_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D8 00 00 00
 #
-name: NEO:_6_THX_CINEMA
+name: Neo:_6_thx_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D9 00 00 00
 #
-name: NEO:6_THX_CINEMA
+name: Neo:6_thx_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: D9 00 00 00
 #
-name: MODE_THX_CINEMA
+name: Mode_thx_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DA 00 00 00
 #
-name: THX_CINEMA
+name: Thx_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DA 00 00 00
 #
-name: MODE:_THX_CINEMA
+name: Mode:_thx_cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DA 00 00 00
 #
-name: MODE_THX_SURR_EX
+name: Mode_thx_surr_ex
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DB 00 00 00
 #
-name: THX_SURROUND_EX
+name: Thx_surround_ex
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DB 00 00 00
 #
-name: MODE:_THX_SURR_EX
+name: Mode:_thx_surr_ex
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DB 00 00 00
 #
-name: MODE_THX_ULTRA2
+name: Mode_thx_ultra2
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DC 00 00 00
 #
-name: THX_ULTRA2
+name: Thx_ultra2
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DC 00 00 00
 #
-name: THX_ULTRA2/CINEMA
+name: Thx_ultra2/cinema
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DC 00 00 00
 #
-name: MODE:_THX_ULTRA_2
+name: Mode:_thx_ultra_2
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DC 00 00 00
 #
-name: MODE_THX_MUSIC_MODE2
+name: Mode_thx_music_mode2
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DD 00 00 00
 #
-name: THX_ULTRA2_MUSIC
+name: Thx_ultra2_music
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DD 00 00 00
 #
-name: THX_MUSIC_MODE
+name: Thx_music_mode
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DD 00 00 00
 #
-name: MODE:_THX_MUSIC
+name: Mode:_thx_music
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DD 00 00 00
 #
-name: MODE_THX_GAMES_MODE2
+name: Mode_thx_games_mode2
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DE 00 00 00
 #
-name: THX_ULTRA2_GAMES
+name: Thx_ultra2_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DE 00 00 00
 #
-name: THX_GAMES_MODE
+name: Thx_games_mode
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DE 00 00 00
 #
-name: MODE:_THX_GAMES
+name: Mode:_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DE 00 00 00
 #
-name: MODE:_PLII_THX_GAMES
+name: Mode:_plii_thx_games
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DE 00 00 00
 #
-name: NEURAL_THX
+name: Neural_thx
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: DF 00 00 00
 #
-name: MODE_NEURAL_THX_SURR
+name: Mode_neural_thx_surr
 type: parsed
 protocol: NECext
 address: D2 19 00 00

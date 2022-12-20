@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AUDIO_1
+name: Audio_1
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 00 00 00 00
 #
-name: 1_(CAM)
+name: 1_(cam)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 00 00 00 00
 #
-name: AUDIO_9
+name: Audio_9
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 01 00 00 00
 #
-name: 9_(CD)
+name: 9_(cd)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 01 00 00 00
 #
-name: AUDIO_POWER
+name: Audio_power
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 02 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 02 00 00 00
 #
-name: AUDIO_2
+name: Audio_2
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 08 00 00 00
 #
-name: 2_(DVD)
+name: 2_(dvd)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 08 00 00 00
 #
-name: AUDIO_0
+name: Audio_0
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -61,823 +61,823 @@ protocol: NECext
 address: 77 00 00 00
 command: 09 00 00 00
 #
-name: AUDIO_SCAN_^
+name: Audio_scan_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 0A 00 00 00
 #
-name: VCRA_CH_^_(SCAN_^)
+name: Vcra_ch_^_(scan_^)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 0A 00 00 00
 #
-name: PRESET_SCAN_(INTRO)
+name: Preset_scan_(intro)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 0A 00 00 00
 #
-name: AUDIO_CANCEL
+name: Audio_cancel
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 0B 00 00 00
 #
-name: AUDIO_3
+name: Audio_3
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 10 00 00 00
 #
-name: 3_(TV)
+name: 3_(tv)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 10 00 00 00
 #
-name: AUDIO_SCAN_V
+name: Audio_scan_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 12 00 00 00
 #
-name: VCRA_CH_V_(SCAN_V)
+name: Vcra_ch_v_(scan_v)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 12 00 00 00
 #
-name: AUDIO_4
+name: Audio_4
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 18 00 00 00
 #
-name: 4_(VCR)
+name: 4_(vcr)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 18 00 00 00
 #
-name: AUDIO_INPUT_V
+name: Audio_input_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 1A 00 00 00
 #
-name: VCRA_INPUT_V
+name: Vcra_input_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 1A 00 00 00
 #
-name: AUDIO_5
+name: Audio_5
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 20 00 00 00
 #
-name: 5_(TAPE1)
+name: 5_(tape1)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 20 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 22 00 00 00
 #
-name: VOL_^
+name: Vol_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 22 00 00 00
 #
-name: AUDIO_DISPLAY
+name: Audio_display
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 27 00 00 00
 #
-name: AUDIO_6
+name: Audio_6
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 28 00 00 00
 #
-name: 6_(TAPE2)
+name: 6_(tape2)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 28 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 2A 00 00 00
 #
-name: VOL_V
+name: Vol_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 2A 00 00 00
 #
-name: AUDIO_SLOW
+name: Audio_slow
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 2B 00 00 00
 #
-name: SUR_(PAUSE)
+name: Sur_(pause)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 2B 00 00 00
 #
-name: AUDIO_7
+name: Audio_7
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 30 00 00 00
 #
-name: 7_(TUNER)
+name: 7_(tuner)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 30 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 32 00 00 00
 #
-name: AUDIO_VOL_^
+name: Audio_vol_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 33 00 00 00
 #
-name: AUDIO_FS/+
+name: Audio_fs/+
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 33 00 00 00
 #
-name: REAR_+_(PLAY)
+name: Rear_+_(play)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 33 00 00 00
 #
-name: AUDIO_ENTER
+name: Audio_enter
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 35 00 00 00
 #
-name: AUDIO_8
+name: Audio_8
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 38 00 00 00
 #
-name: 8_(AUX)
+name: 8_(aux)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 38 00 00 00
 #
-name: AUDIO_INPUT_^
+name: Audio_input_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 3A 00 00 00
 #
-name: VCRA_INPUT_^
+name: Vcra_input_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 3A 00 00 00
 #
-name: AUDIO_VOL_V
+name: Audio_vol_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 3B 00 00 00
 #
-name: AUDIO_RS/-
+name: Audio_rs/-
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 3B 00 00 00
 #
-name: REAR_-_(STOP)
+name: Rear_-_(stop)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 3B 00 00 00
 #
-name: AUDIO_B
+name: Audio_b
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 3F 00 00 00
 #
-name: AUDIO_ADJUST_^
+name: Audio_adjust_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 41 00 00 00
 #
-name: CH_^
+name: Ch_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 41 00 00 00
 #
-name: VCR_B
+name: Vcr_b
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 43 00 00 00
 #
-name: VCR_B_INPUT
+name: Vcr_b_input
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 43 00 00 00
 #
-name: VCR_A
+name: Vcr_a
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 44 00 00 00
 #
-name: VCR_A_INPUT
+name: Vcr_a_input
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 44 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 45 00 00 00
 #
-name: TV_INPUT
+name: Tv_input
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 45 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 46 00 00 00
 #
-name: CD_INPUT
+name: Cd_input
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 46 00 00 00
 #
-name: AUDIO_ADJUST_V
+name: Audio_adjust_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 49 00 00 00
 #
-name: CH_V
+name: Ch_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 49 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 4B 00 00 00
 #
-name: PHONO_INPUT
+name: Phono_input
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 4B 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 4C 00 00 00
 #
-name: TAPE1/2
+name: Tape1/2
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 4D 00 00 00
 #
-name: TAPE_1/2_INPUT
+name: Tape_1/2_input
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 4D 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 4E 00 00 00
 #
-name: AUX_INPUT
+name: Aux_input
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 4E 00 00 00
 #
-name: AUDIO_AUDIO_^
+name: Audio_audio_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 50 00 00 00
 #
-name: AUDIO_MENU
+name: Audio_menu
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 52 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 56 00 00 00
 #
-name: AUDIO_AUDIO_V
+name: Audio_audio_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 58 00 00 00
 #
-name: CENTER
+name: Center
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 5C 00 00 00
 #
-name: CENTER_+_(FF)
+name: Center_+_(ff)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 75 00 00 00
 #
-name: DELAY_(REC)
+name: Delay_(rec)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 7B 00 00 00
 #
-name: CENTER_-_(REW)
+name: Center_-_(rew)
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 7D 00 00 00
 #
-name: TAPE1_1
+name: Tape1_1
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 80 00 00 00
 #
-name: TAPE1_9
+name: Tape1_9
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 81 00 00 00
 #
-name: TAPE1_MENU
+name: Tape1_menu
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 82 00 00 00
 #
-name: TAPE1_PLAY_>
+name: Tape1_play_>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 84 00 00 00
 #
-name: TAPE2_PLAY_>
+name: Tape2_play_>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 85 00 00 00
 #
-name: TAPE1_VOL_^
+name: Tape1_vol_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 86 00 00 00
 #
-name: TAPE1_FS/+
+name: Tape1_fs/+
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 86 00 00 00
 #
-name: TAPE2_VOL_^
+name: Tape2_vol_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 87 00 00 00
 #
-name: TAPE2_FS/+
+name: Tape2_fs/+
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 87 00 00 00
 #
-name: TAPE1_2
+name: Tape1_2
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 88 00 00 00
 #
-name: TAPE1_0
+name: Tape1_0
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 89 00 00 00
 #
-name: TAPE1_ENTER
+name: Tape1_enter
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 8A 00 00 00
 #
-name: TAPE1_REC
+name: Tape1_rec
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 8C 00 00 00
 #
-name: TAPE1_VOL_V
+name: Tape1_vol_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 8E 00 00 00
 #
-name: TAPE1_RS/-
+name: Tape1_rs/-
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 8E 00 00 00
 #
-name: TAPE2_VOL_V
+name: Tape2_vol_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 8F 00 00 00
 #
-name: TAPE2_RS/-
+name: Tape2_rs/-
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 8F 00 00 00
 #
-name: TAPE1_3
+name: Tape1_3
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 90 00 00 00
 #
-name: TAPE1_CANCEL
+name: Tape1_cancel
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 92 00 00 00
 #
-name: TAPE1_STOP_[]
+name: Tape1_stop_[]
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 94 00 00 00
 #
-name: TAPE2_STOP_[]
+name: Tape2_stop_[]
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 95 00 00 00
 #
-name: TAPE1_REPEAT
+name: Tape1_repeat
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 97 00 00 00
 #
-name: TAPE1_4
+name: Tape1_4
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 98 00 00 00
 #
-name: TAPE1_PAUSE_
+name: Tape1_pause_
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 9C 00 00 00
 #
-name: TAPE2_PAUSE_
+name: Tape2_pause_
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 9D 00 00 00
 #
-name: TAPE1_5
+name: Tape1_5
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: A0 00 00 00
 #
-name: TAPE1_AUDIO_^
+name: Tape1_audio_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: A2 00 00 00
 #
-name: TAPE1_FF_>>
+name: Tape1_ff_>>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: A4 00 00 00
 #
-name: TAPE2_FF_>>
+name: Tape2_ff_>>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: A5 00 00 00
 #
-name: TAPE1_DISPLAY
+name: Tape1_display
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: A7 00 00 00
 #
-name: TAPE1_6
+name: Tape1_6
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: A8 00 00 00
 #
-name: TAPE1_AUDIO_V
+name: Tape1_audio_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: AA 00 00 00
 #
-name: TAPE1_REW_<<
+name: Tape1_rew_<<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: AC 00 00 00
 #
-name: TAPE2_REW_<<
+name: Tape2_rew_<<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: AD 00 00 00
 #
-name: TAPE1_INTRO
+name: Tape1_intro
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: AE 00 00 00
 #
-name: TAPE2_INTRO
+name: Tape2_intro
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: AF 00 00 00
 #
-name: TAPE1_7
+name: Tape1_7
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: B0 00 00 00
 #
-name: TAPE1_ADJUST_^
+name: Tape1_adjust_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: B2 00 00 00
 #
-name: TAPE1_R.PLAY_<
+name: Tape1_r.play_<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: B4 00 00 00
 #
-name: TAPE1_PLAY_R._<
+name: Tape1_play_r._<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: B4 00 00 00
 #
-name: TAPE2_R.PLAY_<
+name: Tape2_r.play_<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: B5 00 00 00
 #
-name: TAPE2_PLAY_R._<
+name: Tape2_play_r._<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: B5 00 00 00
 #
-name: TAPE1_8
+name: Tape1_8
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: B8 00 00 00
 #
-name: TAPE1_ADJUST_V
+name: Tape1_adjust_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: BA 00 00 00
 #
-name: TAPE1_B
+name: Tape1_b
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: BF 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C0 00 00 00
 #
-name: CD_9
+name: Cd_9
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C1 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C4 00 00 00
 #
-name: CD_A
+name: Cd_a
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C7 00 00 00
 #
-name: CD_2
+name: Cd_2
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C8 00 00 00
 #
-name: CD_0
+name: Cd_0
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C9 00 00 00
 #
-name: CD_FF_>>
+name: Cd_ff_>>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: CA 00 00 00
 #
-name: CD_CANCEL
+name: Cd_cancel
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: CB 00 00 00
 #
-name: CD_3
+name: Cd_3
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D0 00 00 00
 #
-name: CD_REW_<<
+name: Cd_rew_<<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D2 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D4 00 00 00
 #
-name: CD_REPEAT
+name: Cd_repeat
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D7 00 00 00
 #
-name: CD_4
+name: Cd_4
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D8 00 00 00
 #
-name: CD_DISPLAY
+name: Cd_display
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: DB 00 00 00
 #
-name: CD_PAUSE_
+name: Cd_pause_
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: DC 00 00 00
 #
-name: CD_5
+name: Cd_5
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: E0 00 00 00
 #
-name: CD_FS/+
+name: Cd_fs/+
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: E4 00 00 00
 #
-name: CD_B
+name: Cd_b
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: E6 00 00 00
 #
-name: CD_6
+name: Cd_6
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: E8 00 00 00
 #
-name: CD_RS/-
+name: Cd_rs/-
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: EC 00 00 00
 #
-name: CD_INTRO
+name: Cd_intro
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: EE 00 00 00
 #
-name: CD_7
+name: Cd_7
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: F0 00 00 00
 #
-name: CD_ADJUST_^
+name: Cd_adjust_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: F4 00 00 00
 #
-name: CD_ENTER
+name: Cd_enter
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: F5 00 00 00
 #
-name: CD_8
+name: Cd_8
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: F8 00 00 00
 #
-name: CD_ADJUST_V
+name: Cd_adjust_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: FC 00 00 00
 #
-name: CD_MENU
+name: Cd_menu
 type: parsed
 protocol: NECext
 address: 77 00 00 00

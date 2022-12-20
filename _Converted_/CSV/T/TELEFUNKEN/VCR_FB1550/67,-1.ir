@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 03 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 04 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 06 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0D 00 00 00
 #
-name: MENU/TEXT
+name: Menu/text
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 13 00 00 00
 #
-name: SEARCHFWD
+name: Searchfwd
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 14 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 15 00 00 00
 #
-name: AUDIO-MONITOR
+name: Audio-monitor
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 17 00 00 00
 #
-name: CURSORLEFT
+name: Cursorleft
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 18 00 00 00
 #
-name: CURSORRIGHT
+name: Cursorright
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 19 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 29 00 00 00
 #
-name: SP/LP
+name: Sp/lp
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -151,25 +151,25 @@ protocol: NECext
 address: 43 00 00 00
 command: 33 00 00 00
 #
-name: VPS/CHANNEL
+name: Vps/channel
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 34 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 36 00 00 00
 #
-name: PROGR
+name: Progr
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 37 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -181,181 +181,181 @@ protocol: NECext
 address: 43 00 00 00
 command: 39 00 00 00
 #
-name: TARGET
+name: Target
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 3B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 3C 00 00 00
 #
-name: D/W/MEMORY
+name: D/w/memory
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 3E 00 00 00
 #
-name: RINGRIGHTPROG
+name: Ringrightprog
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 80 00 00 00
 #
-name: RINGLEFTPROG
+name: Ringleftprog
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 84 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 91 00 00 00
 #
-name: SETMARKE
+name: Setmarke
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 93 00 00 00
 #
-name: ERASEMARK
+name: Erasemark
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 94 00 00 00
 #
-name: SEEK-INTERVAL/-EMPTY
+name: Seek-interval/-empty
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 96 00 00 00
 #
-name: SEEKMARK
+name: Seekmark
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 97 00 00 00
 #
-name: JOGTAPE-1
+name: Jogtape-1
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: AF 00 00 00
 #
-name: RINGTAPE-6
+name: Ringtape-6
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B1 00 00 00
 #
-name: RINGTAPE-5
+name: Ringtape-5
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B2 00 00 00
 #
-name: RINGTAPE-4
+name: Ringtape-4
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B3 00 00 00
 #
-name: RINGTAPE-3
+name: Ringtape-3
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B4 00 00 00
 #
-name: RINGTAPE-2
+name: Ringtape-2
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B5 00 00 00
 #
-name: RINGTAPE-1
+name: Ringtape-1
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B6 00 00 00
 #
-name: RINGTAPE+1
+name: Ringtape+1
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B9 00 00 00
 #
-name: RINGTAPE+2
+name: Ringtape+2
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: BA 00 00 00
 #
-name: RINGTAPE+3
+name: Ringtape+3
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: BB 00 00 00
 #
-name: RINGTAPE+4
+name: Ringtape+4
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: BC 00 00 00
 #
-name: RINGTAPE+5
+name: Ringtape+5
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: BD 00 00 00
 #
-name: RINGTAPE+6
+name: Ringtape+6
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: BE 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: CC 00 00 00
 #
-name: SEARCHBWD
+name: Searchbwd
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: D5 00 00 00
 #
-name: JOGTAPE-3
+name: Jogtape-3
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: D8 00 00 00
 #
-name: JOGTAPE-2
+name: Jogtape-2
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: D9 00 00 00
 #
-name: JOGTAPE+2
+name: Jogtape+2
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: DA 00 00 00
 #
-name: JOGTAPE+3
+name: Jogtape+3
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: DB 00 00 00
 #
-name: JOGTAPE+1
+name: Jogtape+1
 type: parsed
 protocol: NECext
 address: 43 00 00 00

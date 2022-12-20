@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: LIGHTS_TOGGLE
+name: Lights_toggle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: LIGHTS_TOGGLE
+name: Lights_toggle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: color+
+name: Color+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: color-
+name: Color-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -121,13 +121,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: prg+
+name: Prg+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: prg-
+name: Prg-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -139,31 +139,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 00 00 00 00

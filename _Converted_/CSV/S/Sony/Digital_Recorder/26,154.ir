@@ -61,139 +61,139 @@ protocol: NECext
 address: 1A 9A 00 00
 command: 09 00 00 00
 #
-name: ENTER/JUMP
+name: Enter/jump
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 0B 00 00 00
 #
-name: CHANNEL/PAGE_+
+name: Channel/page_+
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 10 00 00 00
 #
-name: CHANNEL/PAGE_-
+name: Channel/page_-
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 15 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1A 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1B 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1C 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1D 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 23 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 2B 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5E 00 00 00
 #
-name: ARROW-UP
+name: Arrow-up
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5F 00 00 00
 #
-name: ARROW-DOWN
+name: Arrow-down
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 60 00 00 00
 #
-name: ARROW-RIGHT
+name: Arrow-right
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 61 00 00 00
 #
-name: ARROW-LEFT
+name: Arrow-left
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 62 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 63 00 00 00
 #
-name: TIVO
+name: Tivo
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 6F 00 00 00
 #
-name: THUMBS-UP
+name: Thumbs-up
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 70 00 00 00
 #
-name: THUMBS-DOWN
+name: Thumbs-down
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 71 00 00 00
 #
-name: ADVANCE
+name: Advance
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 72 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00

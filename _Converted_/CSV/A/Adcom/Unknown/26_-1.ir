@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TRACK_>>
+name: Track_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: TRACK_<<
+name: Track_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 04 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 05 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0B 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0C 00 00 00
 #
-name: FR_<<
+name: Fr_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0E 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -115,31 +115,31 @@ protocol: NECext
 address: 1A 00 00 00
 command: 1A 00 00 00
 #
-name: MEMORY_CLEAR
+name: Memory_clear
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1F 00 00 00
 #
-name: REPEAT_CLEAR
+name: Repeat_clear
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 46 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 48 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 49 00 00 00
 #
-name: POLARITY
+name: Polarity
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

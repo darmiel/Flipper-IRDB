@@ -61,109 +61,109 @@ protocol: NECext
 address: 27 00 00 00
 command: 09 00 00 00
 #
-name: pp
+name: Pp
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 0A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 0C 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 43 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 4B 00 00 00
 #
-name: LANGUAGE
+name: Language
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 4E 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 58 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 59 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 5A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 5B 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 5C 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 83 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 84 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: CB 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: CC 00 00 00
 #
-name: themes
+name: Themes
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: CD 00 00 00
 #
-name: PAGEUP
+name: Pageup
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: CE 00 00 00
 #
-name: PAGEDOWN
+name: Pagedown
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: CF 00 00 00
 #
-name: opts
+name: Opts
 type: parsed
 protocol: NECext
 address: 27 00 00 00

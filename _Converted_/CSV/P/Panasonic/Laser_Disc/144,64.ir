@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 00 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 01 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 04 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 05 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 0A 00 00 00
 #
-name: STILL/STEP_>
+name: Still/step_>
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 0C 00 00 00
 #
-name: STILL/STEP_<
+name: Still/step_<
 type: parsed
 protocol: NECext
 address: 90 40 00 00
@@ -109,73 +109,73 @@ protocol: NECext
 address: 90 40 00 00
 command: 19 00 00 00
 #
-name: AUDIO_SELECT
+name: Audio_select
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 33 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 3D 00 00 00
 #
-name: INTRO_SCAN
+name: Intro_scan
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 46 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 47 00 00 00
 #
-name: A-B_REPEAT
+name: A-b_repeat
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 48 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 49 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 4A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 4D 00 00 00
 #
-name: TIME_MODE
+name: Time_mode
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 55 00 00 00
 #
-name: FP_DISPLAY
+name: Fp_display
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: 91 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: A0 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 90 40 00 00
@@ -187,43 +187,43 @@ protocol: NECext
 address: 90 40 00 00
 command: A4 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: AA 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: AD 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: C0 00 00 00
 #
-name: SIDE_A
+name: Side_a
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: C3 00 00 00
 #
-name: SIDE_B
+name: Side_b
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: C4 00 00 00
 #
-name: D/A_CX
+name: D/a_cx
 type: parsed
 protocol: NECext
 address: 90 40 00 00
 command: D0 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 90 40 00 00

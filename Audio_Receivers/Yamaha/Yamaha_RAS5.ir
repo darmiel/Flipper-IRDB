@@ -7,31 +7,31 @@ Version: 1
 #
 # Tested with Yamaha A-S500.
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7E 81 00 00
 command: 2A D4 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7A 85 00 00
 command: 1A E4 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7A 85 00 00
 command: 1B E5 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 7A 85 00 00
 command: 1C E2 00 00
 # 
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 7A 85 00 00

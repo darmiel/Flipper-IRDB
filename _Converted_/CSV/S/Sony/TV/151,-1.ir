@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 18 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 1A 00 00 00
 #
-name: REVERSE
+name: Reverse
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 1B 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 1C 00 00 00
 #
-name: DIGIT_SEPARATOR
+name: Digit_separator
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 1D 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 20 00 00 00
 #
-name: I-LINK
+name: I-link
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 21 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 28 00 00 00
 #
-name: MEMORY_STICK
+name: Memory_stick
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 31 00 00 00
 #
-name: MENU_OPTIONS
+name: Menu_options
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 36 00 00 00
 #
-name: MEDIA
+name: Media
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 38 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 3C 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 3D 00 00 00
 #
-name: PIP_ZOOM_LEFT
+name: Pip_zoom_left
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 4D 00 00 00
 #
-name: PIP_ZOOM_RIGHT
+name: Pip_zoom_right
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 4E 00 00 00
 #
-name: STORE_MODE
+name: Store_mode
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 6A 00 00 00
 #
-name: PIP_ZOOM_IN_LEFT
+name: Pip_zoom_in_left
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 78 00 00 00
 #
-name: PIP_ZOOM_IN_RIGHT
+name: Pip_zoom_in_right
 type: parsed
 protocol: NECext
 address: 97 00 00 00

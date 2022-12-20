@@ -10,49 +10,49 @@ frequency: 36000
 duty_cycle: 0.33
 data: 1061 755 968 840 1875 792 944 776 1003 788 1039 802 1003 781 1004 779 1002 1623 1001 843 1873 793 1003
 #
-name: INPUT
+name: Input
 type: raw
 frequency: 36000
 duty_cycle: 0.33
 data: 1002 777 999 727 1894 823 999 783 956 813 999 797 998 740 996 830 980 779 976 828 958 780 1045 781 996
 #
-name: INPUT+
+name: Input+
 type: raw
 frequency: 36000
 duty_cycle: 0.33
 data: 1001 778 1006 712 1897 768 1008 781 1071 779 1005 779 1005 1652 1035 775 1005 729 1952 704 1002 774 1006
 #
-name: TV
+name: Tv
 type: raw
 frequency: 36000
 duty_cycle: 0.33
 data: 998 777 1901 744 1013 794 945 775 1029 756 1067 790 937 1739 1004 779 1005 779 944 778 1066 777 1005 783 1005
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 36000
 duty_cycle: 0.33
 data: 1939 724 1004 846 1004 779 1003 781 950 834 1004 755 1008 801 1003 1683 1805 778 997 1773 1872
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 36000
 duty_cycle: 0.33
 data: 1068 787 1004 752 1900 734 994 823 1006 779 1005 779 1006 779 989 784 1002 1650 1007 821 1005 779 1005 776 1000
 #
-name: SLEEP
+name: Sleep
 type: raw
 frequency: 36000
 duty_cycle: 0.33
 data: 942 806 1907 792 1005 780 1005 779 944 775 1005 785 1063 1682 1873 735 1014 1691 995 775 1900
 #
-name: SOUND
+name: Sound
 type: raw
 frequency: 36000
 duty_cycle: 0.33
 data: 1736 1831 1794 874 903 824 901 879 924 920 904 880 904 879 904 880 850 1836 849 935 1772
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 36000
 duty_cycle: 0.33
@@ -64,7 +64,7 @@ frequency: 36000
 duty_cycle: 0.33
 data: 1777 1732 1793 867 956 889 942 828 956 829 912 828 1024 1703 1800 869 956 784 944 853 967
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 36000
 duty_cycle: 0.33
@@ -82,7 +82,7 @@ frequency: 36000
 duty_cycle: 0.33
 data: 1794 835 967 851 956 770 953 828 951 816 971 828 979 803 981 1719 1815 1774 999 802 1837
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 36000
 duty_cycle: 0.33
@@ -94,7 +94,7 @@ frequency: 36000
 duty_cycle: 0.33
 data: 1771 1796 1783 857 956 870 914 800 925 914 875 909 948 1738 1795 871 928 857 873 1790 949
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 36000
 duty_cycle: 0.33
@@ -106,13 +106,13 @@ frequency: 36000
 duty_cycle: 0.33
 data: 979 740 1897 774 1006 822 935 797 982 866 983 803 982 796 952 807 1011 1705 925 858 1789 1779 982
 #
-name: LIST
+name: List
 type: raw
 frequency: 36000
 duty_cycle: 0.33
 data: 951 820 1855 810 1005 778 1006 779 1004 780 971 826 1004 1628 1002 822 1004 780 1003 796 1857 794 1004
 #
-name: RECALL
+name: Recall
 type: raw
 frequency: 36000
 duty_cycle: 0.33
@@ -172,7 +172,7 @@ frequency: 36000
 duty_cycle: 0.33
 data: 1003 778 1795 872 1006 778 1015 769 1006 778 951 775 1005 837 1007 777 1007 1624 1951 745 1016 1696 981
 #
-name: PP
+name: Pp
 type: raw
 frequency: 36000
 duty_cycle: 0.33
@@ -184,7 +184,7 @@ frequency: 36000
 duty_cycle: 0.33
 data: 919 843 981 803 1850 819 981 801 982 816 969 802 941 799 1024 803 1007 733 1009 819 1007 776 1007 778 1006
 #
-name: SCAN
+name: Scan
 type: raw
 frequency: 36000
 duty_cycle: 0.33

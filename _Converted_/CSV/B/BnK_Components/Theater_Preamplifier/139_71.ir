@@ -1,217 +1,217 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BK003_POWER_OFF
+name: Bk003_power_off
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 01 00 00 00
 #
-name: BK003_POWER_ON
+name: Bk003_power_on
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 02 00 00 00
 #
-name: BK003_MUTE
+name: Bk003_mute
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 03 00 00 00
 #
-name: BK003_V1
+name: Bk003_v1
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 05 00 00 00
 #
-name: BK003_TV
+name: Bk003_tv
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 06 00 00 00
 #
-name: BK003_V2
+name: Bk003_v2
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 09 00 00 00
 #
-name: BK003_TAPE
+name: Bk003_tape
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 0B 00 00 00
 #
-name: BK003_DVD
+name: Bk003_dvd
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 0D 00 00 00
 #
-name: BK003_CD
+name: Bk003_cd
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 0F 00 00 00
 #
-name: BK003_CENTER-
+name: Bk003_center-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 15 00 00 00
 #
-name: BK003_CENTER+
+name: Bk003_center+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 16 00 00 00
 #
-name: BK003_REAR-
+name: Bk003_rear-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 19 00 00 00
 #
-name: BK003_REAR+
+name: Bk003_rear+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 1A 00 00 00
 #
-name: BK003_SUB-
+name: Bk003_sub-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 1D 00 00 00
 #
-name: BK003_SUB+
+name: Bk003_sub+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 1E 00 00 00
 #
-name: BK003_LEFT
+name: Bk003_left
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 1F 00 00 00
 #
-name: BK003_RIGHT
+name: Bk003_right
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 20 00 00 00
 #
-name: BK003_VOLUME-
+name: Bk003_volume-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 23 00 00 00
 #
-name: BK003_VOLUME+
+name: Bk003_volume+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 24 00 00 00
 #
-name: BK003_NUMBER_+10
+name: Bk003_number_+10
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 29 00 00 00
 #
-name: BK003_EQ
+name: Bk003_eq
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 2A 00 00 00
 #
-name: BK003_DVD-AUDIO
+name: Bk003_dvd-audio
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 2B 00 00 00
 #
-name: BK003_DOWN
+name: Bk003_down
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 2D 00 00 00
 #
-name: BK003_UP
+name: Bk003_up
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 2E 00 00 00
 #
-name: BK003_MENU
+name: Bk003_menu
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 2F 00 00 00
 #
-name: BK003_ENTER/SELECT
+name: Bk003_enter/select
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 30 00 00 00
 #
-name: BK003_NUMBER_1
+name: Bk003_number_1
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 31 00 00 00
 #
-name: BK003_NUMBER_2
+name: Bk003_number_2
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 32 00 00 00
 #
-name: BK003_NUMBER_3
+name: Bk003_number_3
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 33 00 00 00
 #
-name: BK003_NUMBER_4
+name: Bk003_number_4
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 35 00 00 00
 #
-name: BK003_NUMBER_5
+name: Bk003_number_5
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 36 00 00 00
 #
-name: BK003_NUMBER_6
+name: Bk003_number_6
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 37 00 00 00
 #
-name: BK003_NUMBER_7
+name: Bk003_number_7
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 39 00 00 00
 #
-name: BK003_NUMBER_8
+name: Bk003_number_8
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 3A 00 00 00
 #
-name: BK003_NUMBER_9
+name: Bk003_number_9
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 3B 00 00 00
 #
-name: BK003_NUMBER_0
+name: Bk003_number_0
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
@@ -223,175 +223,175 @@ protocol: NECext
 address: 8B 47 00 00
 command: 3E 00 00 00
 #
-name: BK003_Z
+name: Bk003_z
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 3F 00 00 00
 #
-name: BK003_SAVE
+name: Bk003_save
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 40 00 00 00
 #
-name: BK003_SAT
+name: Bk003_sat
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 4A 00 00 00
 #
-name: BK003_PRESET+
+name: Bk003_preset+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 4B 00 00 00
 #
-name: BK003_PANORAMA+
+name: Bk003_panorama+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 4E 00 00 00
 #
-name: BK003_INFO
+name: Bk003_info
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 53 00 00 00
 #
-name: BK003_BASS-
+name: Bk003_bass-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 65 00 00 00
 #
-name: BK003_GAME
+name: Bk003_game
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 6A 00 00 00
 #
-name: BK003_MOVIE
+name: Bk003_movie
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 72 00 00 00
 #
-name: BK003_AM
+name: Bk003_am
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 76 00 00 00
 #
-name: BK003_TREBLE-
+name: Bk003_treble-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 79 00 00 00
 #
-name: BK003_EXIT
+name: Bk003_exit
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 7D 00 00 00
 #
-name: BK003_DIMENSION+
+name: Bk003_dimension+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 81 00 00 00
 #
-name: BK003_CINEMA
+name: Bk003_cinema
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 8A 00 00 00
 #
-name: BK003_FM
+name: Bk003_fm
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 8E 00 00 00
 #
-name: BK003_MONO
+name: Bk003_mono
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 9A 00 00 00
 #
-name: BK003_IMAGE+
+name: Bk003_image+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: 9E 00 00 00
 #
-name: BK003_NEO:6
+name: Bk003_neo:6
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: AA 00 00 00
 #
-name: BK003_MUSIC
+name: Bk003_music
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: B2 00 00 00
 #
-name: BK003_SLEEP
+name: Bk003_sleep
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: B3 00 00 00
 #
-name: BK003_PRESET-
+name: Bk003_preset-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: C6 00 00 00
 #
-name: BK003_SURROUND
+name: Bk003_surround
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: CA 00 00 00
 #
-name: BK003_PANORAMA-
+name: Bk003_panorama-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: CE 00 00 00
 #
-name: BK003_STEREO
+name: Bk003_stereo
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: E2 00 00 00
 #
-name: BK003_BASS+
+name: Bk003_bass+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: E5 00 00 00
 #
-name: BK003_PRO_LOGIC_IIX
+name: Bk003_pro_logic_iix
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: EA 00 00 00
 #
-name: BK003_IMAGE-
+name: Bk003_image-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: EE 00 00 00
 #
-name: BK003_TREBLE+
+name: Bk003_treble+
 type: parsed
 protocol: NECext
 address: 8B 47 00 00
 command: F9 00 00 00
 #
-name: BK003_DIMENSION-
+name: Bk003_dimension-
 type: parsed
 protocol: NECext
 address: 8B 47 00 00

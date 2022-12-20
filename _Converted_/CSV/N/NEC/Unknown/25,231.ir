@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: [2]_CHANNEL_^
+name: [2]_channel_^
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 00 00 00 00
 #
-name: [2]_CHANNEL_V
+name: [2]_channel_v
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 01 00 00 00
 #
-name: [2]_SLOW_+
+name: [2]_slow_+
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 02 00 00 00
 #
-name: [2]_SLOW_-
+name: [2]_slow_-
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 03 00 00 00
 #
-name: [2]_CANCEL/STOP_[]
+name: [2]_cancel/stop_[]
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 04 00 00 00
 #
-name: [2]_ENTER/PLAY_>
+name: [2]_enter/play_>
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 05 00 00 00
 #
-name: [2]_REC
+name: [2]_rec
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 06 00 00 00
 #
-name: [2]_POWER
+name: [2]_power
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 08 00 00 00
 #
-name: [2]_RESET
+name: [2]_reset
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 09 00 00 00
 #
-name: [2]_VCR/TV
+name: [2]_vcr/tv
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 0A 00 00 00
 #
-name: [2]_FF/SRCH_>>
+name: [2]_ff/srch_>>
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 0C 00 00 00
 #
-name: [2]_REW/SRCH_<<
+name: [2]_rew/srch_<<
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 0D 00 00 00
 #
-name: [2]_PAUSE/STILL_
+name: [2]_pause/still_
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
@@ -139,55 +139,55 @@ protocol: NECext
 address: 19 E7 00 00
 command: 1A 00 00 00
 #
-name: [2]_SP/EP
+name: [2]_sp/ep
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 1B 00 00 00
 #
-name: [2]_SEARCH_INDEX
+name: [2]_search_index
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 62 00 00 00
 #
-name: [2]_TAPE_RETURN
+name: [2]_tape_return
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 72 00 00 00
 #
-name: [2]_INDEX_WRITE
+name: [2]_index_write
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 75 00 00 00
 #
-name: [2]_INDEX_ERASE
+name: [2]_index_erase
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 76 00 00 00
 #
-name: [2]_ADDRESS
+name: [2]_address
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 84 00 00 00
 #
-name: [2]_TAPE_REMAIN
+name: [2]_tape_remain
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 85 00 00 00
 #
-name: [2]_SEARCH_TIME
+name: [2]_search_time
 type: parsed
 protocol: NECext
 address: 19 E7 00 00
 command: 9D 00 00 00
 #
-name: [2]_CVC
+name: [2]_cvc
 type: parsed
 protocol: NECext
 address: 19 E7 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
@@ -67,145 +67,145 @@ protocol: NECext
 address: 04 B9 00 00
 command: 0A 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 0F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 10 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 11 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 12 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 13 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 14 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 15 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 16 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 17 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 18 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 19 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 1A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 1B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 1C 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 1D 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 1F 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 20 00 00 00
 #
-name: LIGHTS_TOGGLE
+name: Lights_toggle
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 23 00 00 00
 #
-name: auto
+name: Auto
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 24 00 00 00
 #
-name: aspect
+name: Aspect
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 25 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 28 00 00 00
 #
-name: freeze
+name: Freeze
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 29 00 00 00
 #
-name: cc
+name: Cc
 type: parsed
 protocol: NECext
 address: 04 B9 00 00
 command: 2A 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 04 B9 00 00

@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 11 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 14 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 15 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 16 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 17 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 1B 00 00 00
 #
-name: MEDIA_REPEAT
+name: Media_repeat
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 1F 00 00 00
 #
-name: X_CLOCK
+name: X_clock
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 4E 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 58 00 00 00
 #
-name: X_SOURCE
+name: X_source
 type: parsed
 protocol: NECext
 address: 02 FF 00 00

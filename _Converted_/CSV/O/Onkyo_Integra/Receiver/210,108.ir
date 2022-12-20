@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DSP_>
+name: Dsp_>
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 18 00 00 00
 #
-name: DSP_<
+name: Dsp_<
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 19 00 00 00
 #
-name: LEVEL_+
+name: Level_+
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 42 00 00 00
 #
-name: LEVEL_-
+name: Level_-
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 43 00 00 00
 #
-name: CHANNEL_SELECT
+name: Channel_select
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 44 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 47 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 4C 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 4D 00 00 00
 #
-name: OSD_MENU
+name: Osd_menu
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 53 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 55 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: D2 6C 00 00

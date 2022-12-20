@@ -10,19 +10,19 @@ protocol: NECext
 address: CA C2 00 00
 command: 7F 80 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: F3 0C 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 7B 84 00 00
 #
-name: TVSRC
+name: Tvsrc
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -82,7 +82,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 13 EC 00 00
 #
-name: DISCMENU
+name: Discmenu
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 0B F4 00 00
 #
-name: POPUP
+name: Popup
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 41 BE 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -154,25 +154,25 @@ protocol: NECext
 address: CA C2 00 00
 command: 63 9C 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 3B C4 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 23 DC 00 00
 #
-name: TVSOUND
+name: Tvsound
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: AE 51 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -184,19 +184,19 @@ protocol: NECext
 address: CA C2 00 00
 command: F1 0E 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 93 6C 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 99 66 00 00
 #
-name: TOOLS
+name: Tools
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -208,7 +208,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 4F B0 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -232,7 +232,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 47 B8 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -244,7 +244,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 57 A8 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -274,49 +274,49 @@ protocol: NECext
 address: CA C2 00 00
 command: 11 EE 00 00
 #
-name: HUB
+name: Hub
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 21 DE 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 7E 81 00 00
 #
-name: SWLEVEL
+name: Swlevel
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 0F F0 00 00
 #
-name: 3DSOUND
+name: 3dsound
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 3E C1 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 4E B1 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 9F 60 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 8F 70 00 00
 #
-name: EFFECT
+name: Effect
 type: parsed
 protocol: NECext
 address: CA C2 00 00

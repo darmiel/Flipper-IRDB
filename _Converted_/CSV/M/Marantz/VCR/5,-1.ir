@@ -13,7 +13,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 01 00 00 00
 #
-name: QP_START_+_1
+name: Qp_start_+_1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 02 00 00 00
 #
-name: QP_STOP_+_2
+name: Qp_stop_+_2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 03 00 00 00
 #
-name: QP_DATE_+_3
+name: Qp_date_+_3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 04 00 00 00
 #
-name: QP_START_-_4
+name: Qp_start_-_4
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 05 00 00 00
 #
-name: QP_STOP_-_5
+name: Qp_stop_-_5
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 06 00 00 00
 #
-name: QP_DATE_-_6
+name: Qp_date_-_6
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 08 00 00 00
 #
-name: QP_DAILY_8
+name: Qp_daily_8
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: QP_WEEKLY_9
+name: Qp_weekly_9
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -115,259 +115,259 @@ protocol: NECext
 address: 05 00 00 00
 command: 0A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: VCR_POWER
+name: Vcr_power
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: TURBO_TIMER
+name: Turbo_timer
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1D 00 00 00
 #
-name: CH_+
+name: Ch_+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: VCR_CH_+
+name: Vcr_ch_+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: CH_-
+name: Ch_-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: VCR_CH_-
+name: Vcr_ch_-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: AUDIO/MUTE
+name: Audio/mute
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 23 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 23 00 00 00
 #
-name: SLOW_MOTION_-
+name: Slow_motion_-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 25 00 00 00
 #
-name: PLAY_SPEED_DOWN
+name: Play_speed_down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 25 00 00 00
 #
-name: SLOW_MOTION_+
+name: Slow_motion_+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: PLAY_SPEED_UP
+name: Play_speed_up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: OTR
+name: Otr
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 27 00 00 00
 #
-name: VAR_PLAY
+name: Var_play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 28 00 00 00
 #
-name: PAUSE/SLOW
+name: Pause/slow
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: PAUSE/STILL
+name: Pause/still
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 31 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 32 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 36 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 37 00 00 00
 #
-name: QP_SPEED
+name: Qp_speed
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3A 00 00 00
 #
-name: SP/SLP
+name: Sp/slp
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3A 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3B 00 00 00
 #
-name: CLK/CNT
+name: Clk/cnt
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3C 00 00 00
 #
-name: VCR/TV
+name: Vcr/tv
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3E 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 45 00 00 00
 #
-name: VCR_PLUS:_DAILY
+name: Vcr_plus:_daily
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 45 00 00 00
 #
-name: SMART_PICTURE
+name: Smart_picture
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 46 00 00 00
 #
-name: PICT_CTRL
+name: Pict_ctrl
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 46 00 00 00
 #
-name: TRACKING_+
+name: Tracking_+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4D 00 00 00
 #
-name: TRACKING_-
+name: Tracking_-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4E 00 00 00
 #
-name: TAPE_MANAGER
+name: Tape_manager
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 52 00 00 00
 #
-name: OK/STATUS
+name: Ok/status
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 57 00 00 00
 #
-name: SKIP/SEARCH
+name: Skip/search
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 6A 00 00 00
 #
-name: SKIP
+name: Skip
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 6A 00 00 00
 #
-name: VISS_FWD
+name: Viss_fwd
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 70 00 00 00
 #
-name: VISS_REV
+name: Viss_rev
 type: parsed
 protocol: NECext
 address: 05 00 00 00

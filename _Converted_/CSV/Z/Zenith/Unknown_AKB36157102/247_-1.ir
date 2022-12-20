@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 00 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 03 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 04 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 05 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 06 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 09 00 00 00
 #
-name: SAP
+name: Sap
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 0A 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: F7 00 00 00
@@ -133,97 +133,97 @@ protocol: NECext
 address: F7 00 00 00
 command: 19 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 1A 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 1E 00 00 00
 #
-name: CHUP2
+name: Chup2
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 20 00 00 00
 #
-name: CHDOWN2
+name: Chdown2
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 21 00 00 00
 #
-name: CCD
+name: Ccd
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 39 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 43 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 44 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 4C 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 5B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 5C 00 00 00
 #
-name: OK2
+name: Ok2
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 78 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 79 00 00 00
 #
-name: MENU2
+name: Menu2
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 7E 00 00 00
 #
-name: SIGNAL
+name: Signal
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 96 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: A9 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: F7 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # LG Remote AKB35840202 for DP132H DVD/CD Player
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: Samsung32
 address: 2D 00 00 00
@@ -81,37 +81,37 @@ protocol: Samsung32
 address: 2D 00 00 00
 command: 46 00 00 00
 # 
-name: TV_POWER
+name: Tv_power
 type: parsed
 protocol: NEC
 address: 04 00 00 00
 command: 08 00 00 00
 # 
-name: TV_AV
+name: Tv_av
 type: parsed
 protocol: NEC
 address: 04 00 00 00
 command: 0B 00 00 00
 # 
-name: TV_CH-
+name: Tv_ch-
 type: parsed
 protocol: NEC
 address: 04 00 00 00
 command: 01 00 00 00
 # 
-name: TV_CH+
+name: Tv_ch+
 type: parsed
 protocol: NEC
 address: 04 00 00 00
 command: 00 00 00 00
 # 
-name: TV_VOL-
+name: Tv_vol-
 type: parsed
 protocol: NEC
 address: 04 00 00 00
 command: 03 00 00 00
 # 
-name: TV_VOL+
+name: Tv_vol+
 type: parsed
 protocol: NEC
 address: 04 00 00 00
@@ -267,7 +267,7 @@ protocol: Samsung32
 address: 2D 00 00 00
 command: 53 00 00 00
 # 
-name: A_B
+name: A_b
 type: parsed
 protocol: Samsung32
 address: 2D 00 00 00

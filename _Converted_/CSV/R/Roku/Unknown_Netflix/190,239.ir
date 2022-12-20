@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: BE EF 00 00
 command: 00 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: BE EF 00 00
 command: 01 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: BE EF 00 00
 command: 02 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: BE EF 00 00
 command: 03 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: BE EF 00 00
 command: 04 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: BE EF 00 00
 command: 05 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: BE EF 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: BE EF 00 00
 command: 07 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: BE EF 00 00

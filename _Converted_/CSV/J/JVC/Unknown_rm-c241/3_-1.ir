@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: sleeptimer
+name: Sleeptimer
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: return+
+name: Return+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: tv/video
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: muting
+name: Muting
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: 03 00 00 00
 command: 77 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7A 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 03 00 00 00

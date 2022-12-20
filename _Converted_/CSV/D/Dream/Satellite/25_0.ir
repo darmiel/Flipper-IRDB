@@ -19,19 +19,19 @@ protocol: NECext
 address: 19 00 00 00
 command: 09 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: STANDBY_2
+name: Standby_2
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 19 00 00 00

@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 02 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 04 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0A 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0B 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0C 00 00 00
 #
-name: COUNTER_MEMORY
+name: Counter_memory
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0D 00 00 00
 #
-name: INDEX_SEARCH+
+name: Index_search+
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0E 00 00 00
 #
-name: INDEX_ENTER
+name: Index_enter
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0F 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 12 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 13 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 14 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 15 00 00 00
 #
-name: INDEX_SEARCH-
+name: Index_search-
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 16 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 17 00 00 00
 #
-name: PROG_ON-OFF
+name: Prog_on-off
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1B 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1C 00 00 00
 #
-name: PROG_REC
+name: Prog_rec
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1F 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 24 00 00 00
 #
-name: FAST_PLAY
+name: Fast_play
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 25 00 00 00
 #
-name: PROG_NBR
+name: Prog_nbr
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 2B 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 2C 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 33 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 34 00 00 00
 #
-name: SKIP_SEARCH
+name: Skip_search
 type: parsed
 protocol: NECext
 address: 57 00 00 00

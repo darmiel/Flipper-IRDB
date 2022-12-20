@@ -39,7 +39,7 @@ protocol: RC5
 address: 10 00 00 00
 command: 08 00 00 00
 #
-name: SpeakerAB
+name: Speakerab
 type: parsed
 protocol: RC5
 address: 10 00 00 00
@@ -135,25 +135,25 @@ protocol: RC5
 address: 14 00 00 00
 command: 1D 00 00 00
 #
-name: MP3
+name: Mp3
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 02 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 05 00 00 00
 #
-name: TunerDAB
+name: Tunerdab
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: RC5
 address: 10 00 00 00
@@ -165,7 +165,7 @@ protocol: RC5
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: TapeMon
+name: Tapemon
 type: parsed
 protocol: RC5
 address: 10 00 00 00

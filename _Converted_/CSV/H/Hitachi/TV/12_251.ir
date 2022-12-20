@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -67,67 +67,67 @@ protocol: NECext
 address: 0C FB 00 00
 command: 8D 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 8F 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 90 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 92 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 93 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 94 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 95 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 97 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 99 00 00 00
 #
-name: SVCS
+name: Svcs
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: E9 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: F0 00 00 00
 #
-name: SCHED
+name: Sched
 type: parsed
 protocol: NECext
 address: 0C FB 00 00

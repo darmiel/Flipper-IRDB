@@ -61,25 +61,25 @@ protocol: NECext
 address: 03 00 00 00
 command: 0A 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0E 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 11 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 12 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -91,67 +91,67 @@ protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 20 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 21 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 22 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 23 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 25 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 27 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 28 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 2F 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 30 00 00 00
 #
-name: VT
+name: Vt
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 98 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 03 00 00 00

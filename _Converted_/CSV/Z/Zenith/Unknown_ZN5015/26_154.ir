@@ -61,133 +61,133 @@ protocol: NECext
 address: 1A 9A 00 00
 command: 09 00 00 00
 #
-name: prev_chan
+name: Prev_chan
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 0B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 0B 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 15 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1A 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1B 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1C 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 1D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 23 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 2B 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 2B 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 5F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 60 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 61 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 62 00 00 00
 #
-name: QUIT
+name: Quit
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 63 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 6F 00 00 00
 #
-name: CLOSE
+name: Close
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00
 command: 73 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 1A 9A 00 00

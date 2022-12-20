@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 0B 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 17 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 1C 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 44 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 4C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 72 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 73 00 00 00
 #
-name: set
+name: Set
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 74 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 90 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 91 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 92 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 93 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 94 00 00 00
 #
-name: disp
+name: Disp
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 9D 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: A0 00 00 00
 #
-name: am
+name: Am
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: A0 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: A0 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: A0 00 00 00
 #
-name: md
+name: Md
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: A2 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: CE 00 00 00
 #
-name: sound
+name: Sound
 type: parsed
 protocol: NECext
 address: A6 00 00 00

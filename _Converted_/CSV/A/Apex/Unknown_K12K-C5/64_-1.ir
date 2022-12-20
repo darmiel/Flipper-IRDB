@@ -61,133 +61,133 @@ protocol: NECext
 address: 40 00 00 00
 command: 09 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0A 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0D 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 10 00 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 13 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 14 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 16 00 00 00
 #
-name: CC
+name: Cc
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1F 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 40 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 41 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 46 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 47 00 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 5A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 00 00 00

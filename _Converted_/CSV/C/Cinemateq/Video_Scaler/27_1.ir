@@ -7,7 +7,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 02 00 00 00
 #
-name: SCART-1
+name: Scart-1
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 05 00 00 00
 #
-name: SCART-2
+name: Scart-2
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 06 00 00 00
 #
-name: FBAS/SDI-1
+name: Fbas/sdi-1
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 09 00 00 00
 #
-name: FBAS/SDI-2
+name: Fbas/sdi-2
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 0A 00 00 00
 #
-name: S-VIDEO-1
+name: S-video-1
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 0D 00 00 00
 #
-name: S-VIDEO-2
+name: S-video-2
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 0E 00 00 00
 #
-name: YUV-1
+name: Yuv-1
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 11 00 00 00
 #
-name: YUV-2
+name: Yuv-2
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 1B 01 00 00
 command: 12 00 00 00
 #
-name: BYPASS_RGB
+name: Bypass_rgb
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
@@ -115,103 +115,103 @@ protocol: NECext
 address: 1B 01 00 00
 command: 15 00 00 00
 #
-name: BYPASS_VGA
+name: Bypass_vga
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 15 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 16 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 1A 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 1E 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 26 00 00 00
 #
-name: LENSSHIFT_UP
+name: Lensshift_up
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 2E 00 00 00
 #
-name: RESOLUTION
+name: Resolution
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 31 00 00 00
 #
-name: ASPECT_RATIO
+name: Aspect_ratio
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 32 00 00 00
 #
-name: LENSSHIFT_DOWN
+name: Lensshift_down
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 35 00 00 00
 #
-name: OVERSCAN
+name: Overscan
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 36 00 00 00
 #
-name: TV_MODE
+name: Tv_mode
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 39 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 3A 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 3E 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 41 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 45 00 00 00
 #
-name: OPTION_A
+name: Option_a
 type: parsed
 protocol: NECext
 address: 1B 01 00 00
 command: 46 00 00 00
 #
-name: OPTION_B
+name: Option_b
 type: parsed
 protocol: NECext
 address: 1B 01 00 00

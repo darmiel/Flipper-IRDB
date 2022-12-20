@@ -61,79 +61,79 @@ protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: p-p
+name: P-p
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1F 00 00 00
 #
-name: digits
+name: Digits
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 27 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2D 00 00 00
 #
-name: prog-dn
+name: Prog-dn
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 30 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 33 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 39 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00

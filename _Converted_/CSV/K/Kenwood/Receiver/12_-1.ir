@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LD_1
+name: Ld_1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 01 00 00 00
 #
-name: LD_2
+name: Ld_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 02 00 00 00
 #
-name: LD_3
+name: Ld_3
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 03 00 00 00
 #
-name: LD_4
+name: Ld_4
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 04 00 00 00
 #
-name: LD_5
+name: Ld_5
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 05 00 00 00
 #
-name: LD_6
+name: Ld_6
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 06 00 00 00
 #
-name: LD_7
+name: Ld_7
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 07 00 00 00
 #
-name: LD_8
+name: Ld_8
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 08 00 00 00
 #
-name: LD_9
+name: Ld_9
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 09 00 00 00
 #
-name: LD_0
+name: Ld_0
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0A 00 00 00
 #
-name: LD_POWER
+name: Ld_power
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 16 00 00 00
 #
-name: LD_>>_(TUNING_>>)
+name: Ld_>>_(tuning_>>)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 21 00 00 00
 #
-name: LD_PLAY_>_(P.CALL)
+name: Ld_play_>_(p.call)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 22 00 00 00
 #
-name: LD_<<_(TUNING_<<)
+name: Ld_<<_(tuning_<<)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 23 00 00 00
 #
-name: LD_PAUSE_(AUTO)
+name: Ld_pause_(auto)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 25 00 00 00
 #
-name: LD_STOP_(BAND)
+name: Ld_stop_(band)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 27 00 00 00
 #
-name: LD_SEARCH_>>_(ANY_^)
+name: Ld_search_>>_(any_^)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2A 00 00 00
 #
-name: LD_SEARCH_<<_(ANY_V)
+name: Ld_search_<<_(any_v)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2B 00 00 00
 #
-name: LD_OPEN/CLOSE_(REC)
+name: Ld_open/close_(rec)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 33 00 00 00
 #
-name: LD_+10
+name: Ld_+10
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

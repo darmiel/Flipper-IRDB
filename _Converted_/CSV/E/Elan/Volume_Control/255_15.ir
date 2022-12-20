@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ID2
+name: Id2
 type: parsed
 protocol: NECext
 address: FF 0F 00 00

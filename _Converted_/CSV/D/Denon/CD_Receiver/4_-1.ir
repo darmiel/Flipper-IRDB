@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TAPE_REVERSE
+name: Tape_reverse
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: TAPE_FORWARD
+name: Tape_forward
 type: parsed
 protocol: NECext
 address: 04 00 00 00

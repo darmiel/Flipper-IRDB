@@ -55,67 +55,67 @@ protocol: NECext
 address: 23 40 00 00
 command: 09 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 0A 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 20 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 21 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 28 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 29 00 00 00
 #
-name: RECORDED_TV
+name: Recorded_tv
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 44 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 54 00 00 00
 #
-name: EXIT_TO_TV
+name: Exit_to_tv
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 55 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 58 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 23 40 00 00
 command: 59 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 23 40 00 00

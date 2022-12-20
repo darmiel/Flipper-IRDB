@@ -3,7 +3,7 @@ Version: 1
 # 
 # Xbox One confirmed
 #
-name: Xbox_POWER
+name: Xbox_power
 type: parsed
 protocol: NECext
 address: 80 D8 00 00

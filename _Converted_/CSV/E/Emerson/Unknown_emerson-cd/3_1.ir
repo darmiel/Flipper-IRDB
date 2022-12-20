@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 09 00 00 00
 #
-name: stop/clear
+name: Stop/clear
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 01 00 00
 command: 20 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 21 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 01 00 00

@@ -1,163 +1,163 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 02 00 00 00
 #
-name: BRIGHTNESS_+
+name: Brightness_+
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 03 00 00 00
 #
-name: BRIGHTNESS_-
+name: Brightness_-
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 07 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 0E 00 00 00
 #
-name: SOURSE_SELECT
+name: Sourse_select
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 10 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 13 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 14 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 17 00 00 00
 #
-name: KEYSTONE_+
+name: Keystone_+
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 20 00 00 00
 #
-name: KEYSTONE_-
+name: Keystone_-
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 21 00 00 00
 #
-name: PRESETS
+name: Presets
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2C 00 00 00
 #
-name: SOURCE_1
+name: Source_1
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2D 00 00 00
 #
-name: SOURCE_2
+name: Source_2
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2E 00 00 00
 #
-name: SOURCE_3
+name: Source_3
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2F 00 00 00
 #
-name: SOURCE_4
+name: Source_4
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 30 00 00 00
 #
-name: BLANK
+name: Blank
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 31 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 32 00 00 00
 #
-name: AUTO_IMAGE
+name: Auto_image
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 33 00 00 00
 #
-name: RESIZE
+name: Resize
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 34 00 00 00
 #
-name: OVERSCAN
+name: Overscan
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 35 00 00 00
 #
-name: CONTRAST_+
+name: Contrast_+
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 36 00 00 00
 #
-name: CONTRAST_-
+name: Contrast_-
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 37 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 39 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 39 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 3A 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 3A 00 00 00
 #
-name: NATIVE_RESIZE
+name: Native_resize
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
@@ -175,31 +175,31 @@ protocol: NECext
 address: 87 4E 00 00
 command: 3D 00 00 00
 #
-name: LETTERBOX
+name: Letterbox
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 3E 00 00 00
 #
-name: NATURAL_WIDE
+name: Natural_wide
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 3F 00 00 00
 #
-name: USER_PRESET_1
+name: User_preset_1
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 40 00 00 00
 #
-name: USER_PRESET_2
+name: User_preset_2
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 41 00 00 00
 #
-name: USER_PRESET_3
+name: User_preset_3
 type: parsed
 protocol: NECext
 address: 87 4E 00 00

@@ -1,211 +1,211 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NUMBER_1
+name: Number_1
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 00 00 00 00
 #
-name: NUMBER_2
+name: Number_2
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 01 00 00 00
 #
-name: NUMBER_3
+name: Number_3
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 02 00 00 00
 #
-name: NUMBER_4
+name: Number_4
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 03 00 00 00
 #
-name: NUMBER_5
+name: Number_5
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 04 00 00 00
 #
-name: NUMBER_6
+name: Number_6
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 05 00 00 00
 #
-name: NUMBER_7
+name: Number_7
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 06 00 00 00
 #
-name: NUMBER_8
+name: Number_8
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 07 00 00 00
 #
-name: NUMBER_9
+name: Number_9
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 08 00 00 00
 #
-name: NUMBER_0
+name: Number_0
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 09 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 0B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 0E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 15 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 1A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 1B 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 1F 00 00 00
 #
-name: SCAN_BACKWARD
+name: Scan_backward
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 22 00 00 00
 #
-name: SCAN_FORWARD
+name: Scan_forward
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 23 00 00 00
 #
-name: TIME_TEXT
+name: Time_text
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 28 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 2C 00 00 00
 #
-name: SKIP_BACKWARD
+name: Skip_backward
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 30 00 00 00
 #
-name: SKIP_FORWAD
+name: Skip_forwad
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 32 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 39 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 54 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 63 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 64 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 65 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 79 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 7A 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 1A 12 00 00
 command: 7B 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 1A 12 00 00

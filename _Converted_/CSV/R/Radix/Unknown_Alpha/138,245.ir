@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 8A F5 00 00
 command: 0B 00 00 00
 #
-name: RIGHT/LOUD+
+name: Right/loud+
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -73,31 +73,31 @@ protocol: NECext
 address: 8A F5 00 00
 command: 0E 00 00 00
 #
-name: LEFT/LOUD-
+name: Left/loud-
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 11 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 14 00 00 00
 #
-name: UP/CH+
+name: Up/ch+
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 1A 00 00 00
 #
-name: DOWN/CH-
+name: Down/ch-
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
 command: 1B 00 00 00
 #
-name: CH/LIST
+name: Ch/list
 type: parsed
 protocol: NECext
 address: 8A F5 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 8A F5 00 00
 command: 1D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 8A F5 00 00

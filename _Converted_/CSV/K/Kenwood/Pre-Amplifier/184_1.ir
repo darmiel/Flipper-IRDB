@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DOLBY_PRO_LOGIC
+name: Dolby_pro_logic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 00 00 00 00
 #
-name: DOLBY_PROLOGIC
+name: Dolby_prologic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 00 00 00 00
 #
-name: PRESENCE_LEVEL_V
+name: Presence_level_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 04 00 00 00
 #
-name: PRESENCE_LEVEL_DWN
+name: Presence_level_dwn
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 04 00 00 00
 #
-name: PRESENCE_LEVEL_^
+name: Presence_level_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 05 00 00 00
 #
-name: PRESENCE_LEVEL_UP
+name: Presence_level_up
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 05 00 00 00
 #
-name: DOLBY_3_STEREO
+name: Dolby_3_stereo
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 0E 00 00 00
 #
-name: DOLBY_3STEREO
+name: Dolby_3stereo
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 0E 00 00 00
 #
-name: DSP_LOGIC
+name: Dsp_logic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 85 00 00 00
 #
-name: VISUAL_FIX
+name: Visual_fix
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 8F 00 00 00
 #
-name: CHANNEL_LEVEL_V
+name: Channel_level_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 9E 00 00 00
 #
-name: CHANNEL_LEVEL_DWN
+name: Channel_level_dwn
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 9E 00 00 00
 #
-name: CHANNEL_LEVEL_^
+name: Channel_level_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 9F 00 00 00
 #
-name: CHANNEL_LEVEL_UP
+name: Channel_level_up
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 9F 00 00 00
 #
-name: THX_CINEMA
+name: Thx_cinema
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: C2 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: B8 01 00 00

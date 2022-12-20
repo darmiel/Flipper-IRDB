@@ -1,259 +1,259 @@
 Filetype: IR signals file
 Version: 1
 #
-name: vocal_assist
+name: Vocal_assist
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 01 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 03 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 06 00 00 00
 #
-name: kp_8
+name: Kp_8
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 08 00 00 00
 #
-name: kp_9
+name: Kp_9
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 09 00 00 00
 #
-name: resume
+name: Resume
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0A 00 00 00
 #
-name: kp_7
+name: Kp_7
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0B 00 00 00
 #
-name: kp_5
+name: Kp_5
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0C 00 00 00
 #
-name: kp_6
+name: Kp_6
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0E 00 00 00
 #
-name: kp_4
+name: Kp_4
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0F 00 00 00
 #
-name: kp_2
+name: Kp_2
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 10 00 00 00
 #
-name: kp_3
+name: Kp_3
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 11 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 12 00 00 00
 #
-name: kp_1
+name: Kp_1
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 13 00 00 00
 #
-name: rpt_1all
+name: Rpt_1all
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 15 00 00 00
 #
-name: LANGUAGE
+name: Language
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 16 00 00 00
 #
-name: rpt_ab
+name: Rpt_ab
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 17 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 18 00 00 00
 #
-name: skip_b
+name: Skip_b
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 19 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1A 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1B 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1D 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1E 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1F 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 40 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 41 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 44 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 48 00 00 00
 #
-name: kp_0
+name: Kp_0
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 49 00 00 00
 #
-name: pbc
+name: Pbc
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 4C 00 00 00
 #
-name: kp_plus10
+name: Kp_plus10
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 4D 00 00 00
 #
-name: tc_search
+name: Tc_search
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 50 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 51 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 54 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 55 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 58 00 00 00
 #
-name: skip_f
+name: Skip_f
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 59 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 5C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 20 00 00 00

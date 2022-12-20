@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: TV_Power
+name: Tv_power
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00
 command: D0 03 00 00
 # 
-name: VCR_Power
+name: Vcr_power
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 00
@@ -19,31 +19,31 @@ protocol: Kaseikyo
 address: 91 02 20 01
 command: 60 01 00 00
 # 
-name: VCR/TV
+name: Vcr/tv
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 00
 command: 60 03 00 00
 # 
-name: Vol_Up
+name: Vol_up
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00
 command: 00 02 00 00
 # 
-name: Vol_Down
+name: Vol_down
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00
 command: 10 02 00 00
 # 
-name: CH_Up
+name: Ch_up
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00
 command: 40 03 00 00
 # 
-name: CH_Down
+name: Ch_down
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00
@@ -73,7 +73,7 @@ protocol: Kaseikyo
 address: 90 02 20 00
 command: F0 00 00 00
 # 
-name: FastForward
+name: Fastforward
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 00
@@ -91,7 +91,7 @@ protocol: Kaseikyo
 address: 91 02 20 00
 command: A0 00 00 00
 # 
-name: Rec/Time
+name: Rec/time
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 00
@@ -103,19 +103,19 @@ protocol: Kaseikyo
 address: 91 02 20 00
 command: 50 00 00 00
 # 
-name: R-Tune
+name: R-tune
 type: parsed
 protocol: Kaseikyo
 address: 91 02 20 00
 command: 80 03 00 00
 # 
-name: CH_Preset_Up
+name: Ch_preset_up
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 00
 command: 40 03 00 00
 # 
-name: Ch_Preset_Down
+name: Ch_preset_down
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 00
@@ -127,19 +127,19 @@ protocol: Kaseikyo
 address: 91 02 20 00
 command: 10 00 00 00
 # 
-name: Rotate_Up
+name: Rotate_up
 type: parsed
 protocol: Kaseikyo
 address: 91 02 20 00
 command: 20 00 00 00
 # 
-name: Rotate_Dwn
+name: Rotate_dwn
 type: parsed
 protocol: Kaseikyo
 address: 91 02 20 00
 command: 30 00 00 00
 # 
-name: Push2Set
+name: Push2set
 type: parsed
 protocol: Kaseikyo
 address: 91 02 20 00
@@ -151,43 +151,43 @@ protocol: Kaseikyo
 address: 90 02 20 00
 command: 90 03 00 00
 # 
-name: Add/DLT
+name: Add/dlt
 type: parsed
 protocol: Kaseikyo
 address: 91 02 20 00
 command: 10 03 00 00
 # 
-name: All_Ch_Up
+name: All_ch_up
 type: parsed
 protocol: Kaseikyo
 address: 91 02 20 03
 command: 30 03 00 00
 # 
-name: All_Ch_Down
+name: All_ch_down
 type: parsed
 protocol: Kaseikyo
 address: 91 02 20 03
 command: 30 03 00 00
 # 
-name: Counter_Reset
+name: Counter_reset
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 01
 command: 40 01 00 00
 # 
-name: ZeroSearch
+name: Zerosearch
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 03
 command: 50 03 00 00
 # 
-name: Tracking_Up
+name: Tracking_up
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 02
 command: 10 03 00 00
 # 
-name: Tracking_Dwn
+name: Tracking_dwn
 type: parsed
 protocol: Kaseikyo
 address: 90 02 20 02

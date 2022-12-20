@@ -1,211 +1,211 @@
 Filetype: IR signals file
 Version: 1
 #
-name: (TV)_0
+name: (tv)_0
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: (TV)_1
+name: (tv)_1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: (TV)_2
+name: (tv)_2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: (TV)_3
+name: (tv)_3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: (TV)_4
+name: (tv)_4
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: (TV)_5
+name: (tv)_5
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: (TV)_6
+name: (tv)_6
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: (TV)_7
+name: (tv)_7
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: (TV)_8
+name: (tv)_8
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: (TV)_9
+name: (tv)_9
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: (TV)_>
+name: (tv)_>
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: (TV)_POWER
+name: (tv)_power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: (TV)_MUTE
+name: (tv)_mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: (TV)_INFO
+name: (tv)_info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: (TV)_VOL+
+name: (tv)_vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: (TV)_VOL-
+name: (tv)_vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: (TV)_BOUQUET_+
+name: (tv)_bouquet_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: (TV)_BOUQUET_-
+name: (tv)_bouquet_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: (TV)_VIDEO
+name: (tv)_video
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: (TV)_TV(SMALL_BLACK)
+name: (tv)_tv(small_black)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: (TV)_EXIT
+name: (tv)_exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: (TV)_<
+name: (tv)_<
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: (TV)_TEXT
+name: (tv)_text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: (TV)_HELP
+name: (tv)_help
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: (TV)_UP
+name: (tv)_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 50 00 00 00
 #
-name: (TV)_DOWN
+name: (tv)_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 51 00 00 00
 #
-name: (TV)_AUDIO
+name: (tv)_audio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 52 00 00 00
 #
-name: (TV)_RADIO
+name: (tv)_radio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 52 00 00 00
 #
-name: (TV)_LEFT
+name: (tv)_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 55 00 00 00
 #
-name: (TV)_RIGHT
+name: (tv)_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 56 00 00 00
 #
-name: (TV)_OK
+name: (tv)_ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 57 00 00 00
 #
-name: (TV)_RED
+name: (tv)_red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6B 00 00 00
 #
-name: (TV)_GREEN
+name: (tv)_green
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6C 00 00 00
 #
-name: (TV)_YELLOW
+name: (tv)_yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6D 00 00 00
 #
-name: (TV)_BLUE
+name: (tv)_blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00

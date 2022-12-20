@@ -67,67 +67,67 @@ protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNEL_^
+name: Channel_^
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: CHANNEL_V
+name: Channel_v
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: VOL_+
+name: Vol_+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: VOL_-
+name: Vol_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: PREVIEW
+name: Preview
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 20 00 00 00
 #
-name: QV
+name: Qv
 type: parsed
 protocol: NECext
 address: 01 00 00 00

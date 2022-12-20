@@ -67,55 +67,55 @@ protocol: NECext
 address: 11 00 00 00
 command: 0A 00 00 00
 #
-name: STAND_BY
+name: Stand_by
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0C 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0F 00 00 00
 #
-name: WIND
+name: Wind
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: PRESET_TRACK+
+name: Preset_track+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRESET_TRACK-
+name: Preset_track-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: I-II
+name: I-ii
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00

@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: REC/PAUSE_O/
+name: Rec/pause_o/
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: REC_MUTE
+name: Rec_mute
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 07 00 00 00
 #
-name: SKIP_FWD_>>
+name: Skip_fwd_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 08 00 00 00
 #
-name: SKIP_REV_<<
+name: Skip_rev_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 09 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 0A 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 0E 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 1B 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 1C 00 00 00
 #
-name: MONITOR
+name: Monitor
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 1E 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 82 72 00 00

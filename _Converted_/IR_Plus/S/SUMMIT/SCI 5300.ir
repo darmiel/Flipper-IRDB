@@ -10,7 +10,7 @@ protocol: NECext
 address: EF 00 00 00
 command: C5 3A 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: EF 00 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: EF 00 00 00
 command: F7 08 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: EF 00 00 00
@@ -106,7 +106,7 @@ protocol: NECext
 address: EF 00 00 00
 command: ED 12 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: EF 00 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: EF 00 00 00
 command: 0F F0 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: EF 00 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: EF 00 00 00
 command: 1F E0 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: EF 00 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: EF 00 00 00
 command: AF 50 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: EF 00 00 00
@@ -184,7 +184,7 @@ protocol: NECext
 address: EF 00 00 00
 command: 3D C2 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: EF 00 00 00
@@ -196,7 +196,7 @@ protocol: NECext
 address: EF 00 00 00
 command: E7 18 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: EF 00 00 00
@@ -220,7 +220,7 @@ protocol: NECext
 address: EF 00 00 00
 command: 1D E2 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: EF 00 00 00

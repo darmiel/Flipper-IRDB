@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FOC-
+name: Foc-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 16277 12280 8125 107707
 #
-name: FOC+
+name: Foc+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 4076 4076 8125 12254 8125 107707
 #
-name: FORWARD
+name: Forward
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8125 4076 4076 12201 8125 107707
 #
-name: REVERSE
+name: Reverse
 type: raw
 frequency: 38029
 duty_cycle: 0.330000

@@ -13,235 +13,235 @@ protocol: NECext
 address: 01 16 00 00
 command: 01 00 00 00
 #
-name: 2_ABC
+name: 2_abc
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 02 00 00 00
 #
-name: 3_DEF
+name: 3_def
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 03 00 00 00
 #
-name: 4_GHI
+name: 4_ghi
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 04 00 00 00
 #
-name: 5_JKL
+name: 5_jkl
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 05 00 00 00
 #
-name: 6_MNO
+name: 6_mno
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 06 00 00 00
 #
-name: 7_PQRS
+name: 7_pqrs
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 07 00 00 00
 #
-name: 8_TUV
+name: 8_tuv
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 08 00 00 00
 #
-name: 9_WXYZ
+name: 9_wxyz
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 09 00 00 00
 #
-name: CH_PAGE_UP
+name: Ch_page_up
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0D 00 00 00
 #
-name: CH-/PG-
+name: Ch-/pg-
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0E 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 10 00 00 00
 #
-name: LAST_/_MODE
+name: Last_/_mode
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 11 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 14 00 00 00
 #
-name: GLOBE
+name: Globe
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 15 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 15 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 16 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 17 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 18 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 19 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1A 00 00 00
 #
-name: INFO_/_ALL
+name: Info_/_all
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1B 00 00 00
 #
-name: MENU_/_VIEW
+name: Menu_/_view
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1C 00 00 00
 #
-name: REW_/BACKSPACE
+name: Rew_/backspace
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 20 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 21 00 00 00
 #
-name: >>_SPACE
+name: >>_space
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 22 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 23 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 24 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 25 00 00 00
 #
-name: MOVIES
+name: Movies
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 26 00 00 00
 #
-name: I_RADIO
+name: I_radio
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2A 00 00 00
 #
-name: IRADIO
+name: Iradio
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2A 00 00 00
 #
-name: JUKEBOX_NEXT
+name: Jukebox_next
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2B 00 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2C 00 00 00
 #
-name: PLAY_FAVOR
+name: Play_favor
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2E 00 00 00
 #
-name: RAMDOM
+name: Ramdom
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2F 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 30 00 00 00
 #
-name: JUKEBOX_MACRO
+name: Jukebox_macro
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 31 00 00 00
 #
-name: JUKEBOX_PREVIOUS
+name: Jukebox_previous
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 32 00 00 00
 #
-name: JUKEBOX_REPEAT
+name: Jukebox_repeat
 type: parsed
 protocol: NECext
 address: 01 16 00 00

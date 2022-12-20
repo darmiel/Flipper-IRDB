@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SUPERIMPOSE
+name: Superimpose
 type: parsed
 protocol: NECext
 address: 09 00 00 00
 command: 0D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 09 00 00 00
 command: 18 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 09 00 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 09 00 00 00
 command: 1A 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 09 00 00 00
 command: 1B 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 09 00 00 00
 command: 1C 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 09 00 00 00
 command: 1E 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 09 00 00 00
 command: 26 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 09 00 00 00

@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: Light UP
+name: Light_up
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5C 00 00 00
 # 
-name: Light DOWN
+name: Light_down
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5D 00 00 00
 # 
-name: Play / Pause
+name: Play_/_pause
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 41 00 00 00
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -115,7 +115,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 1E 00 00 00
 # 
-name: Sea Green
+name: Sea_green
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -139,25 +139,25 @@ protocol: NEC
 address: 00 00 00 00
 command: 1A 00 00 00
 # 
-name: Baby Blue
+name: Baby_blue
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1B 00 00 00
 # 
-name: Red UP
+name: Red_up
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 14 00 00 00
 # 
-name: Green UP
+name: Green_up
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 15 00 00 00
 # 
-name: Blue UP
+name: Blue_up
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -169,97 +169,97 @@ protocol: NEC
 address: 00 00 00 00
 command: 17 00 00 00
 # 
-name: Red DOWN
+name: Red_down
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 10 00 00 00
 # 
-name: Green DOWN
+name: Green_down
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 11 00 00 00
 # 
-name: Blue DOWN
+name: Blue_down
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 12 00 00 00
 # 
-name: SLOW
+name: Slow
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 13 00 00 00
 # 
-name: DIY 1
+name: Diy_1
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0C 00 00 00
 # 
-name: DIY 2
+name: Diy_2
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0D 00 00 00
 # 
-name: DIY 3
+name: Diy_3
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0E 00 00 00
 # 
-name: AUTO
+name: Auto
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0F 00 00 00
 # 
-name: DIY 4
+name: Diy_4
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 08 00 00 00
 # 
-name: DIY 5
+name: Diy_5
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 09 00 00 00
 # 
-name: DIY 6
+name: Diy_6
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0A 00 00 00
 # 
-name: FLASH
+name: Flash
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0B 00 00 00
 # 
-name: JUMP 3
+name: Jump_3
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 04 00 00 00
 # 
-name: JUMP 7
+name: Jump_7
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 05 00 00 00
 # 
-name: FADE 3
+name: Fade_3
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 06 00 00 00
 # 
-name: FADE 7
+name: Fade_7
 type: parsed
 protocol: NEC
 address: 00 00 00 00

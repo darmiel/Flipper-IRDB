@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 02 00 00 00
 #
-name: PAUSE/STOP
+name: Pause/stop
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 03 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 04 00 00 00
 #
-name: INDEX-
+name: Index-
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 05 00 00 00
 #
-name: INDEX+
+name: Index+
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 06 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 07 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 08 00 00 00
 #
-name: TIME_DISPLAY
+name: Time_display
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0A 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 79 00 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 79 00 00 00
 command: 19 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 79 00 00 00

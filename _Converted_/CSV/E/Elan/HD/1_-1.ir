@@ -1,259 +1,259 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ON_0
+name: On_0
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 00 00 00 00
 #
-name: ON_1
+name: On_1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: ON_2
+name: On_2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: ON_3
+name: On_3
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: ON_4
+name: On_4
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: ON_5
+name: On_5
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: ON_6
+name: On_6
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: ON_7
+name: On_7
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: ON_8
+name: On_8
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: ON_9
+name: On_9
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: ON_A
+name: On_a
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: ON_B
+name: On_b
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: ON_C
+name: On_c
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: ON_D
+name: On_d
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0D 00 00 00
 #
-name: ON_E
+name: On_e
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: ON_F
+name: On_f
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: ON_G
+name: On_g
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: WH_ON
+name: Wh_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: ON_H
+name: On_h
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: ON_I
+name: On_i
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: ON_J
+name: On_j
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: ON_ELAN
+name: On_elan
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: ON_POWER
+name: On_power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 19 00 00 00
 #
-name: ON_MUTE
+name: On_mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1A 00 00 00
 #
-name: ON_DND
+name: On_dnd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: OFF_0
+name: Off_0
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 20 00 00 00
 #
-name: OFF_1
+name: Off_1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 21 00 00 00
 #
-name: OFF_2
+name: Off_2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 22 00 00 00
 #
-name: OFF_3
+name: Off_3
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 23 00 00 00
 #
-name: OFF_4
+name: Off_4
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 24 00 00 00
 #
-name: OFF_5
+name: Off_5
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 25 00 00 00
 #
-name: OFF_6
+name: Off_6
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 26 00 00 00
 #
-name: OFF_7
+name: Off_7
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 27 00 00 00
 #
-name: OFF_8
+name: Off_8
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 28 00 00 00
 #
-name: OFF_9
+name: Off_9
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 29 00 00 00
 #
-name: OFF_A
+name: Off_a
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2A 00 00 00
 #
-name: OFF_B
+name: Off_b
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2B 00 00 00
 #
-name: OFF_C
+name: Off_c
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2C 00 00 00
 #
-name: OFF_D
+name: Off_d
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2D 00 00 00
 #
-name: OFF_E
+name: Off_e
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2E 00 00 00
 #
-name: OFF_F
+name: Off_f
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2F 00 00 00
 #
-name: OFF_G
+name: Off_g
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 30 00 00 00
 #
-name: WH_OFF
+name: Wh_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -265,43 +265,43 @@ protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: OFF_H
+name: Off_h
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: OFF_I
+name: Off_i
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: OFF_J
+name: Off_j
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 33 00 00 00
 #
-name: OFF_ELAN
+name: Off_elan
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 38 00 00 00
 #
-name: OFF_PWR
+name: Off_pwr
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 39 00 00 00
 #
-name: OFF_MUTE
+name: Off_mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3A 00 00 00
 #
-name: OFF_DND
+name: Off_dnd
 type: parsed
 protocol: NECext
 address: 01 00 00 00

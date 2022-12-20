@@ -61,61 +61,61 @@ protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: DOT
+name: Dot
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: EnterNumPad
+name: Enternumpad
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: CC
+name: Cc
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -127,13 +127,13 @@ protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -145,25 +145,25 @@ protocol: NECext
 address: 01 00 00 00
 command: 25 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 33 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -175,49 +175,49 @@ protocol: NECext
 address: 01 00 00 00
 command: 3B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 40 00 00 00
 #
-name: HDMI
+name: Hdmi
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 42 00 00 00
 #
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 43 00 00 00
 #
-name: DVI
+name: Dvi
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 44 00 00 00
 #
-name: YPbPr1
+name: Ypbpr1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 48 00 00 00
 #
-name: YPbPr2
+name: Ypbpr2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 49 00 00 00
 #
-name: SVideo
+name: Svideo
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4D 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -229,13 +229,13 @@ protocol: NECext
 address: 01 00 00 00
 command: 5F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 60 00 00 00
 #
-name: EnterNavigation
+name: Enternavigation
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -259,13 +259,13 @@ protocol: NECext
 address: 01 00 00 00
 command: 6C 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 74 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 01 00 00 00

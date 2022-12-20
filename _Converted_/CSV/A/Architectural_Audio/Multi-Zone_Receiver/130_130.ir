@@ -1,187 +1,187 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER_-
+name: Tuner_-
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 01 00 00 00
 #
-name: TUNER_+
+name: Tuner_+
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 02 00 00 00
 #
-name: SOURCE_4
+name: Source_4
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 03 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 04 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 05 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 06 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 07 00 00 00
 #
-name: SOURCE_3
+name: Source_3
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 09 00 00 00
 #
-name: SOURCE_2
+name: Source_2
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 0A 00 00 00
 #
-name: SOURCE_1
+name: Source_1
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 0B 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 0C 00 00 00
 #
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 0D 00 00 00
 #
-name: PRESET_4
+name: Preset_4
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 0E 00 00 00
 #
-name: PRESET_7
+name: Preset_7
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 0F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 12 00 00 00
 #
-name: MUTE-TOGGLE
+name: Mute-toggle
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 13 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 14 00 00 00
 #
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 15 00 00 00
 #
-name: PRESET_5
+name: Preset_5
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 16 00 00 00
 #
-name: PRESET_8
+name: Preset_8
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 17 00 00 00
 #
-name: ALL_OFF
+name: All_off
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 19 00 00 00
 #
-name: ZONE_OFF
+name: Zone_off
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 1A 00 00 00
 #
-name: MUTE-OFF
+name: Mute-off
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 1B 00 00 00
 #
-name: MUTE-ON
+name: Mute-on
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 1C 00 00 00
 #
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 1D 00 00 00
 #
-name: PRESET_6
+name: Preset_6
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 1E 00 00 00
 #
-name: PRESET_9
+name: Preset_9
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 1F 00 00 00
 #
-name: PRESET_10
+name: Preset_10
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: 60 00 00 00
 #
-name: PRESET_11
+name: Preset_11
 type: parsed
 protocol: NECext
 address: 82 82 00 00
 command: A0 00 00 00
 #
-name: PRESET_12
+name: Preset_12
 type: parsed
 protocol: NECext
 address: 82 82 00 00

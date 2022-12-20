@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MULTI_CHANEL_INPUT
+name: Multi_chanel_input
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 04 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: D2 6C 00 00

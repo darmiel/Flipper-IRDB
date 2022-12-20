@@ -1,163 +1,163 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 1_MUTE/UNMUTE_80_AB
+name: 1_mute/unmute_80_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 01 00 00 00
 #
-name: 5_VOL_-_40_AB
+name: 5_vol_-_40_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 02 00 00 00
 #
-name: 4_VOL_+_C0_AB
+name: 4_vol_+_c0_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 03 00 00 00
 #
-name: 6_AM/FM_60_AB
+name: 6_am/fm_60_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 06 00 00 00
 #
-name: 7_AM_30_AB
+name: 7_am_30_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 0C 00 00 00
 #
-name: 12_VIDEO_2_B0_AB
+name: 12_video_2_b0_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 0D 00 00 00
 #
-name: 11_VIDEO_1_70_AB
+name: 11_video_1_70_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 0E 00 00 00
 #
-name: 13_AUX_F0_AB
+name: 13_aux_f0_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 0F 00 00 00
 #
-name: 8_FM_08_AB
+name: 8_fm_08_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 10 00 00 00
 #
-name: 23_SKIP_REV_18_AB
+name: 23_skip_rev_18_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 18 00 00 00
 #
-name: 24_SKIP_FWD_98_AB
+name: 24_skip_fwd_98_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 19 00 00 00
 #
-name: 25_STOP_58_AB
+name: 25_stop_58_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 1A 00 00 00
 #
-name: 18_PAUSE_D8_AB
+name: 18_pause_d8_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 1B 00 00 00
 #
-name: 26_AM/FM_PRESET_+_B8
+name: 26_am/fm_preset_+_b8
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 1D 00 00 00
 #
-name: 27_AM/FM_PRESET_-_F8
+name: 27_am/fm_preset_-_f8
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 1F 00 00 00
 #
-name: 29_RANDOM_DISK_52_AB
+name: 29_random_disk_52_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 4A 00 00 00
 #
-name: 14_OFF_32_AB
+name: 14_off_32_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 4C 00 00 00
 #
-name: 15_TAPE_4A_AB
+name: 15_tape_4a_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 52 00 00 00
 #
-name: 16_CD_CA_AB
+name: 16_cd_ca_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 53 00 00 00
 #
-name: 28_DISK_-_2A_AB
+name: 28_disk_-_2a_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 54 00 00 00
 #
-name: 19_PLAY_AA_AB
+name: 19_play_aa_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 55 00 00 00
 #
-name: 18_PAUSE_6A_AB
+name: 18_pause_6a_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 56 00 00 00
 #
-name: 20_FAST_REV_EA_AB
+name: 20_fast_rev_ea_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 57 00 00 00
 #
-name: 21_FAST_FWD_1A_AB
+name: 21_fast_fwd_1a_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 58 00 00 00
 #
-name: 22_RANDOM_3A_AB
+name: 22_random_3a_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 5C 00 00 00
 #
-name: 17_NEXT_DISK_BA_AB
+name: 17_next_disk_ba_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00
 command: 5D 00 00 00
 #
-name: 30_MUTE_ALL_FB_AB
+name: 30_mute_all_fb_ab
 type: parsed
 protocol: NECext
 address: BA D5 00 00

@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 00 00 00 00
 #
-name: VOL_+
+name: Vol_+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 01 00 00 00
 #
-name: VOL_-
+name: Vol_-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 02 00 00 00
 #
-name: TUNER_INPUT
+name: Tuner_input
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
@@ -97,31 +97,31 @@ protocol: NECext
 address: 9F 00 00 00
 command: 2E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 32 00 00 00
 #
-name: CD_SKIP_+
+name: Cd_skip_+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3D 00 00 00
 #
-name: CD_SKIP_-
+name: Cd_skip_-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3E 00 00 00
 #
-name: CD_PLAY/INPUT/PAUSE
+name: Cd_play/input/pause
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 70 00 00 00
 #
-name: CD_STOPP
+name: Cd_stopp
 type: parsed
 protocol: NECext
 address: 9F 00 00 00

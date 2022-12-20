@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: SHIFT_RIGHT
+name: Shift_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: SHIFT_LEFT
+name: Shift_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: SHIFT_UP
+name: Shift_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: SHIFT_DOWN
+name: Shift_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00

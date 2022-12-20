@@ -10,73 +10,73 @@ protocol: NECext
 address: FB 04 00 00
 command: 27 D8 00 00
 #
-name: DVD2CH
+name: Dvd2ch
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 57 A8 00 00
 #
-name: DVD5.1
+name: Dvd5.1
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 17 E8 00 00
 #
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 85 7A 00 00
 #
-name: VCD
+name: Vcd
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 4F B0 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 77 88 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 6F 90 00 00
 #
-name: DSP1
+name: Dsp1
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 9F 60 00 00
 #
-name: DSP2
+name: Dsp2
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 55 AA 00 00
 #
-name: DSP3
+name: Dsp3
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 95 6A 00 00
 #
-name: DSP4
+name: Dsp4
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 37 C8 00 00
 #
-name: TREBLE
+name: Treble
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: ED 12 00 00
 #
-name: BASS
+name: Bass
 type: parsed
 protocol: NECext
 address: FB 04 00 00
@@ -88,13 +88,13 @@ protocol: NECext
 address: FB 04 00 00
 command: BF 40 00 00
 #
-name: TREBLE
+name: Treble
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: 6D 92 00 00
 #
-name: BASS
+name: Bass
 type: parsed
 protocol: NECext
 address: FB 04 00 00
@@ -106,13 +106,13 @@ protocol: NECext
 address: FB 04 00 00
 command: 7F 80 00 00
 #
-name: DIRECT
+name: Direct
 type: parsed
 protocol: NECext
 address: FB 04 00 00
 command: CD 32 00 00
 #
-name: LOUDNESS
+name: Loudness
 type: parsed
 protocol: NECext
 address: FB 04 00 00

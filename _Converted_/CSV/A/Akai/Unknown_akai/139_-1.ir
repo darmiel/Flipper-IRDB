@@ -1,205 +1,205 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NUM_1
+name: Num_1
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 80 00 00 00
 #
-name: NUM_2
+name: Num_2
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 81 00 00 00
 #
-name: NUM_3
+name: Num_3
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 82 00 00 00
 #
-name: NUM_4
+name: Num_4
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 83 00 00 00
 #
-name: NUM_5
+name: Num_5
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 84 00 00 00
 #
-name: NUM_6
+name: Num_6
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 85 00 00 00
 #
-name: NUM_7
+name: Num_7
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 86 00 00 00
 #
-name: NUM_8
+name: Num_8
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 87 00 00 00
 #
-name: NUM_9
+name: Num_9
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 88 00 00 00
 #
-name: NUM_+10
+name: Num_+10
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 89 00 00 00
 #
-name: NUM_0
+name: Num_0
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 8A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 8E 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 90 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 91 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 92 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 93 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 94 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 95 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 96 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 97 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: 9F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: C0 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: C1 00 00 00
 #
-name: SRC_PHONO_LINE
+name: Src_phono_line
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: C2 00 00 00
 #
-name: VOL_MUTE
+name: Vol_mute
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: C4 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: C9 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: CA 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: CB 00 00 00
 #
-name: CD_PLAY_DISC1
+name: Cd_play_disc1
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: CD 00 00 00
 #
-name: CD_PLAY_DISC2
+name: Cd_play_disc2
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: CE 00 00 00
 #
-name: CD_PLAY_DISC3
+name: Cd_play_disc3
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: CF 00 00 00
 #
-name: SRC_CD
+name: Src_cd
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: D1 00 00 00
 #
-name: SRC_TAPE
+name: Src_tape
 type: parsed
 protocol: NECext
 address: 8B 00 00 00
 command: D2 00 00 00
 #
-name: SRC_TUNER
+name: Src_tuner
 type: parsed
 protocol: NECext
 address: 8B 00 00 00

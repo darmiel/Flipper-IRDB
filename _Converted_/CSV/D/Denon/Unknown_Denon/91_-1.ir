@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
@@ -25,13 +25,13 @@ protocol: NECext
 address: 5B 00 00 00
 command: 03 00 00 00
 #
-name: A.Edit
+name: A.edit
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 04 00 00 00
 #
-name: Tuner_Band
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
@@ -43,37 +43,37 @@ protocol: NECext
 address: 5B 00 00 00
 command: 09 00 00 00
 #
-name: P.Mode
+name: P.mode
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 0B 00 00 00
 #
-name: EQ_Pattern
+name: Eq_pattern
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 11 00 00 00
 #
-name: CD_Play
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 12 00 00 00
 #
-name: CD_Stop
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 13 00 00 00
 #
-name: Skip_Forward
+name: Skip_forward
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 14 00 00 00
 #
-name: Skip_Backward
+name: Skip_backward
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
@@ -85,49 +85,49 @@ protocol: NECext
 address: 5B 00 00 00
 command: 16 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 17 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 18 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1A 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1B 00 00 00
 #
-name: Fast_Rewind
+name: Fast_rewind
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1D 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 5B 00 00 00

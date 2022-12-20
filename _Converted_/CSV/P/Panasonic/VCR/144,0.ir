@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 00 00 00 00
 #
-name: STOP/DOWN_ARROW
+name: Stop/down_arrow
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 00 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 01 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 02 00 00 00
 #
-name: REW/LEFT_ARROW
+name: Rew/left_arrow
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 02 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 03 00 00 00
 #
-name: FF_>>/RIGHT_ARROW
+name: Ff_>>/right_arrow
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 03 00 00 00
 #
-name: FF/RIGHT_ARROW
+name: Ff/right_arrow
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 06 00 00 00
 #
-name: PAUSE/SLOW
+name: Pause/slow
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 06 00 00 00
 #
-name: RECORD/TIME
+name: Record/time
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 08 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 08 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0A 00 00 00
 #
-name: PLAY/UP_ARROW
+name: Play/up_arrow
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0A 00 00 00
 #
-name: STILL_ADV
+name: Still_adv
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0C 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0F 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0F 00 00 00
 #
-name: SLOW_MOTION_+
+name: Slow_motion_+
 type: parsed
 protocol: NECext
 address: 90 00 00 00
@@ -169,133 +169,133 @@ protocol: NECext
 address: 90 00 00 00
 command: 19 00 00 00
 #
-name: SPATIALIZER
+name: Spatializer
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 31 00 00 00
 #
-name: AUDIO_OUT
+name: Audio_out
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 33 00 00 00
 #
-name: CHANNEL/TRACKING_+
+name: Channel/tracking_+
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 34 00 00 00
 #
-name: CHANNEL_UP
+name: Channel_up
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 34 00 00 00
 #
-name: CHANNEL_+/TRACKING_+
+name: Channel_+/tracking_+
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 34 00 00 00
 #
-name: CHANNEL/TRACKING_-
+name: Channel/tracking_-
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 35 00 00 00
 #
-name: CHANNEL_DOWN
+name: Channel_down
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 35 00 00 00
 #
-name: CHANNEL_-/TRACKING_-
+name: Channel_-/tracking_-
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 35 00 00 00
 #
-name: VCR/TV
+name: Vcr/tv
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 36 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 39 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 3D 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 3E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 3F 00 00 00
 #
-name: INDEX/M/A_SKIP
+name: Index/m/a_skip
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 40 00 00 00
 #
-name: SEARCH/M/A_SKIP/ENT
+name: Search/m/a_skip/ent
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 40 00 00 00
 #
-name: INDEX_<<
+name: Index_<<
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 49 00 00 00
 #
-name: INDEX_>>
+name: Index_>>
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4A 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 54 00 00 00
 #
-name: FRAME_>>
+name: Frame_>>
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 8E 00 00 00
 #
-name: FRAME_<<
+name: Frame_<<
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 8F 00 00 00
 #
-name: INPUT_SELECT
+name: Input_select
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: C0 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 90 00 00 00
@@ -307,19 +307,19 @@ protocol: NECext
 address: 90 00 00 00
 command: E5 00 00 00
 #
-name: SAP/HI-FI
+name: Sap/hi-fi
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: E6 00 00 00
 #
-name: ZERO/C/A_SKIP
+name: Zero/c/a_skip
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: F5 00 00 00
 #
-name: C/A_SKIP
+name: C/a_skip
 type: parsed
 protocol: NECext
 address: 90 00 00 00

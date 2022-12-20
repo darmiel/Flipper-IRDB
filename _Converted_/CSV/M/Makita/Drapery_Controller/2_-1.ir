@@ -7,19 +7,19 @@ protocol: NECext
 address: 02 00 00 00
 command: 21 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 21 00 00 00
 #
-name: OPEN_1
+name: Open_1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 21 00 00 00
 #
-name: <-_->_(OPEN)
+name: <-_->_(open)
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -31,19 +31,19 @@ protocol: NECext
 address: 02 00 00 00
 command: 22 00 00 00
 #
-name: CLOSE
+name: Close
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 22 00 00 00
 #
-name: CLOSE_1
+name: Close_1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 22 00 00 00
 #
-name: -><-_(CLOSE)
+name: -><-_(close)
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 23 00 00 00
 #
-name: OPEN_2
+name: Open_2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -67,25 +67,25 @@ protocol: NECext
 address: 02 00 00 00
 command: 24 00 00 00
 #
-name: CLOSE_2
+name: Close_2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 24 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 25 00 00 00
 #
-name: STOP_CLOSE
+name: Stop_close
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 25 00 00 00
 #
-name: STOP_OPEN
+name: Stop_open
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 26 00 00 00
 #
-name: OPEN_3
+name: Open_3
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 28 00 00 00
 #
-name: CLOSE_3
+name: Close_3
 type: parsed
 protocol: NECext
 address: 02 00 00 00

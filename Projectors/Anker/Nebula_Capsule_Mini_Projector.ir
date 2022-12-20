@@ -3,7 +3,7 @@ Version: 1
 # 
 # Nebula Capsule Smart Wi-Fi Mini Projector 100 Model: D4111
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 80 00 00 00

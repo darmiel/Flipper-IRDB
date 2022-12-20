@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 0B 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 0D 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 0E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 0F 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 1A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 1B 00 00 00
 #
-name: TIME/TEXT
+name: Time/text
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 28 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 30 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 32 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 33 00 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 34 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 39 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 54 00 00 00
 #
-name: INSTANT_REPLAY
+name: Instant_replay
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 5C 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 63 00 00 00
 #
-name: C_UP
+name: C_up
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 79 00 00 00
 #
-name: C_DN
+name: C_dn
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 7A 00 00 00
 #
-name: C_LF
+name: C_lf
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 7B 00 00 00
 #
-name: C_RT
+name: C_rt
 type: parsed
 protocol: NECext
 address: 1A 49 00 00

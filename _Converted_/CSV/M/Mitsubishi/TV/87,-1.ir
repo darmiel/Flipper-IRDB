@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VCR/TV
+name: Vcr/tv
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 05 00 00 00
 #
-name: V/TV
+name: V/tv
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 05 00 00 00
 #
-name: VCRA_TV/VCR
+name: Vcra_tv/vcr
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 05 00 00 00
 #
-name: TV_PIP_VCR_CH_^
+name: Tv_pip_vcr_ch_^
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0A 00 00 00
 #
-name: TV_PIP_VCR_CH_V
+name: Tv_pip_vcr_ch_v
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 12 00 00 00
 #
-name: VCRA_INPUT_V
+name: Vcra_input_v
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1A 00 00 00
 #
-name: QUICK_PROGRAM
+name: Quick_program
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 33 00 00 00
 #
-name: VCRA_INPUT_^
+name: Vcra_input_^
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 3A 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 3A 00 00 00
 #
-name: VCRB_TV/VCR
+name: Vcrb_tv/vcr
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 85 00 00 00
 #
-name: VCRB_INPUT_V
+name: Vcrb_input_v
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 9A 00 00 00
 #
-name: VCRB_INPUT_^
+name: Vcrb_input_^
 type: parsed
 protocol: NECext
 address: 57 00 00 00

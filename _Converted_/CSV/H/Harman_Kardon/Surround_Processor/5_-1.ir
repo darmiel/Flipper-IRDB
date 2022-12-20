@@ -61,7 +61,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: VID_2
+name: Vid_2
 type: parsed
 protocol: NECext
 address: 05 00 00 00

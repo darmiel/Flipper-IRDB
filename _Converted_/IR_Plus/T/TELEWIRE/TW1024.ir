@@ -70,7 +70,7 @@ protocol: NECext
 address: 0A 41 00 00
 command: 66 99 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0A 41 00 00

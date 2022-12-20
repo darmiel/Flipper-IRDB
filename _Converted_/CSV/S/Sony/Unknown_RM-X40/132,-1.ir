@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 0D 00 00 00
 #
-name: SEL
+name: Sel
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 11 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 12 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 14 00 00 00
 #
-name: SEEK_AMS-
+name: Seek_ams-
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 1B 00 00 00
 #
-name: SEEK_AMS+
+name: Seek_ams+
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 1C 00 00 00
 #
-name: DSPL
+name: Dspl
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 28 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 30 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 31 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 84 00 00 00
 command: 46 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 84 00 00 00

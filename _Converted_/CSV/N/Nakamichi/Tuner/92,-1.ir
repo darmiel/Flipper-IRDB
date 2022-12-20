@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 00 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 01 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 02 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 03 00 00 00
 #
-name: TUNER_SEEK_UP
+name: Tuner_seek_up
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 04 00 00 00
 #
-name: TUNER_SEEK_DOWN
+name: Tuner_seek_down
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 05 00 00 00
 #
-name: TUNER_AM
+name: Tuner_am
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 06 00 00 00
 #
-name: TUNER_FM
+name: Tuner_fm
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 07 00 00 00
 #
-name: TUNER_PRESET_UP
+name: Tuner_preset_up
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 12 00 00 00
 #
-name: TUNER_PRESET_DOWN
+name: Tuner_preset_down
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 13 00 00 00
 #
-name: TAPE_REC
+name: Tape_rec
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 14 00 00 00
 #
-name: TAPE_PLAY_>
+name: Tape_play_>
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 15 00 00 00
 #
-name: TAPE_PAUSE_
+name: Tape_pause_
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 16 00 00 00
 #
-name: TAPE_STOP_[]
+name: Tape_stop_[]
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 17 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 44 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 45 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 46 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 47 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 49 00 00 00
 #
-name: TAPE_FFWD_>>
+name: Tape_ffwd_>>
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 54 00 00 00
 #
-name: TAPE_REW_<<
+name: Tape_rew_<<
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 55 00 00 00
 #
-name: TAPE_CUE
+name: Tape_cue
 type: parsed
 protocol: NECext
 address: 5C 00 00 00
 command: 56 00 00 00
 #
-name: TAPE_PLAY_REV_<
+name: Tape_play_rev_<
 type: parsed
 protocol: NECext
 address: 5C 00 00 00

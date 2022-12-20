@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TRACK_>>
+name: Track_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: SEARCH_FWD_>>
+name: Search_fwd_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: TRACK_<<
+name: Track_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: SEARCH_REV_<<
+name: Search_rev_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 04 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 04 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 05 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 05 00 00 00
 #
-name: DISC_SKIP_+
+name: Disc_skip_+
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 07 00 00 00
 #
-name: DISC_SKIP_-
+name: Disc_skip_-
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 08 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 09 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0A 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0B 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0B 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0C 00 00 00
 #
-name: MANUAL_SRCH_FWD_>>
+name: Manual_srch_fwd_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0C 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0C 00 00 00
 #
-name: FR_<<
+name: Fr_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0D 00 00 00
 #
-name: MANUAL_SRCH_REV_<<
+name: Manual_srch_rev_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0D 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0E 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -229,79 +229,79 @@ protocol: NECext
 address: 1A 00 00 00
 command: 1A 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1B 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1C 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1D 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1E 00 00 00
 #
-name: MEMORY_CLEAR
+name: Memory_clear
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1F 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1F 00 00 00
 #
-name: REPEAT_CLEAR
+name: Repeat_clear
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 46 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 48 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 49 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 4B 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 4D 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 4E 00 00 00
 #
-name: POLARITY
+name: Polarity
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

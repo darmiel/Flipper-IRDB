@@ -13,25 +13,25 @@ protocol: RC5
 address: 03 00 00 00
 command: 0C 00 00 00
 # 
-name: Vol_Up
+name: Vol_up
 type: parsed
 protocol: RC5
 address: 03 00 00 00
 command: 10 00 00 00
 # 
-name: Vol_Down
+name: Vol_down
 type: parsed
 protocol: RC5
 address: 03 00 00 00
 command: 11 00 00 00
 # 
-name: CH_Up
+name: Ch_up
 type: parsed
 protocol: RC5
 address: 03 00 00 00
 command: 20 00 00 00
 # 
-name: CH_Down
+name: Ch_down
 type: parsed
 protocol: RC5
 address: 03 00 00 00

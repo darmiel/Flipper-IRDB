@@ -1,229 +1,229 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER_PRESET-UP
+name: Tuner_preset-up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: TUNER_PRESET-DOWN
+name: Tuner_preset-down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 04 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 05 00 00 00
 #
-name: INPUT_SEL_TAPE-2
+name: Input_sel_tape-2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 07 00 00 00
 #
-name: INPUT_SEL_TAPE-1
+name: Input_sel_tape-1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 08 00 00 00
 #
-name: INPUT_SEL_CD
+name: Input_sel_cd
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 09 00 00 00
 #
-name: INPUT_SEL_PHONO
+name: Input_sel_phono
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0A 00 00 00
 #
-name: INPUT_SEL_TUNER
+name: Input_sel_tuner
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0B 00 00 00
 #
-name: INPUT_SEL_VIDEO-2
+name: Input_sel_video-2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: INPUT_SEL_VIDEO-1
+name: Input_sel_video-1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0F 00 00 00
 #
-name: DECK-B_STOP
+name: Deck-b_stop
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 13 00 00 00
 #
-name: DECK-B_FWD-PLAY
+name: Deck-b_fwd-play
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 15 00 00 00
 #
-name: DECK-B_REV-PLAY
+name: Deck-b_rev-play
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: DECK-B_RECORD-PAUSE
+name: Deck-b_record-pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 18 00 00 00
 #
-name: DECK-B_FF
+name: Deck-b_ff
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: DECK-B_REW
+name: Deck-b_rew
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1A 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1B 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1C 00 00 00
 #
-name: CD_SKIP-NEXT
+name: Cd_skip-next
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1D 00 00 00
 #
-name: CD_SKIP-LAST
+name: Cd_skip-last
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1E 00 00 00
 #
-name: CD_PAUSE
+name: Cd_pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1F 00 00 00
 #
-name: INPUT_SEL_DIRECT
+name: Input_sel_direct
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 44 00 00 00
 #
-name: TUNER_CLASS
+name: Tuner_class
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4A 00 00 00
 #
-name: DECK-A_STOP
+name: Deck-a_stop
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4D 00 00 00
 #
-name: DECK-A_FWD-PLAY
+name: Deck-a_fwd-play
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4E 00 00 00
 #
-name: DECK-A_REV-PLAY
+name: Deck-a_rev-play
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4F 00 00 00
 #
-name: DECK-A_RECORD-PAUSE
+name: Deck-a_record-pause
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 50 00 00 00
 #
-name: DECK-A_FF
+name: Deck-a_ff
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 51 00 00 00
 #
-name: DECK-A_REW
+name: Deck-a_rew
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 52 00 00 00
 #
-name: SPEAKERS_MAIN
+name: Speakers_main
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 59 00 00 00
 #
-name: SPEAKERS_REMOTE
+name: Speakers_remote
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5A 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5D 00 00 00
 #
-name: SIMUL_SOURCE_VOL-UP
+name: Simul_source_vol-up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C2 00 00 00
 #
-name: SIMUL_SOURCE_VOL-DOWN
+name: Simul_source_vol-down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: C3 00 00 00
 #
-name: SIMUL_SOURCE
+name: Simul_source
 type: parsed
 protocol: NECext
 address: D2 6D 00 00

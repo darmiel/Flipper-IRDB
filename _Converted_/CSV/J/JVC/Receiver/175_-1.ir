@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DAP_DELAY/EFECT(<<)
+name: Dap_delay/efect(<<)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 00 00 00 00
 #
-name: SURR_EFFECT_+_(9)
+name: Surr_effect_+_(9)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 00 00 00 00
 #
-name: EFFECT
+name: Effect
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 00 00 00 00
 #
-name: SURR_EFFECT_-_(8)
+name: Surr_effect_-_(8)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 01 00 00 00
 #
-name: DAP_MODE_()
+name: Dap_mode_()
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 05 00 00 00
 #
-name: DAP_MODE_(0)
+name: Dap_mode_(0)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 05 00 00 00
 #
-name: SURR:MIDNIGHT
+name: Surr:midnight
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 08 00 00 00
 #
-name: INPUT_-_USB
+name: Input_-_usb
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 33 00 00 00
 #
-name: CSRP_MODE
+name: Csrp_mode
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 60 00 00 00
 #
-name: ^_(SHIFT+^)
+name: ^_(shift+^)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 70 00 00 00
 #
-name: CURSOR_^
+name: Cursor_^
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 70 00 00 00
 #
-name: V_(SHIFT+V)
+name: V_(shift+v)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 71 00 00 00
 #
-name: CURSOR_V
+name: Cursor_v
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 71 00 00 00
 #
-name: >_(SHIFT+>)
+name: >_(shift+>)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 72 00 00 00
 #
-name: CURSOR_>
+name: Cursor_>
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 72 00 00 00
 #
-name: <_(SHIFT+<)
+name: <_(shift+<)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 73 00 00 00
 #
-name: CURSOR_<
+name: Cursor_<
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 73 00 00 00
 #
-name: EXIT_(SHIFT+CHANNEL)
+name: Exit_(shift+channel)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 78 00 00 00
 #
-name: MENU_EXIT
+name: Menu_exit
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 78 00 00 00
 #
-name: SET_(SHIFT+MUTE)
+name: Set_(shift+mute)
 type: parsed
 protocol: NECext
 address: AF 00 00 00
 command: 79 00 00 00
 #
-name: MENU_SET
+name: Menu_set
 type: parsed
 protocol: NECext
 address: AF 00 00 00

@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 21 AC 00 00
 command: 20 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 21 AC 00 00
 command: 40 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 21 AC 00 00
 command: 50 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 21 AC 00 00
 command: 70 00 00 00
 #
-name: FAST_REVERSE
+name: Fast_reverse
 type: parsed
 protocol: NECext
 address: 21 AC 00 00
 command: A0 00 00 00
 #
-name: EAX
+name: Eax
 type: parsed
 protocol: NECext
 address: 21 AC 00 00
 command: B0 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 21 AC 00 00
 command: E0 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 21 AC 00 00

@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 80 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 81 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 82 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 83 00 00 00
 #
-name: GENRE
+name: Genre
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -37,91 +37,91 @@ protocol: NECext
 address: 0A 00 00 00
 command: 84 00 00 00
 #
-name: ARTIST
+name: Artist
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 86 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 87 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 88 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 89 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 8A 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 8B 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 8C 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 8D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 8E 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 8F 00 00 00
 #
-name: THEME
+name: Theme
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: A5 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: B0 00 00 00
 #
-name: STREAM_1
+name: Stream_1
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: B1 00 00 00
 #
-name: STREAM_2
+name: Stream_2
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: B2 00 00 00
 #
-name: STREAM_3
+name: Stream_3
 type: parsed
 protocol: NECext
 address: 0A 00 00 00

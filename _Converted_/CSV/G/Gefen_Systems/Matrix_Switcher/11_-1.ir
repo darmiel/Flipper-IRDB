@@ -1,193 +1,193 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OUT1-IN1
+name: Out1-in1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 40 00 00 00
 #
-name: SOURCE1_INPUT1
+name: Source1_input1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 40 00 00 00
 #
-name: OUT1-IN2
+name: Out1-in2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 41 00 00 00
 #
-name: SOURCE1_INPUT2
+name: Source1_input2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 41 00 00 00
 #
-name: OUT1-IN3
+name: Out1-in3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 42 00 00 00
 #
-name: SOURCE1_INPUT3
+name: Source1_input3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 42 00 00 00
 #
-name: OUT1-IN4
+name: Out1-in4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 43 00 00 00
 #
-name: SOURCE1_INPUT4
+name: Source1_input4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 43 00 00 00
 #
-name: OUT2-IN1
+name: Out2-in1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 44 00 00 00
 #
-name: SOURCE2_INPUT1
+name: Source2_input1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 44 00 00 00
 #
-name: OUT2-IN2
+name: Out2-in2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 45 00 00 00
 #
-name: SOURCE2_INPUT2
+name: Source2_input2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 45 00 00 00
 #
-name: OUT2-IN3
+name: Out2-in3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 46 00 00 00
 #
-name: SOURCE2_INPUT3
+name: Source2_input3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 46 00 00 00
 #
-name: OUT2-IN4
+name: Out2-in4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 47 00 00 00
 #
-name: SOURCE2_INPUT4
+name: Source2_input4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 47 00 00 00
 #
-name: OUT3-IN1
+name: Out3-in1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 48 00 00 00
 #
-name: SOURCE3_INPUT1
+name: Source3_input1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 48 00 00 00
 #
-name: OUT3-IN2
+name: Out3-in2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 49 00 00 00
 #
-name: SOURCE3_INPUT2
+name: Source3_input2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 49 00 00 00
 #
-name: OUT3-IN3
+name: Out3-in3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 72 00 00 00
 #
-name: SOURCE3_INPUT3
+name: Source3_input3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 72 00 00 00
 #
-name: OUT3-IN4
+name: Out3-in4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 73 00 00 00
 #
-name: SOURCE3_INPUT4
+name: Source3_input4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 73 00 00 00
 #
-name: OUT4-IN1
+name: Out4-in1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 74 00 00 00
 #
-name: SOURCE4_INPUT1
+name: Source4_input1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 74 00 00 00
 #
-name: OUT4-IN2
+name: Out4-in2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 75 00 00 00
 #
-name: SOURCE4_INPUT2
+name: Source4_input2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 75 00 00 00
 #
-name: OUT4-IN3
+name: Out4-in3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 76 00 00 00
 #
-name: SOURCE4_INPUT3
+name: Source4_input3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 76 00 00 00
 #
-name: OUT4-IN4
+name: Out4-in4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 77 00 00 00
 #
-name: SOURCE4_INPUT4
+name: Source4_input4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00

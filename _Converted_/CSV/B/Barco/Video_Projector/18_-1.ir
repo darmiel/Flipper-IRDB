@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 04 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 04 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 05 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 12 00 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 12 00 00 00
 command: 06 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 12 00 00 00
@@ -43,61 +43,61 @@ protocol: NECext
 address: 12 00 00 00
 command: 07 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 07 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 08 00 00 00
 #
-name: ADJ
+name: Adj
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 09 00 00 00
 #
-name: ADJUST
+name: Adjust
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 09 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 0A 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 0A 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 0E 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 0E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 12 00 00 00
@@ -187,67 +187,67 @@ protocol: NECext
 address: 12 00 00 00
 command: 19 00 00 00
 #
-name: ADDRESS
+name: Address
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 20 00 00 00
 #
-name: CONTRAST_+
+name: Contrast_+
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 28 00 00 00
 #
-name: CONTRAST_-
+name: Contrast_-
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 29 00 00 00
 #
-name: BRIGHTNESS_+
+name: Brightness_+
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2A 00 00 00
 #
-name: BRIGHTNESS_-
+name: Brightness_-
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2B 00 00 00
 #
-name: COLOR_+
+name: Color_+
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2C 00 00 00
 #
-name: COLOR_-
+name: Color_-
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2D 00 00 00
 #
-name: TINT_+
+name: Tint_+
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2E 00 00 00
 #
-name: TINT_-
+name: Tint_-
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2F 00 00 00
 #
-name: SHARPNESS_+
+name: Sharpness_+
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 36 00 00 00
 #
-name: SHARPNESS_-
+name: Sharpness_-
 type: parsed
 protocol: NECext
 address: 12 00 00 00

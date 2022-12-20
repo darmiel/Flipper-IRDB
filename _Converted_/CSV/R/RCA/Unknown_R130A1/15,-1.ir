@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -13,19 +13,19 @@ protocol: NECext
 address: 0F 00 00 00
 command: 05 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 06 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 07 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -37,37 +37,37 @@ protocol: NECext
 address: 0F 00 00 00
 command: 12 00 00 00
 #
-name: GoBack
+name: Goback
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 27 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2C 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -133,43 +133,43 @@ protocol: NECext
 address: 0F 00 00 00
 command: 39 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 3C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 3F 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 53 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 56 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 57 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 58 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -181,7 +181,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 5A 00 00 00
 #
-name: CC
+name: Cc
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: A3 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

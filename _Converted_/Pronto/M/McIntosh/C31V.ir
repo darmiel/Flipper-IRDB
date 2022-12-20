@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD
+name: Cd
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 2215 2215 4455 4455 8911 8911 2215 2215 2215 2215 4455 4455 129465
 #
-name: LASER
+name: Laser
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 4455 6670 4455 8911 8911 2215 4455 6670 4455 129465
 #
-name: TV
+name: Tv
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 2215 8885 4455 8885 8885 2215 2215 8885 4455 129465
 #
-name: TUNER
+name: Tuner
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 11125 2215 2215 8911 8911 2215 11125 2215 2215 129465
 #
-name: PHONO
+name: Phono
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 2215 6670 2215 2215 8911 8911 2215 2215 2215 6670 2215 2215 129465
 #
-name: AUX1
+name: Aux1
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 4429 2215 4429 2215 2215 8885 8885 2215 4429 2215 4429 2215 2215 129465
 #
-name: AUX2
+name: Aux2
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 4455 4455 2215 2215 8911 8911 2215 2215 4455 4455 2215 2215 129465
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 15555 8885
 #
-name: 1/PLAY
+name: 1/play
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
@@ -61,19 +61,19 @@ frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 4455 2215 4455 2215 8911 8911 2215 2215 4455 2215 4455 2215 129465
 #
-name: VCR1
+name: Vcr1
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 6670 4429 4429 8885 8885 2215 6670 4429 4429 129465
 #
-name: VCR2
+name: Vcr2
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 2215 11099 8911 8911 2215 2215 2215 11099 129465
 #
-name: 2/NEXT
+name: 2/next
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
@@ -85,19 +85,19 @@ frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 4429 2215 2215 4429 2215 8885 8885 2215 4429 2215 2215 4429 2215 129465
 #
-name: SPKR1
+name: Spkr1
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 4455 4455 6670 8885 8885 2215 4455 4455 6670 80040
 #
-name: SPKR2
+name: Spkr2
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 6670 6670 8911 8911 2215 2215 6670 6670 80040
 #
-name: 3/BACK
+name: 3/back
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
@@ -109,55 +109,55 @@ frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 2215 2215 4455 4455 2215 8885 8885 2215 2215 2215 4455 4455 2215 129465
 #
-name: AM
+name: Am
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 4455 4455 2215 2215 2215 8885 8885 2215 4455 4455 2215 2215 2215 129465
 #
-name: FM
+name: Fm
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 6670 2215 2215 2215 8911 8911 2215 2215 6670 2215 2215 2215 129465
 #
-name: 4/STOP
+name: 4/stop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 6670 6670 2215 8885 8885 2215 6670 6670 2215 129465
 #
-name: SEARCH
+name: Search
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 2215 2215 2215 2215 2215 2215 8911 8911 2215 2215 2215 2215 2215 2215 2215 2215 129465
 #
-name: SCAN-
+name: Scan-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 6670 2215 2215 2215 2215 8885 8885 2215 6670 2215 2215 2215 2215 129465
 #
-name: SCAN+
+name: Scan+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 8885 4429 2215 8885 8885 2215 8885 4429 2215 129465
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8911 2215 2215 4429 8911 8911 8911 2215 2215 4429 8911 129465
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 2215 8885 2215 4455 8885 8885 2215 8885 2215 4455 80040
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000

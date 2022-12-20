@@ -13,7 +13,7 @@ protocol: NECext
 address: 0A 00 00 00
 command: 04 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 0A 00 00 00

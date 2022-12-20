@@ -70,7 +70,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 1776 888 888 1776 1776 888 888 1776 888 89888
 #
-name: CLOCK
+name: Clock
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -82,157 +82,157 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 1776 888 888 888 888 888 888 888 888 888 888 90776
 #
-name: DIMMER
+name: Dimmer
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 1776 888 888 888 888 888 89888
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 89888
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 90776
 #
-name: INPUT AUX
+name: Input_aux
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT CD
+name: Input_cd
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT CDR/TAPE
+name: Input_cdr/tape
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 888 888 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT DBS
+name: Input_dbs
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 888 888 1776 1776 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT DCC
+name: Input_dcc
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT DVD
+name: Input_dvd
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 2663 888 444 888 444 444 444 444 1332 1332 444 444 444 444 444 444 444 444 888 888 444 444 444 444 444 444 888 444 444 444 444 444 444 444 444 444 444 84256
 #
-name: INPUT LD
+name: Input_ld
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT PC
+name: Input_pc
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 2663 888 444 888 444 444 444 444 444 888 888 444 444 444 888 444 444 444 444 888 444 444 888 888 444 444 888 444 444 444 444 444 444 444 444 444 444 84256
 #
-name: INPUT PHONO
+name: Input_phono
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT SAT
+name: Input_sat
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 2663 888 444 888 444 444 444 444 444 888 888 444 444 444 888 888 444 444 888 444 444 444 444 888 444 444 888 444 444 444 444 444 444 444 444 444 444 84256
 #
-name: INPUT TAPE 1/2
+name: Input_tape_1/2
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT TUNER
+name: Input_tuner
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT TV
+name: Input_tv
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 888 888 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: INPUT VCR
+name: Input_vcr
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 1776 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: CINEMA LINK
+name: Cinema_link
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 2663 888 444 888 444 444 444 444 444 888 888 444 444 444 444 444 444 444 444 444 444 444 444 444 444 444 888 444 444 888 444 444 444 444 444 444 888 888 444 83812
 #
-name: LOUDNESS
+name: Loudness
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 1776 888 888 1776 90776
 #
-name: MAIN
+name: Main
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 1776 888 888 1776 888 888 888 888 1776 1776 1776 1776 888 888 1776 1776 90776
 #
-name: MODE 3D
+name: Mode_3d
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 1776 1776 888 888 888 888 888 888 1776 1776 1776 1776 1776 888 888 888 89888
 #
-name: MODE NIGHT
+name: Mode_night
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 888 1776 90776
 #
-name: MODE SURROUND
+name: Mode_surround
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 888 888 888 888 888 888 1776 1776 888 888 1776 1776 1776 888 89888
 #
-name: MODE SURROUND POWER
+name: Mode_surround_power
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 90776
 #
-name: MODE VIRTUAL
+name: Mode_virtual
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 1776 888 888 1776 888 888 888 888 888 888 1776 1776 1776 1776 1776 888 888 888 89888
 #
-name: REAR LEVEL-
+name: Rear_level-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -244,7 +244,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 1776 1776 888 888 888 888 1776 1776 1776 1776 888 888 888 888 888 888 90776
 #
-name: REAR LEVEL+
+name: Rear_level+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -256,7 +256,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 89888
 #
-name: ENTER
+name: Enter
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -268,7 +268,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 1776 90776
 #
-name: SLEEP
+name: Sleep
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -280,85 +280,85 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 1776 1776 888 888 888 888 1776 1776 1776 1776 888 888 888 888 1776 888 89888
 #
-name: TEST
+name: Test
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 888 888 888 888 90776
 #
-name: CENTER LEVEL-
+name: Center_level-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 1776 1776 1776 888 888 1776 888 888 888 888 888 89888
 #
-name: CENTER LEVEL+
+name: Center_level+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 1776 1776 1776 888 888 1776 888 888 1776 90776
 #
-name: SUB LEVEL-
+name: Sub_level-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 1776 1776 1776 888 888 1776 1776 888 888 90776
 #
-name: SUBWOOFER
+name: Subwoofer
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 89888
 #
-name: SUB LEVEL+
+name: Sub_level+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 1776 1776 1776 888 888 1776 1776 1776 888 89888
 #
-name: TUNER BAND
+name: Tuner_band
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 89888
 #
-name: TUNER DIRECT
+name: Tuner_direct
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 888 1776 1776 1776 888 888 888 89888
 #
-name: TUNER NEWS/TA
+name: Tuner_news/ta
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 888 1776 888 888 888 888 888 888 888 89888
 #
-name: TUNER PRESET-
+name: Tuner_preset-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 89888
 #
-name: TUNER PRESET+
+name: Tuner_preset+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 90776
 #
-name: TUNER RDS
+name: Tuner_rds
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 888 1776 888 888 1776 1776 888 89888
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 1776 888 888 888 888 1776 888 89888
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38000
 duty_cycle: 0.33

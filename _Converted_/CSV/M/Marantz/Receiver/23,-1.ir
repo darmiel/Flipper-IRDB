@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MD
+name: Md
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 3F 00 00 00
 #
-name: TAPE_2
+name: Tape_2
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 3F 00 00 00
 #
-name: DCC
+name: Dcc
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT_-_MD
+name: Input_-_md
 type: parsed
 protocol: NECext
 address: 17 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # America Lighting LEDs
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -21,7 +21,7 @@ protocol: NECext
 address: 00 EF 00 00
 command: 04 FB 00 00
 #
-name: R_W_B
+name: R_w_b
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -51,49 +51,49 @@ protocol: NECext
 address: 00 EF 00 00
 command: 0F F0 00 00
 #
-name: Pick_Color
+name: Pick_color
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 08 F7 00 00
 #
-name: 3_Colors
+name: 3_colors
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 0C F3 00 00
 #
-name: 7_Colors
+name: 7_colors
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 10 EF 00 00
 #
-name: 16_Colors
+name: 16_colors
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 14 EB 00 00
 #
-name: Chase_Rt
+name: Chase_rt
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 0E F1 00 00
 #
-name: Chase_Lt
+name: Chase_lt
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 0D F2 00 00
 #
-name: Single_Rt
+name: Single_rt
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 12 ED 00 00
 #
-name: Single_Lt
+name: Single_lt
 type: parsed
 protocol: NECext
 address: 00 EF 00 00

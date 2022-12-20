@@ -2,63 +2,63 @@ Filetype: IR signals file
 Version: 1
 #
 # AM/FM [raw] {11110001-111111}
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 3F 00 00 00
 #
 # PHONO [raw] {11110101-111111}
-name: PHONO
+name: Phono
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 3F 00 00 00
 #
 # CD [raw] {11110100-111111}
-name: CD
+name: Cd
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 3F 00 00 00
 #
 # ACR [raw] {11110010-111111}
-name: ACR
+name: Acr
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 3F 00 00 00
 #
 # LD [raw] {11101100-111111}
-name: LD
+name: Ld
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
 # VCR1 [raw] {11100101-111111}
-name: VCR1
+name: Vcr1
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 3F 00 00 00
 #
 # VCR2 [raw] {11100110-111111}
-name: VCR2
+name: Vcr2
 type: parsed
 protocol: RC5
 address: 06 00 00 00
 command: 3F 00 00 00
 #
 # VOL+ [raw] {11110000-010000}
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 10 00 00 00
 #
 # VOL- [raw] {11110000-010001}
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC5
 address: 10 00 00 00
@@ -135,76 +135,76 @@ address: 11 00 00 00
 command: 00 00 00 00
 #
 # TUNE+ [raw] {11110001-100000}
-name: TUNE+
+name: Tune+
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 20 00 00 00
 #
 # TUNE- [raw] {11110001-100001}
-name: TUNE-
+name: Tune-
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 21 00 00 00
 #
 # DELAY [16 37 17] {110-10000--100101-010001}
-name: DELAY (raw)
+name: Delay_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 889 889 889 889 889 889 5334 1778 889 889 1778 1778 1778 1778 1778 1778 889 889 889 889 1778 889 75551
 #
 # VOL-S+ [16 37 14] {110-10000--100101-001110}
-name: VOL-S+ (raw)
+name: Vol-s+_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 889 889 889 889 889 889 5334 1778 889 889 1778 1778 1778 1778 889 889 1778 889 889 889 889 1778 76440
 #
 # VOL-S- [16 37 15] {110-10000--100101-001111}
-name: VOL-S- (raw)
+name: Vol-s-_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 889 889 889 889 889 889 5334 1778 889 889 1778 1778 1778 1778 889 889 1778 889 889 889 889 889 889 889 75551
 #
 # SURR-MODE [raw] {11110000-100101}
-name: SURR-MODE
+name: Surr-mode
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 25 00 00 00
 #
 # VOL-C+ [16 37 11] {110-10000--100101-001011}
-name: VOL-C+ (raw)
+name: Vol-c+_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 889 889 889 889 889 889 5334 1778 889 889 1778 1778 1778 1778 889 889 1778 1778 1778 889 889 889 75551
 #
 # VOL-C- [16 37 12] {110-10000--100101-001100}
-name: VOL-C- (raw)
+name: Vol-c-_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 889 889 889 889 889 889 5334 1778 889 889 1778 1778 1778 1778 889 889 1778 889 889 1778 889 889 76440
 #
 # MUTE [raw] {11110000-001101}
-name: MUTE
+name: Mute
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 0D 00 00 00
 #
 # CENTER [16 37 10] {110-10000--100101-001010}
-name: CENTER (raw)
+name: Center_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 889 889 889 889 889 889 5334 1778 889 889 1778 1778 1778 1778 889 889 1778 1778 1778 1778 76440
 #
-name: STBY
+name: Stby
 type: raw
 frequency: 36045
 duty_cycle: 0.330000

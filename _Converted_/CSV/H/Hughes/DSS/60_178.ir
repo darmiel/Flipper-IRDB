@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 01 00 00 00
 #
-name: CHANNEL_UP
+name: Channel_up
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 02 00 00 00
 #
-name: CHANNEL_DOWN
+name: Channel_down
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
@@ -79,55 +79,55 @@ protocol: NECext
 address: 3C B2 00 00
 command: 0D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 0F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 10 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 12 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 13 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 14 00 00 00
 #
-name: PR._CHANNEL
+name: Pr._channel
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 16 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 17 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
 command: 18 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 3C B2 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 3C B2 00 00
 command: 36 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 3C B2 00 00

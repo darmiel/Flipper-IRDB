@@ -1,235 +1,235 @@
 Filetype: IR signals file
 Version: 1
 #
-name: IPOD_PLAY/PAUSE
+name: Ipod_play/pause
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 01 00 00 00
 #
-name: IPOD_VOLUME_UP
+name: Ipod_volume_up
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 02 00 00 00
 #
-name: IPOD_VOLUME_DOWN
+name: Ipod_volume_down
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 03 00 00 00
 #
-name: IPOD_SKIP_PLUS
+name: Ipod_skip_plus
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 04 00 00 00
 #
-name: IPOD_SKIP_MINUS
+name: Ipod_skip_minus
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 05 00 00 00
 #
-name: IPOD_STOP
+name: Ipod_stop
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 08 00 00 00
 #
-name: IPOD_PAUSE
+name: Ipod_pause
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 0A 00 00 00
 #
-name: IPOD_REPEAT
+name: Ipod_repeat
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 10 00 00 00
 #
-name: IPOD_SHUFFLE
+name: Ipod_shuffle
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 11 00 00 00
 #
-name: IPOD_SEARCH_PLUS
+name: Ipod_search_plus
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 15 00 00 00
 #
-name: IPOD_SEARCH_MINUS
+name: Ipod_search_minus
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 16 00 00 00
 #
-name: IPOD_TOP_MENU
+name: Ipod_top_menu
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 17 00 00 00
 #
-name: IPOD_ENTER
+name: Ipod_enter
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 18 00 00 00
 #
-name: IPOD_CURSOR/ARROW_UP
+name: Ipod_cursor/arrow_up
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 1B 00 00 00
 #
-name: IPOD_CURSOR/ARROW_DOWN
+name: Ipod_cursor/arrow_down
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 1C 00 00 00
 #
-name: IPOD_CURSOR/ARROW_LEFT
+name: Ipod_cursor/arrow_left
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 1D 00 00 00
 #
-name: IPOD_CURSOR/ARROW_RIGHT
+name: Ipod_cursor/arrow_right
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 1E 00 00 00
 #
-name: IPOD_STATUS_REQUEST
+name: Ipod_status_request
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 1F 00 00 00
 #
-name: IPOD_PAGE_SEARCH
+name: Ipod_page_search
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 22 00 00 00
 #
-name: IPOD_RETURN
+name: Ipod_return
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 23 00 00 00
 #
-name: IPOD_MODE_TOGGLE_BROWSE/REMOTE
+name: Ipod_mode_toggle_browse/remote
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 2D 00 00 00
 #
-name: IPOD_MODE_BROWSE
+name: Ipod_mode_browse
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 2D 00 00 00
 #
-name: IPOD_MODE_REMOTE
+name: Ipod_mode_remote
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 2F 00 00 00
 #
-name: IPOD_SHUFFLE_SONGS
+name: Ipod_shuffle_songs
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 40 00 00 00
 #
-name: IPOD_SHUFFLE_ALBUM
+name: Ipod_shuffle_album
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 41 00 00 00
 #
-name: IPOD_SHUFFLE_OFF
+name: Ipod_shuffle_off
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 42 00 00 00
 #
-name: IPOD_REPEAT_ONE
+name: Ipod_repeat_one
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 43 00 00 00
 #
-name: IPOD_REPEAT_ALL
+name: Ipod_repeat_all
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 44 00 00 00
 #
-name: IPOD_REPEAT_OFF
+name: Ipod_repeat_off
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 45 00 00 00
 #
-name: POWER_TOGGLE_ON/OFF
+name: Power_toggle_on/off
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 47 00 00 00
 #
-name: TOGGLE_FAVORITES/ALL_MUSIC
+name: Toggle_favorites/all_music
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 48 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 49 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 4A 00 00 00
 #
-name: INTERNET_RADIO_DIRECT
+name: Internet_radio_direct
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 4B 00 00 00
 #
-name: IPOD_DIRECT
+name: Ipod_direct
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 4C 00 00 00
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 4D 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 50 00 00 00
 #
-name: TV_SIGNAL_NTSC
+name: Tv_signal_ntsc
 type: parsed
 protocol: NECext
 address: 02 03 00 00
 command: 51 00 00 00
 #
-name: TV_SIGNAL_PAL
+name: Tv_signal_pal
 type: parsed
 protocol: NECext
 address: 02 03 00 00

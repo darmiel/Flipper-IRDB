@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FR
+name: Fr
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 02 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 03 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 05 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 06 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 0F 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 12 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 19 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 1A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 1C 00 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 40 AF 00 00

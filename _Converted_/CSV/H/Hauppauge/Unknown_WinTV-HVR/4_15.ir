@@ -61,109 +61,109 @@ protocol: NECext
 address: 04 0F 00 00
 command: 09 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0B 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0C 00 00 00
 #
-name: WINButton
+name: Winbutton
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0D 00 00 00
 #
-name: VolumeMute
+name: Volumemute
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0E 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0F 00 00 00
 #
-name: VolumeUP
+name: Volumeup
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 11 00 00 00
 #
-name: ChannelUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 12 00 00 00
 #
-name: ChannelDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 13 00 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 14 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 16 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 18 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 19 00 00 00
 #
-name: ChapterNEXT
+name: Chapternext
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1A 00 00 00
 #
-name: ChapterPREV
+name: Chapterprev
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
@@ -181,91 +181,91 @@ protocol: NECext
 address: 04 0F 00 00
 command: 1D 00 00 00
 #
-name: ArrowsUP
+name: Arrowsup
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1E 00 00 00
 #
-name: ArrowsDOWN
+name: Arrowsdown
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1F 00 00 00
 #
-name: ArrowsLEFT
+name: Arrowsleft
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 20 00 00 00
 #
-name: ArrowsRIGHT
+name: Arrowsright
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 21 00 00 00
 #
-name: ArrowsOK
+name: Arrowsok
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 22 00 00 00
 #
-name: INFO-Back
+name: Info-back
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 23 00 00 00
 #
-name: MusicButton
+name: Musicbutton
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 24 00 00 00
 #
-name: RadioButton
+name: Radiobutton
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 25 00 00 00
 #
-name: PicturesButton
+name: Picturesbutton
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 26 00 00 00
 #
-name: TVButton
+name: Tvbutton
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 48 00 00 00
 #
-name: TextButton
+name: Textbutton
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 5A 00 00 00
 #
-name: ORANGE
+name: Orange
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 5B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 5C 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 5D 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 04 0F 00 00

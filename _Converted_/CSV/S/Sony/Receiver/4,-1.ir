@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 37 00 00 00
 #
-name: SYSTEM_OFF
+name: System_off
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 37 00 00 00
 #
-name: SYSTEM_STANDBY
+name: System_standby
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 37 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 04 00 00 00

@@ -9,61 +9,61 @@ protocol: NECext
 address: 12 36 00 00
 command: 01 FE 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 0A F5 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 0B F4 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 09 F6 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 07 F8 00 00
 # Function Button 
-name: FN
+name: Fn
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 08 F7 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 02 FD 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 06 F9 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 03 FC 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 12 36 00 00
 command: 05 FA 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 12 36 00 00

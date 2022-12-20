@@ -1,505 +1,505 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CBL_0
+name: Cbl_0
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: CBL_0
+name: Cbl_0
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: CBL_1
+name: Cbl_1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: CBL_1
+name: Cbl_1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: CBL_2
+name: Cbl_2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: CBL_2
+name: Cbl_2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: CBL_3
+name: Cbl_3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: CBL_3
+name: Cbl_3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: CBL_4
+name: Cbl_4
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: CBL_4
+name: Cbl_4
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: CBL_5
+name: Cbl_5
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: CBL_5
+name: Cbl_5
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: CBL_6
+name: Cbl_6
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: CBL_6
+name: Cbl_6
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: CBL_7
+name: Cbl_7
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: CBL_7
+name: Cbl_7
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: CBL_8
+name: Cbl_8
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: CBL_8
+name: Cbl_8
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: CBL_9
+name: Cbl_9
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: CBL_9
+name: Cbl_9
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: CBL_POWER
+name: Cbl_power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: CBL_POWER
+name: Cbl_power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: CBL_CHAN+
+name: Cbl_chan+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: CBL_CHAN+
+name: Cbl_chan+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: CBL_CHAN-
+name: Cbl_chan-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: CBL_CHAN-
+name: Cbl_chan-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: CBL_VOL+
+name: Cbl_vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: CBL_VOL+
+name: Cbl_vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: CBL_VOL-
+name: Cbl_vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: CBL_VOL-
+name: Cbl_vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: CBL_MUTE
+name: Cbl_mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: CBL_MUTE
+name: Cbl_mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: CBL_MUSIC
+name: Cbl_music
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: CBL_MUSIC
+name: Cbl_music
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: CBL_OK
+name: Cbl_ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: CBL_OK
+name: Cbl_ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: CBL_LAST
+name: Cbl_last
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: CBL_LAST
+name: Cbl_last
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: CBL_BYPASS
+name: Cbl_bypass
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: CBL_BYPASS
+name: Cbl_bypass
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: CBL_FAV
+name: Cbl_fav
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: CBL_FAV
+name: Cbl_fav
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: CBL_LOCK
+name: Cbl_lock
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: CBL_LOCK
+name: Cbl_lock
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: CBL_A
+name: Cbl_a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: CBL_A
+name: Cbl_a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: CBL_MENU
+name: Cbl_menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: CBL_MENU
+name: Cbl_menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: CBL_FF
+name: Cbl_ff
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: CBL_FF
+name: Cbl_ff
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: CBL_REW
+name: Cbl_rew
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: CBL_REW
+name: Cbl_rew
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: CBL_PAUSE
+name: Cbl_pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: CBL_PAUSE
+name: Cbl_pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: CBL_B
+name: Cbl_b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: CBL_B
+name: Cbl_b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: CBL_C
+name: Cbl_c
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: CBL_C
+name: Cbl_c
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: CBL_GUIDE
+name: Cbl_guide
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: CBL_GUIDE
+name: Cbl_guide
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: CBL_REC
+name: Cbl_rec
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: CBL_REC
+name: Cbl_rec
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: CBL_HELP
+name: Cbl_help
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: CBL_HELP
+name: Cbl_help
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: CBL_INFO
+name: Cbl_info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 33 00 00 00
 #
-name: CBL_INFO
+name: Cbl_info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 33 00 00 00
 #
-name: CBL_UP
+name: Cbl_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: CBL_UP
+name: Cbl_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: CBL_DOWN
+name: Cbl_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: CBL_DOWN
+name: Cbl_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: CBL_LEFT
+name: Cbl_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: CBL_LEFT
+name: Cbl_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: CBL_RIGHT
+name: Cbl_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: CBL_RIGHT
+name: Cbl_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: CBL_PLAY
+name: Cbl_play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: CBL_PLAY
+name: Cbl_play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: CBL_STOP
+name: Cbl_stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 39 00 00 00
 #
-name: CBL_STOP
+name: Cbl_stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 39 00 00 00
 #
-name: CBL_PAGE+
+name: Cbl_page+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: CBL_PAGE+
+name: Cbl_page+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: CBL_PAGE-
+name: Cbl_page-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: CBL_PAGE-
+name: Cbl_page-
 type: parsed
 protocol: NECext
 address: 00 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # Eiki Projector
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 33 00 00 00
@@ -45,13 +45,13 @@ protocol: NECext
 address: 33 00 00 00
 command: 8D 72 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 33 00 00 00
 command: 1E E1 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 33 00 00 00
@@ -63,7 +63,7 @@ protocol: NECext
 address: 33 00 00 00
 command: 0F F0 00 00
 # 
-name: D_zoom_Up
+name: D_zoom_up
 type: parsed
 protocol: NECext
 address: 33 00 00 00
@@ -75,7 +75,7 @@ protocol: NECext
 address: 33 00 00 00
 command: 02 FD 00 00
 # 
-name: Auto_PC
+name: Auto_pc
 type: parsed
 protocol: NECext
 address: 33 00 00 00
@@ -93,25 +93,25 @@ protocol: NECext
 address: 33 00 00 00
 command: 43 BC 00 00
 # 
-name: P_Timer
+name: P_timer
 type: parsed
 protocol: NECext
 address: 33 00 00 00
 command: 8A 75 00 00
 # 
-name: No_Show
+name: No_show
 type: parsed
 protocol: NECext
 address: 33 00 00 00
 command: 43 BC 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 33 00 00 00
 command: 0B F4 00 00
 # 
-name: Lamp_Control
+name: Lamp_control
 type: parsed
 protocol: NECext
 address: 33 00 00 00

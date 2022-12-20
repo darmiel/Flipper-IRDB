@@ -13,7 +13,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 00 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -25,13 +25,13 @@ protocol: NECext
 address: 19 00 00 00
 command: 01 00 00 00
 #
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 02 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 03 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 04 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 05 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 06 00 00 00
 #
-name: TUN
+name: Tun
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 07 00 00 00
 #
-name: AUX1
+name: Aux1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 08 00 00 00
 #
-name: AUX2
+name: Aux2
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 09 00 00 00
 #
-name: MAIN
+name: Main
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -139,13 +139,13 @@ protocol: NECext
 address: 19 00 00 00
 command: 0B 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 21 00 00 00
 #
-name: PRE
+name: Pre
 type: parsed
 protocol: NECext
 address: 19 00 00 00

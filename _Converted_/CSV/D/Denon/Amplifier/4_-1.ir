@@ -1,223 +1,223 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DECK_A/B
+name: Deck_a/b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 53 00 00 00
 #
-name: DECK1_A/B
+name: Deck1_a/b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 53 00 00 00
 #
-name: DECK_SELECT_A/B
+name: Deck_select_a/b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 53 00 00 00
 #
-name: DECK_REV_PLAY_<
+name: Deck_rev_play_<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: DECK1_REV_PLAY_<
+name: Deck1_rev_play_<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: DECK_PLAY_REV_<
+name: Deck_play_rev_<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: DECK_PLAY(REV)_<
+name: Deck_play(rev)_<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: DECK_PLAY_REV._<
+name: Deck_play_rev._<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: DECK_FF_>>
+name: Deck_ff_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: DECK1_FF_>>
+name: Deck1_ff_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: DECK_REW_<<
+name: Deck_rew_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: DECK1_REW_<<
+name: Deck1_rew_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: DECK_PLAY_>
+name: Deck_play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: DECK1_PLAY_>
+name: Deck1_play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: DECK_PAUSE
+name: Deck_pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5D 00 00 00
 #
-name: DECK1_PAUSE_
+name: Deck1_pause_
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5D 00 00 00
 #
-name: DECK_STOP_[]
+name: Deck_stop_[]
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5E 00 00 00
 #
-name: DECK1_STOP_[]
+name: Deck1_stop_[]
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5E 00 00 00
 #
-name: DECK_REC
+name: Deck_rec
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5F 00 00 00
 #
-name: DECK1_REC
+name: Deck1_rec
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5F 00 00 00
 #
-name: DECK_POWER
+name: Deck_power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 75 00 00 00
 #
-name: DAT_SRCH_>>
+name: Dat_srch_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D8 00 00 00
 #
-name: DAT1_SRCH_>>
+name: Dat1_srch_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D8 00 00 00
 #
-name: DAT_SRCH_<<
+name: Dat_srch_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D9 00 00 00
 #
-name: DAT1_SRCH_<<
+name: Dat1_srch_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D9 00 00 00
 #
-name: DAT_FF_>>
+name: Dat_ff_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DA 00 00 00
 #
-name: DAT1_FF_>>
+name: Dat1_ff_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DA 00 00 00
 #
-name: DAT_REW_<<
+name: Dat_rew_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DB 00 00 00
 #
-name: DAT1_REW_<<
+name: Dat1_rew_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DB 00 00 00
 #
-name: DAT_PLAY_>
+name: Dat_play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DC 00 00 00
 #
-name: DAT1_PLAY_>
+name: Dat1_play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DC 00 00 00
 #
-name: DAT_PAUSE_
+name: Dat_pause_
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DD 00 00 00
 #
-name: DAT1_PAUSE_
+name: Dat1_pause_
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DD 00 00 00
 #
-name: DAT_STOP_[]
+name: Dat_stop_[]
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DE 00 00 00
 #
-name: DAT1_STOP_[]
+name: Dat1_stop_[]
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DE 00 00 00
 #
-name: DAT_REC
+name: Dat_rec
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DF 00 00 00
 #
-name: DAT1_REC
+name: Dat1_rec
 type: parsed
 protocol: NECext
 address: 04 00 00 00

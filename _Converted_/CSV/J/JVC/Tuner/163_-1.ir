@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TAPE_2_SELECT
+name: Tape_2_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: SOURCE_SLCT_TAPE2
+name: Source_slct_tape2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: FM_TUNER_SELECT
+name: Fm_tuner_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 08 00 00 00
 #
-name: SOURCE_SLCT_FM
+name: Source_slct_fm
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 08 00 00 00
 #
-name: AM_TUNER_SELECT
+name: Am_tuner_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 09 00 00 00
 #
-name: SOURCE_SLCT_AM
+name: Source_slct_am
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 09 00 00 00
 #
-name: AUDIO_POWER
+name: Audio_power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 17 00 00 00
 #
-name: TUNER_PRESET-
+name: Tuner_preset-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 18 00 00 00
 #
-name: TUNER_PRESET-_(-[])
+name: Tuner_preset-_(-[])
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 18 00 00 00
 #
-name: TUNER_PRESET+
+name: Tuner_preset+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 19 00 00 00
 #
-name: TUNER_PRESET+_(+_>)
+name: Tuner_preset+_(+_>)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 19 00 00 00
 #
-name: FADE_MUTING
+name: Fade_muting
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1F 00 00 00
 #
-name: TUNER_0
+name: Tuner_0
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 20 00 00 00
 #
-name: TUNER_1
+name: Tuner_1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 21 00 00 00
 #
-name: TUNER_2
+name: Tuner_2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 22 00 00 00
 #
-name: TUNER_3
+name: Tuner_3
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 23 00 00 00
 #
-name: TUNER_4
+name: Tuner_4
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 24 00 00 00
 #
-name: TUNER_5
+name: Tuner_5
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 25 00 00 00
 #
-name: TUNER_6
+name: Tuner_6
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 26 00 00 00
 #
-name: TUNER_7
+name: Tuner_7
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: TUNER_8
+name: Tuner_8
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 28 00 00 00
 #
-name: TUNER_9
+name: Tuner_9
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -199,7 +199,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 29 00 00 00
 #
-name: TUNER_10
+name: Tuner_10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: A3 00 00 00
 command: 2A 00 00 00
 #
-name: TUNER_+10
+name: Tuner_+10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -223,61 +223,61 @@ protocol: NECext
 address: A3 00 00 00
 command: 2F 00 00 00
 #
-name: SEA_SOURCE
+name: Sea_source
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 30 00 00 00
 #
-name: PHONO_SELECT
+name: Phono_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: SOURCE_SLCT_PHONO
+name: Source_slct_phono
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: CD_PLAY_(AND_SELECT)
+name: Cd_play_(and_select)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3D 00 00 00
 #
-name: SOURCE_SLCT_CD
+name: Source_slct_cd
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3D 00 00 00
 #
-name: TAPE1_PLAY_(SELECT)
+name: Tape1_play_(select)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: SOURCE_SLCT_TAPE1
+name: Source_slct_tape1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: SURROUND_VOL+
+name: Surround_vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 5E 00 00 00
 #
-name: SURROUND_VOL-
+name: Surround_vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00

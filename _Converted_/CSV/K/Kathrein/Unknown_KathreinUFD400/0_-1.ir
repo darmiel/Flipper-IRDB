@@ -73,61 +73,61 @@ protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: ab
+name: Ab
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: off
+name: Off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: dwn
+name: Dwn
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -139,13 +139,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: mid
+name: Mid
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2C 00 00 00
 #
-name: stero
+name: Stero
 type: parsed
 protocol: NECext
 address: 00 00 00 00

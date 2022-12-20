@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: WEST
+name: West
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 00 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 01 00 00 00
 #
-name: EAST
+name: East
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 03 00 00 00
 #
-name: SKEW-
+name: Skew-
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 04 00 00 00
 #
-name: SKEW+
+name: Skew+
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 05 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 06 00 00 00
 #
-name: LOCK
+name: Lock
 type: parsed
 protocol: NECext
 address: 83 79 00 00
@@ -49,13 +49,13 @@ protocol: NECext
 address: 83 79 00 00
 command: 08 00 00 00
 #
-name: FORMAT
+name: Format
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 09 00 00 00
 #
-name: AUDIO_DE-EMP
+name: Audio_de-emp
 type: parsed
 protocol: NECext
 address: 83 79 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 83 79 00 00
 command: 0C 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 83 79 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 83 79 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 83 79 00 00
@@ -103,79 +103,79 @@ protocol: NECext
 address: 83 79 00 00
 command: 13 00 00 00
 #
-name: PRG
+name: Prg
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 14 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 15 00 00 00
 #
-name: AUDIO_BW
+name: Audio_bw
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 16 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 17 00 00 00
 #
-name: AUDIO-
+name: Audio-
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 18 00 00 00
 #
-name: AUDIO+
+name: Audio+
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 19 00 00 00
 #
-name: POLAR
+name: Polar
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 1A 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 1B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 1D 00 00 00
 #
-name: IF_BW
+name: If_bw
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 1F 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 40 00 00 00
 #
-name: POSIT
+name: Posit
 type: parsed
 protocol: NECext
 address: 83 79 00 00
@@ -205,13 +205,13 @@ protocol: NECext
 address: 83 79 00 00
 command: 54 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 83 79 00 00
 command: 58 00 00 00
 #
-name: CLAMP
+name: Clamp
 type: parsed
 protocol: NECext
 address: 83 79 00 00

@@ -61,79 +61,79 @@ protocol: NECext
 address: 14 00 00 00
 command: 09 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0A 00 00 00
 #
-name: LAP
+name: Lap
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0B 00 00 00
 #
-name: REVIEW
+name: Review
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0F 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1D 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 20 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 21 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 29 00 00 00
 #
-name: AMS
+name: Ams
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2B 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 30 00 00 00
 #
-name: SEARCH-
+name: Search-
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 32 00 00 00
 #
-name: SEARCH+
+name: Search+
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 14 00 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LIMBIK_NEXT_(5_KEY)
+name: Limbik_next_(5_key)
 type: parsed
 protocol: NECext
 address: 04 00 00 00

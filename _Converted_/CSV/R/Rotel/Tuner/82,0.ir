@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 52 00 00 00
 command: 00 00 00 00
 #
-name: AUTO_TUNING
+name: Auto_tuning
 type: parsed
 protocol: NECext
 address: 52 00 00 00
 command: 02 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 52 00 00 00
@@ -85,25 +85,25 @@ protocol: NECext
 address: 52 00 00 00
 command: 19 00 00 00
 #
-name: TUNING_-
+name: Tuning_-
 type: parsed
 protocol: NECext
 address: 52 00 00 00
 command: 1A 00 00 00
 #
-name: TUNE-
+name: Tune-
 type: parsed
 protocol: NECext
 address: 52 00 00 00
 command: 1A 00 00 00
 #
-name: TUNING_+
+name: Tuning_+
 type: parsed
 protocol: NECext
 address: 52 00 00 00
 command: 1B 00 00 00
 #
-name: TUNE+
+name: Tune+
 type: parsed
 protocol: NECext
 address: 52 00 00 00

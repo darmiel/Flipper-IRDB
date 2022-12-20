@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DC1_TRG_CTRL_Z1
+name: Dc1_trg_ctrl_z1
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 32 00 00 00
 #
-name: DC1_TRG_CTRL_Z2
+name: Dc1_trg_ctrl_z2
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 33 00 00 00
 #
-name: DC1_TRG_CTRL_ALL
+name: Dc1_trg_ctrl_all
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 34 00 00 00
 #
-name: DC1_TRG_Z2_ON
+name: Dc1_trg_z2_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 71 00 00 00
 #
-name: DC1_TRG_Z2_OFF
+name: Dc1_trg_z2_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 72 00 00 00
 #
-name: DC1_TRG_Z1_ON
+name: Dc1_trg_z1_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 73 00 00 00
 #
-name: DC1_TRG_Z1_OFF
+name: Dc1_trg_z1_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: 74 00 00 00
 #
-name: Z2_MUTE_ON
+name: Z2_mute_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A0 00 00 00
 #
-name: Z2_MUTE_OFF
+name: Z2_mute_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A1 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A2 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: A3 00 00 00
 #
-name: SP_RELAY_A_ON
+name: Sp_relay_a_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: AB 00 00 00
 #
-name: SP_RELAY_A_OFF
+name: Sp_relay_a_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: AC 00 00 00
 #
-name: SP_RELAY_B_ON
+name: Sp_relay_b_on
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: AD 00 00 00
 #
-name: SP_RELAY_B_OFF
+name: Sp_relay_b_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: AE 00 00 00
 #
-name: SLEEP_OFF
+name: Sleep_off
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B3 00 00 00
 #
-name: SLEEP_120
+name: Sleep_120
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B4 00 00 00
 #
-name: SLEEP_90
+name: Sleep_90
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B5 00 00 00
 #
-name: SLEEP_60
+name: Sleep_60
 type: parsed
 protocol: NECext
 address: 7E 00 00 00
 command: B6 00 00 00
 #
-name: SLEEP_30
+name: Sleep_30
 type: parsed
 protocol: NECext
 address: 7E 00 00 00

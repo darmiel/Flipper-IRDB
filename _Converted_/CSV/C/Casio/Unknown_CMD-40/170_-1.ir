@@ -61,37 +61,37 @@ protocol: NECext
 address: AA 00 00 00
 command: 09 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 1C 00 00 00
 #
-name: TV_VIDEO
+name: Tv_video
 type: parsed
 protocol: NECext
 address: AA 00 00 00

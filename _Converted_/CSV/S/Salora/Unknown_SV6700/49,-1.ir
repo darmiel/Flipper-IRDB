@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 00 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 31 00 00 00
 command: 07 00 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -73,49 +73,49 @@ protocol: NECext
 address: 31 00 00 00
 command: 0F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 12 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 14 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 15 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 16 00 00 00
 #
-name: STILL
+name: Still
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -133,31 +133,31 @@ protocol: NECext
 address: 31 00 00 00
 command: 1D 00 00 00
 #
-name: A/V
+name: A/v
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1E 00 00 00
 #
-name: REPEAT/MEMORY
+name: Repeat/memory
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1F 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 42 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 44 00 00 00
 #
-name: VPS
+name: Vps
 type: parsed
 protocol: NECext
 address: 31 00 00 00

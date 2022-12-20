@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 21 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 22 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 02 00 00 00

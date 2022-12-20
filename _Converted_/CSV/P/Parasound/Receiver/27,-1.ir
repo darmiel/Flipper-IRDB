@@ -73,49 +73,49 @@ protocol: NECext
 address: 1B 00 00 00
 command: 0A 00 00 00
 #
-name: ON_-_OFF
+name: On_-_off
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0D 00 00 00
 #
-name: SHIFT
+name: Shift
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0E 00 00 00
 #
-name: ZONE
+name: Zone
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0F 00 00 00
 #
-name: DIGITAL_+
+name: Digital_+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 10 00 00 00
 #
-name: DIGITAL_-
+name: Digital_-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 11 00 00 00
 #
-name: VID_1
+name: Vid_1
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 14 00 00 00
 #
-name: VID_2
+name: Vid_2
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -127,19 +127,19 @@ protocol: NECext
 address: 1B 00 00 00
 command: 15 00 00 00
 #
-name: VID_3
+name: Vid_3
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 16 00 00 00
 #
-name: VID_4
+name: Vid_4
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 17 00 00 00
 #
-name: VID_5
+name: Vid_5
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 18 00 00 00
 #
-name: VID_6
+name: Vid_6
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -163,31 +163,31 @@ protocol: NECext
 address: 1B 00 00 00
 command: 19 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1C 00 00 00
 #
-name: A._CAL
+name: A._cal
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1D 00 00 00
 #
-name: DIM
+name: Dim
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1F 00 00 00
 #
-name: SURROUND_+
+name: Surround_+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -199,103 +199,103 @@ protocol: NECext
 address: 1B 00 00 00
 command: 20 00 00 00
 #
-name: SETUP/TRIM
+name: Setup/trim
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 21 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 22 00 00 00
 #
-name: TUNE_-
+name: Tune_-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 23 00 00 00
 #
-name: TUNE_+
+name: Tune_+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 24 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 25 00 00 00
 #
-name: MEM
+name: Mem
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 26 00 00 00
 #
-name: AUD_1
+name: Aud_1
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 30 00 00 00
 #
-name: AUD_2
+name: Aud_2
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 31 00 00 00
 #
-name: AUD_3
+name: Aud_3
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 32 00 00 00
 #
-name: AUD_4
+name: Aud_4
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 33 00 00 00
 #
-name: AUD_5
+name: Aud_5
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 34 00 00 00
 #
-name: AUD_6
+name: Aud_6
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 35 00 00 00
 #
-name: SURROUND_-
+name: Surround_-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 38 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 39 00 00 00
 #
-name: STATUS
+name: Status
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 3C 00 00 00
 #
-name: DYN
+name: Dyn
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 3D 00 00 00
 #
-name: TUNING
+name: Tuning
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

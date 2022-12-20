@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 20 01 00 00
 command: 02 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 20 01 00 00
 command: 03 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 20 01 00 00
 command: 04 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 20 01 00 00
 command: 05 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 20 01 00 00
 command: 06 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 20 01 00 00
 command: 07 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 20 01 00 00
 command: 08 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 20 01 00 00

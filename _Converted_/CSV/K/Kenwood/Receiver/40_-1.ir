@@ -1,241 +1,241 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO2_VCR/TV_(LVL
+name: Video2_vcr/tv_(lvl
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 00 00 00 00
 #
-name: VCR2_FUNCTION
+name: Vcr2_function
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 00 00 00 00
 #
-name: VIDEO2_>>_(TUNING)
+name: Video2_>>_(tuning)
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 04 00 00 00
 #
-name: VCR2_FFWD_>>
+name: Vcr2_ffwd_>>
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 04 00 00 00
 #
-name: VIDEO2_CH_V_(ANY_V)
+name: Video2_ch_v_(any_v)
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 08 00 00 00
 #
-name: VCR2_ANY_V
+name: Vcr2_any_v
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 08 00 00 00
 #
-name: VIDEO2_PLAY_(P.CALL)
+name: Video2_play_(p.call)
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0A 00 00 00
 #
-name: VCR2_PLAY_>
+name: Vcr2_play_>
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0A 00 00 00
 #
-name: VIDEO2_PAUSE_(AUTO)
+name: Video2_pause_(auto)
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0B 00 00 00
 #
-name: VCR2_PAUSE_
+name: Vcr2_pause_
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0B 00 00 00
 #
-name: VIDEO2_<<_(TUNING)
+name: Video2_<<_(tuning)
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0C 00 00 00
 #
-name: VCR2_REW_<<
+name: Vcr2_rew_<<
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0C 00 00 00
 #
-name: VIDEO2_CH_^_(ANY_^)
+name: Video2_ch_^_(any_^)
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 10 00 00 00
 #
-name: VCR2_ANY_^
+name: Vcr2_any_^
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 10 00 00 00
 #
-name: VIDEO2_REC
+name: Video2_rec
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 1A 00 00 00
 #
-name: VCR2_REC
+name: Vcr2_rec
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 1A 00 00 00
 #
-name: VIDEO2_STOP_(BAND)
+name: Video2_stop_(band)
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 1C 00 00 00
 #
-name: VCR2_STOP_[]
+name: Vcr2_stop_[]
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 1C 00 00 00
 #
-name: VIDEO2_1
+name: Video2_1
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 1F 00 00 00
 #
-name: VCR2_1
+name: Vcr2_1
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 1F 00 00 00
 #
-name: VIDEO2_POWER
+name: Video2_power
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 20 00 00 00
 #
-name: VCR2_POWER
+name: Vcr2_power
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 20 00 00 00
 #
-name: VIDEO2_2
+name: Video2_2
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 21 00 00 00
 #
-name: VCR2_2
+name: Vcr2_2
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 21 00 00 00
 #
-name: VIDEO2_3
+name: Video2_3
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 22 00 00 00
 #
-name: VCR2_3
+name: Vcr2_3
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 22 00 00 00
 #
-name: VIDEO2_4
+name: Video2_4
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 23 00 00 00
 #
-name: VCR2_4
+name: Vcr2_4
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 23 00 00 00
 #
-name: VIDEO2_5
+name: Video2_5
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 24 00 00 00
 #
-name: VCR2_5
+name: Vcr2_5
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 24 00 00 00
 #
-name: VIDEO2_6
+name: Video2_6
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 25 00 00 00
 #
-name: VCR2_6
+name: Vcr2_6
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 25 00 00 00
 #
-name: VIDEO2_7
+name: Video2_7
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 26 00 00 00
 #
-name: VCR2_7
+name: Vcr2_7
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 26 00 00 00
 #
-name: VIDEO2_8
+name: Video2_8
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 27 00 00 00
 #
-name: VCR2_8
+name: Vcr2_8
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 27 00 00 00
 #
-name: VIDEO2_9
+name: Video2_9
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 28 00 00 00
 #
-name: VCR2_9
+name: Vcr2_9
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 28 00 00 00
 #
-name: VIDEO2_0
+name: Video2_0
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 29 00 00 00
 #
-name: VCR2_O
+name: Vcr2_o
 type: parsed
 protocol: NECext
 address: 28 00 00 00

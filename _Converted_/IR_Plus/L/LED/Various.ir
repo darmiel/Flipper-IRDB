@@ -16,13 +16,13 @@ protocol: NECext
 address: FF 00 00 00
 command: 47 B8 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 0F F0 00 00
 #
-name: RGB
+name: Rgb
 type: parsed
 protocol: NECext
 address: FF 00 00 00

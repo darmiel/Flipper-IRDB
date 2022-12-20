@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 03 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 07 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 08 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 09 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 0B 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 0C 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 0D 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
@@ -121,19 +121,19 @@ protocol: NECext
 address: 86 7C 00 00
 command: 19 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 1C 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 1E 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 86 7C 00 00

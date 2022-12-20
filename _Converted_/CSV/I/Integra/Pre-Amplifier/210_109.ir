@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNE_PRESET_UP
+name: Tune_preset_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: TUNE_PRESET_DOWN
+name: Tune_preset_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 04 00 00 00
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 05 00 00 00
 #
-name: INPUT_TAPE_1
+name: Input_tape_1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 08 00 00 00
 #
-name: INPUT_CD
+name: Input_cd
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 09 00 00 00
 #
-name: INPUT_PHONO
+name: Input_phono
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0A 00 00 00
 #
-name: INPUT_TUNER
+name: Input_tuner
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0B 00 00 00
 #
-name: INPUT_V3_GAME/TV
+name: Input_v3_game/tv
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0D 00 00 00
 #
-name: INPUT_V2_CBL/SAT
+name: Input_v2_cbl/sat
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: INPUT_V1_VCR/DVR
+name: Input_v1_vcr/dvr
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0F 00 00 00
 #
-name: MODE_DIRECT
+name: Mode_direct
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 44 00 00 00
 #
-name: INPUT_FM
+name: Input_fm
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 46 00 00 00
 #
-name: INPUT_AM
+name: Input_am
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 47 00 00 00
 #
-name: MODE_LISTEN_MODEUP
+name: Mode_listen_modeup
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 4C 00 00 00
 #
-name: SLEEP_TIME
+name: Sleep_time
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 82 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 83 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 84 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 85 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 97 00 00 00
 #
-name: SPK_TEST_TONE
+name: Spk_test_tone
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9A 00 00 00
 #
-name: INPUT_V6_PC
+name: Input_v6_pc
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9C 00 00 00
 #
-name: INPUT_V4_AUX1
+name: Input_v4_aux1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00

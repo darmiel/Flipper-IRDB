@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 12 34 00 00
 command: 20 DF 00 00
 # 
-name: SEL
+name: Sel
 type: parsed
 protocol: NECext
 address: 12 34 00 00
 command: 35 CA 00 00
 # 
-name: BT
+name: Bt
 type: parsed
 protocol: NECext
 address: 12 34 00 00
 command: 2B D4 00 00
 # 
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 12 34 00 00
 command: 2C D3 00 00
 # 
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: 12 34 00 00
@@ -67,19 +67,19 @@ protocol: NECext
 address: 12 34 00 00
 command: 21 DE 00 00
 # 
-name: VOL
+name: Vol
 type: parsed
 protocol: NECext
 address: 12 34 00 00
 command: 2E D1 00 00
 # 
-name: Channl_L
+name: Channl_l
 type: parsed
 protocol: NECext
 address: 12 34 00 00
 command: 33 CC 00 00
 # 
-name: Channel_R
+name: Channel_r
 type: parsed
 protocol: NECext
 address: 12 34 00 00

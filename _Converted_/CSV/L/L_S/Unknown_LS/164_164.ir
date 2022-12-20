@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: tune_down
+name: Tune_down
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 04 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 05 00 00 00
 #
-name: scan_up
+name: Scan_up
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 06 00 00 00
 #
-name: tune_up
+name: Tune_up
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 0C 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 0D 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 13 00 00 00
 #
-name: mem_prog
+name: Mem_prog
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 14 00 00 00
 #
-name: intro
+name: Intro
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 16 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 1B 00 00 00
 #
-name: mem_up
+name: Mem_up
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A4 A4 00 00
 command: 60 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: A4 A4 00 00

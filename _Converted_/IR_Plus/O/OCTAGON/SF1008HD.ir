@@ -16,49 +16,49 @@ protocol: NECext
 address: 9F 40 00 00
 command: CF 30 00 00
 #
-name: V.FORMAT
+name: V.format
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 8F 70 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 87 78 00 00
 #
-name: TV/RAD
+name: Tv/rad
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: A7 58 00 00
 #
-name: RESOLUTION
+name: Resolution
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 0F F0 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 3D C2 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: DD 22 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 2F D0 00 00
 #
-name: TELETEXT
+name: Teletext
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: 9F 40 00 00
 command: 67 98 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
@@ -130,13 +130,13 @@ protocol: NECext
 address: 9F 40 00 00
 command: F7 08 00 00
 #
-name: PLAYLIST
+name: Playlist
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: FD 02 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: 9F 40 00 00
 command: FF 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: 9F 40 00 00
 command: 3F C0 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
@@ -172,7 +172,7 @@ protocol: NECext
 address: 9F 40 00 00
 command: BF 40 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
@@ -184,43 +184,43 @@ protocol: NECext
 address: 9F 40 00 00
 command: 7F 80 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: C7 38 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 8D 72 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: EF 10 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 85 7A 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 0D F2 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: EF 10 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
@@ -304,19 +304,19 @@ protocol: NECext
 address: 9F 40 00 00
 command: BD 42 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: 75 8A 00 00
 #
-name: PIP Swap
+name: Pip_swap
 type: parsed
 protocol: NECext
 address: 9F 40 00 00
 command: B5 4A 00 00
 #
-name: PIP S.List
+name: Pip_s.list
 type: parsed
 protocol: NECext
 address: 9F 40 00 00

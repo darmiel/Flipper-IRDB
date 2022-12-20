@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 00 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 01 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 02 00 00 00
 #
-name: Tuner_(Band)
+name: Tuner_(band)
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 03 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 07 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 08 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 09 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 0A 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 0B 00 00 00
 #
-name: Repeat/Preset_up
+name: Repeat/preset_up
 type: parsed
 protocol: NECext
 address: 22 01 00 00
@@ -73,43 +73,43 @@ protocol: NECext
 address: 22 01 00 00
 command: 0D 00 00 00
 #
-name: EEPS
+name: Eeps
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 0E 00 00 00
 #
-name: Time_Mode
+name: Time_mode
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 0F 00 00 00
 #
-name: Memory/Time_set
+name: Memory/time_set
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 10 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 11 00 00 00
 #
-name: FM_Mode
+name: Fm_mode
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 12 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 22 01 00 00
 command: 13 00 00 00
 #
-name: Intro_Check
+name: Intro_check
 type: parsed
 protocol: NECext
 address: 22 01 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 22 01 00 00
 command: 1E 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 22 01 00 00

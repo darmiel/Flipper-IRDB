@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4B 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4C 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 50 00 00 00
 #
-name: VDP
+name: Vdp
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 54 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 58 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 59 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5A 00 00 00
 #
-name: TAPE-1
+name: Tape-1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5D 00 00 00
 #
-name: TAPE-2/VCR
+name: Tape-2/vcr
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5E 00 00 00
 #
-name: VIDEO_SELECT
+name: Video_select
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 62 00 00 00
 #
-name: REC_SELECT
+name: Rec_select
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 75 00 00 00
 #
-name: PANEL
+name: Panel
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7E 00 00 00
 #
-name: PRESET_V
+name: Preset_v
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D5 00 00 00
 #
-name: PRESET_^
+name: Preset_^
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D6 00 00 00
 #
-name: P.SCAN
+name: P.scan
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

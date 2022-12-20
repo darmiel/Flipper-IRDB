@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
@@ -19,43 +19,43 @@ protocol: NECext
 address: 7A 00 00 00
 command: 11 00 00 00
 #
-name: A/B/C/D/E
+name: A/b/c/d/e
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 12 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 15 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 16 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 7A 00 00 00
 command: 53 00 00 00
 #
-name: DTV/CBL
+name: Dtv/cbl
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 54 00 00 00
 #
-name: V-AUX
+name: V-aux
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
@@ -91,19 +91,19 @@ protocol: NECext
 address: 7A 00 00 00
 command: 56 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 57 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 58 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
@@ -121,13 +121,13 @@ protocol: NECext
 address: 7A 00 00 00
 command: 86 00 00 00
 #
-name: 6chIN
+name: 6chin
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 87 00 00 00
 #
-name: Dobly/DTS
+name: Dobly/dts
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
@@ -145,31 +145,31 @@ protocol: NECext
 address: 7A 00 00 00
 command: 97 00 00 00
 #
-name: MenuUp
+name: Menuup
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 98 00 00 00
 #
-name: MenuDown
+name: Menudown
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 99 00 00 00
 #
-name: SetMenu
+name: Setmenu
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 9C 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: C1 00 00 00
 #
-name: MD/CD-R
+name: Md/cd-r
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

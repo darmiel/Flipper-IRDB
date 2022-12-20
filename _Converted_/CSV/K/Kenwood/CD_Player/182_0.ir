@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: <_(LEFT)
+name: <_(left)
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 08 00 00 00
 #
-name: SEARCH_<
+name: Search_<
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 08 00 00 00
 #
-name: >_(RIGHT)
+name: >_(right)
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 09 00 00 00
 #
-name: SEARCH_>
+name: Search_>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 09 00 00 00
 #
-name: V_(DOWN)
+name: V_(down)
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 0A 00 00 00
 #
-name: SEARCH_V_(DOWN)
+name: Search_v_(down)
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 0A 00 00 00
 #
-name: ^_(UP)
+name: ^_(up)
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 0B 00 00 00
 #
-name: SEARCH_^
+name: Search_^
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 41 00 00 00
 #
-name: SEARCH_A
+name: Search_a
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 42 00 00 00
 #
-name: SEARCH_B
+name: Search_b
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 43 00 00 00
 #
-name: SEARCH_C
+name: Search_c
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 44 00 00 00
 #
-name: SEARCH_D
+name: Search_d
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 45 00 00 00
 #
-name: SEARCH_E
+name: Search_e
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 46 00 00 00
 #
-name: SEARCH_F
+name: Search_f
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 47 00 00 00
 #
-name: SEARCH_G
+name: Search_g
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 48 00 00 00
 #
-name: SEARCH_H
+name: Search_h
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 49 00 00 00
 #
-name: SEARCH_I
+name: Search_i
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 4A 00 00 00
 #
-name: SEARCH_J
+name: Search_j
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 4B 00 00 00
 #
-name: SEARCH_K
+name: Search_k
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 4C 00 00 00
 #
-name: SEARCH_L
+name: Search_l
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -199,7 +199,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 4D 00 00 00
 #
-name: SEARCH_M
+name: Search_m
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 4E 00 00 00
 #
-name: SEARCH_N
+name: Search_n
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -223,7 +223,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 4F 00 00 00
 #
-name: SEARCH_O
+name: Search_o
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -235,7 +235,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 50 00 00 00
 #
-name: SEARCH_P
+name: Search_p
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -247,7 +247,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 51 00 00 00
 #
-name: SEARCH_Q
+name: Search_q
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -259,7 +259,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 52 00 00 00
 #
-name: SEARCH_R
+name: Search_r
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -271,7 +271,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 53 00 00 00
 #
-name: SEARCH_S
+name: Search_s
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -283,7 +283,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 54 00 00 00
 #
-name: SEARCH_T
+name: Search_t
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -295,7 +295,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 55 00 00 00
 #
-name: SEARCH_U
+name: Search_u
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -307,7 +307,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 56 00 00 00
 #
-name: SEARCH_V
+name: Search_v
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -319,7 +319,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 57 00 00 00
 #
-name: SEARCH_W
+name: Search_w
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -331,7 +331,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 58 00 00 00
 #
-name: SEARCH_X
+name: Search_x
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -343,7 +343,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 59 00 00 00
 #
-name: SEARCH_Y
+name: Search_y
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -355,7 +355,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 5A 00 00 00
 #
-name: SEARCH_Z
+name: Search_z
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -367,7 +367,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 8A 00 00 00
 #
-name: SEARCH_*
+name: Search_*
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -379,7 +379,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 8B 00 00 00
 #
-name: SEARCH_+
+name: Search_+
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -391,7 +391,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 8D 00 00 00
 #
-name: SEARCH_-
+name: Search_-
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -403,7 +403,7 @@ protocol: NECext
 address: B6 00 00 00
 command: 8F 00 00 00
 #
-name: SEARCH_/
+name: Search_/
 type: parsed
 protocol: NECext
 address: B6 00 00 00

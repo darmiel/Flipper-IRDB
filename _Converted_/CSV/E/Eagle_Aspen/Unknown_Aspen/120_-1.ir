@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: store
+name: Store
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 82 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 78 00 00 00
 command: 8B 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8C 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 78 00 00 00
 command: 95 00 00 00
 #
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 96 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -97,19 +97,19 @@ protocol: NECext
 address: 78 00 00 00
 command: 9B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9E 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 78 00 00 00

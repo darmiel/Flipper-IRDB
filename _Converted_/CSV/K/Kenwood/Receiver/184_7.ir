@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PL_II_MOVIE
+name: Pl_ii_movie
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 00 00 00 00
 #
-name: DOLBY_PL_2_MOVE
+name: Dolby_pl_2_move
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 00 00 00 00
 #
-name: PL_II_MUSIC
+name: Pl_ii_music
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 01 00 00 00
 #
-name: DOLBY_PL_2_MUSIC
+name: Dolby_pl_2_music
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 01 00 00 00
 #
-name: CONCERT_HALL
+name: Concert_hall
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 04 00 00 00
 #
-name: STADIUM_2
+name: Stadium_2
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 05 00 00 00
 #
-name: DTS_NEO_6_CINEMA
+name: Dts_neo_6_cinema
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 0C 00 00 00
 #
-name: NEO_CINEMA
+name: Neo_cinema
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 0C 00 00 00
 #
-name: DTS_NEO_6_MUSIC
+name: Dts_neo_6_music
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 0D 00 00 00
 #
-name: NEO_MUSIC
+name: Neo_music
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 0D 00 00 00
 #
-name: MULTI_CH._MUSIC
+name: Multi_ch._music
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 0F 00 00 00
 #
-name: MULTI_CH_MUSIC
+name: Multi_ch_music
 type: parsed
 protocol: NECext
 address: B8 07 00 00
 command: 0F 00 00 00
 #
-name: PANORAMA
+name: Panorama
 type: parsed
 protocol: NECext
 address: B8 07 00 00

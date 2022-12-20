@@ -61,115 +61,115 @@ protocol: NECext
 address: 76 00 00 00
 command: 0A 00 00 00
 #
-name: greater_20
+name: Greater_20
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 0B 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 0C 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 0D 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 0E 00 00 00
 #
-name: check
+name: Check
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 0F 00 00 00
 #
-name: search_forw
+name: Search_forw
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 11 00 00 00
 #
-name: search_back
+name: Search_back
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 12 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 15 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 17 00 00 00
 #
-name: skip_forw
+name: Skip_forw
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 18 00 00 00
 #
-name: skip_back
+name: Skip_back
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 19 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 1A 00 00 00
 #
-name: repeat_1_all
+name: Repeat_1_all
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 1B 00 00 00
 #
-name: repeat_a_b
+name: Repeat_a_b
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 1C 00 00 00
 #
-name: index_forw
+name: Index_forw
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 1D 00 00 00
 #
-name: index_back
+name: Index_back
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 1E 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 1F 00 00 00
 #
-name: blank
+name: Blank
 type: parsed
 protocol: NECext
 address: 76 00 00 00
@@ -235,7 +235,7 @@ protocol: NECext
 address: 76 00 00 00
 command: 4A 00 00 00
 #
-name: ac
+name: Ac
 type: parsed
 protocol: NECext
 address: 76 00 00 00

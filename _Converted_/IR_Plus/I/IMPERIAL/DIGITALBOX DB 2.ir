@@ -94,7 +94,7 @@ protocol: NECext
 address: DF 20 00 00
 command: CF 30 00 00
 #
-name: CH
+name: Ch
 type: parsed
 protocol: NECext
 address: DF 20 00 00
@@ -106,19 +106,19 @@ protocol: NECext
 address: DF 20 00 00
 command: C7 38 00 00
 #
-name: VOL
+name: Vol
 type: parsed
 protocol: NECext
 address: DF 20 00 00
 command: 9D 62 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: DF 20 00 00
 command: 87 78 00 00
 #
-name: VOL
+name: Vol
 type: parsed
 protocol: NECext
 address: DF 20 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: DF 20 00 00
 command: F7 08 00 00
 #
-name: CH
+name: Ch
 type: parsed
 protocol: NECext
 address: DF 20 00 00
@@ -142,31 +142,31 @@ protocol: NECext
 address: DF 20 00 00
 command: 7D 82 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: DF 20 00 00
 command: FD 02 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: DF 20 00 00
 command: 3D C2 00 00
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: DF 20 00 00
 command: DD 22 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: DF 20 00 00
 command: 1D E2 00 00
 #
-name: TV/Radio
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: DF 20 00 00
@@ -184,7 +184,7 @@ protocol: NECext
 address: DF 20 00 00
 command: 27 D8 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: DF 20 00 00

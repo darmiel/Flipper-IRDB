@@ -20,42 +20,42 @@ type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1B E4 00 00
-name: 1_KVM
+name: 1_kvm
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 01 FE 00 00
-name: 2_KVM
+name: 2_kvm
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 04 FB 00 00
-name: 3_KVM
+name: 3_kvm
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 07 F8 00 00
-name: 4_KVM
+name: 4_kvm
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0A F5 00 00
-name: 1_Audio
+name: 1_audio
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 03 FC 00 00
-name: 2_Audio
+name: 2_audio
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 06 F9 00 00
-name: 3_Audio
+name: 3_audio
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 09 F6 00 00
-name: 4_Audio
+name: 4_audio
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

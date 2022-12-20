@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AMP/VCR
+name: Amp/vcr
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0F 00 00 00
 #
-name: AMP/TURNER_PAGE_UP
+name: Amp/turner_page_up
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 10 00 00 00
 #
-name: AMP/TURNER_PAGE_DOWN
+name: Amp/turner_page_down
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 11 00 00 00
 #
-name: AMP/TURNER_PAGE
+name: Amp/turner_page
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 12 00 00 00
 #
-name: AMP/AUX
+name: Amp/aux
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 14 00 00 00
 #
-name: AMP/CD_INPUT
+name: Amp/cd_input
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 15 00 00 00
 #
-name: AMP/TURNER_INPUT
+name: Amp/turner_input
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 16 00 00 00
 #
-name: AMP/VOL+
+name: Amp/vol+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1A 00 00 00
 #
-name: AMP/VOL-
+name: Amp/vol-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1B 00 00 00
 #
-name: AMP/MUTE
+name: Amp/mute
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1C 00 00 00
 #
-name: AMP/PLUS
+name: Amp/plus
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 52 00 00 00
 #
-name: AMP/MINUS
+name: Amp/minus
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 53 00 00 00
 #
-name: AMP/TV_CBL
+name: Amp/tv_cbl
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 54 00 00 00
 #
-name: AMP/V_AUX
+name: Amp/v_aux
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 55 00 00 00
 #
-name: AMP/EFFECT
+name: Amp/effect
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 56 00 00 00
 #
-name: AMP/SLEEP
+name: Amp/sleep
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 57 00 00 00
 #
-name: AMP/POWER
+name: Amp/power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 57 00 00 00
 #
-name: AMP/PRG_PLUS
+name: Amp/prg_plus
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 58 00 00 00
 #
-name: AMP/PRG_MINUS
+name: Amp/prg_minus
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 59 00 00 00
 #
-name: AMP/TEST
+name: Amp/test
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 85 00 00 00
 #
-name: AMP/TIME_LEVEL
+name: Amp/time_level
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 86 00 00 00
 #
-name: AMP/6_CH
+name: Amp/6_ch
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 87 00 00 00
 #
-name: AMP/SET_MENU
+name: Amp/set_menu
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 9C 00 00 00
 #
-name: AMP/DVD
+name: Amp/dvd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: C1 00 00 00
 #
-name: AMP/MD_CDR_INPU
+name: Amp/md_cdr_inpu
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

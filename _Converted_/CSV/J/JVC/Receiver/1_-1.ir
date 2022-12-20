@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VTR_STOP_[]
+name: Vtr_stop_[]
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: VTR_FF_>>
+name: Vtr_ff_>>
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: VTR_REW_<<
+name: Vtr_rew_<<
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: VTR_PLAY_>
+name: Vtr_play_>
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: VTR_PAUSE/STILL_
+name: Vtr_pause/still_
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0D 00 00 00
 #
-name: VTR_CHANNEL_-
+name: Vtr_channel_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: VTR_CHANNEL_+
+name: Vtr_channel_+
 type: parsed
 protocol: NECext
 address: 01 00 00 00

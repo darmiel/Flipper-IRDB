@@ -7,7 +7,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 00 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -25,25 +25,25 @@ protocol: NECext
 address: 05 00 00 00
 command: 04 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 05 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0B 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 12 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 05 00 00 00
 command: 14 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 16 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -127,43 +127,43 @@ protocol: NECext
 address: 05 00 00 00
 command: 24 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2B 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2C 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 31 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 33 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 05 00 00 00

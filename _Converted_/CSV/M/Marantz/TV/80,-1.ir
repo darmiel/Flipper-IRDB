@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 09 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0B 00 00 00
 #
-name: RECAL
+name: Recal
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 10 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 12 00 00 00
 #
-name: INPUT:_RGB_2
+name: Input:_rgb_2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 13 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 17 00 00 00
 #
-name: INPUT:_VIDEO_1
+name: Input:_video_1
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 21 00 00 00
 #
-name: INPUT:_VIDEO_2
+name: Input:_video_2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 22 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 3E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 3F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 53 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 70 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 71 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 72 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 73 00 00 00
 #
-name: INPUT:_RGB_1
+name: Input:_rgb_1
 type: parsed
 protocol: NECext
 address: 50 00 00 00

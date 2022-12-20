@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 05 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 06 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 08 00 00 00
 #
-name: TRACKING_-
+name: Tracking_-
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 0A 00 00 00
 #
-name: TRACKING_+
+name: Tracking_+
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 0B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 15 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 19 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 1C 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 1D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 1F 00 00 00
 #
-name: F._ADV
+name: F._adv
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
@@ -133,37 +133,37 @@ protocol: NECext
 address: 0E 00 00 00
 command: 39 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 3A 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 3B 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 3C 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 46 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 0E 00 00 00
 command: 47 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 0E 00 00 00

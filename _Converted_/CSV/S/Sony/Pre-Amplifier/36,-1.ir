@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 2_CH._STEREO
+name: 2_ch._stereo
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: A.F.D.
+name: A.f.d.
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CENTER_+6
+name: Center_+6
 type: parsed
 protocol: NECext
 address: 24 00 00 00
@@ -25,247 +25,247 @@ protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CENTER_0
+name: Center_0
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CENTER_-3
+name: Center_-3
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CENTER_-6
+name: Center_-6
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CENTER_+3
+name: Center_+3
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CENTER_+10
+name: Center_+10
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CINEMA_A
+name: Cinema_a
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CINEMA_B
+name: Cinema_b
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: CINEMA_C
+name: Cinema_c
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: DLG_0
+name: Dlg_0
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: DLG_1
+name: Dlg_1
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: DLG_-2
+name: Dlg_-2
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: DLG_3
+name: Dlg_3
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: DLG_5
+name: Dlg_5
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: DLG_-5
+name: Dlg_-5
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: LFE_0
+name: Lfe_0
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: LFE_-3
+name: Lfe_-3
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: LFE_-6
+name: Lfe_-6
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: LFE_-10
+name: Lfe_-10
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: LFE_-14
+name: Lfe_-14
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: LIVE
+name: Live
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: NIGHT
+name: Night
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: NORMAL_SS
+name: Normal_ss
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: OLV_HI
+name: Olv_hi
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: OLV_LOW
+name: Olv_low
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: REARS_-3
+name: Rears_-3
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: REARS_-6
+name: Rears_-6
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: REARS_+3
+name: Rears_+3
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: REARS_+6
+name: Rears_+6
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: REARS_+10
+name: Rears_+10
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: REARS_0
+name: Rears_0
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SUB_-17
+name: Sub_-17
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SUB_-19
+name: Sub_-19
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SURROUND_0
+name: Surround_0
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SURROUND_1
+name: Surround_1
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SURROUND_-2
+name: Surround_-2
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SURROUND_3
+name: Surround_3
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SURROUND_5
+name: Surround_5
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SURROUND_-5
+name: Surround_-5
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SUB_0
+name: Sub_0
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SUB_-10
+name: Sub_-10
 type: parsed
 protocol: NECext
 address: 24 00 00 00
 command: 60 00 00 00
 #
-name: SUB_-14
+name: Sub_-14
 type: parsed
 protocol: NECext
 address: 24 00 00 00

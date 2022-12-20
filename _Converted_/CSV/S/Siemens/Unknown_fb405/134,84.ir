@@ -61,79 +61,79 @@ protocol: NECext
 address: 86 54 00 00
 command: 0E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 12 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 14 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 15 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 17 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 18 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 19 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 1B 00 00 00
 #
-name: TUNING_DOWN+REW+SKIP_LAST
+name: Tuning_down+rew+skip_last
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 40 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 41 00 00 00
 #
-name: TUNING_UP+FDW+SKIP_NEXT
+name: Tuning_up+fdw+skip_next
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 44 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 86 54 00 00
 command: 45 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 86 54 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 10 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 00 10 00 00
 command: 0C 00 00 00
 #
-name: MENY
+name: Meny
 type: parsed
 protocol: NECext
 address: 00 10 00 00
@@ -85,49 +85,49 @@ protocol: NECext
 address: 00 10 00 00
 command: 10 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 11 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 12 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 13 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 14 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 15 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 18 00 00 00
 #
-name: RG_3_GUL
+name: Rg_3_gul
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 1A 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 10 00 00
@@ -151,61 +151,61 @@ protocol: NECext
 address: 00 10 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 1F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 40 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 41 00 00 00
 #
-name: OPT+
+name: Opt+
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 42 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 43 00 00 00
 #
-name: SOUND?
+name: Sound?
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 45 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 49 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 4C 00 00 00
 #
-name: WIDE
+name: Wide
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 4E 00 00 00
 #
-name: V-FORMAT
+name: V-format
 type: parsed
 protocol: NECext
 address: 00 10 00 00

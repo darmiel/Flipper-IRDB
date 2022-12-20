@@ -1,397 +1,397 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_SKIP_FWD_>>
+name: Cd_skip_fwd_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: CD_SKIP_>>
+name: Cd_skip_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: CD_SKIP_REV_<<
+name: Cd_skip_rev_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: CD_SKIP_<<
+name: Cd_skip_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: RDS
+name: Rds
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 02 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 03 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 04 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 04 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 04 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 05 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 05 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 05 00 00 00
 #
-name: CD_DISC
+name: Cd_disc
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 07 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 07 00 00 00
 #
-name: CD_SCAN_>>
+name: Cd_scan_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0C 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0C 00 00 00
 #
-name: CD_SCAN_<<
+name: Cd_scan_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0D 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0D 00 00 00
 #
-name: CD_PAUSE
+name: Cd_pause
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0E 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 10 00 00 00
 #
-name: 1_(CD)
+name: 1_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 10 00 00 00
 #
-name: CD_2
+name: Cd_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 11 00 00 00
 #
-name: 2_(CD)
+name: 2_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 11 00 00 00
 #
-name: CD_3
+name: Cd_3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 12 00 00 00
 #
-name: 3_(CD)
+name: 3_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 12 00 00 00
 #
-name: CD_4
+name: Cd_4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 13 00 00 00
 #
-name: 4_(CD)
+name: 4_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 13 00 00 00
 #
-name: CD_5
+name: Cd_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 14 00 00 00
 #
-name: 5_(CD)
+name: 5_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 14 00 00 00
 #
-name: CD_6
+name: Cd_6
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 15 00 00 00
 #
-name: 6_(CD)
+name: 6_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 15 00 00 00
 #
-name: CD_7
+name: Cd_7
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 16 00 00 00
 #
-name: 7_(CD)
+name: 7_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 16 00 00 00
 #
-name: CD_8
+name: Cd_8
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 17 00 00 00
 #
-name: 8_(CD)
+name: 8_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 17 00 00 00
 #
-name: CD_9
+name: Cd_9
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 18 00 00 00
 #
-name: 9_(CD)
+name: 9_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 18 00 00 00
 #
-name: CD_+10
+name: Cd_+10
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 19 00 00 00
 #
-name: +10_(CD)
+name: +10_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 19 00 00 00
 #
-name: CD_0
+name: Cd_0
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1A 00 00 00
 #
-name: 0_(CD)
+name: 0_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1A 00 00 00
 #
-name: CD_DISC_1
+name: Cd_disc_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1B 00 00 00
 #
-name: CD_DISC_2
+name: Cd_disc_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1C 00 00 00
 #
-name: CD_DISC_3
+name: Cd_disc_3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1D 00 00 00
 #
-name: CD_DISC_4
+name: Cd_disc_4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1E 00 00 00
 #
-name: CD_DISC_5
+name: Cd_disc_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1F 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 40 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 41 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 42 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 43 00 00 00
 #
-name: REPEAT_(CD)
+name: Repeat_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 49 00 00 00
 #
-name: CD_RANDOM
+name: Cd_random
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 4E 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 4E 00 00 00
 #
-name: BAL_CHK
+name: Bal_chk
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 50 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 50 00 00 00
 #
-name: CENTER_V
+name: Center_v
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 52 00 00 00
 #
-name: REAR_V
+name: Rear_v
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 53 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 57 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 57 00 00 00
 #
-name: CENTER_^
+name: Center_^
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5A 00 00 00
 #
-name: REAR_^
+name: Rear_^
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5B 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -445,19 +445,19 @@ protocol: NECext
 address: 1A 00 00 00
 command: 7F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 80 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 80 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -469,247 +469,247 @@ protocol: NECext
 address: 1A 00 00 00
 command: 81 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 82 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 82 00 00 00
 #
-name: VIDEO1
+name: Video1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 83 00 00 00
 #
-name: VIDEO/AUX
+name: Video/aux
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 84 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 84 00 00 00
 #
-name: AUX2
+name: Aux2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 84 00 00 00
 #
-name: AUX_2
+name: Aux_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 84 00 00 00
 #
-name: VIDEO2
+name: Video2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 84 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 85 00 00 00
 #
-name: TUNER_2
+name: Tuner_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 85 00 00 00
 #
-name: VIDEO3
+name: Video3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 85 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 86 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 86 00 00 00
 #
-name: VIDEO4
+name: Video4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 86 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 87 00 00 00
 #
-name: VIDEO5
+name: Video5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 87 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 88 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 88 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 89 00 00 00
 #
-name: TUNER_1
+name: Tuner_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 89 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 89 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 89 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8A 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8A 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8A 00 00 00
 #
-name: TAPE_2
+name: Tape_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8B 00 00 00
 #
-name: AUX1
+name: Aux1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8B 00 00 00
 #
-name: AUX_1
+name: Aux_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8B 00 00 00
 #
-name: TUNER_TUNING_>
+name: Tuner_tuning_>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8C 00 00 00
 #
-name: TUNING_>
+name: Tuning_>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8C 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8C 00 00 00
 #
-name: TUNER_TUNING_<
+name: Tuner_tuning_<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8D 00 00 00
 #
-name: TUNING_<
+name: Tuning_<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8D 00 00 00
 #
-name: TUNE_DOWN
+name: Tune_down
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8D 00 00 00
 #
-name: SHIFT
+name: Shift
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8E 00 00 00
 #
-name: TUNER_+10
+name: Tuner_+10
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8E 00 00 00
 #
-name: GROUP_A
+name: Group_a
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8E 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8E 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8F 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8F 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -721,13 +721,13 @@ protocol: NECext
 address: 1A 00 00 00
 command: 90 00 00 00
 #
-name: TUNER_1
+name: Tuner_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 90 00 00 00
 #
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -745,13 +745,13 @@ protocol: NECext
 address: 1A 00 00 00
 command: 91 00 00 00
 #
-name: TUNER_2
+name: Tuner_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 91 00 00 00
 #
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -769,13 +769,13 @@ protocol: NECext
 address: 1A 00 00 00
 command: 92 00 00 00
 #
-name: TUNER_3
+name: Tuner_3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 92 00 00 00
 #
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -793,13 +793,13 @@ protocol: NECext
 address: 1A 00 00 00
 command: 93 00 00 00
 #
-name: TUNER_4
+name: Tuner_4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 93 00 00 00
 #
-name: PRESET_4
+name: Preset_4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -817,13 +817,13 @@ protocol: NECext
 address: 1A 00 00 00
 command: 94 00 00 00
 #
-name: TUNER_5
+name: Tuner_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 94 00 00 00
 #
-name: PRESET_5
+name: Preset_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -841,13 +841,13 @@ protocol: NECext
 address: 1A 00 00 00
 command: 95 00 00 00
 #
-name: TUNER_6
+name: Tuner_6
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 95 00 00 00
 #
-name: PRESET_6
+name: Preset_6
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -865,7 +865,7 @@ protocol: NECext
 address: 1A 00 00 00
 command: 96 00 00 00
 #
-name: TUNER_7
+name: Tuner_7
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -877,31 +877,31 @@ protocol: NECext
 address: 1A 00 00 00
 command: 96 00 00 00
 #
-name: TUNER_8
+name: Tuner_8
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 97 00 00 00
 #
-name: TUNER_9
+name: Tuner_9
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 98 00 00 00
 #
-name: GROUP_>
+name: Group_>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 99 00 00 00
 #
-name: TUNER_0
+name: Tuner_0
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 9A 00 00 00
 #
-name: GROUP_B
+name: Group_b
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -931,151 +931,151 @@ protocol: NECext
 address: 1A 00 00 00
 command: 9F 00 00 00
 #
-name: DYNAMIC_RANGE
+name: Dynamic_range
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C1 00 00 00
 #
-name: EXTERNAL_5.1
+name: External_5.1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C1 00 00 00
 #
-name: BACKS
+name: Backs
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C5 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C6 00 00 00
 #
-name: BALANCE
+name: Balance
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C7 00 00 00
 #
-name: DIM
+name: Dim
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: CA 00 00 00
 #
-name: ROOM_2
+name: Room_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: CB 00 00 00
 #
-name: P._SCAN
+name: P._scan
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: CC 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D1 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D1 00 00 00
 #
-name: MASTER_VOL_V
+name: Master_vol_v
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D1 00 00 00
 #
-name: LEVEL_-
+name: Level_-
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D1 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D1 00 00 00
 #
-name: SUB_^
+name: Sub_^
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D2 00 00 00
 #
-name: SEEK_/_TUNE
+name: Seek_/_tune
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D3 00 00 00
 #
-name: PRESET/TUNE
+name: Preset/tune
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D3 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D5 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D5 00 00 00
 #
-name: MASTER_VOL_^
+name: Master_vol_^
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D5 00 00 00
 #
-name: LEVEL_+
+name: Level_+
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D5 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D5 00 00 00
 #
-name: SUB_V
+name: Sub_v
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D6 00 00 00
 #
-name: ROOM_3
+name: Room_3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D7 00 00 00
 #
-name: GROUP_C
+name: Group_c
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D8 00 00 00
 #
-name: EXT._PROC
+name: Ext._proc
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

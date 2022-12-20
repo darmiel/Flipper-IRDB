@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 41 00 00 00
 #
-name: POWER_STANDBY
+name: Power_standby
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 42 00 00 00
 #
-name: KEYSTONE
+name: Keystone
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 43 00 00 00
 #
-name: SETTING_IRIS
+name: Setting_iris
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 54 00 00 00
 #
-name: INPUT_D-SUB
+name: Input_d-sub
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 60 00 00 00
 #
-name: INPUT_COMP
+name: Input_comp
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 64 00 00 00
 #
-name: INPUT_VIDEO
+name: Input_video
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 65 00 00 00
 #
-name: INPUT_S-VIDEO
+name: Input_s-video
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 66 00 00 00
 #
-name: INPUT_HDMI
+name: Input_hdmi
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 70 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 81 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 82 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 83 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 86 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 87 00 00 00
 #
-name: ASPECT_NORMAL
+name: Aspect_normal
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 91 00 00 00
 #
-name: ASPECT_SQUEEZE
+name: Aspect_squeeze
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 92 00 00 00
 #
-name: ASPECT_SMART_ZOOM
+name: Aspect_smart_zoom
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 95 00 00 00
 #
-name: HIDE
+name: Hide
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: A6 00 00 00
 #
-name: SETTING_CONTRAST
+name: Setting_contrast
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: D0 00 00 00
 #
-name: SETTING_BRIGHTNESS
+name: Setting_brightness
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: D1 00 00 00
 #
-name: SETTING_COLOR_TEMP
+name: Setting_color_temp
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: D4 00 00 00
 #
-name: ASPECT_TOGGLE
+name: Aspect_toggle
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: E2 00 00 00
 #
-name: MEMORY_1
+name: Memory_1
 type: parsed
 protocol: NECext
 address: F0 00 00 00

@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 06 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -43,61 +43,61 @@ protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1F 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 27 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2C 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2D 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2D 00 00 00
 #
-name: SkipAhead
+name: Skipahead
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -163,37 +163,37 @@ protocol: NECext
 address: 07 00 00 00
 command: 39 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3C 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 56 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 57 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 58 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 59 00 00 00
 #
-name: TvVid
+name: Tvvid
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -205,13 +205,13 @@ protocol: NECext
 address: 07 00 00 00
 command: C3 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: F4 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 07 00 00 00

@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 02 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 03 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 04 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 07 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 08 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0C 00 00 00
 #
-name: BTN_1
+name: Btn_1
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 10 00 00 00
 #
-name: BTN_2
+name: Btn_2
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 11 00 00 00
 #
-name: BTN_3
+name: Btn_3
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 12 00 00 00
 #
-name: BTN_4
+name: Btn_4
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 13 00 00 00
 #
-name: BTN_5
+name: Btn_5
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 14 00 00 00
 #
-name: BTN_6
+name: Btn_6
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 15 00 00 00
 #
-name: BTN_7
+name: Btn_7
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 16 00 00 00
 #
-name: BTN_8
+name: Btn_8
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 17 00 00 00
 #
-name: BTN_9
+name: Btn_9
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 18 00 00 00
 #
-name: BTN_0
+name: Btn_0
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 19 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

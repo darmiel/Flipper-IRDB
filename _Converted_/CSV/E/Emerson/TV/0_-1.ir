@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FC_SCAN
+name: Fc_scan
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: FC_MEMO
+name: Fc_memo
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: TV_/_CATV
+name: Tv_/_catv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: CHANNEL_-_PREVIOUS
+name: Channel_-_previous
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: CHANNEL_-_DOWN
+name: Channel_-_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: CHANNEL_-_UP
+name: Channel_-_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: VOL-_DOWN
+name: Vol-_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -109,49 +109,49 @@ protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: VOL-_UP
+name: Vol-_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: PC_MEMO
+name: Pc_memo
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: PC_SCAN
+name: Pc_scan
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: VOL-_MUTE
+name: Vol-_mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: MTS
+name: Mts
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00

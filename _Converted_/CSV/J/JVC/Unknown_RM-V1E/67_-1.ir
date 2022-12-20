@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 03 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 06 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0D 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 19 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 96 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 43 00 00 00

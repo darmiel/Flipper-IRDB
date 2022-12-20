@@ -61,175 +61,175 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: PSEL
+name: Psel
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: OFF2
+name: Off2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: BR+
+name: Br+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: BR-
+name: Br-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: BW+
+name: Bw+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: BW-
+name: Bw-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: PPREV
+name: Pprev
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: OFF1
+name: Off1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: OPT1
+name: Opt1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: OPT4
+name: Opt4
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: OPT3
+name: Opt3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2C 00 00 00
 #
-name: OPT2
+name: Opt2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: SPLIT
+name: Split
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: VT
+name: Vt
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: SCREEN
+name: Screen
 type: parsed
 protocol: NECext
 address: 00 00 00 00

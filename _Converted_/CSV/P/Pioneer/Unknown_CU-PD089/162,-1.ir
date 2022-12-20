@@ -61,193 +61,193 @@ protocol: NECext
 address: A2 00 00 00
 command: 09 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0C 00 00 00
 #
-name: PGM
+name: Pgm
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0D 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0E 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0F 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 10 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 11 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 16 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1C 00 00 00
 #
-name: DISK_+
+name: Disk_+
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1D 00 00 00
 #
-name: TRACK_SET
+name: Track_set
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 40 00 00 00
 #
-name: DISC_SET
+name: Disc_set
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 41 00 00 00
 #
-name: TIME/CHARA
+name: Time/chara
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 43 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 45 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 4A 00 00 00
 #
-name: HI-LITE
+name: Hi-lite
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 5E 00 00 00
 #
-name: DISK_-2
+name: Disk_-2
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 93 00 00 00
 #
-name: TITLE_DISPLAY2
+name: Title_display2
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 94 00 00 00
 #
-name: TITLE_INPUT2
+name: Title_input2
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 95 00 00 00
 #
-name: BEST2
+name: Best2
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 9B 00 00 00
 #
-name: CURSOR_right2
+name: Cursor_right2
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 9B 00 00 00
 #
-name: MODE2
+name: Mode2
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 9C 00 00 00
 #
-name: CURSOR_left2
+name: Cursor_left2
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 9C 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C1 00 00 00
 #
-name: TITLE_INPUT
+name: Title_input
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C1 00 00 00
 #
-name: DISK_-
+name: Disk_-
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C1 00 00 00
 #
-name: BEST
+name: Best
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C2 00 00 00
 #
-name: TITLE_DISPLAY
+name: Title_display
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C2 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C6 00 00 00
 #
-name: CURSOR_left
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C6 00 00 00
 #
-name: CURSOR_right
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: A2 00 00 00

@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VCR1
+name: Vcr1
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 81 00 00 00
 #
-name: VCR2
+name: Vcr2
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 82 00 00 00
 #
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 83 00 00 00
 #
-name: TV/DBS
+name: Tv/dbs
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 84 00 00 00
 #
-name: DVD/VCR3
+name: Dvd/vcr3
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 85 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 87 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 88 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 89 00 00 00
 #
-name: V-AUX
+name: V-aux
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 8A 00 00 00
 #
-name: MD/TAPE1
+name: Md/tape1
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 8B 00 00 00
 #
-name: TAPE_2_MONITOR
+name: Tape_2_monitor
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 8C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 8D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 8E 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 90 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 91 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: 94 00 00 00
 #
-name: EFFET_ON/OFF
+name: Effet_on/off
 type: parsed
 protocol: NECext
 address: 7D 00 00 00
 command: C1 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 7D 00 00 00

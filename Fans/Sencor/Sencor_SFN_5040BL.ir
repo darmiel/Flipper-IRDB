@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: ON_Speed
+name: On_speed
 type: parsed
 protocol: NECext
 address: 00 FC 00 00
 command: 84 7B 00 00
 # 
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 00 FC 00 00

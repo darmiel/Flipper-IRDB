@@ -61,127 +61,127 @@ protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: OSD_MENU
+name: Osd_menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0F 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1C 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1D 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 20 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 21 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 30 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 31 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 3B 00 00 00
 #
-name: SCREEN_MODE
+name: Screen_mode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4B 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4E 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 54 00 00 00
 #
-name: CURSER_UP
+name: Curser_up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 58 00 00 00
 #
-name: CURSER_DOWN
+name: Curser_down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 59 00 00 00
 #
-name: CURSER_LEFT
+name: Curser_left
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: CURSER_RIGHT
+name: Curser_right
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 83 00 00 00
 #
-name: T-C
+name: T-c
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: C8 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 04 00 00 00

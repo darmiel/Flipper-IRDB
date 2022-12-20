@@ -67,121 +67,121 @@ protocol: NECext
 address: 40 00 00 00
 command: 0A 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0C 00 00 00
 #
-name: tv/video
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: mts
+name: Mts
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 13 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 15 00 00 00
 #
-name: ent
+name: Ent
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1C 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1F 00 00 00
 #
-name: still
+name: Still
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4C 00 00 00
 #
-name: locate
+name: Locate
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4E 00 00 00
 #
-name: pip
+name: Pip
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 51 00 00 00
 #
-name: swap
+name: Swap
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 53 00 00 00
 #
-name: cap/text
+name: Cap/text
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 57 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: 40 00 00 00
 command: 63 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 00 00 00

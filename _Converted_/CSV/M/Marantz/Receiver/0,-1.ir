@@ -67,151 +67,151 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: TUNE/SEARCH_FWD
+name: Tune/search_fwd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: TUNE/SEARCH_BACK
+name: Tune/search_back
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: TV_VOLUME_UP
+name: Tv_volume_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: TV_VOLUME_DOWN
+name: Tv_volume_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: CHUP
+name: Chup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CH/SKIP_FWD
+name: Ch/skip_fwd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHAN_/_CAT_+
+name: Chan_/_cat_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHDOWN
+name: Chdown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: CH/SKIP_BACK
+name: Ch/skip_back
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: CHAN_/_CAT_-
+name: Chan_/_cat_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: INPUT/DISC+
+name: Input/disc+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: AMP
+name: Amp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT_-_TV
+name: Input_-_tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT:_TV
+name: Input:_tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: MENU_OFF
+name: Menu_off
 type: parsed
 protocol: NECext
 address: 00 00 00 00

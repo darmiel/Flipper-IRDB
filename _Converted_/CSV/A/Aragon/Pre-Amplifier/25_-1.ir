@@ -13,121 +13,121 @@ protocol: NECext
 address: 19 00 00 00
 command: 02 00 00 00
 #
-name: DTS_MODE:_MOVIE
+name: Dts_mode:_movie
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 03 00 00 00
 #
-name: DTS_MODE:_MUSIC
+name: Dts_mode:_music
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 04 00 00 00
 #
-name: EXIT_SETUP_MENU
+name: Exit_setup_menu
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 05 00 00 00
 #
-name: PL:_DIMENSION_-
+name: Pl:_dimension_-
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 11 00 00 00
 #
-name: PL:_DIMENSION_+
+name: Pl:_dimension_+
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 12 00 00 00
 #
-name: DD:_COMPR:_LOW
+name: Dd:_compr:_low
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 19 00 00 00
 #
-name: DD:_COMPR:_MEDIUM
+name: Dd:_compr:_medium
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1A 00 00 00
 #
-name: DD:_COMPR:_OFF
+name: Dd:_compr:_off
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1C 00 00 00
 #
-name: DD:_COMPR:_NIGHT
+name: Dd:_compr:_night
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1D 00 00 00
 #
-name: DISPLAY_ON
+name: Display_on
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1E 00 00 00
 #
-name: DISPLAY_OFF
+name: Display_off
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1F 00 00 00
 #
-name: LIGHT_ON
+name: Light_on
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: LIGHT_OFF
+name: Light_off
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 21 00 00 00
 #
-name: LIGHT_DIM
+name: Light_dim
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 22 00 00 00
 #
-name: THX:_ASA_MODE:MUSIC
+name: Thx:_asa_mode:music
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 24 00 00 00
 #
-name: THX:_ASA_MODE:OFF
+name: Thx:_asa_mode:off
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 25 00 00 00
 #
-name: THX:_EX_MODE:_ON
+name: Thx:_ex_mode:_on
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 26 00 00 00
 #
-name: THX:_EX_MODE:_OFF
+name: Thx:_ex_mode:_off
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 27 00 00 00
 #
-name: THX:_EX_MODE:_AUTO
+name: Thx:_ex_mode:_auto
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 28 00 00 00
 #
-name: THX:_ASA_MODE:CINEMA
+name: Thx:_asa_mode:cinema
 type: parsed
 protocol: NECext
 address: 19 00 00 00

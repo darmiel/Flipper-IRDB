@@ -10,7 +10,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: FF 00 00 00
 #
-name: TV/SAT
+name: Tv/sat
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 37 C8 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 57 A8 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: D7 28 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 17 E8 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 97 68 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -196,7 +196,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 4F B0 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -226,7 +226,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: E7 18 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 7F 80 00 00

@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 01 00 00 00
 #
-name: BK001_POWER_OFF
+name: Bk001_power_off
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 01 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 01 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 02 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 02 00 00 00
 #
-name: BK001_POWER_ON
+name: Bk001_power_on
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 02 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 03 00 00 00
 #
-name: 00_MUTE
+name: 00_mute
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 03 00 00 00
 #
-name: BK001_MUTE
+name: Bk001_mute
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -73,55 +73,55 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 05 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 05 00 00 00
 #
-name: BK001_V1
+name: Bk001_v1
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 05 00 00 00
 #
-name: INPUT_V1
+name: Input_v1
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 05 00 00 00
 #
-name: SOURCE_IN_1
+name: Source_in_1
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 05 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 06 00 00 00
 #
-name: BK001_TV
+name: Bk001_tv
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 06 00 00 00
 #
-name: INPUT_TV
+name: Input_tv
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 06 00 00 00
 #
-name: SOURCE_IN_3
+name: Source_in_3
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 06 00 00 00
 #
-name: SOURCE_IN_8
+name: Source_in_8
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -139,505 +139,505 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 09 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 09 00 00 00
 #
-name: BK001_V2
+name: Bk001_v2
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 09 00 00 00
 #
-name: INPUT_V2
+name: Input_v2
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 09 00 00 00
 #
-name: SOURCE_IN_2
+name: Source_in_2
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 09 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0B 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0B 00 00 00
 #
-name: BK001_TAPE
+name: Bk001_tape
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0B 00 00 00
 #
-name: INPUT_TAPE
+name: Input_tape
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0B 00 00 00
 #
-name: SOURCE_IN_7
+name: Source_in_7
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0B 00 00 00
 #
-name: VIDEO_HUE-
+name: Video_hue-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0C 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0D 00 00 00
 #
-name: BK001_DVD
+name: Bk001_dvd
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0D 00 00 00
 #
-name: INPUT_DVD
+name: Input_dvd
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0D 00 00 00
 #
-name: SOURCE_IN_4
+name: Source_in_4
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0D 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0E 00 00 00
 #
-name: INPUT_TUNER
+name: Input_tuner
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0E 00 00 00
 #
-name: SOURCE_TUNER
+name: Source_tuner
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0E 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0F 00 00 00
 #
-name: BK001_CD
+name: Bk001_cd
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0F 00 00 00
 #
-name: INPUT_CD
+name: Input_cd
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0F 00 00 00
 #
-name: SOURCE_IN_5
+name: Source_in_5
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 0F 00 00 00
 #
-name: VIDEO_RECORD
+name: Video_record
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 10 00 00 00
 #
-name: VIDEO_ZOOM_ASPECT
+name: Video_zoom_aspect
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 11 00 00 00
 #
-name: TUNER_FREQ_DIRECT
+name: Tuner_freq_direct
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 12 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 13 00 00 00
 #
-name: TUNER_BAND_TOGGLE
+name: Tuner_band_toggle
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 13 00 00 00
 #
-name: VIDEO_FORMAT_EDID
+name: Video_format_edid
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 14 00 00 00
 #
-name: CENTER_-
+name: Center_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 15 00 00 00
 #
-name: CENTER_--
+name: Center_--
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 15 00 00 00
 #
-name: CNTR_-
+name: Cntr_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 15 00 00 00
 #
-name: BK001_CENTER-
+name: Bk001_center-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 15 00 00 00
 #
-name: CENTER_DOWN
+name: Center_down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 15 00 00 00
 #
-name: AUDIO_CENTER-
+name: Audio_center-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 15 00 00 00
 #
-name: CENTER_+
+name: Center_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 16 00 00 00
 #
-name: CNTR_+
+name: Cntr_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 16 00 00 00
 #
-name: BK001_CENTER+
+name: Bk001_center+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 16 00 00 00
 #
-name: CENTER_UP
+name: Center_up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 16 00 00 00
 #
-name: AUDIO_CENTER+
+name: Audio_center+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 16 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 17 00 00 00
 #
-name: TUNER_STATION-
+name: Tuner_station-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 17 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 18 00 00 00
 #
-name: TUNER_STATION+
+name: Tuner_station+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 18 00 00 00
 #
-name: REAR_-
+name: Rear_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 19 00 00 00
 #
-name: BK001_REAR-
+name: Bk001_rear-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 19 00 00 00
 #
-name: REAR_DOWN
+name: Rear_down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 19 00 00 00
 #
-name: AUDIO_REAR-
+name: Audio_rear-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 19 00 00 00
 #
-name: REAR_+
+name: Rear_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1A 00 00 00
 #
-name: BK001_REAR+
+name: Bk001_rear+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1A 00 00 00
 #
-name: REAR_UP
+name: Rear_up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1A 00 00 00
 #
-name: AUDIO_REAR+
+name: Audio_rear+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1A 00 00 00
 #
-name: TUNE_-
+name: Tune_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1B 00 00 00
 #
-name: TUNER_TUNE-
+name: Tuner_tune-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1B 00 00 00
 #
-name: TUNE_+
+name: Tune_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1C 00 00 00
 #
-name: TUNER_TUNE+
+name: Tuner_tune+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1C 00 00 00
 #
-name: SUB_-
+name: Sub_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1D 00 00 00
 #
-name: BK001_SUB-
+name: Bk001_sub-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1D 00 00 00
 #
-name: SUB_DOWN
+name: Sub_down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1D 00 00 00
 #
-name: AUDIO_SUB-
+name: Audio_sub-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1D 00 00 00
 #
-name: SUB_+
+name: Sub_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1E 00 00 00
 #
-name: BK001_SUB+
+name: Bk001_sub+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1E 00 00 00
 #
-name: SUB_UP
+name: Sub_up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1E 00 00 00
 #
-name: AUDIO_SUB+
+name: Audio_sub+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1E 00 00 00
 #
-name: MENU_LEFT
+name: Menu_left
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1F 00 00 00
 #
-name: BK001_LEFT
+name: Bk001_left
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1F 00 00 00
 #
-name: BALANCE_L
+name: Balance_l
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 1F 00 00 00
 #
-name: MENU_RIGHT
+name: Menu_right
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 20 00 00 00
 #
-name: BK001_RIGHT
+name: Bk001_right
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 20 00 00 00
 #
-name: BALANCE_R
+name: Balance_r
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 20 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 20 00 00 00
 #
-name: DELAY_-
+name: Delay_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 21 00 00 00
 #
-name: DELAY_DOWN
+name: Delay_down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 21 00 00 00
 #
-name: DELAY_+
+name: Delay_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 22 00 00 00
 #
-name: DELAY_UP
+name: Delay_up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 22 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 23 00 00 00
 #
-name: 00_VOL-
+name: 00_vol-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 23 00 00 00
 #
-name: BK001_VOLUME-
+name: Bk001_volume-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 23 00 00 00
 #
-name: MASTER_VOLUME-
+name: Master_volume-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 23 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 24 00 00 00
 #
-name: 00_VOL+
+name: 00_vol+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 24 00 00 00
 #
-name: BK001_VOLUME+
+name: Bk001_volume+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 24 00 00 00
 #
-name: MASTER_VOLUME+
+name: Master_volume+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 24 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 25 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -649,127 +649,127 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 29 00 00 00
 #
-name: BK001_NUMBER_+10
+name: Bk001_number_+10
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 29 00 00 00
 #
-name: NUMBER_+10
+name: Number_+10
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 29 00 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2A 00 00 00
 #
-name: BK001_EQ
+name: Bk001_eq
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2A 00 00 00
 #
-name: AUDIO_EQ(STEP)
+name: Audio_eq(step)
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2A 00 00 00
 #
-name: DVD-A
+name: Dvd-a
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2B 00 00 00
 #
-name: BK001_DVD-AUDIO
+name: Bk001_dvd-audio
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2B 00 00 00
 #
-name: AUDIO_DVD_AUDIO_PCM
+name: Audio_dvd_audio_pcm
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2B 00 00 00
 #
-name: MENU_DOWN
+name: Menu_down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2D 00 00 00
 #
-name: BK001_DOWN
+name: Bk001_down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2D 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2D 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2D 00 00 00
 #
-name: MENU_UP
+name: Menu_up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2E 00 00 00
 #
-name: BK001_UP
+name: Bk001_up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2E 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2F 00 00 00
 #
-name: BK001_MENU
+name: Bk001_menu
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 2F 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 30 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 30 00 00 00
 #
-name: BK001_ENTER/SELECT
+name: Bk001_enter/select
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -781,13 +781,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 31 00 00 00
 #
-name: BK001_NUMBER_1
+name: Bk001_number_1
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 31 00 00 00
 #
-name: NUMBER_1
+name: Number_1
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -799,13 +799,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 32 00 00 00
 #
-name: BK001_NUMBER_2
+name: Bk001_number_2
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 32 00 00 00
 #
-name: NUMBER_2
+name: Number_2
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -817,19 +817,19 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 33 00 00 00
 #
-name: BK001_NUMBER_3
+name: Bk001_number_3
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 33 00 00 00
 #
-name: NUMBER_3
+name: Number_3
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 33 00 00 00
 #
-name: VIDEO_CONTRAST-
+name: Video_contrast-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -841,13 +841,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 35 00 00 00
 #
-name: BK001_NUMBER_4
+name: Bk001_number_4
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 35 00 00 00
 #
-name: NUMBER_4
+name: Number_4
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -859,13 +859,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 36 00 00 00
 #
-name: BK001_NUMBER_5
+name: Bk001_number_5
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 36 00 00 00
 #
-name: NUMBER_5
+name: Number_5
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -877,13 +877,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 37 00 00 00
 #
-name: BK001_NUMBER_6
+name: Bk001_number_6
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 37 00 00 00
 #
-name: NUMBER_6
+name: Number_6
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -895,13 +895,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 39 00 00 00
 #
-name: BK001_NUMBER_7
+name: Bk001_number_7
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 39 00 00 00
 #
-name: NUMBER_7
+name: Number_7
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -913,13 +913,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 3A 00 00 00
 #
-name: BK001_NUMBER_8
+name: Bk001_number_8
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 3A 00 00 00
 #
-name: NUMBER_8
+name: Number_8
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -937,13 +937,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 3B 00 00 00
 #
-name: BK001_NUMBER_9
+name: Bk001_number_9
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 3B 00 00 00
 #
-name: NUMBER_9
+name: Number_9
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -961,13 +961,13 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 3E 00 00 00
 #
-name: BK001_NUMBER_0
+name: Bk001_number_0
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 3E 00 00 00
 #
-name: NUMBER_0
+name: Number_0
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
@@ -979,787 +979,787 @@ protocol: NECext
 address: 1B 4E 00 00
 command: 3F 00 00 00
 #
-name: BK001_Z
+name: Bk001_z
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 3F 00 00 00
 #
-name: SAVE
+name: Save
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 40 00 00 00
 #
-name: BK001_SAVE
+name: Bk001_save
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 40 00 00 00
 #
-name: AUDIO_SAVE
+name: Audio_save
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 40 00 00 00
 #
-name: TUNER_SAVE
+name: Tuner_save
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 40 00 00 00
 #
-name: VIDEO_SAVE
+name: Video_save
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 40 00 00 00
 #
-name: VIDEO_BLOCK_NR
+name: Video_block_nr
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 41 00 00 00
 #
-name: VIDEO_STRETCH+
+name: Video_stretch+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 45 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4A 00 00 00
 #
-name: BK001_SAT
+name: Bk001_sat
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4A 00 00 00
 #
-name: INPUT_SAT
+name: Input_sat
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4A 00 00 00
 #
-name: SOURCE_IN_6
+name: Source_in_6
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4A 00 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4B 00 00 00
 #
-name: BK001_PRESET+
+name: Bk001_preset+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4B 00 00 00
 #
-name: VIDEO_SHARP-
+name: Video_sharp-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4C 00 00 00
 #
-name: PAN_+
+name: Pan_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4E 00 00 00
 #
-name: BK001_PANORAMA+
+name: Bk001_panorama+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 4E 00 00 00
 #
-name: VIDEO_STRETCH_2.35
+name: Video_stretch_2.35
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 51 00 00 00
 #
-name: BK001_INFO
+name: Bk001_info
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 53 00 00 00
 #
-name: INFORMATION
+name: Information
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 53 00 00 00
 #
-name: VIDEO_BRIGHT-
+name: Video_bright-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 54 00 00 00
 #
-name: VIDEO_CONTROL_OFF
+name: Video_control_off
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 56 00 00 00
 #
-name: SOURCE_IN_11
+name: Source_in_11
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 57 00 00 00
 #
-name: VIDEO_ZOOM+
+name: Video_zoom+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 59 00 00 00
 #
-name: VIDEO_DETAIL-
+name: Video_detail-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 5E 00 00 00
 #
-name: VIDEO_LUMA_TRANSIENT
+name: Video_luma_transient
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 61 00 00 00
 #
-name: BASS_--
+name: Bass_--
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 65 00 00 00
 #
-name: BASS_-
+name: Bass_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 65 00 00 00
 #
-name: BK001_BASS-
+name: Bk001_bass-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 65 00 00 00
 #
-name: AUDIO_BASS-
+name: Audio_bass-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 65 00 00 00
 #
-name: DPL
+name: Dpl
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 6A 00 00 00
 #
-name: BK001_GAME
+name: Bk001_game
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 6A 00 00 00
 #
-name: AUDIO_DOLBY_GAME
+name: Audio_dolby_game
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 6A 00 00 00
 #
-name: SOURCE_IN_9
+name: Source_in_9
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 6E 00 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 72 00 00 00
 #
-name: MOVIE_PG_3
+name: Movie_pg_3
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 72 00 00 00
 #
-name: BK001_MOVIE
+name: Bk001_movie
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 72 00 00 00
 #
-name: AUDIO_MOVIE
+name: Audio_movie
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 72 00 00 00
 #
-name: TUNER_PREVIOUS
+name: Tuner_previous
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 73 00 00 00
 #
-name: VIDEO_COLOR-
+name: Video_color-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 74 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 76 00 00 00
 #
-name: BK001_AM
+name: Bk001_am
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 76 00 00 00
 #
-name: TUNER_AM_BAND
+name: Tuner_am_band
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 76 00 00 00
 #
-name: SOURCE_IN_14
+name: Source_in_14
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 77 00 00 00
 #
-name: TREBLE_-
+name: Treble_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 79 00 00 00
 #
-name: TREB_-
+name: Treb_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 79 00 00 00
 #
-name: BK001_TREBLE-
+name: Bk001_treble-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 79 00 00 00
 #
-name: AUDIO_TREBLE-
+name: Audio_treble-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 79 00 00 00
 #
-name: VIDEO_SOURCE-
+name: Video_source-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 7A 00 00 00
 #
-name: BK001_EXIT
+name: Bk001_exit
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 7D 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 7D 00 00 00
 #
-name: VIDEO_MOSQUITO_NR
+name: Video_mosquito_nr
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 7E 00 00 00
 #
-name: DIM_+
+name: Dim_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 81 00 00 00
 #
-name: BK001_DIMENSION+
+name: Bk001_dimension+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 81 00 00 00
 #
-name: VIDEO_STRETCH-
+name: Video_stretch-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 85 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8A 00 00 00
 #
-name: BK001_CINEMA
+name: Bk001_cinema
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8A 00 00 00
 #
-name: AUDIO_CINEMA
+name: Audio_cinema
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8A 00 00 00
 #
-name: VIDEO_SHARP+
+name: Video_sharp+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8C 00 00 00
 #
-name: VIDEO_PREFERENCE
+name: Video_preference
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8D 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8E 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8E 00 00 00
 #
-name: BK001_FM
+name: Bk001_fm
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8E 00 00 00
 #
-name: TUNER_FM_BAND
+name: Tuner_fm_band
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 8E 00 00 00
 #
-name: VIDEO_PILLAR_BOX_ASP
+name: Video_pillar_box_asp
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 91 00 00 00
 #
-name: VIDEO_BRIGHT+
+name: Video_bright+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 94 00 00 00
 #
-name: SOURCE_IN_10
+name: Source_in_10
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 97 00 00 00
 #
-name: VIDEO_ZOOM-
+name: Video_zoom-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 99 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 9A 00 00 00
 #
-name: BK001_MONO
+name: Bk001_mono
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 9A 00 00 00
 #
-name: AUDIO_MONO
+name: Audio_mono
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 9A 00 00 00
 #
-name: VIDEO_WIDE_ASPECT
+name: Video_wide_aspect
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 9C 00 00 00
 #
-name: IMG_+
+name: Img_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 9E 00 00 00
 #
-name: BK001_IMAGE+
+name: Bk001_image+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: 9E 00 00 00
 #
-name: VIDEO_CHROMA_ENHANCE
+name: Video_chroma_enhance
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: A1 00 00 00
 #
-name: TUNER_SEEK+
+name: Tuner_seek+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: A5 00 00 00
 #
-name: NEO:6
+name: Neo:6
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: AA 00 00 00
 #
-name: NEO_6
+name: Neo_6
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: AA 00 00 00
 #
-name: BK001_NEO:6
+name: Bk001_neo:6
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: AA 00 00 00
 #
-name: AUDIO_DTS_NEO:6
+name: Audio_dts_neo:6
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: AA 00 00 00
 #
-name: VIDEO_LIP_SYNC+
+name: Video_lip_sync+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B1 00 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B2 00 00 00
 #
-name: MUSIC_PG_3
+name: Music_pg_3
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B2 00 00 00
 #
-name: BK001_MUSIC
+name: Bk001_music
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B2 00 00 00
 #
-name: AUDIO_MUSIC
+name: Audio_music
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B2 00 00 00
 #
-name: BK001_SLEEP
+name: Bk001_sleep
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B3 00 00 00
 #
-name: VIDEO_SLEEP_TIMER
+name: Video_sleep_timer
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B3 00 00 00
 #
-name: VIDEO_COLOR+
+name: Video_color+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B4 00 00 00
 #
-name: SOURCE_IN_13
+name: Source_in_13
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: B7 00 00 00
 #
-name: AUDIO_SOURCE+
+name: Audio_source+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: BA 00 00 00
 #
-name: VIDEO_TEMPORAL_NR
+name: Video_temporal_nr
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: BE 00 00 00
 #
-name: TUNER_GUIDE
+name: Tuner_guide
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: C3 00 00 00
 #
-name: TUNER_SEEK-
+name: Tuner_seek-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: C5 00 00 00
 #
-name: BK001_PRESET-
+name: Bk001_preset-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: C6 00 00 00
 #
-name: SURR
+name: Surr
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: CA 00 00 00
 #
-name: BK001_SURROUND
+name: Bk001_surround
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: CA 00 00 00
 #
-name: PAN_-
+name: Pan_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: CE 00 00 00
 #
-name: BK001_PANORAMA-
+name: Bk001_panorama-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: CE 00 00 00
 #
-name: VIDEO_LIP_SYNC-
+name: Video_lip_sync-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: D1 00 00 00
 #
-name: AUDIO_LAST_INPUT
+name: Audio_last_input
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: D3 00 00 00
 #
-name: VIDEO_CONTRAST+
+name: Video_contrast+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: D4 00 00 00
 #
-name: VIDEO_CONTROL_ON
+name: Video_control_on
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: D6 00 00 00
 #
-name: SOURCE_IN_12
+name: Source_in_12
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: D7 00 00 00
 #
-name: AUDIO_SOURCE-
+name: Audio_source-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: DA 00 00 00
 #
-name: VIDEO_DETAIL+
+name: Video_detail+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: DE 00 00 00
 #
-name: VIDEO_ASPECT(STEP)
+name: Video_aspect(step)
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: E1 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: E2 00 00 00
 #
-name: BK001_STEREO
+name: Bk001_stereo
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: E2 00 00 00
 #
-name: AUDIO_STEREO
+name: Audio_stereo
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: E2 00 00 00
 #
-name: BASS_+
+name: Bass_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: E5 00 00 00
 #
-name: BK001_BASS+
+name: Bk001_bass+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: E5 00 00 00
 #
-name: AUDIO_BASS+
+name: Audio_bass+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: E5 00 00 00
 #
-name: DPLII
+name: Dplii
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EA 00 00 00
 #
-name: DPL_II
+name: Dpl_ii
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EA 00 00 00
 #
-name: BK001_PRO_LOGIC_IIX
+name: Bk001_pro_logic_iix
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EA 00 00 00
 #
-name: AUDIO_DOLBY_PLIIX
+name: Audio_dolby_pliix
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EA 00 00 00
 #
-name: TUNER_STEREO_MONO
+name: Tuner_stereo_mono
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EB 00 00 00
 #
-name: VIDEO_NO_ASPECT
+name: Video_no_aspect
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EC 00 00 00
 #
-name: IMG_--
+name: Img_--
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EE 00 00 00
 #
-name: IMG_-
+name: Img_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EE 00 00 00
 #
-name: BK001_IMAGE-
+name: Bk001_image-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: EE 00 00 00
 #
-name: VIDEO_HUE+
+name: Video_hue+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: F4 00 00 00
 #
-name: AUDIO_PREFERENCE
+name: Audio_preference
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: F5 00 00 00
 #
-name: TREBLE_+
+name: Treble_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: F9 00 00 00
 #
-name: TREB_+
+name: Treb_+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: F9 00 00 00
 #
-name: BK001_TREBLE+
+name: Bk001_treble+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: F9 00 00 00
 #
-name: AUDIO_TREBLE+
+name: Audio_treble+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: F9 00 00 00
 #
-name: VIDEO_SOURCE+
+name: Video_source+
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: FA 00 00 00
 #
-name: DIM_--
+name: Dim_--
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: FE 00 00 00
 #
-name: DIM_-
+name: Dim_-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00
 command: FE 00 00 00
 #
-name: BK001_DIMENSION-
+name: Bk001_dimension-
 type: parsed
 protocol: NECext
 address: 1B 4E 00 00

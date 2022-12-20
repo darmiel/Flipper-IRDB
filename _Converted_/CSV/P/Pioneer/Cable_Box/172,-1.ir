@@ -61,55 +61,55 @@ protocol: NECext
 address: AC 00 00 00
 command: 09 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 0B 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 0C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 0D 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 0E 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 10 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 11 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: AC 00 00 00
@@ -121,19 +121,19 @@ protocol: NECext
 address: AC 00 00 00
 command: 15 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 1D 00 00 00
 #
-name: C/R
+name: C/r
 type: parsed
 protocol: NECext
 address: AC 00 00 00
 command: 1E 00 00 00
 #
-name: AUTH
+name: Auth
 type: parsed
 protocol: NECext
 address: AC 00 00 00

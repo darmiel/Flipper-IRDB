@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RELAY_1_ON
+name: Relay_1_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: RELAY_2_ON
+name: Relay_2_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: RELAY_3_ON
+name: Relay_3_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: RELAY_4_ON
+name: Relay_4_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: RELAY_5_ON
+name: Relay_5_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: RELAY_6_ON
+name: Relay_6_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: LOOP_ON/OFF
+name: Loop_on/off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: FLAT
+name: Flat
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: ZONE_GROUPING_ON/OFF
+name: Zone_grouping_on/off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: WHOLE_HOUSE_ON/OFF
+name: Whole_house_on/off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: RELAY_1_OFF
+name: Relay_1_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 21 00 00 00
 #
-name: RELAY_2_OFF
+name: Relay_2_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 22 00 00 00
 #
-name: RELAY_3_OFF
+name: Relay_3_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 23 00 00 00
 #
-name: RELAY_4_OFF
+name: Relay_4_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 24 00 00 00
 #
-name: RELAY_5_OFF
+name: Relay_5_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 25 00 00 00
 #
-name: RELAY_6_OFF
+name: Relay_6_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00

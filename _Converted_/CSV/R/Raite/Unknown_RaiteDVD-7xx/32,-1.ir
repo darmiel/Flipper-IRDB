@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Vocal-Assist
+name: Vocal-assist
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 01 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 03 00 00 00
 #
-name: Menu/Return
+name: Menu/return
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 11 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -97,79 +97,79 @@ protocol: NECext
 address: 20 00 00 00
 command: 13 00 00 00
 #
-name: Repeat_1/All
+name: Repeat_1/all
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 15 00 00 00
 #
-name: LANGUAGE
+name: Language
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 16 00 00 00
 #
-name: Repeat_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 17 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 18 00 00 00
 #
-name: Skip_B
+name: Skip_b
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 19 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1A 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1B 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1D 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1E 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1F 00 00 00
 #
-name: Title/Digest
+name: Title/digest
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -181,13 +181,13 @@ protocol: NECext
 address: 20 00 00 00
 command: 41 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 44 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -199,37 +199,37 @@ protocol: NECext
 address: 20 00 00 00
 command: 49 00 00 00
 #
-name: PBC
+name: Pbc
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 4C 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 4D 00 00 00
 #
-name: T/C_Search
+name: T/c_search
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 50 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 51 00 00 00
 #
-name: Angle/Clear
+name: Angle/clear
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 54 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -241,19 +241,19 @@ protocol: NECext
 address: 20 00 00 00
 command: 58 00 00 00
 #
-name: Skip_F
+name: Skip_f
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 59 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 5C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 20 00 00 00

@@ -1,457 +1,457 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BALANCE_FRONT
+name: Balance_front
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 41 00 00 00
 #
-name: BALANCE_RIGHT
+name: Balance_right
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 42 00 00 00
 #
-name: REAR_DELAY_+
+name: Rear_delay_+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 43 00 00 00
 #
-name: PARAM_+
+name: Param_+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 44 00 00 00
 #
-name: BALANCE_REAR
+name: Balance_rear
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 45 00 00 00
 #
-name: BALANCE_LEFT
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 46 00 00 00
 #
-name: REAR_DELAY_-
+name: Rear_delay_-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 47 00 00 00
 #
-name: PARAM_-
+name: Param_-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 48 00 00 00
 #
-name: MONO_LOGIC
+name: Mono_logic
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 4C 00 00 00
 #
-name: MUSIC_LOGIC
+name: Music_logic
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 50 00 00 00
 #
-name: DOLBY_PRO-LOGIC
+name: Dolby_pro-logic
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 54 00 00 00
 #
-name: MUTE_MAIN
+name: Mute_main
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 55 00 00 00
 #
-name: MUTE_SURROUND
+name: Mute_surround
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 56 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 57 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 58 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 83 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 84 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 87 00 00 00
 #
-name: POWER-SIMPLE_REMOTE
+name: Power-simple_remote
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 88 00 00 00
 #
-name: PANORAMA_NORMAL_1
+name: Panorama_normal_1
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 89 00 00 00
 #
-name: PANORAMA_WIDE_2
+name: Panorama_wide_2
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8A 00 00 00
 #
-name: PANORAMA_BINAURAL_3
+name: Panorama_binaural_3
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8B 00 00 00
 #
-name: BANK
+name: Bank
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8C 00 00 00
 #
-name: AMBIENCE_SMALL_4
+name: Ambience_small_4
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8D 00 00 00
 #
-name: AMBIENCE_MEDIUM_5
+name: Ambience_medium_5
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8E 00 00 00
 #
-name: AMBIENCE_LARGE_6
+name: Ambience_large_6
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8F 00 00 00
 #
-name: PARAM
+name: Param
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 90 00 00 00
 #
-name: REVERB_SMALL_7
+name: Reverb_small_7
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 91 00 00 00
 #
-name: REVERB_MEDIUM_8
+name: Reverb_medium_8
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 92 00 00 00
 #
-name: REVERB_LARGE_9
+name: Reverb_large_9
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 93 00 00 00
 #
-name: PARAM_+
+name: Param_+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 94 00 00 00
 #
-name: SURROUND_TV_10
+name: Surround_tv_10
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 95 00 00 00
 #
-name: SURROUND_MUSIC_11
+name: Surround_music_11
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 96 00 00 00
 #
-name: SURROUND_FULL_12
+name: Surround_full_12
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 97 00 00 00
 #
-name: PARAM_-
+name: Param_-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 98 00 00 00
 #
-name: SURROUND_MONO_13
+name: Surround_mono_13
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 99 00 00 00
 #
-name: SURROUND_DOLBY_14
+name: Surround_dolby_14
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 9A 00 00 00
 #
-name: SURROUND_THX_15
+name: Surround_thx_15
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 9B 00 00 00
 #
-name: BALANCE_FRONT
+name: Balance_front
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 9E 00 00 00
 #
-name: BALANCE_LEFT
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A1 00 00 00
 #
-name: BALANCE_RIGHT
+name: Balance_right
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A3 00 00 00
 #
-name: BALANCE_REAR
+name: Balance_rear
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A6 00 00 00
 #
-name: EFFECT_-
+name: Effect_-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A9 00 00 00
 #
-name: EFFECT_+
+name: Effect_+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AA 00 00 00
 #
-name: MUTE_EFFECT
+name: Mute_effect
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AB 00 00 00
 #
-name: MUTE_MAIN
+name: Mute_main
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AC 00 00 00
 #
-name: INPUT_1
+name: Input_1
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AD 00 00 00
 #
-name: INPUT_2
+name: Input_2
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AE 00 00 00
 #
-name: INPUT_3
+name: Input_3
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AF 00 00 00
 #
-name: INPUT_4
+name: Input_4
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: B0 00 00 00
 #
-name: PANORAMA_NORMAL_1
+name: Panorama_normal_1
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: C2 00 00 00
 #
-name: PANORAMA_WIDE_2
+name: Panorama_wide_2
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: C3 00 00 00
 #
-name: PANORAMA_BINAURAL_3
+name: Panorama_binaural_3
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: C4 00 00 00
 #
-name: BANK
+name: Bank
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: C5 00 00 00
 #
-name: AMBIENCE_SMALL_4
+name: Ambience_small_4
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: C6 00 00 00
 #
-name: AMBIENCE_MEDIUM_5
+name: Ambience_medium_5
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: C7 00 00 00
 #
-name: AMBIENCE_LARGE_6
+name: Ambience_large_6
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: C8 00 00 00
 #
-name: PARAM
+name: Param
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: C9 00 00 00
 #
-name: REVERB_SMALL_7
+name: Reverb_small_7
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: CA 00 00 00
 #
-name: REVERB_MEDIUM_8
+name: Reverb_medium_8
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: CB 00 00 00
 #
-name: REVERB_LARGE_9
+name: Reverb_large_9
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: CC 00 00 00
 #
-name: PARAM_+
+name: Param_+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: CD 00 00 00
 #
-name: MUTE_EFFECT
+name: Mute_effect
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: D0 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: D2 00 00 00
 #
-name: EFFECT_-
+name: Effect_-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: D3 00 00 00
 #
-name: BALANCE_REAR
+name: Balance_rear
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: D4 00 00 00
 #
-name: BALANCE_LEFT
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: D5 00 00 00
 #
-name: PARAM_-
+name: Param_-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: D7 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: D8 00 00 00
 #
-name: BALANCE_RIGHT
+name: Balance_right
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: D9 00 00 00
 #
-name: BALANCE_FRONT
+name: Balance_front
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: DA 00 00 00
 #
-name: EFFECT_+
+name: Effect_+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: DB 00 00 00
 #
-name: SURROUND_MONO_10
+name: Surround_mono_10
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: DC 00 00 00
 #
-name: SURROUND_STEREO_11
+name: Surround_stereo_11
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: DD 00 00 00
 #
-name: SURROUND_DOLBY_12
+name: Surround_dolby_12
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: DE 00 00 00
 #
-name: MUTE_SYTEM
+name: Mute_sytem
 type: parsed
 protocol: NECext
 address: 1C 00 00 00

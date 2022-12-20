@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 73 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 74 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 75 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 75 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 77 00 00 00
 #
-name: 0_-_DVI_2
+name: 0_-_dvi_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 7C 00 00 00
 #
-name: 1_-_COMPOSITE_1
+name: 1_-_composite_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 7D 00 00 00
 #
-name: 2_-_COMPOSITE_2
+name: 2_-_composite_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 7E 00 00 00
 #
-name: 3_-_S-VIDEO_1
+name: 3_-_s-video_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 7F 00 00 00
 #
-name: 4_-_S-VIDEO_2
+name: 4_-_s-video_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 80 00 00 00
 #
-name: 5_-_COMPONENT_1
+name: 5_-_component_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 81 00 00 00
 #
-name: 6_-_COMPONENT_2
+name: 6_-_component_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 82 00 00 00
 #
-name: 7_-_RGB_1
+name: 7_-_rgb_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 83 00 00 00
 #
-name: 8_-_RGB_2
+name: 8_-_rgb_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 84 00 00 00
 #
-name: 9_-_DVI_1
+name: 9_-_dvi_1
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 85 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 87 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8A 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8B 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8C 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # No-Touch Thermometer 
 #
-name: Take_Temp
+name: Take_temp
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

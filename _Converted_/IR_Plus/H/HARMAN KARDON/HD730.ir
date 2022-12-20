@@ -64,103 +64,103 @@ protocol: NECext
 address: 52 C1 00 00
 command: 57 A8 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: F7 08 00 00
 #
-name: PROG/REV
+name: Prog/rev
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 97 68 00 00
 #
-name: TAPE SIZE
+name: Tape_size
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 17 E8 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 8F 70 00 00
 #
-name: REPEAT 1/ALL
+name: Repeat_1/all
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: CF 30 00 00
 #
-name: REPEAT A/B
+name: Repeat_a/b
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 4F B0 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 77 88 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: AF 50 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: B7 48 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 0F F0 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: DF 20 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 5F A0 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 2F D0 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 1F E0 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: FF 00 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 52 C1 00 00
 command: 7F 80 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 52 C1 00 00

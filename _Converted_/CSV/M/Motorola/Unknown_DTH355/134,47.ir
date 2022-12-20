@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
@@ -13,25 +13,25 @@ protocol: NECext
 address: 86 2F 00 00
 command: 02 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 04 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 07 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 09 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 86 2F 00 00
 command: 0E 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 10 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 86 2F 00 00
 command: 14 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
@@ -109,79 +109,79 @@ protocol: NECext
 address: 86 2F 00 00
 command: 19 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 1B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 1E 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 1F 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 82 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 86 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 88 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 8B 00 00 00
 #
-name: question
+name: Question
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 8F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 91 00 00 00
 #
-name: interactive
+name: Interactive
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 93 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 86 2F 00 00
 command: 9C 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 86 2F 00 00

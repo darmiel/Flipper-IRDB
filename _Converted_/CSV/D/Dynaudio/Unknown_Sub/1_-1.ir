@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 0Hz
+name: 0hz
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: 0Hz
+name: 0hz
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: 0Hz
+name: 0hz
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: ExtOff
+name: Extoff
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: ExtOn
+name: Exton
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: PresetB
+name: Presetb
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -67,19 +67,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 1E 00 00 00
 #
-name: PresetD
+name: Presetd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 23 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2A 00 00 00
 #
-name: PresetC
+name: Presetc
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 38 00 00 00
 #
-name: PresetA
+name: Preseta
 type: parsed
 protocol: NECext
 address: 01 00 00 00

@@ -61,31 +61,31 @@ protocol: NECext
 address: 86 6B 00 00
 command: 09 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0A 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0C 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -103,97 +103,97 @@ protocol: NECext
 address: 86 6B 00 00
 command: 10 00 00 00
 #
-name: T-Shift
+name: T-shift
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 11 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 12 00 00 00
 #
-name: MTS
+name: Mts
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 14 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 15 00 00 00
 #
-name: skip-fr
+name: Skip-fr
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 16 00 00 00
 #
-name: Ch.RTN.
+name: Ch.rtn.
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 17 00 00 00
 #
-name: skip-ff
+name: Skip-ff
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 18 00 00 00
 #
-name: mem.set
+name: Mem.set
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 19 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1B 00 00 00
 #
-name: eq
+name: Eq
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1C 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1D 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1F 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 86 6B 00 00

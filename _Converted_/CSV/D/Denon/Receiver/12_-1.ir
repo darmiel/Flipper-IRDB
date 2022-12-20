@@ -49,739 +49,739 @@ protocol: NECext
 address: 0C 00 00 00
 command: 49 00 00 00
 #
-name: SHIFT
+name: Shift
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4A 00 00 00
 #
-name: MUTING_/_MUTE_TOGGLE
+name: Muting_/_mute_toggle
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4B 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4C 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4D 00 00 00
 #
-name: PRESET_CHANNEL_UP
+name: Preset_channel_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4E 00 00 00
 #
-name: PRESET_CHANNEL_DOWN
+name: Preset_channel_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4F 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 50 00 00 00
 #
-name: INPUT_VCR1
+name: Input_vcr1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 52 00 00 00
 #
-name: INPUT_VIDEO1
+name: Input_video1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 53 00 00 00
 #
-name: INPUT_DVD/VDP
+name: Input_dvd/vdp
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 54 00 00 00
 #
-name: INPUT_VCR2
+name: Input_vcr2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 57 00 00 00
 #
-name: INPUT_PHONO
+name: Input_phono
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 58 00 00 00
 #
-name: INPUT_TUNER
+name: Input_tuner
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 59 00 00 00
 #
-name: INPUT_CD
+name: Input_cd
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5A 00 00 00
 #
-name: INPUT_V.AUX
+name: Input_v.aux
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5B 00 00 00
 #
-name: INPUT_CDR/TAPE
+name: Input_cdr/tape
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5C 00 00 00
 #
-name: INPUT_DAT/TAPE1
+name: Input_dat/tape1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5D 00 00 00
 #
-name: INPUT_DAT/TAPE2
+name: Input_dat/tape2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5E 00 00 00
 #
-name: VIDEO_SELECT
+name: Video_select
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 62 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 68 00 00 00
 #
-name: SPEAKER_B
+name: Speaker_b
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 69 00 00 00
 #
-name: SPEAKER_A
+name: Speaker_a
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 6A 00 00 00
 #
-name: CENTER_UP
+name: Center_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 6B 00 00 00
 #
-name: CENTER_DOWN
+name: Center_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 6C 00 00 00
 #
-name: REAR_UP
+name: Rear_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 6D 00 00 00
 #
-name: REAR_DOWN
+name: Rear_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 6E 00 00 00
 #
-name: CENTER
+name: Center
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 70 00 00 00
 #
-name: REAR
+name: Rear
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 71 00 00 00
 #
-name: DBS/BS
+name: Dbs/bs
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 73 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 74 00 00 00
 #
-name: AUDIO_MULTI
+name: Audio_multi
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 75 00 00 00
 #
-name: DELAY_UP
+name: Delay_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 77 00 00 00
 #
-name: DELAY_DOWN
+name: Delay_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 78 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 79 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7A 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7B 00 00 00
 #
-name: 3CH.LOGIC
+name: 3ch.logic
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7C 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7D 00 00 00
 #
-name: STATUS_/_OSD_/_PANEL
+name: Status_/_osd_/_panel
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7E 00 00 00
 #
-name: CURSOR/ARROW_LEFT
+name: Cursor/arrow_left
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7F 00 00 00
 #
-name: LEVEL_ALL_BASS_DOWN
+name: Level_all_bass_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 80 00 00 00
 #
-name: SURROUND_MODE_DTS
+name: Surround_mode_dts
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 81 00 00 00
 #
-name: SB_SPEAKER_TOGGLE_ON/OFF
+name: Sb_speaker_toggle_on/off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 82 00 00 00
 #
-name: VOLUME_PRESET_1_(0DB)
+name: Volume_preset_1_(0db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 83 00 00 00
 #
-name: VOLUME_PRESET_2_(-20DB)
+name: Volume_preset_2_(-20db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 85 00 00 00
 #
-name: VOLUME_PRESET_3_(-40DB)
+name: Volume_preset_3_(-40db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 86 00 00 00
 #
-name: ZONE2_VOLUME_PRESET_1_(0DB)
+name: Zone2_volume_preset_1_(0db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 87 00 00 00
 #
-name: ZONE2_VOLUME_PRESET_2_(-20DB)
+name: Zone2_volume_preset_2_(-20db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 88 00 00 00
 #
-name: ZONE2_VOLUME_PRESET_3_(-40DB)
+name: Zone2_volume_preset_3_(-40db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 89 00 00 00
 #
-name: ZONE2_DBS/SAT/CABLE
+name: Zone2_dbs/sat/cable
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8A 00 00 00
 #
-name: SURROUND_MODE_HOME_THX_CINEMA
+name: Surround_mode_home_thx_cinema
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8B 00 00 00
 #
-name: ZONE3_VOLUME_PRESET_1_(0DB)
+name: Zone3_volume_preset_1_(0db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8C 00 00 00
 #
-name: ZONE2_VOLUME_UP
+name: Zone2_volume_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8D 00 00 00
 #
-name: ZONE2_VOLUME_DOWN
+name: Zone2_volume_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8E 00 00 00
 #
-name: ZONE2_INPUT_PHONO
+name: Zone2_input_phono
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8F 00 00 00
 #
-name: ZONE2_INPUT_CD/IPOD
+name: Zone2_input_cd/ipod
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 90 00 00 00
 #
-name: ZONE2_INPUT_TUNER/HD_RADIO
+name: Zone2_input_tuner/hd_radio
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 91 00 00 00
 #
-name: ZONE2_INPUT_BD/HDP/DVD/VDP
+name: Zone2_input_bd/hdp/dvd/vdp
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 92 00 00 00
 #
-name: ZONE2_INPUT_V.AUX
+name: Zone2_input_v.aux
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 93 00 00 00
 #
-name: ZONE2_INPUT_GAME/VCR1
+name: Zone2_input_game/vcr1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 94 00 00 00
 #
-name: ZONE2_INPUT_CDR/TAPE2
+name: Zone2_input_cdr/tape2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 95 00 00 00
 #
-name: ZONE2_MULTI_PRESET_UP
+name: Zone2_multi_preset_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 96 00 00 00
 #
-name: ZONE2_MULTI_PRESET_DOWN
+name: Zone2_multi_preset_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 97 00 00 00
 #
-name: ZONE2_INPUT_AUX
+name: Zone2_input_aux
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 98 00 00 00
 #
-name: ZONE2_INPUT_DVR/VCR2/AUX
+name: Zone2_input_dvr/vcr2/aux
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 99 00 00 00
 #
-name: ZONE2_INPUT_VCR3
+name: Zone2_input_vcr3
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9A 00 00 00
 #
-name: ZONE2_INPUT_TV/DBS/CABLE
+name: Zone2_input_tv/dbs/cable
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9B 00 00 00
 #
-name: ZONE2_INPUT_CDR/TAPE
+name: Zone2_input_cdr/tape
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9C 00 00 00
 #
-name: SURROUND_MODE_STEREO
+name: Surround_mode_stereo
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9D 00 00 00
 #
-name: SURROUND_MODE_DIRECT
+name: Surround_mode_direct
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9E 00 00 00
 #
-name: ZONE3_VOLUME_PRESET_2_(-20DB)
+name: Zone3_volume_preset_2_(-20db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9F 00 00 00
 #
-name: MENU_/_SYSTEM_SETUP
+name: Menu_/_system_setup
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A0 00 00 00
 #
-name: SURROUND_PARAMETER
+name: Surround_parameter
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A1 00 00 00
 #
-name: ZONE3_VOLUME_PRESET_3_(-40DB)
+name: Zone3_volume_preset_3_(-40db)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A2 00 00 00
 #
-name: CURSOR/ARROW_UP
+name: Cursor/arrow_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A3 00 00 00
 #
-name: CURSOR/ARROW_DOWN
+name: Cursor/arrow_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A4 00 00 00
 #
-name: OUTPUT
+name: Output
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A5 00 00 00
 #
-name: RCVR_EFFECT
+name: Rcvr_effect
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A6 00 00 00
 #
-name: INPUT_ADJ_(V)
+name: Input_adj_(v)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A7 00 00 00
 #
-name: SURROUND_MODE_5/7/MULTI_CH_STEREO
+name: Surround_mode_5/7/multi_ch_stereo
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A8 00 00 00
 #
-name: SURROUND_MODE_2CH_STEREO
+name: Surround_mode_2ch_stereo
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A9 00 00 00
 #
-name: SURROUND_MODE_MULTI_CH_STEREO
+name: Surround_mode_multi_ch_stereo
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AA 00 00 00
 #
-name: TUNER_SHIFT_F
+name: Tuner_shift_f
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AB 00 00 00
 #
-name: AUDIO_FUNCTION
+name: Audio_function
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AC 00 00 00
 #
-name: VIDEO_FUNCTION
+name: Video_function
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AD 00 00 00
 #
-name: TUNER_SHIFT_G
+name: Tuner_shift_g
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AE 00 00 00
 #
-name: SPEAKER_CH_LEVEL/SELECT
+name: Speaker_ch_level/select
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AF 00 00 00
 #
-name: SPEAKER_CH_VOLUME_UP
+name: Speaker_ch_volume_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B0 00 00 00
 #
-name: SPEAKER_CH_VOLUME_DOWN
+name: Speaker_ch_volume_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B1 00 00 00
 #
-name: VIDEO_OFF
+name: Video_off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B2 00 00 00
 #
-name: INPUT_MODE_EXT_IN
+name: Input_mode_ext_in
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B5 00 00 00
 #
-name: INPUT_MODE_TOGGLE_ANALOG/DIGITAL
+name: Input_mode_toggle_analog/digital
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B6 00 00 00
 #
-name: LEVEL_ALL_TREBLE_UP
+name: Level_all_treble_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B7 00 00 00
 #
-name: LEVEL_ALL_TREBLE_DOWN
+name: Level_all_treble_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B8 00 00 00
 #
-name: TUNER_SHIFT_A
+name: Tuner_shift_a
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B9 00 00 00
 #
-name: TUNER_SHIFT_B
+name: Tuner_shift_b
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: BA 00 00 00
 #
-name: TUNER_SHIFT_C
+name: Tuner_shift_c
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: BB 00 00 00
 #
-name: TUNER_SHIFT_D
+name: Tuner_shift_d
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: BC 00 00 00
 #
-name: TUNER_SHIFT_E
+name: Tuner_shift_e
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: BD 00 00 00
 #
-name: ZONE2_INPUT_DVD/VDP
+name: Zone2_input_dvd/vdp
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: BE 00 00 00
 #
-name: LEVEL_ALL_BASS_UP
+name: Level_all_bass_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: BF 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_1
+name: Tuner_preset/channel/xm_1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C1 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_2
+name: Tuner_preset/channel/xm_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C2 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_3
+name: Tuner_preset/channel/xm_3
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C3 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_4
+name: Tuner_preset/channel/xm_4
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C4 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_5
+name: Tuner_preset/channel/xm_5
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C5 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_6
+name: Tuner_preset/channel/xm_6
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C6 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_7
+name: Tuner_preset/channel/xm_7
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C7 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_8
+name: Tuner_preset/channel/xm_8
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C8 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_9
+name: Tuner_preset/channel/xm_9
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: C9 00 00 00
 #
-name: TUNER_PRESET/CHANNEL/XM_0
+name: Tuner_preset/channel/xm_0
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: CA 00 00 00
 #
-name: TUNER_MEMORY
+name: Tuner_memory
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: CC 00 00 00
 #
-name: TUNER_SHIFT
+name: Tuner_shift
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: CD 00 00 00
 #
-name: TUNER_RT
+name: Tuner_rt
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: CE 00 00 00
 #
-name: TUNER_DIRECT/RDS_SEARCH
+name: Tuner_direct/rds_search
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D2 00 00 00
 #
-name: TUNER_PTY
+name: Tuner_pty
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D4 00 00 00
 #
-name: TUNER_PRESET/CHANNEL_DOWN
+name: Tuner_preset/channel_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D5 00 00 00
 #
-name: TUNER_PRESET/CHANNEL_UP
+name: Tuner_preset/channel_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D6 00 00 00
 #
-name: TUNER_BAND_TOGGLE
+name: Tuner_band_toggle
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D7 00 00 00
 #
-name: TUNER_TUNING_MODE_AUTO/MANUAL
+name: Tuner_tuning_mode_auto/manual
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D8 00 00 00
 #
-name: TUNER_TUNING/SCAN_UP
+name: Tuner_tuning/scan_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D9 00 00 00
 #
-name: TUNER_TUNING/SCAN_DOWN
+name: Tuner_tuning/scan_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: DA 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

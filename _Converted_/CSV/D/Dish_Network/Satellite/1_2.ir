@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 01 02 00 00
 command: 07 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 01 02 00 00
 command: 0F 00 00 00
 #
-name: DISH_HOME
+name: Dish_home
 type: parsed
 protocol: NECext
 address: 01 02 00 00

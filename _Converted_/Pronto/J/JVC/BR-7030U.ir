@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: EJECT
+name: Eject
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 234 1850 234 808 234 808 234 808 234 808 234 1850 234 808 234 808 234 808 234 808 234 12246
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 234 1850 234 808 234 808 234 1850 234 1850 234 808 234 808 234 808 234 808 234 808 234 11203
 #
-name: PAUSE/STILL
+name: Pause/still
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 234 1850 234 808 234 808 234 1850 234 808 234 1850 234 1850 234 808 234 808 234 808 234 10161
 #
-name: FF
+name: Ff
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 234 1850 234 808 234 808 234 808 234 1850 234 1850 234 808 234 808 234 808 234 808 234 11203
 #
-name: REV
+name: Rev
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 234 1850 234 808 234 808 234 1850 234 1850 234 1850 234 808 234 808 234 808 234 808 234 10161
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 234 1876 234 834 234 834 234 834 234 834 234 1876 234 1876 234 834 234 834 234 834 234 11230
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 234 1850 234 808 234 808 234 1850 234 1850 234 808 234 1850 234 808 234 808 234 808 234 10161
 #
-name: REC
+name: Rec
 type: raw
 frequency: 38381
 duty_cycle: 0.330000

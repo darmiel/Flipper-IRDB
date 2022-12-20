@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SLEEP
+name: Sleep
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 10992 447 10992 447 10992 447 10992 447 7363 447 23219
 #
-name: MEM_ADD/DEL
+name: Mem_add/del
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 10992 447 10992 447 10992 447 10992 447 10992 447 23219
 #
-name: FT_DN
+name: Ft_dn
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 7363 447 10992 447 10992 447 10992 447 7363 447 23219
 #
-name: FT_UP
+name: Ft_up
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 7363 447 10992 447 10992 447 10992 447 10992 447 23219
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 10992 447 10992 447 10992 447 7363 447 10992 447 23219
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
@@ -97,37 +97,37 @@ frequency: 38029
 duty_cycle: 0.330000
 data: 447 7363 447 10992 447 10992 447 7363 447 10992 447 23219
 #
-name: PREV_CHAN
+name: Prev_chan
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 7363 447 10992 447 7363 447 7363 447 10992 447 23219
 #
-name: MEM_SCAN
+name: Mem_scan
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 7363 447 10992 447 7363 447 7363 447 7363 447 23219
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 10992 447 7363 447 10992 447 7363 447 7363 447 23219
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 10992 447 7363 447 7363 447 7363 447 7363 447 23219
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 447 7363 447 10992 447 7363 447 10992 447 7363 447 23219
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000

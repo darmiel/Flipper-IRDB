@@ -2,35 +2,35 @@ Filetype: IR signals file
 Version: 1
 #
 # POWER [raw] {11110100-001100}
-name: POWER
+name: Power
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 0C 00 00 00
 #
 # TAPE [raw] {11010010-111111}
-name: TAPE
+name: Tape
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 3F 00 00 00
 #
 # TRAY [raw] {11010010-101101}
-name: TRAY
+name: Tray
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2D 00 00 00
 #
 # R_SRCH [raw] {11010010-100001}
-name: R_SRCH
+name: R_srch
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 21 00 00 00
 #
 # PLAY [raw] {11010010-110101}
-name: PLAY
+name: Play
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -44,63 +44,63 @@ address: 12 00 00 00
 command: 2F 00 00 00
 #
 # F_SRCH [raw] {11010010-100000}
-name: F_SRCH
+name: F_srch
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 20 00 00 00
 #
 # REW [raw] {11010010-110010}
-name: REW
+name: Rew
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 32 00 00 00
 #
 # STOP [raw] {11010010-110110}
-name: STOP
+name: Stop
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 36 00 00 00
 #
 # PAUSE [raw] {11010010-110000}
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 30 00 00 00
 #
 # FFWD [raw] {11010010-110100}
-name: FFWD
+name: Ffwd
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 34 00 00 00
 #
 # RECORD_@ [raw] {11110010-110111}
-name: RECORD_@
+name: Record_@
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 37 00 00 00
 #
 # RECORD_0 [raw] {11110010-101010}
-name: RECORD_0
+name: Record_0
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2A 00 00 00
 #
 # LEVEL+ [18 16 1] {110-10010--010000-000001}
-name: LEVEL+ (raw)
+name: Level+_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 889 889 1778 1778 4445 889 1778 1778 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 1778 889 75551
 #
 # LEVEL- [18 17 1] {110-10010--010001-000001}
-name: LEVEL- (raw)
+name: Level-_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25

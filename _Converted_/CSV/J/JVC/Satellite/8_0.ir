@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIEW
+name: View
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 16 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 19 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 1D 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 08 00 00 00

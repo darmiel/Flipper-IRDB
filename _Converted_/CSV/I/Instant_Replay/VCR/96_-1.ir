@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: S.TRACKING_+
+name: S.tracking_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: S.TRACKING_-
+name: S.tracking_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: S.SPEED_+
+name: S.speed_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: S.SPEED_-
+name: S.speed_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 03 00 00 00
 #
-name: 8_(AM)
+name: 8_(am)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: 9_(PM)
+name: 9_(pm)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: F.FWD/VI.SRCH_>>
+name: F.fwd/vi.srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: REW/VI.SRCH_<<
+name: Rew/vi.srch_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -79,61 +79,61 @@ protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: F.ADV_>
+name: F.adv_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: SLOW_>
+name: Slow_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 11 00 00 00
 #
-name: X2_FAST
+name: X2_fast
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 12 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: REC/PLAY
+name: Rec/play
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: REC/PAUSE
+name: Rec/pause
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -157,37 +157,37 @@ protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: 7_(WKL/DLY)
+name: 7_(wkl/dly)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: TRANS
+name: Trans
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: COUNTER_MEMORY
+name: Counter_memory
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: UNKNOWN
+name: Unknown
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 60 00 00 00

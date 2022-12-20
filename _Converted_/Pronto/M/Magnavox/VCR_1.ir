@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 1745 872 872 1745 872 872 1745 872 872 89769
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 1745 1745 1745 1745 872 88870
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 1745 1745 872 872 1745 89769
 #
-name: FFWD
+name: Ffwd
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 1745 1745 1745 872 872 89769
 #
-name: REW
+name: Rew
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 1745 872 872 1745 1745 89769
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 1745 1745 1745 872 872 1745 872 88870
 #
-name: F.ADV_O
+name: F.adv_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 872 872 872 872 1745 1745 1745 872 872 1745 1745 1745 1745 872 872 872 88870
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 1745 872 872 872 872 872 872 872 872 89769
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 1745 872 872 872 872 872 872 1745 872 88870
 #
-name: STATUS_O
+name: Status_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 1745 872 872 1745 872 872 872 872 872 872 872 88870
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 1745 1745 872 872 872 872 1745 1745 872 88870
 #
-name: CLEAR_O
+name: Clear_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
@@ -139,175 +139,175 @@ frequency: 36683
 duty_cycle: 0.330000
 data: 872 900 1745 872 872 872 872 1745 1745 1745 1745 872 872 1745 1745 1745 1745 89769
 #
-name: RECORD
+name: Record
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 1745 1745 872 872 872 872 872 88870
 #
-name: GO-TO_O
+name: Go-to_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 872 88870
 #
-name: VAR.SLOW_UP_O
+name: Var.slow_up_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 1745 872 872 1745 872 872 1745 89742
 #
-name: VAR.SLOW_DN_O
+name: Var.slow_dn_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 1745 872 872 1745 1745 1745 872 88870
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 900 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 1745 872 872 872 872 872 872 89742
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 900 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 1745 872 872 872 872 1745 872 88870
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 1745 1745 872 88870
 #
-name: SPEED_O
+name: Speed_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 89742
 #
-name: SLOW_O
+name: Slow_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 1745 1745 1745 872 872 872 872 89742
 #
-name: MEMORY_O
+name: Memory_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 872 872 872 88870
 #
-name: SKIP/SRCH_O
+name: Skip/srch_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 872 872 872 872 1745 1745 1745 872 872 1745 1745 1745 1745 1745 89742
 #
-name: TV/VCR
+name: Tv/vcr
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 89742
 #
-name: EJECT_O
+name: Eject_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 872 872 872 872 1745 1745 1745 872 872 1745 1745 872 872 1745 1745 872 88870
 #
-name: TRACKING_UP_O
+name: Tracking_up_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 872 872 872 872 1745 1745 1745 1745 872 872 1745 872 872 1745 1745 872 88870
 #
-name: TRACKING_DN_O
+name: Tracking_dn_o
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 872 872 872 872 1745 1745 1745 1745 872 872 1745 872 872 872 872 1745 89742
 #
-name: VCR+
+name: Vcr+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 872 872 872 872 1745 1745 1745 1745 872 872 872 872 1745 1745 1745 872 88870
 #
-name: F.ADV_E
+name: F.adv_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 1745 1745 872 872 1745 1745 1745 872 872 1745 1745 1745 1745 872 872 872 88870
 #
-name: STATUS_E
+name: Status_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 1745 872 872 1745 872 872 872 872 872 872 872 88870
 #
-name: CLEAR_E
+name: Clear_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 872 872 872 872 1745 872 872 872 872 1745 872 88870
 #
-name: GO-TO_E
+name: Go-to_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 872 88870
 #
-name: VAR.SLOW_UP_E
+name: Var.slow_up_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 872 872 1745 872 872 1745 872 872 1745 89742
 #
-name: VAR.SLOW_DN_E
+name: Var.slow_dn_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 872 872 1745 872 872 1745 1745 1745 872 88870
 #
-name: SPEED_E
+name: Speed_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 89742
 #
-name: SLOW_E
+name: Slow_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 872 872 1745 1745 1745 872 872 872 872 89742
 #
-name: MEMORY_E
+name: Memory_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 872 872 872 88870
 #
-name: SKIP/SRCH_E
+name: Skip/srch_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 1745 1745 872 872 1745 1745 1745 872 872 1745 1745 1745 1745 1745 89742
 #
-name: EJECT_E
+name: Eject_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 1745 872 872 1745 1745 1745 872 872 1745 1745 872 872 1745 1745 872 88870
 #
-name: TRACKING_UP_E
+name: Tracking_up_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 1745 1745 872 872 1745 1745 1745 1745 872 872 1745 872 872 1745 1745 872 88870
 #
-name: TRACKING_DN_E
+name: Tracking_dn_e
 type: raw
 frequency: 36683
 duty_cycle: 0.330000

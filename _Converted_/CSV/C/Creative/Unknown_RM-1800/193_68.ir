@@ -13,13 +13,13 @@ protocol: NECext
 address: C1 44 00 00
 command: 09 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 11 00 00 00
 #
-name: X_3dMidi
+name: X_3dmidi
 type: parsed
 protocol: NECext
 address: C1 44 00 00
@@ -37,43 +37,43 @@ protocol: NECext
 address: C1 44 00 00
 command: 21 00 00 00
 #
-name: CMSS_Up
+name: Cmss_up
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 29 00 00 00
 #
-name: EAX
+name: Eax
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 31 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 3E 00 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 41 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 46 00 00 00
 #
-name: X_4bit_Up
+name: X_4bit_up
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 49 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: C1 44 00 00
@@ -85,19 +85,19 @@ protocol: NECext
 address: C1 44 00 00
 command: 51 00 00 00
 #
-name: X_3dMidi_Down
+name: X_3dmidi_down
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 59 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 5E 00 00 00
 #
-name: EAX_Up
+name: Eax_up
 type: parsed
 protocol: NECext
 address: C1 44 00 00
@@ -109,25 +109,25 @@ protocol: NECext
 address: C1 44 00 00
 command: 6E 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 71 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 76 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 81 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: C1 44 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: C1 44 00 00
 command: 89 00 00 00
 #
-name: CMSS
+name: Cmss
 type: parsed
 protocol: NECext
 address: C1 44 00 00
@@ -151,43 +151,43 @@ protocol: NECext
 address: C1 44 00 00
 command: 91 00 00 00
 #
-name: X_3dMidi_Up
+name: X_3dmidi_up
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 99 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: 9E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: A1 00 00 00
 #
-name: CMSS_Down
+name: Cmss_down
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: A9 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: AE 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: B1 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: C1 44 00 00
@@ -199,19 +199,19 @@ protocol: NECext
 address: C1 44 00 00
 command: C1 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: C6 00 00 00
 #
-name: X_4bit_Down
+name: X_4bit_down
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: C9 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: C1 44 00 00
@@ -223,25 +223,25 @@ protocol: NECext
 address: C1 44 00 00
 command: D1 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: D6 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: DE 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: C1 44 00 00
 command: E1 00 00 00
 #
-name: EAX_Down
+name: Eax_down
 type: parsed
 protocol: NECext
 address: C1 44 00 00
@@ -259,7 +259,7 @@ protocol: NECext
 address: C1 44 00 00
 command: F1 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: C1 44 00 00

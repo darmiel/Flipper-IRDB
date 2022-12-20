@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: OUTPUT
+name: Output
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 23 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 10 00 00 00

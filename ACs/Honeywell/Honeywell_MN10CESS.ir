@@ -3,37 +3,37 @@ Version: 1
 # 
 # Honeywell MN10CESS AC
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 02 00 00 00
 #
-name: TEMP+
+name: Temp+
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 0A 00 00 00
 #
-name: TEMP-
+name: Temp-
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 11 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 1A 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 19 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NEC
 address: 20 00 00 00

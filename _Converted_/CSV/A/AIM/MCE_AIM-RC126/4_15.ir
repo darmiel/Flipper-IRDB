@@ -61,229 +61,229 @@ protocol: NECext
 address: 04 0F 00 00
 command: 09 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0A 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0E 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 12 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 13 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 14 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 16 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 18 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 19 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1A 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1B 00 00 00
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1C 00 00 00
 #
-name: NUMERIC_STAR
+name: Numeric_star
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1D 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1E 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 1F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 20 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 21 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 22 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 23 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 24 00 00 00
 #
-name: ZOOMIN
+name: Zoomin
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 25 00 00 00
 #
-name: ZOOMOUT
+name: Zoomout
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 26 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 47 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 48 00 00 00
 #
-name: IMAGES
+name: Images
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 49 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 4A 00 00 00
 #
-name: KEYBOARD
+name: Keyboard
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 5A 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 5B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 5C 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 04 0F 00 00
 command: 5D 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 04 0F 00 00

@@ -19,7 +19,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -67,67 +67,67 @@ protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: VT
+name: Vt
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1D 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1E 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1F 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: FUNC.VT
+name: Func.vt
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 38 00 00 00
 #
-name: PAGE
+name: Page
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 39 00 00 00
 #
-name: HIDDEN
+name: Hidden
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3B 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 07 00 00 00

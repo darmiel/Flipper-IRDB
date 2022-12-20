@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: txt_100
+name: Txt_100
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: set_down
+name: Set_down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 02 00 00 00
 #
-name: txt_Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 05 00 00 00
 #
-name: txt_Question
+name: Txt_question
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 06 00 00 00
 #
-name: txt_Clock
+name: Txt_clock
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 07 00 00 00
 #
-name: txt_T.P.
+name: Txt_t.p.
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: txt_Nor.
+name: Txt_nor.
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: txt_Magnify
+name: Txt_magnify
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: txt_Presets
+name: Txt_presets
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0D 00 00 00
 #
-name: txt_Mix
+name: Txt_mix
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -169,19 +169,19 @@ protocol: NECext
 address: 07 00 00 00
 command: 1F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: P/C
+name: P/c
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -199,19 +199,19 @@ protocol: NECext
 address: 07 00 00 00
 command: 25 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 26 00 00 00
 #
-name: A/V
+name: A/v
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 27 00 00 00
 #
-name: Mon/TV
+name: Mon/tv
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -223,67 +223,67 @@ protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: spk_off
+name: Spk_off
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2F 00 00 00
 #
-name: color_plus
+name: Color_plus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 30 00 00 00
 #
-name: color_minus
+name: Color_minus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 31 00 00 00
 #
-name: bright_plus
+name: Bright_plus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 34 00 00 00
 #
-name: bright_minus
+name: Bright_minus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 35 00 00 00
 #
-name: contrast_plus
+name: Contrast_plus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 38 00 00 00
 #
-name: contrast_minus
+name: Contrast_minus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 39 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3C 00 00 00
 #
-name: TV/TLV
+name: Tv/tlv
 type: parsed
 protocol: NECext
 address: 07 00 00 00

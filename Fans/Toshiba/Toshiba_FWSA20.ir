@@ -3,25 +3,25 @@ Version: 1
 #
 # Toshiba F-WSA20 Fan
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 4B 14 00 00
 command: 80 7F 00 00
 # 
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 4B 14 00 00
 command: 20 DF 00 00
 # 
-name: SWING
+name: Swing
 type: parsed
 protocol: NECext
 address: 4B 14 00 00
 command: C0 3F 00 00
 # 
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 4B 14 00 00

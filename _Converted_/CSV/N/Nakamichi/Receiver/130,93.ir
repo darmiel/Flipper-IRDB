@@ -1,571 +1,571 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 00 00 00 00
 #
-name: INPUT_-_DVD
+name: Input_-_dvd
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 00 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 01 00 00 00
 #
-name: INPUT_-_VIDEO
+name: Input_-_video
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 01 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 03 00 00 00
 #
-name: INPUT_-_CD
+name: Input_-_cd
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 04 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 05 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 05 00 00 00
 #
-name: VOL-_UP
+name: Vol-_up
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 05 00 00 00
 #
-name: VCR_2
+name: Vcr_2
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 07 00 00 00
 #
-name: INPUT_-_VCR_2
+name: Input_-_vcr_2
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 07 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 08 00 00 00
 #
-name: INPUT_-_TUNER
+name: Input_-_tuner
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 08 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 0A 00 00 00
 #
-name: INPUT_-_AUX
+name: Input_-_aux
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 0A 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 0B 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 0B 00 00 00
 #
-name: INPUT_-_VCR_1
+name: Input_-_vcr_1
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 0B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 0C 00 00 00
 #
-name: VOL-_MUTE
+name: Vol-_mute
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 0C 00 00 00
 #
-name: DTS
+name: Dts
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 0F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 10 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 10 00 00 00
 #
-name: VOL-_DOWN
+name: Vol-_down
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 10 00 00 00
 #
-name: INPUT_ATT.
+name: Input_att.
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 11 00 00 00
 #
-name: SURND_-_INPUT_ATT.
+name: Surnd_-_input_att.
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 11 00 00 00
 #
-name: TAPE_MONITOR
+name: Tape_monitor
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 12 00 00 00
 #
-name: TAPE/MONITOR
+name: Tape/monitor
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 12 00 00 00
 #
-name: INPUT_-_TAPE_MONITOR
+name: Input_-_tape_monitor
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 12 00 00 00
 #
-name: DIGITAL_INPUT
+name: Digital_input
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 1C 00 00 00
 #
-name: INPUT_-_DIGITAL
+name: Input_-_digital
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 1C 00 00 00
 #
-name: DISPLY
+name: Disply
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 1E 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 1E 00 00 00
 #
-name: DOLBY_DIGITAL
+name: Dolby_digital
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 40 00 00 00
 #
-name: SURR_-_DIGITAL_DOLBY
+name: Surr_-_digital_dolby
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 40 00 00 00
 #
-name: DOLBY_PRO
+name: Dolby_pro
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 41 00 00 00
 #
-name: SURROUND_PRO_LOGIC
+name: Surround_pro_logic
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 41 00 00 00
 #
-name: SURR_-_PRO_LOGIC
+name: Surr_-_pro_logic
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 41 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 42 00 00 00
 #
-name: SURROUND_OFF
+name: Surround_off
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 42 00 00 00
 #
-name: SURR_-_OFF
+name: Surr_-_off
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 42 00 00 00
 #
-name: SURROUND_CENTER_MODE
+name: Surround_center_mode
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 43 00 00 00
 #
-name: DYN_RANGE_COMP.
+name: Dyn_range_comp.
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 44 00 00 00
 #
-name: SURND_-_D.RANG_COMP
+name: Surnd_-_d.rang_comp
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 44 00 00 00
 #
-name: LFE_ATT.
+name: Lfe_att.
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 45 00 00 00
 #
-name: SURND_-_LFE_ATT.
+name: Surnd_-_lfe_att.
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 45 00 00 00
 #
-name: SURND_-_SPKR_SELECT
+name: Surnd_-_spkr_select
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 46 00 00 00
 #
-name: SURND_-_SPKR_MODE
+name: Surnd_-_spkr_mode
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 47 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 48 00 00 00
 #
-name: SURROUND_TEST_TONE
+name: Surround_test_tone
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 48 00 00 00
 #
-name: SURND_-_TEST_TONE
+name: Surnd_-_test_tone
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 48 00 00 00
 #
-name: CALIBRATION_LEVEL_+
+name: Calibration_level_+
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4A 00 00 00
 #
-name: SURROUND_CAL._+
+name: Surround_cal._+
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4A 00 00 00
 #
-name: SURND_-_CAL_(_+_)
+name: Surnd_-_cal_(_+_)
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4A 00 00 00
 #
-name: CALIBRATION_LEVEL_-
+name: Calibration_level_-
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4B 00 00 00
 #
-name: SURROUND_CAL._-
+name: Surround_cal._-
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4B 00 00 00
 #
-name: SURND_-_CAL_(_-_)
+name: Surnd_-_cal_(_-_)
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4B 00 00 00
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4D 00 00 00
 #
-name: SURND_-_SW
+name: Surnd_-_sw
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4D 00 00 00
 #
-name: RIGHT_REAR
+name: Right_rear
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4E 00 00 00
 #
-name: SURND_-_REAR_(_R_)
+name: Surnd_-_rear_(_r_)
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4E 00 00 00
 #
-name: REAR_DELAY
+name: Rear_delay
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4F 00 00 00
 #
-name: SURROUND_DELAY
+name: Surround_delay
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4F 00 00 00
 #
-name: SURND_-_DELAY_(REAR)
+name: Surnd_-_delay_(rear)
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 4F 00 00 00
 #
-name: CENTER
+name: Center
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 51 00 00 00
 #
-name: SURROUND_CENTER
+name: Surround_center
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 51 00 00 00
 #
-name: SURND_-_CENTER
+name: Surnd_-_center
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 51 00 00 00
 #
-name: LEFT_REAR
+name: Left_rear
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 52 00 00 00
 #
-name: SURROUND_REAR
+name: Surround_rear
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 52 00 00 00
 #
-name: SURND_-_REAR_(_L_)
+name: Surnd_-_rear_(_l_)
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 52 00 00 00
 #
-name: CENTER_DELAY
+name: Center_delay
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 53 00 00 00
 #
-name: SURND_-_DELAY_(CNTR)
+name: Surnd_-_delay_(cntr)
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 53 00 00 00
 #
-name: NATURAL
+name: Natural
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 54 00 00 00
 #
-name: SURROUND_NATURAL
+name: Surround_natural
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 54 00 00 00
 #
-name: SURR_-_NATURAL
+name: Surr_-_natural
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 54 00 00 00
 #
-name: HALL
+name: Hall
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 55 00 00 00
 #
-name: SURROUND_HALL
+name: Surround_hall
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 55 00 00 00
 #
-name: SURR_-_HALL
+name: Surr_-_hall
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 55 00 00 00
 #
-name: SURROUND_STADIUM
+name: Surround_stadium
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 56 00 00 00
 #
-name: SURR_-_STADIUM
+name: Surr_-_stadium
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 56 00 00 00
 #
-name: TUNER_FM
+name: Tuner_fm
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 58 00 00 00
 #
-name: TUNER_-_FM
+name: Tuner_-_fm
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 58 00 00 00
 #
-name: TUNER_AM
+name: Tuner_am
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 59 00 00 00
 #
-name: TUNER_-_AM
+name: Tuner_-_am
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 59 00 00 00
 #
-name: TUNER_SHIFT
+name: Tuner_shift
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5A 00 00 00
 #
-name: TUNER_-_SHIFT
+name: Tuner_-_shift
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5A 00 00 00
 #
-name: TUNER_PRESET_^
+name: Tuner_preset_^
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5C 00 00 00
 #
-name: TUNER_-_PRESET_UP
+name: Tuner_-_preset_up
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5C 00 00 00
 #
-name: TUNER_PRESET_V
+name: Tuner_preset_v
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5D 00 00 00
 #
-name: TUNER_-_PRESET_DOWN
+name: Tuner_-_preset_down
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5D 00 00 00
 #
-name: TUNER_SEEK_^
+name: Tuner_seek_^
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5E 00 00 00
 #
-name: TUNER_-_SEEK_UP
+name: Tuner_-_seek_up
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5E 00 00 00
 #
-name: TUNER_SEEK_V
+name: Tuner_seek_v
 type: parsed
 protocol: NECext
 address: 82 5D 00 00
 command: 5F 00 00 00
 #
-name: TUNER_-_SEEK_DOWN
+name: Tuner_-_seek_down
 type: parsed
 protocol: NECext
 address: 82 5D 00 00

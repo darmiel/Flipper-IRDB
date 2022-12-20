@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT_COMPONENT_1
+name: Input_component_1
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: 7C 00 00 00
 #
-name: INPUT_COMPONENT_2
+name: Input_component_2
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: 7D 00 00 00
 #
-name: INPUT_HDMI_1
+name: Input_hdmi_1
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: B0 00 00 00
 #
-name: INPUT_HDMI_2
+name: Input_hdmi_2
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: B1 00 00 00
 #
-name: INPUT_HDMI_3
+name: Input_hdmi_3
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: B2 00 00 00
 #
-name: INPUT_HDMI_4
+name: Input_hdmi_4
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: B3 00 00 00
 #
-name: ASPECT_NORMAL
+name: Aspect_normal
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: C7 00 00 00
 #
-name: ASPECT_ZOOM
+name: Aspect_zoom
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: C9 00 00 00
 #
-name: ASPECT_JUST
+name: Aspect_just
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: CB 00 00 00
 #
-name: ASPECT_AUTO
+name: Aspect_auto
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: CC 00 00 00
 #
-name: ASPECT_FULL
+name: Aspect_full
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: D1 00 00 00
 #
-name: ASPECT_SELECT/SCROLL
+name: Aspect_select/scroll
 type: parsed
 protocol: NECext
 address: 80 04 00 00
 command: DE 00 00 00
 #
-name: PIP_POSITION
+name: Pip_position
 type: parsed
 protocol: NECext
 address: 80 04 00 00

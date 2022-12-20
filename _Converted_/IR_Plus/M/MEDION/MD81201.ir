@@ -10,85 +10,85 @@ protocol: NECext
 address: FE 01 00 00
 command: B7 48 00 00
 #
-name: EQUALIZER
+name: Equalizer
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 4F B0 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 5F A0 00 00
 #
-name: FIND
+name: Find
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: BF 40 00 00
 #
-name: FUNCTION
+name: Function
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 7F 80 00 00
 #
-name: CDPLAY
+name: Cdplay
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: EF 10 00 00
 #
-name: CDSTOP
+name: Cdstop
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 27 D8 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 9F 60 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 0F F0 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: DF 20 00 00
 #
-name: MONO/STEREO
+name: Mono/stereo
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 3F C0 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: CF 30 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: FF 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 8F 70 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FE 01 00 00

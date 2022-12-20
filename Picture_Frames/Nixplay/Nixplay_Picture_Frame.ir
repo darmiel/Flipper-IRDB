@@ -4,7 +4,7 @@ Version: 1
 # Nixplay Picture Frame Remote
 # https://www.nixplay.com
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 88 00 00
@@ -40,7 +40,7 @@ protocol: NECext
 address: 01 88 00 00
 command: 76 89 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 01 88 00 00
@@ -58,13 +58,13 @@ protocol: NECext
 address: 01 88 00 00
 command: 7A 85 00 00
 # 
-name: Vol +
+name: Vol_+
 type: parsed
 protocol: NECext
 address: 01 88 00 00
 command: 68 97 00 00
 # 
-name: Vol -
+name: Vol_-
 type: parsed
 protocol: NECext
 address: 01 88 00 00

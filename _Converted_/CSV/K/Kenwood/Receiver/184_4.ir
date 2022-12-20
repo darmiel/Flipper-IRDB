@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ZONE_B_VIDEO_1
+name: Zone_b_video_1
 type: parsed
 protocol: NECext
 address: B8 04 00 00
 command: 00 00 00 00
 #
-name: ZONE_B_VIDEO_2
+name: Zone_b_video_2
 type: parsed
 protocol: NECext
 address: B8 04 00 00
 command: 01 00 00 00
 #
-name: ZONE_B_VIDEO_3
+name: Zone_b_video_3
 type: parsed
 protocol: NECext
 address: B8 04 00 00
 command: 02 00 00 00
 #
-name: ZONE_B_VIDEO_4
+name: Zone_b_video_4
 type: parsed
 protocol: NECext
 address: B8 04 00 00
 command: 03 00 00 00
 #
-name: ZONE_B_TUNER
+name: Zone_b_tuner
 type: parsed
 protocol: NECext
 address: B8 04 00 00
 command: 05 00 00 00
 #
-name: ZONE_B_CD_1
+name: Zone_b_cd_1
 type: parsed
 protocol: NECext
 address: B8 04 00 00
 command: 06 00 00 00
 #
-name: ZONE_B_TAPE_1
+name: Zone_b_tape_1
 type: parsed
 protocol: NECext
 address: B8 04 00 00

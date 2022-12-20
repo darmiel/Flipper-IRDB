@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 01 00 00 00
 #
-name: SEARCH_REV_<<
+name: Search_rev_<<
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 02 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 02 00 00 00
 #
-name: SEARCH_FFWD_>>
+name: Search_ffwd_>>
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 03 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 03 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 04 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 05 00 00 00
 #
-name: PLAY/PAUSE_>/
+name: Play/pause_>/
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 06 00 00 00
 #
-name: SKIP_+
+name: Skip_+
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 07 00 00 00
 #
-name: SKIP_-
+name: Skip_-
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 08 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 09 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 0A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 0B 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 0C 00 00 00
 #
-name: 1_DISC_SELECT
+name: 1_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 11 00 00 00
 #
-name: 2_DISC_SELECT
+name: 2_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 12 00 00 00
 #
-name: 3_DISC_SELECT
+name: 3_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 13 00 00 00
 #
-name: 4_DISC_SELECT
+name: 4_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 14 00 00 00
 #
-name: 5_DISC_SELECT
+name: 5_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 15 00 00 00
 #
-name: 6_DISC_SELECT
+name: 6_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -157,7 +157,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 16 00 00 00
 #
-name: 7_DISC_SELECT
+name: 7_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 17 00 00 00
 #
-name: 8_DISC_SELECT
+name: 8_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -181,7 +181,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 18 00 00 00
 #
-name: 9_DISC_SELECT
+name: 9_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: 3C 00 00 00
 command: 19 00 00 00
 #
-name: 10_DISC_SELECT
+name: 10_disc_select
 type: parsed
 protocol: NECext
 address: 3C 00 00 00

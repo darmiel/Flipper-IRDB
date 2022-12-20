@@ -61,13 +61,13 @@ protocol: NECext
 address: 0F 00 00 00
 command: 09 00 00 00
 #
-name: PRE_DOWN
+name: Pre_down
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 20 00 00 00
 #
-name: PRE_UP
+name: Pre_up
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

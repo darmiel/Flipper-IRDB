@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Z2_VOL+_(2)
+name: Z2_vol+_(2)
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 42 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 42 00 00 00
 #
-name: Z2_VOL-_(2)
+name: Z2_vol-_(2)
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 43 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 43 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 47 00 00 00
 #
-name: Z2_STANDBY
+name: Z2_standby
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 47 00 00 00
 #
-name: ZONE_2_OFF
+name: Zone_2_off
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 47 00 00 00
 #
-name: Z2_SOURCE
+name: Z2_source
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 5F 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 5F 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 84 00 00 00
 #
-name: Z2_MUTING_ON
+name: Z2_muting_on
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 84 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 85 00 00 00
 #
-name: Z2_MUTING_OFF
+name: Z2_muting_off
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 85 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 8C 00 00 00
 #
-name: Z2_DVD
+name: Z2_dvd
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 8C 00 00 00
 #
-name: INPUT:_DVD
+name: Input:_dvd
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 8C 00 00 00
 #
-name: Z2_INPUT_DVD
+name: Z2_input_dvd
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: 8C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: CB 00 00 00
 #
-name: Z2_STANDBY/ON_(TGLE)
+name: Z2_standby/on_(tgle)
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: CB 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: D2 12 00 00

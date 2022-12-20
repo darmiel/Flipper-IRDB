@@ -19,25 +19,25 @@ protocol: NECext
 address: A2 A2 00 00
 command: 03 00 00 00
 #
-name: tuning_down
+name: Tuning_down
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 04 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 06 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -61,25 +61,25 @@ protocol: NECext
 address: A2 A2 00 00
 command: 0B 00 00 00
 #
-name: tuning_up
+name: Tuning_up
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 0C 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 0D 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 0E 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -97,19 +97,19 @@ protocol: NECext
 address: A2 A2 00 00
 command: 12 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 13 00 00 00
 #
-name: time_program
+name: Time_program
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 14 00 00 00
 #
-name: intro
+name: Intro
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -127,43 +127,43 @@ protocol: NECext
 address: A2 A2 00 00
 command: 1A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 1B 00 00 00
 #
-name: repeat/scan
+name: Repeat/scan
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 1C 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 60 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: A0 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: A2 A2 00 00

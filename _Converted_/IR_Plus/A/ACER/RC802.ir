@@ -10,97 +10,97 @@ protocol: NECext
 address: A4 08 00 00
 command: 4D B2 00 00
 #
-name: LIVETV
+name: Livetv
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: CD 32 00 00
 #
-name: TVAV
+name: Tvav
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 45 BA 00 00
 #
-name: ARCADE
+name: Arcade
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: FF 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: BF 40 00 00
 #
-name: LANG
+name: Lang
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 9D 62 00 00
 #
-name: SUBS
+name: Subs
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 1D E2 00 00
 #
-name: ANGL
+name: Angl
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: AD 52 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 2D D2 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 95 6A 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 55 AA 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: AF 50 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 35 CA 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 9F 60 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: EF 10 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: D5 2A 00 00
 #
-name: SAP
+name: Sap
 type: parsed
 protocol: NECext
 address: A4 08 00 00
@@ -112,13 +112,13 @@ protocol: NECext
 address: A4 08 00 00
 command: 7F 80 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: DD 22 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: A4 08 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: A4 08 00 00
 command: F5 0A 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: A4 08 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: A4 08 00 00
 command: 27 D8 00 00
 #
-name: CAPTR
+name: Captr
 type: parsed
 protocol: NECext
 address: A4 08 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: A4 08 00 00
 command: 1F E0 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: A4 08 00 00
@@ -172,25 +172,25 @@ protocol: NECext
 address: A4 08 00 00
 command: 3D C2 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 2F D0 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 4F B0 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 6F 90 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: A4 08 00 00
@@ -256,13 +256,13 @@ protocol: NECext
 address: A4 08 00 00
 command: 7D 82 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: A4 08 00 00
 command: 17 E8 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: A4 08 00 00

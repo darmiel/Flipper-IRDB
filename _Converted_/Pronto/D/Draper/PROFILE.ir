@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: UP
+name: Up
 type: raw
 frequency: 31403
 duty_cycle: 0.330000
 data: 510 2548 510 510 510 510 510 1019 1019 1019 510 510 510 79451
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 31403
 duty_cycle: 0.330000
 data: 510 2548 510 510 510 510 510 1019 1019 510 510 1019 510 79451
 #
-name: DOWN
+name: Down
 type: raw
 frequency: 31403
 duty_cycle: 0.330000

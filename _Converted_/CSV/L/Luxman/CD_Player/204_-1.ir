@@ -67,127 +67,127 @@ protocol: NECext
 address: CC 00 00 00
 command: 0A 00 00 00
 #
-name: T-DISP
+name: T-disp
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0B 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0C 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0D 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0E 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0E 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0F 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 0F 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 10 00 00 00
 #
-name: M-CHECK
+name: M-check
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 11 00 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 13 00 00 00
 #
-name: RWD
+name: Rwd
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 14 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 15 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 15 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 17 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 18 00 00 00
 #
-name: A-SCAN
+name: A-scan
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 1C 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 1F 00 00 00
 #
-name: DISC_SELECT
+name: Disc_select
 type: parsed
 protocol: NECext
 address: CC 00 00 00
 command: 58 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: CC 00 00 00

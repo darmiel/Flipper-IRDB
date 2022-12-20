@@ -3,7 +3,7 @@ Version: 1
 # 
 # ProBreeze Remote Oscillating Fan
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
@@ -15,25 +15,25 @@ protocol: NECext
 address: 00 FC 00 00
 command: 87 78 00 00
 # 
-name: Speed_UP
+name: Speed_up
 type: parsed
 protocol: NECext
 address: 00 FC 00 00
 command: 81 7E 00 00
 # 
-name: Speed_DOWN
+name: Speed_down
 type: parsed
 protocol: NECext
 address: 00 FC 00 00
 command: 82 7D 00 00
 # 
-name: Delay_UP
+name: Delay_up
 type: parsed
 protocol: NECext
 address: 00 FC 00 00
 command: 83 7C 00 00
 # 
-name: Delay_DOWN
+name: Delay_down
 type: parsed
 protocol: NECext
 address: 00 FC 00 00

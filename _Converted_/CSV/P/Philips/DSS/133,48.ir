@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TIVO
+name: Tivo
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 02 00 00 00
 #
-name: LIVE_TV_/_GUIDE
+name: Live_tv_/_guide
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 11 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 12 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 13 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 14 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 15 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 16 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 17 00 00 00
 #
-name: THUMBS_DOWN
+name: Thumbs_down
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 18 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 19 00 00 00
 #
-name: THUMBS_UP
+name: Thumbs_up
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1A 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1E 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 20 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 21 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 22 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 23 00 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 24 00 00 00
 #
-name: SLOW_MOTION
+name: Slow_motion
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 25 00 00 00
 #
-name: INSTANT_REPLAY
+name: Instant_replay
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 26 00 00 00
 #
-name: RETURN_TO_LIVE_TV
+name: Return_to_live_tv
 type: parsed
 protocol: NECext
 address: 85 30 00 00
@@ -187,13 +187,13 @@ protocol: NECext
 address: 85 30 00 00
 command: 31 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 32 00 00 00
 #
-name: ENTER/JUMP
+name: Enter/jump
 type: parsed
 protocol: NECext
 address: 85 30 00 00

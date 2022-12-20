@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: tvvideo
+name: Tvvideo
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 02 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 06 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 0A 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -85,13 +85,13 @@ protocol: NECext
 address: 07 07 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -103,25 +103,25 @@ protocol: NECext
 address: 07 07 00 00
 command: 11 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 12 00 00 00
 #
-name: PRE-CH
+name: Pre-ch
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 13 00 00 00
 #
-name: center
+name: Center
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -133,19 +133,19 @@ protocol: NECext
 address: 07 07 00 00
 command: 23 00 00 00
 #
-name: P.STD
+name: P.std
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 28 00 00 00
 #
-name: CH.SCAN
+name: Ch.scan
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 31 00 00 00
 #
-name: SURF
+name: Surf
 type: parsed
 protocol: NECext
 address: 07 07 00 00

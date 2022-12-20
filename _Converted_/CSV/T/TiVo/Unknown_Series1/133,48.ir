@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TIVO
+name: Tivo
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 02 00 00 00
 #
-name: TVPWR
+name: Tvpwr
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 10 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 11 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 12 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 13 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 14 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 15 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 16 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 17 00 00 00
 #
-name: THUMBSDOWN
+name: Thumbsdown
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 18 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 19 00 00 00
 #
-name: THUMBSUP
+name: Thumbsup
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1B 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1D 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 20 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 21 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 22 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 23 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 24 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 25 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 26 00 00 00
 #
-name: JUMPTOEND
+name: Jumptoend
 type: parsed
 protocol: NECext
 address: 85 30 00 00
@@ -211,13 +211,13 @@ protocol: NECext
 address: 85 30 00 00
 command: 31 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 32 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 85 30 00 00

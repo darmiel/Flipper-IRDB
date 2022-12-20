@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 84 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 85 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8A 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8B 00 00 00
 #
-name: COLOR-MODE
+name: Color-mode
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 90 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 92 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 93 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9A 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9C 00 00 00
 #
-name: INPUT-A-B
+name: Input-a-b
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9D 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B0 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B1 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B2 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 83 55 00 00

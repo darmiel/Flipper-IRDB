@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 7B 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00

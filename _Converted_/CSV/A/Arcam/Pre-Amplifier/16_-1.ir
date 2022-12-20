@@ -1,391 +1,391 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT_SAT
+name: Input_sat
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 00 00 00 00
 #
-name: INPUT_AV
+name: Input_av
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 02 00 00 00
 #
-name: INPUT_TUNER
+name: Input_tuner
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: INPUT_DVD
+name: Input_dvd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: INPUT_TAPE
+name: Input_tape
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 05 00 00 00
 #
-name: INPUT_VCR
+name: Input_vcr
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 06 00 00 00
 #
-name: INPUT_CD
+name: Input_cd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 07 00 00 00
 #
-name: INPUT_AUX
+name: Input_aux
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 08 00 00 00
 #
-name: INPUT_DVD-A
+name: Input_dvd-a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 09 00 00 00
 #
-name: DIRECT
+name: Direct
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: RESTORE_(FAV)
+name: Restore_(fav)
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: SAT_VIDEO
+name: Sat_video
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 13 00 00 00
 #
-name: AV_VIDEO
+name: Av_video
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 14 00 00 00
 #
-name: DVD_VIDEO
+name: Dvd_video
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 16 00 00 00
 #
-name: TAPE_VIDEO
+name: Tape_video
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 17 00 00 00
 #
-name: VCR_VIDEO
+name: Vcr_video
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 18 00 00 00
 #
-name: MODES
+name: Modes
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1C 00 00 00
 #
-name: THX_MODES
+name: Thx_modes
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 20 00 00 00
 #
-name: TRIM_MENU
+name: Trim_menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: LIP_SYNC
+name: Lip_sync
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 32 00 00 00
 #
-name: SUB_TRIM
+name: Sub_trim
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 33 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 37 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 3B 00 00 00
 #
-name: EFFECT_OFF
+name: Effect_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 3F 00 00 00
 #
-name: EFFECT:_MUSIC
+name: Effect:_music
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 40 00 00 00
 #
-name: EFFECT:_PARTY
+name: Effect:_party
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 41 00 00 00
 #
-name: EFFECT:_CLUB
+name: Effect:_club
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 42 00 00 00
 #
-name: EFFECT:_HALL
+name: Effect:_hall
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 43 00 00 00
 #
-name: EFFECT:_SPORT
+name: Effect:_sport
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 44 00 00 00
 #
-name: EFFECT:_CHURCH
+name: Effect:_church
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 45 00 00 00
 #
-name: EFFECTS_MODES
+name: Effects_modes
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 46 00 00 00
 #
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 48 00 00 00
 #
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 49 00 00 00
 #
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 4A 00 00 00
 #
-name: PRESET_4
+name: Preset_4
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 4B 00 00 00
 #
-name: PRESET_5
+name: Preset_5
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 4C 00 00 00
 #
-name: DIRECT_ON
+name: Direct_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 4E 00 00 00
 #
-name: DIRECT_OFF
+name: Direct_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 4F 00 00 00
 #
-name: NAV_RIGHT
+name: Nav_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: NAV_LEFT
+name: Nav_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: NAV_UP
+name: Nav_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: NAV_DOWN
+name: Nav_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 57 00 00 00
 #
-name: MONO_MODE
+name: Mono_mode
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6A 00 00 00
 #
-name: STEREO_MODE
+name: Stereo_mode
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6B 00 00 00
 #
-name: DOLBY_PL2_MOVIE
+name: Dolby_pl2_movie
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6C 00 00 00
 #
-name: DOLBY_PL2_MUSIC
+name: Dolby_pl2_music
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6D 00 00 00
 #
-name: DOLBY_PRO_EMULATION
+name: Dolby_pro_emulation
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6E 00 00 00
 #
-name: DTS_NEO:6_CINEMA
+name: Dts_neo:6_cinema
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6F 00 00 00
 #
-name: DTS_NEO_6:MUSIC
+name: Dts_neo_6:music
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 70 00 00 00
 #
-name: THX_OFF
+name: Thx_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 71 00 00 00
 #
-name: THX_CINEMA
+name: Thx_cinema
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 72 00 00 00
 #
-name: THX_ULTRA2_CINEMA
+name: Thx_ultra2_cinema
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 73 00 00 00
 #
-name: THX_MUSIC
+name: Thx_music
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 74 00 00 00
 #
-name: THX_SURROUND
+name: Thx_surround
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 75 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 77 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 78 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 7B 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 7C 00 00 00
 #
-name: VIDEO_TYPE
+name: Video_type
 type: parsed
 protocol: NECext
 address: 10 00 00 00

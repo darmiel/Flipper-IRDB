@@ -61,85 +61,85 @@ protocol: NECext
 address: 80 02 00 00
 command: A9 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: B6 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: B7 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: B9 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: BD 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: C3 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: C5 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: C6 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: CA 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: CA 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: CB 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: CB 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: CD 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 80 02 00 00
 command: CE 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 80 02 00 00

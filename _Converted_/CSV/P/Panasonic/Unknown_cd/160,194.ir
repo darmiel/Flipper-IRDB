@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP/CLEAR
+name: Stop/clear
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 80 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 81 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 84 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 85 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 87 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 8B 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AC 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B0 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B1 00 00 00
 #
-name: XBS
+name: Xbs
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B5 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B6 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B8 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BF 00 00 00
 #
-name: FM_MODE
+name: Fm_mode
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E4 00 00 00
 #
-name: TUNER_CH_UP
+name: Tuner_ch_up
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E7 00 00 00
 #
-name: TUNER_CH-
+name: Tuner_ch-
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E8 00 00 00
 #
-name: TUNER+
+name: Tuner+
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E9 00 00 00
 #
-name: TUNER-
+name: Tuner-
 type: parsed
 protocol: NECext
 address: A0 C2 00 00

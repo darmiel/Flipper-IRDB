@@ -2,70 +2,70 @@ Filetype: IR signals file
 Version: 1
 #
 # POWER [raw] {11101100-001100}
-name: POWER
+name: Power
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 0C 00 00 00
 #
 # STOP [raw] {11101100-110110}
-name: STOP
+name: Stop
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 36 00 00 00
 #
 # R_SRCH [raw] {11101100-101100}
-name: R_SRCH
+name: R_srch
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 2C 00 00 00
 #
 # PLAY [raw] {11101100-110101}
-name: PLAY
+name: Play
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 35 00 00 00
 #
 # F_SRCH [raw] {11101100-101110}
-name: F_SRCH
+name: F_srch
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 2E 00 00 00
 #
 # R_CHAP [raw] {11101100-100100}
-name: R_CHAP
+name: R_chap
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 24 00 00 00
 #
 # F_CHAP [raw] {11101100-011110}
-name: F_CHAP
+name: F_chap
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 1E 00 00 00
 #
 # PAUSE [raw] {11101100-110000}
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 30 00 00 00
 #
 # R_STEP [raw] {11101100-100101}
-name: R_STEP
+name: R_step
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 25 00 00 00
 #
 # F_STEP [raw] {11101100-101001}
-name: F_STEP
+name: F_step
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
@@ -147,84 +147,84 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 1776 1776 1776 1776 888 888 1776 888 888 1776 888 888 1776 1776 1776 888 888 90526 1776 1776 1776 1776 888 888 1776 888 888 1776 888 888 1776 1776 1776 888 888 90526 1776 1776 1776 1776 888 888 1776 888 888 1776 888 888 1776 1776 1776 888 888 90526 1776 1776 1776 1776 888 888 1776 888 888 1776 888 888 1776 1776 1776 888 888 90526 1776 1776 1776 1776 888 888 1776 888 888 1776 888 888 1776 1776 1776 888 888 538050
 #
-name: RPT_A/B
+name: Rpt_a/b
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 888 888 1776 888 888 1776 888 888 1776 888 888 888 888 1776 1776 888 888 888 89666 888 888 1776 888 888 1776 888 888 1776 888 888 1776 888 888 888 888 1776 1776 888 888 888 89666 888 888 1776 888 888 1776 888 888 1776 888 888 1776 888 888 888 888 1776 1776 888 888 888 89666 888 888 1776 888 888 1776 888 888 1776 888 888 1776 888 888 888 888 1776 1776 888 888 888 650687
 #
 # DISPLAY [raw] {11001100-001111}
-name: DISPLAY
+name: Display
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 0F 00 00 00
 #
 # AUDIO_D/A [raw] {11001100-100011}
-name: AUDIO_D/A
+name: Audio_d/a
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 23 00 00 00
 #
 # PGM [raw] {11001100-011111}
-name: PGM
+name: Pgm
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 1F 00 00 00
 #
 # CHP/TM [raw] {11001100-001010}
-name: CHP/TM
+name: Chp/tm
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 0A 00 00 00
 #
 # RANDOM [raw] {11001100-011100}
-name: RANDOM
+name: Random
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 1C 00 00 00
 #
 # HILITE [raw] {10001100-101110}
-name: HILITE
+name: Hilite
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 6E 00 00 00
 #
 # SIDE_A [raw] {10001100-110010}
-name: SIDE_A
+name: Side_a
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 72 00 00 00
 #
 # SIDE_B [raw] {10001100-110011}
-name: SIDE_B
+name: Side_b
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 73 00 00 00
 #
 # MULTI_SPEED+ [raw] {11001100-101000}
-name: MULTI_SPEED+
+name: Multi_speed+
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 28 00 00 00
 #
 # MULTI_SPEED- [raw] {11001100-100010}
-name: MULTI_SPEED-
+name: Multi_speed-
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 22 00 00 00
 #
 # CLEAR [raw] {11101100-110001}
-name: CLEAR
+name: Clear
 type: parsed
 protocol: RC5
 address: 0C 00 00 00

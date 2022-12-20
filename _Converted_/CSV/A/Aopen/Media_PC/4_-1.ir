@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DVD/VCD
+name: Dvd/vcd
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 00 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 01 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 03 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 04 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 05 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 07 00 00 00
 #
-name: TIME/SHIFT
+name: Time/shift
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -73,31 +73,31 @@ protocol: NECext
 address: 04 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: PHOTO
+name: Photo
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0E 00 00 00
 #
-name: VIDEO/CLIPPER
+name: Video/clipper
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0F 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 10 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: 04 00 00 00
 command: 12 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 13 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: 04 00 00 00
 command: 16 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 17 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -157,25 +157,25 @@ protocol: NECext
 address: 04 00 00 00
 command: 1A 00 00 00
 #
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1B 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -187,31 +187,31 @@ protocol: NECext
 address: 04 00 00 00
 command: 41 00 00 00
 #
-name: TUNING_UP
+name: Tuning_up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 44 00 00 00
 #
-name: MEM
+name: Mem
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 45 00 00 00
 #
-name: TUNING_DOWN
+name: Tuning_down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 48 00 00 00
 #
-name: TV/PVR
+name: Tv/pvr
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -223,19 +223,19 @@ protocol: NECext
 address: 04 00 00 00
 command: 50 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 51 00 00 00
 #
-name: CD/MP3
+name: Cd/mp3
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 52 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -253,25 +253,25 @@ protocol: NECext
 address: 04 00 00 00
 command: 58 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 59 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 04 00 00 00

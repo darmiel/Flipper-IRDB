@@ -31,7 +31,7 @@ protocol: NECext
 address: 86 6B 00 00
 command: 04 00 00 00
 #
-name: function-(unused)
+name: Function-(unused)
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -73,67 +73,67 @@ protocol: NECext
 address: 86 6B 00 00
 command: 0A 00 00 00
 #
-name: air
+name: Air
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0B 00 00 00
 #
-name: autoscan
+name: Autoscan
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0C 00 00 00
 #
-name: function+(unused)
+name: Function+(unused)
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0C 00 00 00
 #
-name: ttx
+name: Ttx
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0D 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0E 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 10 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 12 00 00 00
 #
-name: sound
+name: Sound
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 13 00 00 00
 #
-name: sync
+name: Sync
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -145,73 +145,73 @@ protocol: NECext
 address: 86 6B 00 00
 command: 15 00 00 00
 #
-name: cc
+name: Cc
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 16 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 17 00 00 00
 #
-name: ch-(unused)
+name: Ch-(unused)
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 17 00 00 00
 #
-name: ch+/-
+name: Ch+/-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 18 00 00 00
 #
-name: func
+name: Func
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 19 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1B 00 00 00
 #
-name: scan(unused)
+name: Scan(unused)
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1C 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1D 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1F 00 00 00
 #
-name: ch+(unused)
+name: Ch+(unused)
 type: parsed
 protocol: NECext
 address: 86 6B 00 00

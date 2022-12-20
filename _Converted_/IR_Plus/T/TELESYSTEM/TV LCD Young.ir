@@ -10,49 +10,49 @@ protocol: NECext
 address: 40 02 00 00
 command: EF 10 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 40 02 00 00
 command: 2F D0 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 02 00 00
 command: BD 42 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 40 02 00 00
 command: BD 42 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 40 02 00 00
 command: FF 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 02 00 00
 command: BF 40 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 40 02 00 00
 command: 7F 80 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 02 00 00
 command: 3F C0 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 40 02 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: 40 02 00 00
 command: FF 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 40 02 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: 40 02 00 00
 command: 3F C0 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 40 02 00 00
@@ -88,7 +88,7 @@ protocol: NECext
 address: 40 02 00 00
 command: BF 40 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 40 02 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: 40 02 00 00
 command: 67 98 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 40 02 00 00
@@ -172,7 +172,7 @@ protocol: NECext
 address: 40 02 00 00
 command: F7 08 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 40 02 00 00

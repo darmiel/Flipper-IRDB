@@ -2,105 +2,105 @@ Filetype: IR signals file
 Version: 1
 #
 # A_PLAY [raw] {11110010-110101}
-name: A_PLAY
+name: A_play
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 35 00 00 00
 #
 # A_REW [raw] {11110010-110010}
-name: A_REW
+name: A_rew
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 32 00 00 00
 #
 # A_FFWD [raw] {11110010-110100}
-name: A_FFWD
+name: A_ffwd
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 34 00 00 00
 #
 # A_STOP [raw] {11110010-110110}
-name: A_STOP
+name: A_stop
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 36 00 00 00
 #
 # A_PAUSE [raw] {11110010-110000}
-name: A_PAUSE
+name: A_pause
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 30 00 00 00
 #
 # A_RECORD [raw] {11110010-110111}
-name: A_RECORD
+name: A_record
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 37 00 00 00
 #
 # A_REV [raw] {11110010-101111}
-name: A_REV
+name: A_rev
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2F 00 00 00
 #
 # A_SELECT [raw] {11110010-111111}
-name: A_SELECT
+name: A_select
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 3F 00 00 00
 #
 # B_PLAY [raw] {11010111-110101}
-name: B_PLAY
+name: B_play
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 35 00 00 00
 #
 # B_REW [raw] {11010111-110010}
-name: B_REW
+name: B_rew
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 32 00 00 00
 #
 # B_FFWD [raw] {11010111-110100}
-name: B_FFWD
+name: B_ffwd
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 34 00 00 00
 #
 # B_STOP [raw] {11010111-110110}
-name: B_STOP
+name: B_stop
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 36 00 00 00
 #
 # B_PAUSE [raw] {11010010-110000}
-name: B_PAUSE
+name: B_pause
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 30 00 00 00
 #
 # B_REV [raw] {11010111-101111}
-name: B_REV
+name: B_rev
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 2F 00 00 00
 #
 # B_SELECT [raw] {11010111-111111}
-name: B_SELECT
+name: B_select
 type: parsed
 protocol: RC5
 address: 17 00 00 00

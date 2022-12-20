@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1729 800 826 2478 1652 31492
 #
-name: INPUT_CYCLE
+name: Input_cycle
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 3278 1652 826 826 31492
 #
-name: UP
+name: Up
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 800 1652 1652 1652 5214 878 800 1652 1652 1652 5214 878 800 1652 1652 2478 31518 3356 878 878 878 1652 31518
 #
-name: DOWN
+name: Down
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 800 1652 1652 1652 5214 878 800 1652 1652 1652 5214 878 1652 878 1652 2478 31518
 #
-name: LEFT
+name: Left
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 800 1652 1652 1652 5214 903 800 1652 1652 1652 5214 2478 2478 2478 31518
 #
-name: RIGHT
+name: Right
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 800 1652 1652 1652 5214 878 800 1652 1652 1652 5214 878 1652 2478 878 1652 31518
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 800 1652 2478 1652 31466
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 3356 2478 1652 31492
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 2452 852 1626 1652 31492
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 1626 826 2478 1652 31492
 #
-name: REVERSE
+name: Reverse
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 2555 3278 1652 31492
 #
-name: FORWARD
+name: Forward
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 800 852 3278 1652 31492
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 2555 826 826 826 826 826 826 31492
 #
-name: PROG1
+name: Prog1
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 826 2478 826 826 826 826 31492
 #
-name: PROG2
+name: Prog2
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 895 1637 1662 818 818 818 818 31505
 #
-name: SETUP
+name: Setup
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 4182 800 852 800 826 31466
 #
-name: CENTER_PAD
+name: Center_pad
 type: raw
 frequency: 38740
 duty_cycle: 0.330000

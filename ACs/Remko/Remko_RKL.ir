@@ -4,43 +4,43 @@ Version: 1
 # Remko RKL 360/460/470/480-Series IR-Remote
 # EDV-Nr.: 1613135
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 12 ED 00 00
 # 
-name: TEMP+
+name: Temp+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1A E5 00 00
 # 
-name: TEMP-
+name: Temp-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1E E1 00 00
 # 
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 02 FD 00 00
 # 
-name: SWING
+name: Swing
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 00 FF 00 00
 # 
-name: TIMER_SET
+name: Timer_set
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 05 FA 00 00
 # 
-name: TIMER_RESET
+name: Timer_reset
 type: parsed
 protocol: NECext
 address: 86 6B 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DSS
+name: Dss
 type: parsed
 protocol: NECext
 address: 08 00 00 00

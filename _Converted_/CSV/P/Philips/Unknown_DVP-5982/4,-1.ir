@@ -67,103 +67,103 @@ protocol: NECext
 address: 04 00 00 00
 command: 0F 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1D 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 20 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 21 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 31 00 00 00
 #
-name: Repeat_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 3B 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4B 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 58 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 59 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 7E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: C7 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D1 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 04 00 00 00

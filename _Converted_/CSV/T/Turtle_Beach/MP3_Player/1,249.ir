@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: GROUP
+name: Group
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 00 00 00 00
 #
-name: ADD
+name: Add
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 01 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 02 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
@@ -121,73 +121,73 @@ protocol: NECext
 address: 01 F9 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 14 00 00 00
 #
-name: ADD_FAVORITE
+name: Add_favorite
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 15 00 00 00
 #
-name: JUMP_-
+name: Jump_-
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 16 00 00 00
 #
-name: JUMP_+
+name: Jump_+
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 17 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 18 00 00 00
 #
-name: SKIP_<
+name: Skip_<
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 19 00 00 00
 #
-name: SKIP_>
+name: Skip_>
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 1B 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 1C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 1D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 1E 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
@@ -217,43 +217,43 @@ protocol: NECext
 address: 01 F9 00 00
 command: 43 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 47 00 00 00
 #
-name: ARTIST
+name: Artist
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 48 00 00 00
 #
-name: ALBUM
+name: Album
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 49 00 00 00
 #
-name: GENRE
+name: Genre
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 4A 00 00 00
 #
-name: NET
+name: Net
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 4B 00 00 00
 #
-name: LISTS
+name: Lists
 type: parsed
 protocol: NECext
 address: 01 F9 00 00
 command: 4C 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 F9 00 00

@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: A-RPlay
+name: A-rplay
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 00 00 00 00
 #
-name: A-Play
+name: A-play
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 01 00 00 00
 #
-name: A-FFwd
+name: A-ffwd
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 02 00 00 00
 #
-name: A-Rew
+name: A-rew
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 03 00 00 00
 #
-name: A-Stop
+name: A-stop
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 04 00 00 00
 #
-name: B-RPlay
+name: B-rplay
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 05 00 00 00
 #
-name: B-Play
+name: B-play
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 06 00 00 00
 #
-name: B-FFwd
+name: B-ffwd
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 07 00 00 00
 #
-name: TuneUp
+name: Tuneup
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 08 00 00 00
 #
-name: TuneDown
+name: Tunedown
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 09 00 00 00
 #
-name: CD-Stop
+name: Cd-stop
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 0A 00 00 00
 #
-name: B-Rew
+name: B-rew
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 0B 00 00 00
 #
-name: CD-FFwd
+name: Cd-ffwd
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 0C 00 00 00
 #
-name: CD-Rew
+name: Cd-rew
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 0E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 0F 00 00 00
 #
-name: CD-Play
+name: Cd-play
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 10 00 00 00
 #
-name: B-Stop
+name: B-stop
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 11 00 00 00
 #
-name: B-RRec
+name: B-rrec
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 12 00 00 00
 #
-name: B-FRec
+name: B-frec
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 13 00 00 00
 #
-name: B-RecMute
+name: B-recmute
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 14 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 15 00 00 00
 #
-name: PresetUp
+name: Presetup
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 01 00 00
@@ -151,25 +151,25 @@ protocol: NECext
 address: 00 01 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 19 00 00 00
 #
-name: PresetDown
+name: Presetdown
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 1A 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 1B 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 00 01 00 00
@@ -181,13 +181,13 @@ protocol: NECext
 address: 00 01 00 00
 command: 1D 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 1E 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 00 01 00 00

@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: HD_DIRECT
+name: Hd_direct
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 03 00 00 00
 #
-name: HD_TOGGLE
+name: Hd_toggle
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 03 00 00 00
 #
-name: ANTENNA
+name: Antenna
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 05 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 06 00 00 00
 #
-name: MENU/SELECT
+name: Menu/select
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: SERVICE_MENU
+name: Service_menu
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: RECORD_PROGRAM
+name: Record_program
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 17 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: GO_BACK
+name: Go_back
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 27 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2C 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -151,181 +151,181 @@ protocol: NECext
 address: 07 00 00 00
 command: 39 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3A 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3A 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3B 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3C 00 00 00
 #
-name: TOGGLE_MUTE
+name: Toggle_mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3F 00 00 00
 #
-name: SKIP
+name: Skip
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 53 00 00 00
 #
-name: TIMER/INCREMENT_TIME
+name: Timer/increment_time
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 53 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 56 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 57 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 58 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 59 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 61 00 00 00
 #
-name: WHO
+name: Who
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 61 00 00 00
 #
-name: WHO_/_INPUT
+name: Who_/_input
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 61 00 00 00
 #
-name: HD_OFF
+name: Hd_off
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 88 00 00 00
 #
-name: HD_ON
+name: Hd_on
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 8A 00 00 00
 #
-name: FETCH
+name: Fetch
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 93 00 00 00
 #
-name: S-OUTPUT_4:3_FULL
+name: S-output_4:3_full
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 96 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: A3 00 00 00
 #
-name: ALTERNATE_AUDIO
+name: Alternate_audio
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: B0 00 00 00
 #
-name: DISPLAY:_4:3_FILL
+name: Display:_4:3_fill
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: C8 00 00 00
 #
-name: S-OUT_4:3/16:9_TOGLE
+name: S-out_4:3/16:9_togle
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: C8 00 00 00
 #
-name: DISPLAY:_4:3_FULL
+name: Display:_4:3_full
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: C9 00 00 00
 #
-name: DISPLAY:_4:3_NORMAL
+name: Display:_4:3_normal
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: CA 00 00 00
 #
-name: ANTENNA_B
+name: Antenna_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: CB 00 00 00
 #
-name: ANTENNA_A
+name: Antenna_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: CC 00 00 00
 #
-name: SATILITE
+name: Satilite
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: CD 00 00 00
 #
-name: LAST_SELECTED_ANT.
+name: Last_selected_ant.
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: CE 00 00 00
 #
-name: OK_/_I
+name: Ok_/_i
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: F4 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 07 00 00 00

@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1C 00 00 00
 #
-name: TUNE_DN
+name: Tune_dn
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 22 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 28 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 37 00 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: SIGNAL
+name: Signal
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 39 00 00 00
 #
-name: TUNE
+name: Tune
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00

@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TIVO
+name: Tivo
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 07 00 00 00
 #
-name: LIVE_TV
+name: Live_tv
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 11 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 13 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 14 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 15 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 16 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 17 00 00 00
 #
-name: THUMBS_DOWN
+name: Thumbs_down
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 18 00 00 00
 #
-name: CURSOR_CLICK
+name: Cursor_click
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 19 00 00 00
 #
-name: THUMBS_UP
+name: Thumbs_up
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1A 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1E 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1F 00 00 00
 #
-name: RECORD_ON/OFF
+name: Record_on/off
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 20 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 21 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 22 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 23 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 24 00 00 00
 #
-name: SLOW_MOTION
+name: Slow_motion
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 25 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 26 00 00 00
 #
-name: ADVANCE
+name: Advance
 type: parsed
 protocol: NECext
 address: 85 30 00 00
@@ -181,31 +181,31 @@ protocol: NECext
 address: 85 30 00 00
 command: 31 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 32 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 33 00 00 00
 #
-name: ENTER/JUMP
+name: Enter/jump
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 33 00 00 00
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 33 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 85 30 00 00

@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NUMBER_0
+name: Number_0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: NUMBER_1
+name: Number_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: NUMBER_2
+name: Number_2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: NUMBER_3
+name: Number_3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: NUMBER_4
+name: Number_4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: NUMBER_5
+name: Number_5
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: NUMBER_6
+name: Number_6
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: NUMBER_7
+name: Number_7
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: NUMBER_8
+name: Number_8
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: NUMBER_9
+name: Number_9
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 26 00 00 00
 #
-name: DELETE_PRESET
+name: Delete_preset
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: PRESET_DOWN_(TUNER)
+name: Preset_down_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 55 00 00 00
 #
-name: PRESET_UP_(TUNE)
+name: Preset_up_(tune)
 type: parsed
 protocol: NECext
 address: 11 00 00 00

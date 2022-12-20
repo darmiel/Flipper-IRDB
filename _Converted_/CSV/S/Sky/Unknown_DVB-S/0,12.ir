@@ -61,169 +61,169 @@ protocol: NECext
 address: 00 0C 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 0C 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 21 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 24 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 28 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 3C 00 00 00
 #
-name: FREV
+name: Frev
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 3D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 3E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 3F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 40 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 58 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 59 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 5A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 5B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 5C 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 6D 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 6E 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 6F 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 70 00 00 00
 #
-name: BOX_OFFICE
+name: Box_office
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 7D 00 00 00
 #
-name: SERVICES
+name: Services
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 7E 00 00 00
 #
-name: SKY
+name: Sky
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 80 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 81 00 00 00
 #
-name: BACK_UP
+name: Back_up
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 83 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: 84 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: CB 00 00 00
 #
-name: TV_GUIDE
+name: Tv_guide
 type: parsed
 protocol: NECext
 address: 00 0C 00 00
 command: CC 00 00 00
 #
-name: INTERACTIVE
+name: Interactive
 type: parsed
 protocol: NECext
 address: 00 0C 00 00

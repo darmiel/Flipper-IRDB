@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: A-SIDE
+name: A-side
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
 data: 398 1988 398 398 398 398 398 795 795 795 398 398 398 61922
 #
-name: B-SIDE
+name: B-side
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
 data: 398 1988 398 795 398 398 795 398 398 795 398 398 398 61922
 #
-name: SYS
+name: Sys
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
 data: 398 1988 398 398 398 795 795 398 398 795 398 398 398 61922
 #
-name: ROT
+name: Rot
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
 data: 398 1988 398 795 795 398 398 398 398 795 398 398 398 61922
 #
-name: LCK
+name: Lck
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
 data: 398 1988 398 398 398 398 398 398 398 398 398 795 398 398 398 61922
 #
-name: SE
+name: Se
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -97,7 +97,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 398 1988 398 795 398 398 398 398 398 398 795 795 398 61922
 #
-name: CHN
+name: Chn
 type: raw
 frequency: 40244
 duty_cycle: 0.330000

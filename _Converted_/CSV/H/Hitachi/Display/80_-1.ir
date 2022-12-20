@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 09 00 00 00
 #
-name: LAST_CH
+name: Last_ch
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0B 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 17 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 50 00 00 00

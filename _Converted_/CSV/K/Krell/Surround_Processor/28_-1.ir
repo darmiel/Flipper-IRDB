@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 01 00 00 00
 #
-name: REAR
+name: Rear
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 02 00 00 00
 #
-name: CNTR
+name: Cntr
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 06 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 07 00 00 00
 #
-name: CURSER_DOWN
+name: Curser_down
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0B 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0C 00 00 00
 #
-name: CURSER_RIGHT
+name: Curser_right
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0D 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0D 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0E 00 00 00
 #
-name: CURSER_LEFT
+name: Curser_left
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0F 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 10 00 00 00
 #
-name: CURSER_UP
+name: Curser_up
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 11 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 11 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 12 00 00 00
 #
-name: MAIN_POWER
+name: Main_power
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 13 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 13 00 00 00
 #
-name: HTS_POWER
+name: Hts_power
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 13 00 00 00
 #
-name: PRE
+name: Pre
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
@@ -175,19 +175,19 @@ protocol: NECext
 address: 1C 00 00 00
 command: 24 00 00 00
 #
-name: XLR
+name: Xlr
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 25 00 00 00
 #
-name: RF
+name: Rf
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 26 00 00 00
 #
-name: SV2
+name: Sv2
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
@@ -199,25 +199,25 @@ protocol: NECext
 address: 1C 00 00 00
 command: 33 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 35 00 00 00
 #
-name: ST
+name: St
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 35 00 00 00
 #
-name: PROLOGIC
+name: Prologic
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 3E 00 00 00
 #
-name: PL
+name: Pl
 type: parsed
 protocol: NECext
 address: 1C 00 00 00

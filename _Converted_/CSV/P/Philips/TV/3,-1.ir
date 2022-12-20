@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV_GUIDE_+_ON/OFF
+name: Tv_guide_+_on/off
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 2C 00 00 00
 #
-name: TV_GUIDE_+_INFO
+name: Tv_guide_+_info
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 2D 00 00 00
 #
-name: TV_GUIDE_+_RECORD
+name: Tv_guide_+_record
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 3C 00 00 00
 #
-name: ANALOG_TV
+name: Analog_tv
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 76 00 00 00
 #
-name: DTV
+name: Dtv
 type: parsed
 protocol: NECext
 address: 03 00 00 00

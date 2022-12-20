@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 4_CLOSE
+name: 4_close
 type: parsed
 protocol: NECext
 address: 94 00 00 00

@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 73 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 74 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 75 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 76 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -91,43 +91,43 @@ protocol: NECext
 address: 0F 00 00 00
 command: 85 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 87 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 8E 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

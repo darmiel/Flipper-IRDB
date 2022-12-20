@@ -121,7 +121,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 09 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 0A 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 0E 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -157,7 +157,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 1D 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 20 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -181,7 +181,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 21 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 23 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -205,7 +205,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 28 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -217,7 +217,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 2E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -229,7 +229,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 30 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -241,7 +241,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 31 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -253,7 +253,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 32 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -265,7 +265,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 33 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -277,7 +277,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -289,7 +289,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -301,7 +301,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 36 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -313,7 +313,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 37 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -325,7 +325,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 3A 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -337,7 +337,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 3B 00 00 00
 #
-name: PHASE
+name: Phase
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -361,7 +361,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 43 00 00 00
 #
-name: CHAPTER
+name: Chapter
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -373,7 +373,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 44 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -385,7 +385,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 45 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -397,7 +397,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 50 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -409,7 +409,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 51 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -421,7 +421,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 52 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -433,7 +433,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 53 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -445,7 +445,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 55 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -457,7 +457,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 56 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -469,7 +469,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 57 00 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: 13 00 00 00
@@ -481,7 +481,7 @@ protocol: NECext
 address: 13 00 00 00
 command: 5D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 13 00 00 00

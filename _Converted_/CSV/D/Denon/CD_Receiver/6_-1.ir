@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MINI-DISC_STOP
+name: Mini-disc_stop
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E1 00 00 00
 #
-name: MINI-DISC_PLAY/PAUSE
+name: Mini-disc_play/pause
 type: parsed
 protocol: NECext
 address: 06 00 00 00

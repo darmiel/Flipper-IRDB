@@ -13,31 +13,31 @@ protocol: NEC
 address: 78 00 00 00
 command: DF 00 00 00
 # 
-name: CD
+name: Cd
 type: parsed
 protocol: NEC
 address: 78 00 00 00
 command: 4A 00 00 00
 # 
-name: IPod
+name: Ipod
 type: parsed
 protocol: NEC
 address: 78 00 00 00
 command: D0 00 00 00
 # 
-name: USB
+name: Usb
 type: parsed
 protocol: NEC
 address: 78 00 00 00
 command: 29 00 00 00
 # 
-name: PresetL
+name: Presetl
 type: parsed
 protocol: NEC
 address: 78 00 00 00
 command: 1C 00 00 00
 # 
-name: PresetR
+name: Presetr
 type: parsed
 protocol: NEC
 address: 78 00 00 00
@@ -49,13 +49,13 @@ protocol: NEC
 address: 78 00 00 00
 command: 4B 00 00 00
 # 
-name: TuningL
+name: Tuningl
 type: parsed
 protocol: NEC
 address: 78 00 00 00
 command: A9 00 00 00
 # 
-name: TuningR
+name: Tuningr
 type: parsed
 protocol: NEC
 address: 78 00 00 00
@@ -115,13 +115,13 @@ protocol: NEC
 address: 78 00 00 00
 command: 9D 00 00 00
 # 
-name: FolderDn
+name: Folderdn
 type: parsed
 protocol: NEC
 address: 78 00 00 00
 command: 28 00 00 00
 # 
-name: FolderUp
+name: Folderup
 type: parsed
 protocol: NEC
 address: 78 00 00 00
@@ -163,13 +163,13 @@ protocol: NEC
 address: 78 00 00 00
 command: 4F 00 00 00
 # 
-name: VolumeUp
+name: Volumeup
 type: parsed
 protocol: NEC
 address: 78 00 00 00
 command: 1E 00 00 00
 # 
-name: VolumeDn
+name: Volumedn
 type: parsed
 protocol: NEC
 address: 78 00 00 00

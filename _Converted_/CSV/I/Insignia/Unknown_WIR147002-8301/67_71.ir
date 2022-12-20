@@ -61,229 +61,229 @@ protocol: NECext
 address: 43 47 00 00
 command: 09 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 0A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 0C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 0D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 0E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 0F 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 10 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 11 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 12 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 13 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 14 00 00 00
 #
-name: left1
+name: Left1
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 15 00 00 00
 #
-name: right1
+name: Right1
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 16 00 00 00
 #
-name: left-all
+name: Left-all
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 17 00 00 00
 #
-name: right1
+name: Right1
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 18 00 00 00
 #
-name: right-all
+name: Right-all
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 18 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 19 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 1A 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 1C 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 21 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 22 00 00 00
 #
-name: goto
+name: Goto
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 23 00 00 00
 #
-name: prog
+name: Prog
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 24 00 00 00
 #
-name: return-title
+name: Return-title
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 25 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 26 00 00 00
 #
-name: LANGUAGE
+name: Language
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 28 00 00 00
 #
-name: bs
+name: Bs
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 29 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 2A 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 2B 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 2D 00 00 00
 #
-name: tray
+name: Tray
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 2E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 2F 00 00 00
 #
-name: night
+name: Night
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 30 00 00 00
 #
-name: dim
+name: Dim
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 31 00 00 00
 #
-name: surround
+name: Surround
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 32 00 00 00
 #
-name: eq
+name: Eq
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 34 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 43 47 00 00
 command: 36 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 43 47 00 00

@@ -67,109 +67,109 @@ protocol: NECext
 address: 36 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 0C 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 0D 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 0E 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 0F 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 16 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 17 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 25 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 28 00 00 00
 #
-name: SKIP
+name: Skip
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 2D 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 33 00 00 00
 #
-name: COPY
+name: Copy
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 3B 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 49 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 4A 00 00 00
 #
-name: LNB
+name: Lnb
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 4B 00 00 00
 #
-name: SYNC
+name: Sync
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 53 00 00 00
 #
-name: ME
+name: Me
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 54 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 55 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 36 00 00 00

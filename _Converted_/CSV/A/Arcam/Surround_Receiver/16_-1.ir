@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SAT_A
+name: Sat_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 00 00 00 00
 #
-name: SAT_B
+name: Sat_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 00 00 00 00
 #
-name: TUNER_A
+name: Tuner_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: TUNER_B
+name: Tuner_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: DVD_A
+name: Dvd_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: DVD_B
+name: Dvd_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: TAPE_A
+name: Tape_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 05 00 00 00
 #
-name: TAPE_B
+name: Tape_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 05 00 00 00
 #
-name: VCR_A
+name: Vcr_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 06 00 00 00
 #
-name: VCR_B
+name: Vcr_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 06 00 00 00
 #
-name: CD_A
+name: Cd_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 07 00 00 00
 #
-name: CD_B
+name: Cd_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 07 00 00 00
 #
-name: AUX_A
+name: Aux_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 08 00 00 00
 #
-name: AUX_B
+name: Aux_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 08 00 00 00
 #
-name: POWER_A
+name: Power_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: POWER_B
+name: Power_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE_A
+name: Mute_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE_B
+name: Mute_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+_A
+name: Vol+_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL+_B
+name: Vol+_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-_A
+name: Vol-_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: VOL-_B
+name: Vol-_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00

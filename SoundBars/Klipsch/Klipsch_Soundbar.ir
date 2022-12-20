@@ -7,19 +7,19 @@ protocol: NEC
 address: 80 00 00 00
 command: 1E 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 01 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 03 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 80 00 00 00
@@ -43,7 +43,7 @@ protocol: NEC
 address: 80 00 00 00
 command: 0C 00 00 00
 # 
-name: LED
+name: Led
 type: parsed
 protocol: NEC
 address: 80 00 00 00

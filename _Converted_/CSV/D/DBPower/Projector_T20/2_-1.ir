@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: down
+name: Down
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 01 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 02 00 00 00
 #
-name: right
+name: Right
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 08 00 00 00
 #
-name: up
+name: Up
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 09 00 00 00
 #
-name: left
+name: Left
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0A 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0B 00 00 00
 #
-name: back
+name: Back
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 11 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 15 00 00 00
 #
-name: POWER_on_off_toggle
+name: Power_on_off_toggle
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 1E 00 00 00
 #
-name: source
+name: Source
 type: parsed
 protocol: NECext
 address: 02 00 00 00

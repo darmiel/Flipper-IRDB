@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: b1
+name: B1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: b2
+name: B2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: b3
+name: B3
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: b4
+name: B4
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: b5
+name: B5
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: b6
+name: B6
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: b7
+name: B7
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: b8
+name: B8
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: b9
+name: B9
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: b0
+name: B0
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: sound_off
+name: Sound_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: stereo
+name: Stereo
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: txt_off
+name: Txt_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: txt_size
+name: Txt_size
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 33 00 00 00
 #
-name: txt_on
+name: Txt_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: big_prog
+name: Big_prog
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3C 00 00 00
 #
-name: c_p
+name: C_p
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3D 00 00 00
 #
-name: txt_100
+name: Txt_100
 type: parsed
 protocol: NECext
 address: 01 00 00 00

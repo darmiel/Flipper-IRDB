@@ -10,7 +10,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 307 614 614 614 614 614 614 307 307 614 614 614 307 307 307 307 614 614 614 307 307 614 307 119677
 #
-name: REW
+name: Rew
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -22,25 +22,25 @@ frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 631 631 316 316 631 631 631 631 316 123064
 #
-name: FWD
+name: Fwd
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 631 631 316 316 316 316 631 316 316 631 316 123064
 #
-name: PREV
+name: Prev
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 631 631 316 316 316 316 316 316 631 631 316 123064
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 631 631 631 316 316 316 316 631 631 123064
 #
-name: NEXT
+name: Next
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -70,7 +70,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 631 316 316 316 316 631 631 123064
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -82,7 +82,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 631 631 316 316 316 316 316 316 631 123064
 #
-name: TV Guide
+name: Tv_guide
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -142,55 +142,55 @@ frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 316 316 316 316 316 316 631 631 316 123064
 #
-name: 2 ABC
+name: 2_abc
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 316 316 316 316 631 631 631 123064
 #
-name: 3 DEF
+name: 3_def
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 316 316 316 316 631 316 316 631 316 123064
 #
-name: 4 GHI
+name: 4_ghi
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 316 316 631 631 316 316 631 123064
 #
-name: 5 JKL
+name: 5_jkl
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 316 316 631 631 631 631 316 123064
 #
-name: 6 MNO
+name: 6_mno
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 316 316 631 316 316 631 631 123064
 #
-name: 7 PQRS
+name: 7_pqrs
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 316 316 631 316 316 316 316 631 316 123064
 #
-name: 8 UVW
+name: 8_uvw
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 631 631 316 316 316 316 631 123064
 #
-name: 9 XYZ
+name: 9_xyz
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 316 316 316 316 631 631 316 316 631 631 316 123064
 #
-name: TXT
+name: Txt
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -208,25 +208,25 @@ frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 631 316 316 631 631 316 316 631 631 123064
 #
-name: EXTRA
+name: Extra
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 631 631 316 316 631 631 631 631 316 123064
 #
-name: VIDEO
+name: Video
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 631 631 316 289 631 316 316 631 631 123064
 #
-name: PREMIUM
+name: Premium
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 316 631 631 631 631 631 631 316 316 631 631 631 631 631 316 316 631 316 316 316 316 631 316 123064
 #
-name: SPORT
+name: Sport
 type: raw
 frequency: 38000
 duty_cycle: 0.33

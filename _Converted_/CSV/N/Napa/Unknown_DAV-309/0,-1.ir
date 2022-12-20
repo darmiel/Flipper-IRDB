@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -25,19 +25,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -49,13 +49,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: P/N
+name: P/n
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -67,19 +67,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: DIGEST
+name: Digest
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: R/L
+name: R/l
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -163,31 +163,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 40 00 00 00
 #
-name: STEP
+name: Step
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 48 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4C 00 00 00
 #
-name: PBC
+name: Pbc
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4D 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00

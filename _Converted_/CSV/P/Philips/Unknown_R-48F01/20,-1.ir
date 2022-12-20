@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: s.mode
+name: S.mode
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0A 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0D 00 00 00
 #
-name: recall
+name: Recall
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 11 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 12 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 13 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 14 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 15 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 16 00 00 00
 #
-name: up
+name: Up
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 17 00 00 00
 #
-name: down
+name: Down
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 18 00 00 00
 #
-name: s.effect
+name: S.effect
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1B 00 00 00
 #
-name: menu
+name: Menu
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 22 00 00 00
 #
-name: p.mode
+name: P.mode
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 27 00 00 00
 #
-name: pip
+name: Pip
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 28 00 00 00
 #
-name: swap
+name: Swap
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 29 00 00 00
 #
-name: still
+name: Still
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2A 00 00 00
 #
-name: position
+name: Position
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2B 00 00 00
 #
-name: pip_source
+name: Pip_source
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2C 00 00 00
 #
-name: p.fmt
+name: P.fmt
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 3D 00 00 00
 #
-name: color_temp
+name: Color_temp
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 82 00 00 00
 #
-name: pixel_shift
+name: Pixel_shift
 type: parsed
 protocol: NECext
 address: 14 00 00 00

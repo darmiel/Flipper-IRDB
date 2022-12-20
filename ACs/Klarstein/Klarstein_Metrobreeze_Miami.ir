@@ -3,25 +3,25 @@ Version: 1
 # 
 # For Klarstein Metrobreeze Miami Mobile 9000 BTU Portable AC
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 9C 00 00 00
 # 
-name: SWING
+name: Swing
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 92 00 00 00
 # 
-name: TEMP+
+name: Temp+
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 94 00 00 00
 # 
-name: TEMP-
+name: Temp-
 type: parsed
 protocol: NEC
 address: 80 00 00 00
@@ -33,7 +33,7 @@ protocol: NEC
 address: 80 00 00 00
 command: 96 00 00 00
 # 
-name: MODE
+name: Mode
 type: parsed
 protocol: NEC
 address: 80 00 00 00
@@ -45,7 +45,7 @@ protocol: NEC
 address: 80 00 00 00
 command: 9B 00 00 00
 # 
-name: TIMER
+name: Timer
 type: parsed
 protocol: NEC
 address: 80 00 00 00

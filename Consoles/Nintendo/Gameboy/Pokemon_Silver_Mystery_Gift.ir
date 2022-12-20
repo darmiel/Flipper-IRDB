@@ -3,7 +3,7 @@ Version: 1
 #
 # Mystery Gift for Pokemon Silver captured from Game Boy Color 
 # 
-name: PkmnSlvrMystGftLink
+name: Pkmnslvrmystgftlink
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

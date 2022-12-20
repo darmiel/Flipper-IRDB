@@ -3,55 +3,55 @@ Version: 1
 #
 # Yamaha AX-380 Stereo Amplifier
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 1F 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 1A 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 1B 00 00 00
 # 
-name: INPUT_CD
+name: Input_cd
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 15 00 00 00
 # 
-name: INPUT_AUX
+name: Input_aux
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 17 00 00 00
 # 
-name: INPUT_TUNER
+name: Input_tuner
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 16 00 00 00
 # 
-name: INPUT_PHONO
+name: Input_phono
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 14 00 00 00
 # 
-name: MONITOR_TAPE1
+name: Monitor_tape1
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 18 00 00 00
 # 
-name: MONITOR_TAPE2
+name: Monitor_tape2
 type: parsed
 protocol: NEC
 address: 7A 00 00 00

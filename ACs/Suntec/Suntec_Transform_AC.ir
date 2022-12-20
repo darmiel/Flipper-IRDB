@@ -3,37 +3,37 @@ Version: 1
 #
 # Suntec Wellness AC 14246 TRANSFORM 14.000 Eco R290
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 9C 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 96 00 00 00
 #
-name: TEMP+
+name: Temp+
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 94 00 00 00
 #
-name: TEMP-
+name: Temp-
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 95 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 9D 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NEC
 address: 80 00 00 00

@@ -3,19 +3,19 @@ Version: 1
 # 
 # Amerlife Fireplace TV Stand
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: AB CD 00 00
 command: A1 5E 00 00
 # 
-name: TEMP
+name: Temp
 type: parsed
 protocol: NECext
 address: AB CD 00 00
 command: A3 5C 00 00
 # 
-name: Color_Flame
+name: Color_flame
 type: parsed
 protocol: NECext
 address: AB CD 00 00
@@ -27,7 +27,7 @@ protocol: NECext
 address: AB CD 00 00
 command: A9 56 00 00
 # 
-name: Color_LED
+name: Color_led
 type: parsed
 protocol: NECext
 address: AB CD 00 00

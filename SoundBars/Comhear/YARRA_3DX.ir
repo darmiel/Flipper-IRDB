@@ -3,109 +3,109 @@ Version: 1
 # 
 # Comhear YARRA 3DX Soundbar
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 01 FE 00 00
 # 
-name: BT
+name: Bt
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 02 FD 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 03 FC 00 00
 # 
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 04 FB 00 00
 # 
-name: DISTANCE
+name: Distance
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 05 FA 00 00
 # 
-name: PPL
+name: Ppl
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 06 F9 00 00
 # 
-name: SUB+
+name: Sub+
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 07 F8 00 00
 # 
-name: SUB-
+name: Sub-
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 09 F6 00 00
 # 
-name: BASS_BOOST
+name: Bass_boost
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 1D E2 00 00
 # 
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 13 EC 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 08 F7 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 0A F5 00 00
 # 
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 0B F4 00 00
 # 
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 0C F3 00 00
 # 
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 0D F2 00 00
 # 
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 0E F1 00 00
 # 
-name: GAME
+name: Game
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00
 command: 0F F0 00 00
 # 
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: 0A 1D 00 00

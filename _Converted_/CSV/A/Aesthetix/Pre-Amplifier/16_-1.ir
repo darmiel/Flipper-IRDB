@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 01 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: BAL_LEFT
+name: Bal_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 05 00 00 00
 #
-name: BAL_RIGHT
+name: Bal_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 06 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 07 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 08 00 00 00
 #
-name: PHASE
+name: Phase
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -85,13 +85,13 @@ protocol: NECext
 address: 10 00 00 00
 command: 0E 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 10 00 00 00

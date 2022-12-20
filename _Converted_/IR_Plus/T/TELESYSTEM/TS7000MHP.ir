@@ -10,25 +10,25 @@ protocol: RC5
 address: 12 00 00 00
 command: 0C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 29 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 0E 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 26 00 00 00
 #
-name: TV-RAD
+name: Tv-rad
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -40,7 +40,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 1C 00 00 00
 #
-name: TV-STB
+name: Tv-stb
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -52,7 +52,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 2C 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -64,7 +64,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 2B 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -100,7 +100,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 03 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -124,7 +124,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 06 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -148,13 +148,13 @@ protocol: RC5
 address: 12 00 00 00
 command: 09 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 11 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -166,13 +166,13 @@ protocol: RC5
 address: 12 00 00 00
 command: 00 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 31 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: RC5
 address: 12 00 00 00

@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SHIFT_STOP
+name: Shift_stop
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 03 00 00 00
 #
-name: SHIFT_FFWD_>>
+name: Shift_ffwd_>>
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 06 00 00 00
 #
-name: SHIFT_REW_<<
+name: Shift_rew_<<
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 07 00 00 00
 #
-name: SHIFT_PLAY
+name: Shift_play
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0C 00 00 00
 #
-name: SHIFT_PAUSE
+name: Shift_pause
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0D 00 00 00
 #
-name: EDIT_-_RECORD_PAUSE
+name: Edit_-_record_pause
 type: parsed
 protocol: NECext
 address: 43 00 00 00

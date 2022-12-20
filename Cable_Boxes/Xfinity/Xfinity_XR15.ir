@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: Volume_Up
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 86 05 00 00
 command: 0C F3 00 00
 # 
-name: Volume_Down
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 86 05 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 86 05 00 00
 command: 0F F0 00 00
 # 
-name: Tv_Input
+name: Tv_input
 type: parsed
 protocol: NECext
 address: 86 05 00 00

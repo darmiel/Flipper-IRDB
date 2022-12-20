@@ -82,7 +82,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1705 806 867 1654 1713 1652 1705 1658 871 810 1709 1654 865 816 867 814 1705
 #
-name: DISPL
+name: Displ
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -106,7 +106,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 865 818 865 816 867 816 1705 1660 1707 1656 1711 1654 1713 810 863 820 863 1660 871
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -160,19 +160,19 @@ frequency: 38000
 duty_cycle: 0.33
 data: 867 816 867 814 869 812 1707 1658 1709 1654 1711 1652 867 814 869 814 871 812 1707
 #
-name: AL1
+name: Al1
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 861 820 1709 1642 1703 1660 1707 1658 861 820 1709 1654 865 816 867 816 867 814 869
 #
-name: AL2
+name: Al2
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 863 820 863 818 865 816 1713 1650 1705 1660 871 812 1709 1656 1711 1654 1711
 #
-name: WEC
+name: Wec
 type: raw
 frequency: 38000
 duty_cycle: 0.33

@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: VALUE_-
+name: Value_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -97,37 +97,37 @@ protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: TINT
+name: Tint
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: NOISE_REDUCTION
+name: Noise_reduction
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: S-VIDEO
+name: S-video
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: RGB
+name: Rgb
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1D 00 00 00
 #
-name: YCRCB
+name: Ycrcb
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -139,43 +139,43 @@ protocol: NECext
 address: 01 00 00 00
 command: 20 00 00 00
 #
-name: ANAMORPHIC
+name: Anamorphic
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 22 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 23 00 00 00
 #
-name: PST1
+name: Pst1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 25 00 00 00
 #
-name: PST2
+name: Pst2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 26 00 00 00
 #
-name: PST3
+name: Pst3
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 27 00 00 00
 #
-name: PST4
+name: Pst4
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 28 00 00 00
 #
-name: FACTORY
+name: Factory
 type: parsed
 protocol: NECext
 address: 01 00 00 00

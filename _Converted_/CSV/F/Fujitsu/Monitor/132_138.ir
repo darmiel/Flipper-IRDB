@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 01 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 02 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 08 00 00 00
 #
-name: ASPECT_WIDE_(TOG)
+name: Aspect_wide_(tog)
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 10 00 00 00
 #
-name: ASPECT_AUTO
+name: Aspect_auto
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 11 00 00 00
 #
-name: ASPECT_NORMAL
+name: Aspect_normal
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 12 00 00 00
 #
-name: ASPECT_WIDE1
+name: Aspect_wide1
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 13 00 00 00
 #
-name: ASPECT_WIDE2
+name: Aspect_wide2
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 14 00 00 00
 #
-name: ASPECT_ZOOM1
+name: Aspect_zoom1
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 15 00 00 00
 #
-name: ASPECT_ZOOM2
+name: Aspect_zoom2
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 16 00 00 00
 #
-name: ADJ_LEFT
+name: Adj_left
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 20 00 00 00
 #
-name: ADJ_RIGHT
+name: Adj_right
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 21 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 22 00 00 00
 #
-name: ADJ_UP
+name: Adj_up
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 23 00 00 00
 #
-name: ADJ_DOWN
+name: Adj_down
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 24 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 26 00 00 00
 #
-name: PICTURE_MODE
+name: Picture_mode
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 44 00 00 00
 #
-name: PICTURE_MEMORY
+name: Picture_memory
 type: parsed
 protocol: NECext
 address: 84 8A 00 00

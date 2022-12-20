@@ -1,169 +1,169 @@
 Filetype: IR signals file
 Version: 1
 #
-name: num0
+name: Num0
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 84 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 85 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 86 00 00 00
 #
-name: up_arrow
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 87 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 88 00 00 00
 #
-name: right_arrow
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 89 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 8A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 8B 00 00 00
 #
-name: down_arrow
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 8C 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 8D 00 00 00
 #
-name: fm_preset
+name: Fm_preset
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 8E 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 8F 00 00 00
 #
-name: num7
+name: Num7
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 90 00 00 00
 #
-name: num4
+name: Num4
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 91 00 00 00
 #
-name: num1
+name: Num1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 92 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 93 00 00 00
 #
-name: num8
+name: Num8
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 94 00 00 00
 #
-name: num5
+name: Num5
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 95 00 00 00
 #
-name: num2
+name: Num2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 96 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 97 00 00 00
 #
-name: num9
+name: Num9
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 98 00 00 00
 #
-name: num6
+name: Num6
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 99 00 00 00
 #
-name: num3
+name: Num3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 9A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 9B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 9C 00 00 00
 #
-name: jump_button
+name: Jump_button
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 9D 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 9E 00 00 00
 #
-name: left_arrow
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 00 00 00 00

@@ -61,55 +61,55 @@ protocol: NECext
 address: B7 00 00 00
 command: 09 00 00 00
 #
-name: sat_menu
+name: Sat_menu
 type: parsed
 protocol: NECext
 address: B7 00 00 00
 command: 38 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: B7 00 00 00
 command: 63 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: B7 00 00 00
 command: 63 00 00 00
 #
-name: sat_satguide
+name: Sat_satguide
 type: parsed
 protocol: NECext
 address: B7 00 00 00
 command: 6E 00 00 00
 #
-name: sat_up
+name: Sat_up
 type: parsed
 protocol: NECext
 address: B7 00 00 00
 command: 72 00 00 00
 #
-name: sat_down
+name: Sat_down
 type: parsed
 protocol: NECext
 address: B7 00 00 00
 command: 73 00 00 00
 #
-name: sat_right
+name: Sat_right
 type: parsed
 protocol: NECext
 address: B7 00 00 00
 command: 74 00 00 00
 #
-name: sat_left
+name: Sat_left
 type: parsed
 protocol: NECext
 address: B7 00 00 00
 command: 75 00 00 00
 #
-name: sat_enter
+name: Sat_enter
 type: parsed
 protocol: NECext
 address: B7 00 00 00

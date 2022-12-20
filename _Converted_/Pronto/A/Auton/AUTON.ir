@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RELAY-1-MOMENTARY
+name: Relay-1-momentary
 type: raw
 frequency: 43633
 duty_cycle: 0.330000

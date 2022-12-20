@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 80 7E 00 00
 command: 01 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 80 7E 00 00
 command: 02 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 80 7E 00 00
 command: 06 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 80 7E 00 00
 command: 0A 00 00 00
 #
-name: DN
+name: Dn
 type: parsed
 protocol: NECext
 address: 80 7E 00 00
 command: 0C 00 00 00
 #
-name: SAVE
+name: Save
 type: parsed
 protocol: NECext
 address: 80 7E 00 00
 command: 0D 00 00 00
 #
-name: PWR
+name: Pwr
 type: parsed
 protocol: NECext
 address: 80 7E 00 00

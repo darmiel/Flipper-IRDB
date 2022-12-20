@@ -73,31 +73,31 @@ protocol: NECext
 address: 76 00 00 00
 command: 0D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 15 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 18 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 19 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 76 00 00 00
 command: 1A 00 00 00
 #
-name: Rep/Rand
+name: Rep/rand
 type: parsed
 protocol: NECext
 address: 76 00 00 00

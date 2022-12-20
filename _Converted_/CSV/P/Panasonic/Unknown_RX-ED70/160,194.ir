@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_CLEAR
+name: Cd_clear
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 80 00 00 00
 #
-name: CD_REPEAT
+name: Cd_repeat
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 81 00 00 00
 #
-name: CD_RANDOM
+name: Cd_random
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 82 00 00 00
 #
-name: CD_START
+name: Cd_start
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 84 00 00 00
 #
-name: CD_END
+name: Cd_end
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 85 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 87 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 8F 00 00 00
 #
-name: TAPE_STOP
+name: Tape_stop
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A0 00 00 00
 #
-name: TAPE_REWIND
+name: Tape_rewind
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A2 00 00 00
 #
-name: TAPE_FF
+name: Tape_ff
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A3 00 00 00
 #
-name: TAPE_PLAY
+name: Tape_play
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A6 00 00 00
 #
-name: TAPE_DESC
+name: Tape_desc
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AD 00 00 00
 #
-name: TAPE_REV_MODE
+name: Tape_rev_mode
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AE 00 00 00
 #
-name: TAPE_RESET
+name: Tape_reset
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AF 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B0 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B1 00 00 00
 #
-name: TUNER_BAND
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B8 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BC 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BF 00 00 00
 #
-name: PRESET_EQ
+name: Preset_eq
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: D9 00 00 00
 #
-name: TUNER_STEREO_MONO
+name: Tuner_stereo_mono
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E4 00 00 00
 #
-name: TUNER_UP
+name: Tuner_up
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E7 00 00 00
 #
-name: TUNER_DOWN
+name: Tuner_down
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E8 00 00 00
 #
-name: TUNER_BP
+name: Tuner_bp
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: EF 00 00 00
 #
-name: TOP_PANEL_OPEN
+name: Top_panel_open
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: F4 00 00 00
 #
-name: TOP_PANEL_CLOSE
+name: Top_panel_close
 type: parsed
 protocol: NECext
 address: A0 C2 00 00

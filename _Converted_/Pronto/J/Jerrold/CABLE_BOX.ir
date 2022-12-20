@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25342 57 12654 57 12654 57 12654 57 8425 57 8425
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 8425 57 12654 57 8425 57 12654 57 12654
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25342 57 8425 57 8436 57 12654 57 12654 57 12654
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 12654 57 8425 57 12665 57 8425 57 8425
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 12654 57 8436 57 8436 57 8436 57 8436
 #
-name: FAVORITE
+name: Favorite
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 12665 57 8436 57 8436 57 8436 57 12654
 #
-name: SELECT
+name: Select
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 8436 57 8436 57 8436 57 12654 57 12654
 #
-name: ENTER
+name: Enter
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 8425 57 8425 57 8425 57 8425 57 12665
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25342 57 8425 57 12654 57 8425 57 8425 57 12654
 #
-name: A/B
+name: A/b
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
@@ -121,19 +121,19 @@ frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 12654 57 8425 57 8425 57 12665 57 8425
 #
-name: LC
+name: Lc
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25342 57 8425 57 12665 57 12665 57 8425 57 8425
 #
-name: PC/PM
+name: Pc/pm
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 12654 57 8425 57 8425 57 12654 57 12654
 #
-name: TCP
+name: Tcp
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
@@ -145,19 +145,19 @@ frequency: 88195
 duty_cycle: 0.330000
 data: 57 25342 57 8425 57 8425 57 12654 57 8425 57 8425
 #
-name: LEARN
+name: Learn
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25353 57 8425 57 8425 57 8425 57 12654 57 8425
 #
-name: PROGRAM
+name: Program
 type: raw
 frequency: 88195
 duty_cycle: 0.330000
 data: 57 25342 57 8436 57 8436 57 12654 57 12654 57 8436
 #
-name: DELETE
+name: Delete
 type: raw
 frequency: 88195
 duty_cycle: 0.330000

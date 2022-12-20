@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 02 00 00 00
 #
-name: activebass
+name: Activebass
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 04 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 0B 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 0D 00 00 00
 #
-name: fmstereo
+name: Fmstereo
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
@@ -109,127 +109,127 @@ protocol: NECext
 address: 9F 00 00 00
 command: 2E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 32 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3D 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3E 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 42 00 00 00
 #
-name: counterreset
+name: Counterreset
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 57 00 00 00
 #
-name: deckab
+name: Deckab
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 58 00 00 00
 #
-name: revmode
+name: Revmode
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 5F 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 70 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 71 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 74 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 77 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 78 00 00 00
 #
-name: allcdeject
+name: Allcdeject
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 7B 00 00 00
 #
-name: continue
+name: Continue
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 7D 00 00 00
 #
-name: sound
+name: Sound
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 8F 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: F1 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: F2 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: F3 00 00 00
 #
-name: ejectcd1
+name: Ejectcd1
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: F4 00 00 00
 #
-name: ejectcd2
+name: Ejectcd2
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: F5 00 00 00
 #
-name: ejectcd3
+name: Ejectcd3
 type: parsed
 protocol: NECext
 address: 9F 00 00 00

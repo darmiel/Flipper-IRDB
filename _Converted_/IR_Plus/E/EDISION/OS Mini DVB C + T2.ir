@@ -10,7 +10,7 @@ protocol: NECext
 address: FF 00 00 00
 command: AF 50 00 00
 #
-name: TV / Radio
+name: Tv_/_radio
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -88,7 +88,7 @@ protocol: NECext
 address: FF 00 00 00
 command: F7 08 00 00
 #
-name: Movie Center
+name: Movie_center
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -106,13 +106,13 @@ protocol: NECext
 address: FF 00 00 00
 command: 3D C2 00 00
 #
-name: History Zap
+name: History_zap
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 87 78 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FF 00 00 00
 command: FF 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 3F C0 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: FF 00 00 00
 command: BF 40 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 7F 80 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -190,13 +190,13 @@ protocol: NECext
 address: FF 00 00 00
 command: 9F 60 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 8F 70 00 00
 #
-name: Fav/Last
+name: Fav/last
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -208,7 +208,7 @@ protocol: NECext
 address: FF 00 00 00
 command: A7 58 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -250,37 +250,37 @@ protocol: NECext
 address: FF 00 00 00
 command: 4F B0 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: E3 1C 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 63 9C 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: FB 04 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: B3 4C 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 33 CC 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: FF 00 00 00

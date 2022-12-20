@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4B 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4C 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 4D 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 50 00 00 00
 #
-name: SOURCE_TUNER
+name: Source_tuner
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 59 00 00 00
 #
-name: SOURCE_CD
+name: Source_cd
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5A 00 00 00
 #
-name: SOURCE_LINE
+name: Source_line
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5F 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 68 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 72 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7A 00 00 00
 #
-name: TIME/DISPLAY
+name: Time/display
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: CF 00 00 00
 #
-name: ENTER/MEMO
+name: Enter/memo
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D1 00 00 00
 #
-name: DAB/RDS
+name: Dab/rds
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D2 00 00 00
 #
-name: CLOCK
+name: Clock
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D3 00 00 00
 #
-name: PTY
+name: Pty
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D4 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

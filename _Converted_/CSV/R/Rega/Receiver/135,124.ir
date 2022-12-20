@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 81 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 82 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D1 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 87 7C 00 00

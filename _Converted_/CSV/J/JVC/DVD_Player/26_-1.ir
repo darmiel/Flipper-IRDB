@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_-_5
+name: Power_-_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 10 00 00 00
 #
-name: POWER_-_6A
+name: Power_-_6a
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 10 00 00 00
 #
-name: STOP_-_5
+name: Stop_-_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 13 00 00 00
 #
-name: STOP_-_6A
+name: Stop_-_6a
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 13 00 00 00
 #
-name: OPEN/CLOSE_-_5
+name: Open/close_-_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 14 00 00 00
 #
-name: OPEN/CLOSE_-_6A
+name: Open/close_-_6a
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 14 00 00 00
 #
-name: PLAY_-_5
+name: Play_-_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1C 00 00 00
 #
-name: PLAY_-_6A
+name: Play_-_6a
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

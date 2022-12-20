@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: D2 03 00 00
@@ -13,25 +13,25 @@ protocol: NECext
 address: D2 04 00 00
 command: 47 B8 00 00
 # 
-name: VolUp
+name: Volup
 type: parsed
 protocol: NECext
 address: D2 03 00 00
 command: 02 FD 00 00
 # 
-name: VolDown
+name: Voldown
 type: parsed
 protocol: NECext
 address: D2 03 00 00
 command: 03 FC 00 00
 # 
-name: InputUp
+name: Inputup
 type: parsed
 protocol: NECext
 address: D2 04 00 00
 command: 1E E1 00 00
 # 
-name: InputDown
+name: Inputdown
 type: parsed
 protocol: NECext
 address: D2 04 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: D2 03 00 00
 command: 8B 74 00 00
 # 
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: D2 03 00 00
@@ -115,25 +115,25 @@ protocol: NECext
 address: D2 04 00 00
 command: 12 ED 00 00
 # 
-name: PlaylistUp
+name: Playlistup
 type: parsed
 protocol: NECext
 address: D2 09 00 00
 command: 52 AD 00 00
 # 
-name: PlaylistDn
+name: Playlistdn
 type: parsed
 protocol: NECext
 address: D2 09 00 00
 command: 53 AC 00 00
 # 
-name: AlbumUp
+name: Albumup
 type: parsed
 protocol: NECext
 address: D2 09 00 00
 command: 50 AF 00 00
 # 
-name: AlbumDn
+name: Albumdn
 type: parsed
 protocol: NECext
 address: D2 09 00 00
@@ -145,43 +145,43 @@ protocol: NECext
 address: D2 04 00 00
 command: 8A 75 00 00
 # 
-name: FMMode
+name: Fmmode
 type: parsed
 protocol: NECext
 address: D2 09 00 00
 command: D3 2C 00 00
 # 
-name: PresetUp
+name: Presetup
 type: parsed
 protocol: NECext
 address: D2 03 00 00
 command: 00 FF 00 00
 # 
-name: PresetDn
+name: Presetdn
 type: parsed
 protocol: NECext
 address: D2 03 00 00
 command: 01 FE 00 00
 # 
-name: TuningUp
+name: Tuningup
 type: parsed
 protocol: NECext
 address: D2 09 00 00
 command: 40 BF 00 00
 # 
-name: TuningDn
+name: Tuningdn
 type: parsed
 protocol: NECext
 address: D2 09 00 00
 command: 41 BE 00 00
 # 
-name: PlayMode
+name: Playmode
 type: parsed
 protocol: NECext
 address: D2 04 00 00
 command: 08 F7 00 00
 # 
-name: GroupSearch
+name: Groupsearch
 type: parsed
 protocol: NECext
 address: D2 04 00 00
@@ -253,7 +253,7 @@ protocol: NECext
 address: D2 03 00 00
 command: DD 22 00 00
 # 
-name: GT10
+name: Gt10
 type: parsed
 protocol: NECext
 address: D2 03 00 00
@@ -265,7 +265,7 @@ protocol: NECext
 address: D2 03 00 00
 command: DE 21 00 00
 # 
-name: CLR
+name: Clr
 type: parsed
 protocol: NECext
 address: D2 03 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CODE2_POWER_ON
+name: Code2_power_on
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: CODE2_POWER_OFF
+name: Code2_power_off
 type: parsed
 protocol: NECext
 address: 04 00 00 00

@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 01 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 02 00 00 00
 #
-name: SEARCH/SKIP_>>
+name: Search/skip_>>
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 03 00 00 00
 #
-name: SEARCH/SKIP_<<
+name: Search/skip_<<
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 04 00 00 00
 #
-name: DUBBING_MODE
+name: Dubbing_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 05 00 00 00
 #
-name: DUBBING_START
+name: Dubbing_start
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 06 00 00 00
 #
-name: RANDOM/B
+name: Random/b
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 07 00 00 00
 #
-name: DISC_SKIP/E
+name: Disc_skip/e
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 08 00 00 00
 #
-name: MODE/D
+name: Mode/d
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 09 00 00 00
 #
-name: TEXT/TIME
+name: Text/time
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0A 00 00 00
 #
-name: PROG/C
+name: Prog/c
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0B 00 00 00
 #
-name: REP/A
+name: Rep/a
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -145,13 +145,13 @@ protocol: NECext
 address: 78 00 00 00
 command: 1A 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1B 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -163,73 +163,73 @@ protocol: NECext
 address: 78 00 00 00
 command: 1D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1F 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 41 00 00 00
 #
-name: TAPE_DIRECTION
+name: Tape_direction
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 43 00 00 00
 #
-name: TAPE_REC/PAUSE
+name: Tape_rec/pause
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 46 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 49 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4A 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4B 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4F 00 00 00
 #
-name: MD
+name: Md
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 57 00 00 00
 #
-name: MD_REC/PAUSE
+name: Md_rec/pause
 type: parsed
 protocol: NECext
 address: 78 00 00 00

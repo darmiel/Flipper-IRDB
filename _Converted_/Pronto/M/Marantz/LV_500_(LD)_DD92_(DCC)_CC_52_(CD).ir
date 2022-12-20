@@ -2,98 +2,98 @@ Filetype: IR signals file
 Version: 1
 #
 # TUNE- [raw] {11100101-100001}
-name: TUNE-
+name: Tune-
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 21 00 00 00
 #
 # TUNE+ [raw] {11100101-100000}
-name: TUNE+
+name: Tune+
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 20 00 00 00
 #
 # RECORD [raw] {11100101-110111}
-name: RECORD
+name: Record
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 37 00 00 00
 #
 # PAUSE [raw] {11100101-101001}
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 29 00 00 00
 #
 # VCR [raw] {11100101-001100}
-name: VCR
+name: Vcr
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 0C 00 00 00
 #
 # VCR_REW [raw] {11100101-110010}
-name: VCR_REW
+name: Vcr_rew
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 32 00 00 00
 #
 # VCR_FFWD [raw] {11100101-110100}
-name: VCR_FFWD
+name: Vcr_ffwd
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 34 00 00 00
 #
 # VCR_STOP [raw] {11100101-110110}
-name: VCR_STOP
+name: Vcr_stop
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 36 00 00 00
 #
 # VCR_PLAY [raw] {11000101-110101}
-name: VCR_PLAY
+name: Vcr_play
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 35 00 00 00
 #
 # VCR_TV/VCR [raw] {11000101-111110}
-name: VCR_TV/VCR
+name: Vcr_tv/vcr
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 3E 00 00 00
 #
 # CH- [raw] {11000000-100001}
-name: CH-
+name: Ch-
 type: parsed
 protocol: RC5
 address: 00 00 00 00
 command: 21 00 00 00
 #
 # CH+ [raw] {11000000-100000}
-name: CH+
+name: Ch+
 type: parsed
 protocol: RC5
 address: 00 00 00 00
 command: 20 00 00 00
 #
 # TV_TV/VCR [raw] {11000000-111000}
-name: TV_TV/VCR
+name: Tv_tv/vcr
 type: parsed
 protocol: RC5
 address: 00 00 00 00
 command: 38 00 00 00
 #
 # TV [raw] {11000000-001100}
-name: TV
+name: Tv
 type: parsed
 protocol: RC5
 address: 00 00 00 00
@@ -170,7 +170,7 @@ address: 00 00 00 00
 command: 0A 00 00 00
 #
 # 11/F/P [raw] {11100000-001011}
-name: 11/F/P
+name: 11/f/p
 type: parsed
 protocol: RC5
 address: 00 00 00 00
@@ -184,164 +184,164 @@ address: 00 00 00 00
 command: 3C 00 00 00
 #
 # MUTE [raw] {11100000-001101}
-name: MUTE
+name: Mute
 type: parsed
 protocol: RC5
 address: 00 00 00 00
 command: 0D 00 00 00
 #
 # LD_EJECT [raw] {11101100-101101}
-name: LD_EJECT
+name: Ld_eject
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 2D 00 00 00
 #
 # LD_STOP [raw] {11101100-110110}
-name: LD_STOP
+name: Ld_stop
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 36 00 00 00
 #
 # LD_PAUSE [raw] {11101100-110000}
-name: LD_PAUSE
+name: Ld_pause
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 30 00 00 00
 #
 # LD_PLAY [raw] {11101100-110101}
-name: LD_PLAY
+name: Ld_play
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 35 00 00 00
 #
 # LD [raw] {11101100-001100}
-name: LD
+name: Ld
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 0C 00 00 00
 #
 # DISC_REW [raw] {11101100-101100}
-name: DISC_REW
+name: Disc_rew
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 2C 00 00 00
 #
 # DISC_FFWD [raw] {11101100-101110}
-name: DISC_FFWD
+name: Disc_ffwd
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 2E 00 00 00
 #
 # DISC_R_STEP [raw] {11101100-100100}
-name: DISC_R_STEP
+name: Disc_r_step
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 24 00 00 00
 #
 # DISC_F_STEP [raw] {11101100-011110}
-name: DISC_F_STEP
+name: Disc_f_step
 type: parsed
 protocol: RC5
 address: 0C 00 00 00
 command: 1E 00 00 00
 #
 # TUNER [raw] {11110001-111111}
-name: TUNER
+name: Tuner
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 3F 00 00 00
 #
 # CD [raw] {11110100-111111}
-name: CD
+name: Cd
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 3F 00 00 00
 #
 # TAPE [raw] {11110010-111111}
-name: TAPE
+name: Tape
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 3F 00 00 00
 #
 # DCC [raw] {11110111-111111}
-name: DCC
+name: Dcc
 type: parsed
 protocol: RC5
 address: 17 00 00 00
 command: 3F 00 00 00
 #
-name: POWER
+name: Power
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 888 888 4411 888 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 77126
 #
 # DBS [raw] {11101000-111111}
-name: DBS
+name: Dbs
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 3F 00 00 00
 #
 # VCR1 [raw] {11100101-111111}
-name: VCR1
+name: Vcr1
 type: parsed
 protocol: RC5
 address: 05 00 00 00
 command: 3F 00 00 00
 #
 # VCR2 [raw] {11100110-111111}
-name: VCR2
+name: Vcr2
 type: parsed
 protocol: RC5
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: AUX
+name: Aux
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 888 888 4411 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 1776 888 888 1776 77126
 #
 # VOL+ [raw] {11110000-010000}
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 10 00 00 00
 #
 # VOL- [raw] {11110000-010001}
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 11 00 00 00
 #
 # MUTE [raw] {11110000-001101}
-name: MUTE
+name: Mute
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: DOLBY_SURR
+name: Dolby_surr
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 888 888 5327 1776 888 888 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 77070
 #
-name: STEREO
+name: Stereo
 type: raw
 frequency: 36045
 duty_cycle: 0.330000

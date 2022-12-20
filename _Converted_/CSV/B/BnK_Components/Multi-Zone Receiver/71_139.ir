@@ -1,337 +1,337 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BK020_POWER_OFF
+name: Bk020_power_off
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 01 00 00 00
 #
-name: BK020_POWER_ON
+name: Bk020_power_on
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 02 00 00 00
 #
-name: BK020_MUTE
+name: Bk020_mute
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 03 00 00 00
 #
-name: BK020_INPUT_1
+name: Bk020_input_1
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 05 00 00 00
 #
-name: BK020_INPUT_3
+name: Bk020_input_3
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 06 00 00 00
 #
-name: BK020_INPUT_8
+name: Bk020_input_8
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 07 00 00 00
 #
-name: BK020_INPUT_2
+name: Bk020_input_2
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 09 00 00 00
 #
-name: BK020_INPUT_7
+name: Bk020_input_7
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 0B 00 00 00
 #
-name: BK020_INPUT_4
+name: Bk020_input_4
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 0D 00 00 00
 #
-name: BK020_TUNER_1
+name: Bk020_tuner_1
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 0E 00 00 00
 #
-name: BK020_INPUT_5
+name: Bk020_input_5
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 0F 00 00 00
 #
-name: BK020_STATION-
+name: Bk020_station-
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 17 00 00 00
 #
-name: BK020_STATION+
+name: Bk020_station+
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 18 00 00 00
 #
-name: BK020_TUNE-
+name: Bk020_tune-
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 1B 00 00 00
 #
-name: BK020_TUNE+
+name: Bk020_tune+
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 1C 00 00 00
 #
-name: BK020_LEFT
+name: Bk020_left
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 1F 00 00 00
 #
-name: BK020_RIGHT
+name: Bk020_right
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 20 00 00 00
 #
-name: BK020_VOLUME-
+name: Bk020_volume-
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 23 00 00 00
 #
-name: BK020_VOLUME+
+name: Bk020_volume+
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 24 00 00 00
 #
-name: BK020_NUMBER_+10
+name: Bk020_number_+10
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 29 00 00 00
 #
-name: BK020_EQ
+name: Bk020_eq
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 2A 00 00 00
 #
-name: BK020_DOWN
+name: Bk020_down
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 2D 00 00 00
 #
-name: BK020_UP
+name: Bk020_up
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 2E 00 00 00
 #
-name: BK020_ENTER
+name: Bk020_enter
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 30 00 00 00
 #
-name: BK020_NUMBER_1
+name: Bk020_number_1
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 31 00 00 00
 #
-name: BK020_NUMBER_2
+name: Bk020_number_2
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 32 00 00 00
 #
-name: BK020_NUMBER_3
+name: Bk020_number_3
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 33 00 00 00
 #
-name: BK020_NUMBER_4
+name: Bk020_number_4
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 35 00 00 00
 #
-name: BK020_NUMBER_5
+name: Bk020_number_5
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 36 00 00 00
 #
-name: BK020_NUMBER_6
+name: Bk020_number_6
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 37 00 00 00
 #
-name: BK020_NUMBER_7
+name: Bk020_number_7
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 39 00 00 00
 #
-name: BK020_NUMBER_8
+name: Bk020_number_8
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 3A 00 00 00
 #
-name: BK020_NUMBER_9
+name: Bk020_number_9
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 3B 00 00 00
 #
-name: BK020_NUMBER_0
+name: Bk020_number_0
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 3E 00 00 00
 #
-name: BK020_SAVE
+name: Bk020_save
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 40 00 00 00
 #
-name: BK020_TUNER_3
+name: Bk020_tuner_3
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 44 00 00 00
 #
-name: BK020_INPUT_6
+name: Bk020_input_6
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 4A 00 00 00
 #
-name: BK020_PRESET+
+name: Bk020_preset+
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 4B 00 00 00
 #
-name: BK020_D-IN
+name: Bk020_d-in
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 5A 00 00 00
 #
-name: BK020_BASS-
+name: Bk020_bass-
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 65 00 00 00
 #
-name: BK020_SOURCE+
+name: Bk020_source+
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 66 00 00 00
 #
-name: BK020_INPUT_9
+name: Bk020_input_9
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 6E 00 00 00
 #
-name: BK020_AM
+name: Bk020_am
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 76 00 00 00
 #
-name: BK020_TREBLE-
+name: Bk020_treble-
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 79 00 00 00
 #
-name: BK020_VIDEO-
+name: Bk020_video-
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 7A 00 00 00
 #
-name: BK020_EXIT
+name: Bk020_exit
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 7D 00 00 00
 #
-name: BK020_TUNER_2
+name: Bk020_tuner_2
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 84 00 00 00
 #
-name: BK020_FM
+name: Bk020_fm
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: 8E 00 00 00
 #
-name: BK020_SOURCE-
+name: Bk020_source-
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: A6 00 00 00
 #
-name: BK020_SLEEP
+name: Bk020_sleep
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: B3 00 00 00
 #
-name: BK020_PRESET-
+name: Bk020_preset-
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: C6 00 00 00
 #
-name: BK020_LOUDNESS
+name: Bk020_loudness
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: CF 00 00 00
 #
-name: BK020_AUTO_LEVEL
+name: Bk020_auto_level
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: E4 00 00 00
 #
-name: BK020_BASS+
+name: Bk020_bass+
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: E5 00 00 00
 #
-name: BK020_TREBLE+
+name: Bk020_treble+
 type: parsed
 protocol: NECext
 address: 47 8B 00 00
 command: F9 00 00 00
 #
-name: BK020_VIDEO+
+name: Bk020_video+
 type: parsed
 protocol: NECext
 address: 47 8B 00 00

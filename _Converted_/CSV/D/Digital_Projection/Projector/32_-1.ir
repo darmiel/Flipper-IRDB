@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 00 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 01 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 02 00 00 00
 #
-name: BRIGHTNESS_+
+name: Brightness_+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 03 00 00 00
 #
-name: CONTRAST_+
+name: Contrast_+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 04 00 00 00
 #
-name: COLOR_+
+name: Color_+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 05 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 06 00 00 00
 #
-name: BRIGHTNESS_-
+name: Brightness_-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 07 00 00 00
 #
-name: CONTRAST_-
+name: Contrast_-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 08 00 00 00
 #
-name: COLOR_-
+name: Color_-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 09 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0A 00 00 00
 #
-name: VGA
+name: Vga
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0B 00 00 00
 #
-name: DVI
+name: Dvi
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0C 00 00 00
 #
-name: COMPOSITE
+name: Composite
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0D 00 00 00
 #
-name: AV-MUTE
+name: Av-mute
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0E 00 00 00
 #
-name: COMPONENT
+name: Component
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0F 00 00 00
 #
-name: S-VIDEO
+name: S-video
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 10 00 00 00
 #
-name: STILL
+name: Still
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 11 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 12 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 13 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 14 00 00 00
 #
-name: LEFT_KEY
+name: Left_key
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 15 00 00 00
 #
-name: RIGHT_KEY
+name: Right_key
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 16 00 00 00
 #
-name: GAMMA_-
+name: Gamma_-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 17 00 00 00
 #
-name: GAMMA_+
+name: Gamma_+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 18 00 00 00
 #
-name: *_(STAR)
+name: *_(star)
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 22 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -223,49 +223,49 @@ protocol: NECext
 address: 20 00 00 00
 command: 24 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 25 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 26 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 27 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 28 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 29 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 2A 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 80 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 20 00 00 00

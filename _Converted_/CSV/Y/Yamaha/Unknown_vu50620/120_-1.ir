@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 00 00 00 00
 #
-name: cd_stop
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 01 00 00 00
 #
-name: cd_play
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 02 00 00 00
 #
-name: cd_next
+name: Cd_next
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 03 00 00 00
 #
-name: cd_last
+name: Cd_last
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 04 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 07 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 08 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 09 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0A 00 00 00
 #
-name: prog
+name: Prog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0C 00 00 00
 #
-name: disc_scip
+name: Disc_scip
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -139,133 +139,133 @@ protocol: NECext
 address: 78 00 00 00
 command: 19 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1A 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1E 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1F 00 00 00
 #
-name: tape_stop
+name: Tape_stop
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 41 00 00 00
 #
-name: tape_play_forward
+name: Tape_play_forward
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 42 00 00 00
 #
-name: tape_play_back
+name: Tape_play_back
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 43 00 00 00
 #
-name: tape_forward
+name: Tape_forward
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 44 00 00 00
 #
-name: tape_back
+name: Tape_back
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 45 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 46 00 00 00
 #
-name: tape1/2
+name: Tape1/2
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 47 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4B 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4F 00 00 00
 #
-name: up_arrow
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 55 00 00 00
 #
-name: down_arrow
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 56 00 00 00
 #
-name: left_arrow
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 57 00 00 00
 #
-name: right_arrow
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 58 00 00 00
 #
-name: flat
+name: Flat
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 59 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5A 00 00 00
 #
-name: location
+name: Location
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5B 00 00 00
 #
-name: user
+name: User
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5C 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5D 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 78 00 00 00

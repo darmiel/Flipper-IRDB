@@ -5,7 +5,7 @@ Version: 1
 # RC: philips-ykf326-019
 # Service Menu: HOME 1888
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: RC6
 address: 00 00 00 00
@@ -119,19 +119,19 @@ protocol: RC6
 address: 00 00 00 00
 command: 5C 00 00 00
 # 
-name: VolumeUp
+name: Volumeup
 type: parsed
 protocol: RC6
 address: 00 00 00 00
 command: 10 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC6
 address: 00 00 00 00
 command: 11 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: RC6
 address: 00 00 00 00

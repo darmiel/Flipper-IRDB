@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AUDIO_PRIVACY
+name: Audio_privacy
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 80 00 00 00
 #
-name: SELF/REMOTE_VIEW
+name: Self/remote_view
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 81 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 83 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 85 00 00 00
 #
-name: CONTRAST
+name: Contrast
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 86 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 87 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 88 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 8A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 8B 00 00 00
 #
-name: SPEAKER_PHONE
+name: Speaker_phone
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 8C 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 8D 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 82 13 00 00
 command: 9A 00 00 00
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 82 13 00 00
 command: 9C 00 00 00
 #
-name: NUMERIC_STAR
+name: Numeric_star
 type: parsed
 protocol: NECext
 address: 82 13 00 00

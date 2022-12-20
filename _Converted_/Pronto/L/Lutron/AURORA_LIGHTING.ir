@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BUTTON-1
+name: Button-1
 type: raw
 frequency: 118433
 duty_cycle: 0.330000
 data: 675 84 675 84 675 84 675 84 675 84 675 84 675 84 84 675 675 84 675 84 675 84 675 84 84 675 84 675 84 675 84 675 675 84 675 4644
 #
-name: BUTTON-2
+name: Button-2
 type: raw
 frequency: 118433
 duty_cycle: 0.330000
 data: 675 84 675 84 675 84 675 84 675 84 675 84 675 84 84 675 675 84 675 84 675 84 675 84 675 84 675 84 675 84 675 84 675 84 675 4644
 #
-name: BUTTON-3
+name: Button-3
 type: raw
 frequency: 118433
 duty_cycle: 0.330000
 data: 675 84 675 84 675 84 675 84 675 84 675 84 675 84 84 675 675 84 675 84 675 84 675 84 84 675 84 675 675 84 675 84 675 84 675 4644
 #
-name: BUTTON-4
+name: Button-4
 type: raw
 frequency: 118433
 duty_cycle: 0.330000
 data: 675 84 675 84 675 84 675 84 675 84 675 84 675 84 84 675 675 84 675 84 675 84 675 84 675 84 675 84 84 675 84 675 675 84 675 4644
 #
-name: BUTTON-5
+name: Button-5
 type: raw
 frequency: 118433
 duty_cycle: 0.330000

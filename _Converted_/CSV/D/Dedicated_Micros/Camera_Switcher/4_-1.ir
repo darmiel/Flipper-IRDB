@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -13,25 +13,25 @@ protocol: NECext
 address: 04 00 00 00
 command: 02 00 00 00
 #
-name: UNIT_SELECT
+name: Unit_select
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 03 00 00 00
 #
-name: 3_PAGES
+name: 3_pages
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 04 00 00 00
 #
-name: PAGES
+name: Pages
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 04 00 00 00
 #
-name: HOLD
+name: Hold
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -49,13 +49,13 @@ protocol: NECext
 address: 04 00 00 00
 command: 07 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -67,19 +67,19 @@ protocol: NECext
 address: 04 00 00 00
 command: 0A 00 00 00
 #
-name: 2_PICS
+name: 2_pics
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: SPOT
+name: Spot
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -97,13 +97,13 @@ protocol: NECext
 address: 04 00 00 00
 command: 0F 00 00 00
 #
-name: FRAME_>>
+name: Frame_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 10 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -115,19 +115,19 @@ protocol: NECext
 address: 04 00 00 00
 command: 12 00 00 00
 #
-name: 4_PICS
+name: 4_pics
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 14 00 00 00
 #
-name: 4_PICTURES
+name: 4_pictures
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 14 00 00 00
 #
-name: EVENT
+name: Event
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -151,25 +151,25 @@ protocol: NECext
 address: 04 00 00 00
 command: 17 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 18 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1A 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1B 00 00 00
 #
-name: EVENT
+name: Event
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -193,43 +193,43 @@ protocol: NECext
 address: 04 00 00 00
 command: 1F 00 00 00
 #
-name: FRAME_<<
+name: Frame_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 20 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 20 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 22 00 00 00
 #
-name: 9_PICS
+name: 9_pics
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 23 00 00 00
 #
-name: 9_PICTURES
+name: 9_pictures
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 23 00 00 00
 #
-name: GOTO
+name: Goto
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 23 00 00 00
 #
-name: GOTO
+name: Goto
 type: parsed
 protocol: NECext
 address: 04 00 00 00

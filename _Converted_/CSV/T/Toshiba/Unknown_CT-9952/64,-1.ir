@@ -67,121 +67,121 @@ protocol: NECext
 address: 40 00 00 00
 command: 0A 00 00 00
 #
-name: tv_video
+name: Tv_video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: chrtn
+name: Chrtn
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 19 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1C 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1D 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4A 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4B 00 00 00
 #
-name: tv_vcr
+name: Tv_vcr
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4F 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 51 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 53 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 58 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 00 00 00

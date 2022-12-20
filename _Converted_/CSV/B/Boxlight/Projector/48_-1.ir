@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 00 00 00 00
 #
-name: D_ZOOM+
+name: D_zoom+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 01 00 00 00
 #
-name: D_ZOOM-
+name: D_zoom-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 02 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 05 00 00 00
 #
-name: COMPUTER
+name: Computer
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 07 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 1C 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 1F 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 43 00 00 00
 #
-name: ZOOM-
+name: Zoom-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 46 00 00 00
 #
-name: ZOOM+
+name: Zoom+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 47 00 00 00
 #
-name: FOCUS+
+name: Focus+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 4A 00 00 00
 #
-name: FOCUS-
+name: Focus-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 4B 00 00 00
 #
-name: AUTP_IMAGE
+name: Autp_image
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 89 00 00 00
 #
-name: NO_SHOW
+name: No_show
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 8B 00 00 00
 #
-name: KEYSTONE+
+name: Keystone+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 8E 00 00 00
 #
-name: KEYSTONE-
+name: Keystone-
 type: parsed
 protocol: NECext
 address: 30 00 00 00

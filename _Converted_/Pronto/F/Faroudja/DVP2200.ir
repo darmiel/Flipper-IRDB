@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1763 896 896 896 896 896 896 1763 1763 896 896 896 896 896 896 896 896 1763 896 89718
 #
-name: FUNCTION_UP
+name: Function_up
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 1791 1791 896 896 896 896 1791 1791 896 896 90586
 #
-name: FUNCTION_DOWN
+name: Function_down
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1791 896 896 896 896 896 896 1791 1791 896 896 896 896 1791 896 896 1791 90614
 #
-name: VALUE_LEFT
+name: Value_left
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1763 896 896 896 896 896 896 896 896 1763 1763 896 896 896 896 1763 896 896 896 896 896 89718
 #
-name: VALUE_RIGHT
+name: Value_right
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1763 896 896 896 896 896 896 1763 1763 896 896 896 896 1763 1763 1763 896 89718
 #
-name: PRESET/SUR
+name: Preset/sur
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1763 896 896 896 896 896 896 896 896 1763 1763 896 896 896 896 896 896 1763 896 896 896 89718
 #
-name: INPUT/CENTER
+name: Input/center
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1791 896 896 896 896 896 896 1791 1791 896 896 896 896 896 896 896 896 896 896 90586
 #
-name: ASPECT/MENU
+name: Aspect/menu
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 1791 1791 1791 896 896 1791 896 896 896 896 90586
 #
-name: SCAN/SELECT
+name: Scan/select
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
@@ -115,43 +115,43 @@ frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1791 896 896 896 896 896 896 1791 1791 896 896 1791 1791 896 896 896 896 90698
 #
-name: STORE/ENTER
+name: Store/enter
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1763 896 896 896 896 896 896 896 896 1763 1763 1763 896 896 1763 896 896 1763 896 89718
 #
-name: BRIGHT/LAST
+name: Bright/last
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1791 896 896 896 896 896 896 1791 1791 1791 1791 896 896 1791 1791 90614
 #
-name: CONTR/PIP
+name: Contr/pip
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1763 896 896 896 896 896 896 896 896 1763 1763 1763 1763 896 896 1763 896 896 896 89830
 #
-name: COLOR/SWAP
+name: Color/swap
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1791 896 896 896 896 896 896 1791 1791 1791 1791 1791 1791 896 896 90614
 #
-name: TINT/M-PIP
+name: Tint/m-pip
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1763 896 896 896 896 896 896 896 896 1763 1763 1763 1763 1763 1763 1763 896 89718
 #
-name: DETAIL
+name: Detail
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1791 896 896 896 896 896 896 1791 1791 1791 1791 1791 896 896 1791 90614
 #
-name: N-R
+name: N-r
 type: raw
 frequency: 35734
 duty_cycle: 0.330000

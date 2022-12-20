@@ -7,7 +7,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 00 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -25,19 +25,19 @@ protocol: NECext
 address: 08 00 00 00
 command: 04 00 00 00
 #
-name: av/audio
+name: Av/audio
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 06 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 07 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 14 00 00 00
 #
-name: -/Down
+name: -/down
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 1E 00 00 00
 #
-name: Display/Menu
+name: Display/menu
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 20 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -127,37 +127,37 @@ protocol: NECext
 address: 08 00 00 00
 command: 24 00 00 00
 #
-name: +/Up
+name: +/up
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 25 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 27 00 00 00
 #
-name: SP/LP
+name: Sp/lp
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 28 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 2A 00 00 00
 #
-name: tv/vcr
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 2D 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 2F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -181,13 +181,13 @@ protocol: NECext
 address: 08 00 00 00
 command: 35 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 37 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 08 00 00 00

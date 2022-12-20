@@ -25,13 +25,13 @@ protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: COUNTER_ZERO_STOP
+name: Counter_zero_stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: VIDEO_/_TV
+name: Video_/_tv
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 07 00 00 00
 command: 4A 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 6A 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 07 00 00 00

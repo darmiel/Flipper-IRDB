@@ -61,49 +61,49 @@ protocol: NECext
 address: DF 00 00 00
 command: 09 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: 13 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: 27 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: 2C 00 00 00
 #
-name: track_back
+name: Track_back
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: 33 00 00 00
 #
-name: track_forward
+name: Track_forward
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: 34 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: 38 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: DF 00 00 00

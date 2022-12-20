@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: USER_2
+name: User_2
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 125 00 00 00
 #
-name: USER_3
+name: User_3
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 126 00 00 00
 #
-name: SURR_DIRECT_MAIN
+name: Surr_direct_main
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 131 00 00 00
 #
-name: AUX_MAIN
+name: Aux_main
 type: parsed
 protocol: NECext
 address: 04 01 00 00

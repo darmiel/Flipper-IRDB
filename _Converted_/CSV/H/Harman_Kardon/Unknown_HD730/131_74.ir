@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: fast_backward
+name: Fast_backward
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 00 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 03 00 00 00
 #
-name: skip_backward
+name: Skip_backward
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 04 00 00 00
 #
-name: skip_forward
+name: Skip_forward
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 05 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 07 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0B 00 00 00
 #
-name: repeat_1/all
+name: Repeat_1/all
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0C 00 00 00
 #
-name: repeat_a/b
+name: Repeat_a/b
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0D 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0E 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0F 00 00 00
 #
-name: intro
+name: Intro
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 10 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 11 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
@@ -103,13 +103,13 @@ protocol: NECext
 address: 83 4A 00 00
 command: 15 00 00 00
 #
-name: prog/rev
+name: Prog/rev
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 16 00 00 00
 #
-name: tape_size
+name: Tape_size
 type: parsed
 protocol: NECext
 address: 83 4A 00 00

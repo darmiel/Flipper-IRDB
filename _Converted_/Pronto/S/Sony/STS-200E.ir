@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -55,13 +55,13 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2385 596 1193 596 596 596 596 596 596 596 596 596 596 596 1193 596 596 596 596 596 596 596 596 596 1193 26240
 #
-name: LD
+name: Ld
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
 data: 2385 596 1193 596 596 596 596 596 1193 596 1193 596 596 596 596 596 596 596 596 596 1193 596 1193 596 596 25047
 #
-name: TV
+name: Tv
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -79,7 +79,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2385 596 596 596 596 596 1193 596 596 596 596 596 1193 596 596 596 596 596 596 596 596 596 596 596 1193 26240
 #
-name: CD
+name: Cd
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -145,7 +145,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2385 596 596 596 596 596 1193 596 596 596 596 596 596 596 596 596 596 596 596 596 596 596 596 596 1193 26836
 #
-name: memory
+name: Memory
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -217,7 +217,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2385 596 1193 596 596 596 596 596 1193 596 596 596 596 596 1193 596 596 596 596 596 596 596 596 596 1193 25644
 #
-name: CH
+name: Ch
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -247,7 +247,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2385 596 596 596 596 596 1193 596 596 596 1193 596 1193 596 1193 596 596 596 596 596 1193 596 1193 596 596 24451
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 40244
 duty_cycle: 0.330000

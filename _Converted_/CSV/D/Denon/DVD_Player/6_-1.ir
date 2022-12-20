@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: C0 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: C0 00 00 00
 #
-name: DVD_OFF
+name: Dvd_off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: C0 00 00 00
 #
-name: SUPER_AUDIO_CD_SETUP
+name: Super_audio_cd_setup
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: CD 00 00 00
 #
-name: CD/STEREO/MULTI
+name: Cd/stereo/multi
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: CD 00 00 00
 #
-name: SUPER_AUDIO_CD_SET
+name: Super_audio_cd_set
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: CD 00 00 00
 #
-name: HDMI/DVI_FORMAT
+name: Hdmi/dvi_format
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: D0 00 00 00
 #
-name: HDMI_FORMAT
+name: Hdmi_format
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: D0 00 00 00
 #
-name: PURE_DIRECT_SELECT
+name: Pure_direct_select
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: D4 00 00 00
 #
-name: HDMI/DVI_SELECT
+name: Hdmi/dvi_select
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: D5 00 00 00
 #
-name: HDMI/_DVI_SELECT
+name: Hdmi/_dvi_select
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: D5 00 00 00
 #
-name: HDMI_SELECT
+name: Hdmi_select
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: D5 00 00 00
 #
-name: DISC_EXCHANGE
+name: Disc_exchange
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: FA 00 00 00
 #
-name: PAGE_-
+name: Page_-
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: FD 00 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: FD 00 00 00
 #
-name: PAGE_--
+name: Page_--
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: FD 00 00 00
 #
-name: PAGE_+
+name: Page_+
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: FE 00 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: FE 00 00 00
 #
-name: GROUP
+name: Group
 type: parsed
 protocol: NECext
 address: 06 00 00 00

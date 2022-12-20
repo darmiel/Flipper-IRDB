@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 916 888 888 888 888 888 1776 1776 888 888 888 888 1776 888 888 1776 888 888 1776 888 888 91136
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 888 888 888 888 1776 1776 1776 888 888 888 888 1776 888 90248
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 91136
 #
-name: R_SRCH
+name: R_srch
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 888 888 888 888 888 888 1776 888 888 888 888 888 888 1776 888 90248
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 888 888 888 888 888 888 888 888 1776 1776 1776 1776 888 90248
 #
-name: F_SRCH
+name: F_srch
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 888 91136
 #
-name: R_TRK
+name: R_trk
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 1776 91136
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 916 888 888 888 888 888 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 888 888 888 888 91136
 #
-name: F_TRK
+name: F_trk
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 916 888 888 888 888 888 1776 1776 888 888 888 888 888 888 888 888 1776 1776 1776 888 888 91136
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 36045
 duty_cycle: 0.330000

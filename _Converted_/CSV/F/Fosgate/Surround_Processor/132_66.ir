@@ -1,457 +1,457 @@
 Filetype: IR signals file
 Version: 1
 #
-name: S-VID-1
+name: S-vid-1
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 00 00 00 00
 #
-name: SIBILANT_FILTERS
+name: Sibilant_filters
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 00 00 00 00
 #
-name: MOVIE_70MM
+name: Movie_70mm
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 02 00 00 00
 #
-name: MOVIE_70MM_WIDE
+name: Movie_70mm_wide
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 02 00 00 00
 #
-name: ROCK
+name: Rock
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 03 00 00 00
 #
-name: S-VID-2
+name: S-vid-2
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 04 00 00 00
 #
-name: RE-EQ_FILTERS
+name: Re-eq_filters
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 04 00 00 00
 #
-name: MOVIE_70MM
+name: Movie_70mm
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 06 00 00 00
 #
-name: MOVIE_35MM
+name: Movie_35mm
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 06 00 00 00
 #
-name: 70MM
+name: 70mm
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 06 00 00 00
 #
-name: POPULAR
+name: Popular
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 07 00 00 00
 #
-name: POP
+name: Pop
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 07 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 08 00 00 00
 #
-name: STEREO_BYPASS
+name: Stereo_bypass
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 08 00 00 00
 #
-name: PRO_LOGIC
+name: Pro_logic
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0A 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0A 00 00 00
 #
-name: PRO_LOGC
+name: Pro_logc
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0A 00 00 00
 #
-name: JAZZ
+name: Jazz
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0B 00 00 00
 #
-name: MONO_ENHANCE
+name: Mono_enhance
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0E 00 00 00
 #
-name: PRO_LOGIC
+name: Pro_logic
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0E 00 00 00
 #
-name: CLASSICAL
+name: Classical
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0F 00 00 00
 #
-name: CHAMBER
+name: Chamber
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0F 00 00 00
 #
-name: CLAS
+name: Clas
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0F 00 00 00
 #
-name: MONO_ENHANCE
+name: Mono_enhance
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 12 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 13 00 00 00
 #
-name: ORCHESTRA
+name: Orchestra
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 13 00 00 00
 #
-name: ORCH
+name: Orch
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 13 00 00 00
 #
-name: SRND_OFF
+name: Srnd_off
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 13 00 00 00
 #
-name: BACK_LEVEL_^
+name: Back_level_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 18 00 00 00
 #
-name: REAR_VOL+
+name: Rear_vol+
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 18 00 00 00
 #
-name: MASTER_VOLUME_V
+name: Master_volume_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 19 00 00 00
 #
-name: MASTER_LEVEL_V
+name: Master_level_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 19 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 19 00 00 00
 #
-name: SOURCE_^
+name: Source_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 40 00 00 00
 #
-name: PAN_CTR
+name: Pan_ctr
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 40 00 00 00
 #
-name: PAN_CENTER
+name: Pan_center
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 40 00 00 00
 #
-name: LV
+name: Lv
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 41 00 00 00
 #
-name: INPUT_CALIBRATE_<
+name: Input_calibrate_<
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 41 00 00 00
 #
-name: SOURCE_V
+name: Source_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 43 00 00 00
 #
-name: PAN_V
+name: Pan_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 43 00 00 00
 #
-name: DELAY_^
+name: Delay_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 44 00 00 00
 #
-name: SOURCE_^
+name: Source_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 44 00 00 00
 #
-name: AUX_1
+name: Aux_1
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 45 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 45 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 45 00 00 00
 #
-name: DELAY_V
+name: Delay_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 47 00 00 00
 #
-name: SOURCE_V
+name: Source_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 47 00 00 00
 #
-name: BASS_EQ_^
+name: Bass_eq_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 48 00 00 00
 #
-name: DELAY_^
+name: Delay_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 48 00 00 00
 #
-name: SIB
+name: Sib
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 48 00 00 00
 #
-name: BASS_+
+name: Bass_+
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 48 00 00 00
 #
-name: AUX_2
+name: Aux_2
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 49 00 00 00
 #
-name: INPUT_CALIBRATE_>
+name: Input_calibrate_>
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 49 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 49 00 00 00
 #
-name: BASS_EQ_V
+name: Bass_eq_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4B 00 00 00
 #
-name: DELAY_V
+name: Delay_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4B 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4B 00 00 00
 #
-name: BASS_-
+name: Bass_-
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4B 00 00 00
 #
-name: CTR_ON
+name: Ctr_on
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4C 00 00 00
 #
-name: CNTR_ON
+name: Cntr_on
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4C 00 00 00
 #
-name: BOOST
+name: Boost
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4F 00 00 00
 #
-name: CNTR+
+name: Cntr+
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 50 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 51 00 00 00
 #
-name: HI_FREQ
+name: Hi_freq
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 53 00 00 00
 #
-name: PANEL_LIGHTS
+name: Panel_lights
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 53 00 00 00
 #
-name: RE-EQ
+name: Re-eq
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 53 00 00 00
 #
-name: BACK_LEVEL_REF
+name: Back_level_ref
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 56 00 00 00
 #
-name: REF
+name: Ref
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 56 00 00 00
 #
-name: MASTER_VOLUME_^
+name: Master_volume_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 58 00 00 00
 #
-name: MASTER_LEVEL_^
+name: Master_level_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 58 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 58 00 00 00
 #
-name: BACK_LEVEL_V
+name: Back_level_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 5A 00 00 00
 #
-name: REAR_VOL-
+name: Rear_vol-
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 5A 00 00 00
 #
-name: SIBILANT
+name: Sibilant
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 5F 00 00 00
 #
-name: PAN_^
+name: Pan_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00

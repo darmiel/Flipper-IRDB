@@ -7,31 +7,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 03 00 00 00
 #
-name: V-Mode
+name: V-mode
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -55,19 +55,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -79,19 +79,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: LANGUAGE
+name: Language
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -115,55 +115,55 @@ protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: L/R
+name: L/r
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -205,19 +205,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 47 00 00 00
 #
-name: N/P
+name: N/p
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 49 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4A 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -241,13 +241,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 4F 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 51 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00

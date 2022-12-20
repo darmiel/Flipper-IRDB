@@ -10,79 +10,79 @@ protocol: NECext
 address: 81 7E 00 00
 command: 01 FE 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 81 7E 00 00
 command: 81 7E 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 57 A8 00 00
 #
-name: MD/TAPE
+name: Md/tape
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: E7 18 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 97 68 00 00
 #
-name: XM
+name: Xm
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: D2 2D 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 7C 83 00 00
 #
-name: DTV/CBL
+name: Dtv/cbl
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: D5 2A 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 0F F0 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: D7 28 00 00
 #
-name: SPEAKERS A
+name: Speakers_a
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: A6 59 00 00
 #
-name: SPEAKERS B
+name: Speakers_b
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: A6 59 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 15 EA 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: A1 5E 00 00
 command: C7 38 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A1 5E 00 00

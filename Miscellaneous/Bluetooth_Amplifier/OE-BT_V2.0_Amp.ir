@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: On/Off
+name: On/off
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -19,37 +19,37 @@ protocol: NEC
 address: 00 00 00 00
 command: 47 00 00 00
 # 
-name: Pause/Play
+name: Pause/play
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 44 00 00 00
 # 
-name: Skip_Backwards
+name: Skip_backwards
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 40 00 00 00
 # 
-name: Skip_Forward
+name: Skip_forward
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 09 00 00 00
 # 
-name: EQ
+name: Eq
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 07 00 00 00
 # 
-name: Volume_Down
+name: Volume_down
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 15 00 00 00
 # 
-name: Volume_Up
+name: Volume_up
 type: parsed
 protocol: NEC
 address: 00 00 00 00

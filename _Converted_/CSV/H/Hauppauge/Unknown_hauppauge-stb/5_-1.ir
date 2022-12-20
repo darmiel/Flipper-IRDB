@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 01 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -73,31 +73,31 @@ protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0D 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0E 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0F 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 10 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -109,37 +109,37 @@ protocol: NECext
 address: 05 00 00 00
 command: 12 00 00 00
 #
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 13 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 14 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 15 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 16 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 17 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 19 00 00 00
 #
-name: TV/Radio
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: 05 00 00 00

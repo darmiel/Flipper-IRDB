@@ -9,63 +9,63 @@ address: 12 00 00 00
 command: 2F 00 00 00
 #
 # DECK_A [raw] {11010010-101100}
-name: DECK_A
+name: Deck_a
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2C 00 00 00
 #
 # DECK_B [raw] {11110010-101110}
-name: DECK_B
+name: Deck_b
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2E 00 00 00
 #
 # CONT [raw] {11010010-100100}
-name: CONT
+name: Cont
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 24 00 00 00
 #
 # R_MODE [raw] {11110010-011101}
-name: R_MODE
+name: R_mode
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 1D 00 00 00
 #
 # UP_ARROW [raw] {11010010-010000}
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 10 00 00 00
 #
 # DN_ARROW [raw] {11110010-010001}
-name: DN_ARROW
+name: Dn_arrow
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 11 00 00 00
 #
 # MEMO [raw] {11010010-101001}
-name: MEMO
+name: Memo
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 29 00 00 00
 #
 # AMS [raw] {11110010-101011}
-name: AMS
+name: Ams
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2B 00 00 00
 #
 # COUNTER [raw] {11010010-001111}
-name: COUNTER
+name: Counter
 type: parsed
 protocol: RC5
 address: 12 00 00 00

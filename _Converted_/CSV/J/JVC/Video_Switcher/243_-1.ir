@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO_MUTE
+name: Video_mute
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 86 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 90 00 00 00
 #
-name: OUTPUT_MONITOR
+name: Output_monitor
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 90 00 00 00
 #
-name: MONITOR_1
+name: Monitor_1
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 91 00 00 00
 #
-name: MONITOR_2
+name: Monitor_2
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 92 00 00 00
 #
-name: MONITOR_3
+name: Monitor_3
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 93 00 00 00
 #
-name: MONITOR_4
+name: Monitor_4
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 94 00 00 00
 #
-name: MONITOR_5
+name: Monitor_5
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 95 00 00 00
 #
-name: MONITOR_6
+name: Monitor_6
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 96 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 97 00 00 00
 #
-name: MONITOR_7
+name: Monitor_7
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 98 00 00 00
 #
-name: MONITOR_OUT_Y/C
+name: Monitor_out_y/c
 type: parsed
 protocol: NECext
 address: F3 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: F3 00 00 00
 command: A1 00 00 00
 #
-name: SOURCE_1
+name: Source_1
 type: parsed
 protocol: NECext
 address: F3 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: F3 00 00 00
 command: A2 00 00 00
 #
-name: SOURCE_2
+name: Source_2
 type: parsed
 protocol: NECext
 address: F3 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: F3 00 00 00
 command: A3 00 00 00
 #
-name: SOURCE_3
+name: Source_3
 type: parsed
 protocol: NECext
 address: F3 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: F3 00 00 00
 command: A4 00 00 00
 #
-name: SOURCE_4
+name: Source_4
 type: parsed
 protocol: NECext
 address: F3 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: F3 00 00 00
 command: A5 00 00 00
 #
-name: SOURCE_5
+name: Source_5
 type: parsed
 protocol: NECext
 address: F3 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: F3 00 00 00
 command: A6 00 00 00
 #
-name: SOURCE_6
+name: Source_6
 type: parsed
 protocol: NECext
 address: F3 00 00 00
@@ -151,61 +151,61 @@ protocol: NECext
 address: F3 00 00 00
 command: A7 00 00 00
 #
-name: SOURCE_7
+name: Source_7
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: A7 00 00 00
 #
-name: LOOP_PROTECT
+name: Loop_protect
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: A8 00 00 00
 #
-name: DUAL_OPERATE
+name: Dual_operate
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AA 00 00 00
 #
-name: DUAL_OPERATION
+name: Dual_operation
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AA 00 00 00
 #
-name: KEYLOCK
+name: Keylock
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AB 00 00 00
 #
-name: LOCK
+name: Lock
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AB 00 00 00
 #
-name: PROCESSOR_VIDEO
+name: Processor_video
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AC 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AD 00 00 00
 #
-name: PROCESSOR_AUDIO
+name: Processor_audio
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AD 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: F3 00 00 00

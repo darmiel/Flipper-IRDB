@@ -73,13 +73,13 @@ protocol: NECext
 address: 59 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 59 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 59 00 00 00
 command: 1A 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 59 00 00 00
@@ -145,25 +145,25 @@ protocol: NECext
 address: 59 00 00 00
 command: 21 00 00 00
 #
-name: PopM
+name: Popm
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 22 00 00 00
 #
-name: RockM
+name: Rockm
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 23 00 00 00
 #
-name: MORM
+name: Morm
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 24 00 00 00
 #
-name: LIGHTS_TOGGLE
+name: Lights_toggle
 type: parsed
 protocol: NECext
 address: 59 00 00 00
@@ -175,37 +175,37 @@ protocol: NECext
 address: 59 00 00 00
 command: 26 00 00 00
 #
-name: OtherM
+name: Otherm
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 27 00 00 00
 #
-name: MusicBalance
+name: Musicbalance
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 28 00 00 00
 #
-name: SpeechBalance
+name: Speechbalance
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 29 00 00 00
 #
-name: MonoMode
+name: Monomode
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 33 00 00 00
 #
-name: FineTuningUp
+name: Finetuningup
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 34 00 00 00
 #
-name: FineTuningDown
+name: Finetuningdown
 type: parsed
 protocol: NECext
 address: 59 00 00 00
@@ -235,19 +235,19 @@ protocol: NECext
 address: 59 00 00 00
 command: 3B 00 00 00
 #
-name: DisplayMode
+name: Displaymode
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 4B 00 00 00
 #
-name: BlockUp
+name: Blockup
 type: parsed
 protocol: NECext
 address: 59 00 00 00
 command: 4C 00 00 00
 #
-name: BlockDown
+name: Blockdown
 type: parsed
 protocol: NECext
 address: 59 00 00 00

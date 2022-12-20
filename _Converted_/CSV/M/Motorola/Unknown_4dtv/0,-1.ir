@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -67,19 +67,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: GoBack
+name: Goback
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: LastCh
+name: Lastch
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -115,31 +115,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -157,7 +157,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -169,13 +169,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00

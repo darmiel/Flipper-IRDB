@@ -1,199 +1,199 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TRACKING_-_UP
+name: Tracking_-_up
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: S._TRACKING_^
+name: S._tracking_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: TRACKING_^
+name: Tracking_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: VCR1_TRACKING_^
+name: Vcr1_tracking_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: TRACKING_+
+name: Tracking_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: VCR1_AUTO_TRK_^
+name: Vcr1_auto_trk_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: VCR1_MANUAL_^
+name: Vcr1_manual_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: VTR1_TRACKING_^
+name: Vtr1_tracking_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: TRACKING_V
+name: Tracking_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 00 00 00 00
 #
-name: TRACKING_-_DOWN
+name: Tracking_-_down
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: S._TRACKING_V
+name: S._tracking_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: TRACKING_V
+name: Tracking_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: VCR1_TRACKING_V
+name: Vcr1_tracking_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: TRACKING_-
+name: Tracking_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: VCR1_AUTO_TRK_V
+name: Vcr1_auto_trk_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: VCR1_MANUAL_V
+name: Vcr1_manual_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: VTR1_TRACKING_V
+name: Vtr1_tracking_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: TRACKING_^
+name: Tracking_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 01 00 00 00
 #
-name: SPEED_+
+name: Speed_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: VCR1_SLOW_+
+name: Vcr1_slow_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: VARIABLE_+
+name: Variable_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: SLOW_SPEED_+
+name: Slow_speed_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: VCR1_SLOW_SPEED_+
+name: Vcr1_slow_speed_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: VCR1_SLOW_^
+name: Vcr1_slow_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: VTR1_SLOW_SPEED_+
+name: Vtr1_slow_speed_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: VCR1_SLOW
+name: Vcr1_slow
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 02 00 00 00
 #
-name: SPEED_-
+name: Speed_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 03 00 00 00
 #
-name: VCR1_SLOW_-
+name: Vcr1_slow_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 03 00 00 00
 #
-name: VARIABLE_-
+name: Variable_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 03 00 00 00
 #
-name: SLOW_SPEED_-
+name: Slow_speed_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 03 00 00 00
 #
-name: VCR1_SLOW_SPEED_-
+name: Vcr1_slow_speed_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 03 00 00 00
 #
-name: VCR1_SLOW_V
+name: Vcr1_slow_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 03 00 00 00
 #
-name: VTR1_SLOW_SPEED_-
+name: Vtr1_slow_speed_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -205,55 +205,55 @@ protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: VTR_8
+name: Vtr_8
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: 8_(AM)
+name: 8_(am)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: VCR1_8
+name: Vcr1_8
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: 8_VWX
+name: 8_vwx
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: VCR_8
+name: Vcr_8
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: VCR1_8_(AM)
+name: Vcr1_8_(am)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: VTR1_8_(T_U_V_AM)
+name: Vtr1_8_(t_u_v_am)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: VCR_8_(AM)
+name: Vcr_8_(am)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: VCR1_8_AM
+name: Vcr1_8_am
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -265,67 +265,67 @@ protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: VTR_9
+name: Vtr_9
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: 9_(PM)
+name: 9_(pm)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: VCR1_9
+name: Vcr1_9
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: 9_YZ.
+name: 9_yz.
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: VCR_9
+name: Vcr_9
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: VCR1_9_(PM)
+name: Vcr1_9_(pm)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: VTR1_9_(W_X_Y_PM)
+name: Vtr1_9_(w_x_y_pm)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: VCR_9_(PM)
+name: Vcr_9_(pm)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: VCR1_9_PM
+name: Vcr1_9_pm
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: 100_ENT
+name: 100_ent
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 06 00 00 00
 #
-name: 100/ENT
+name: 100/ent
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -337,13 +337,13 @@ protocol: NECext
 address: 60 00 00 00
 command: 06 00 00 00
 #
-name: VCR1_100/ENT
+name: Vcr1_100/ent
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 06 00 00 00
 #
-name: VCR_100/ENT
+name: Vcr_100/ent
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -355,253 +355,253 @@ protocol: NECext
 address: 60 00 00 00
 command: 06 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 06 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VTR_FFWD_>>
+name: Vtr_ffwd_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: FFWD_>>
+name: Ffwd_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: FFWD/SRCH_>>
+name: Ffwd/srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR1_FFWD>>
+name: Vcr1_ffwd>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR1_FFWD_>>
+name: Vcr1_ffwd_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: FF/VISUAL_SRCH_>>
+name: Ff/visual_srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: FFWD/VI.SRCH_>>
+name: Ffwd/vi.srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR_FFWD_>>
+name: Vcr_ffwd_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR_F.FWD_>>
+name: Vcr_f.fwd_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR1_FF/V.SRCH_>>
+name: Vcr1_ff/v.srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: F.FWD/VI.SRCH_>>
+name: F.fwd/vi.srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR1_F.FWD/V.SRCH
+name: Vcr1_f.fwd/v.srch
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR1_F.FWD/SRCH_>>
+name: Vcr1_f.fwd/srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR1_F.FWD_>>
+name: Vcr1_f.fwd_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VTR1_FF/VI.SRCH_>>
+name: Vtr1_ff/vi.srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: F.FWD/VISUAL_SRCH_>>
+name: F.fwd/visual_srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VCR_FFWD_>>/>>
+name: Vcr_ffwd_>>/>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VTR_REW_<<
+name: Vtr_rew_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: REW/SRCH_<<
+name: Rew/srch_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VCR1_REW<<
+name: Vcr1_rew<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VCR1_REW_<<
+name: Vcr1_rew_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: REW/VISUAL_SRCH_<<
+name: Rew/visual_srch_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: REW/VI.SRCH_<<
+name: Rew/vi.srch_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VCR_REW_<<
+name: Vcr_rew_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VCR1_REW/V.SRCH_<<
+name: Vcr1_rew/v.srch_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VCR1_REW/VISUAL_SRCH
+name: Vcr1_rew/visual_srch
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VCR1_REW/SRCH_<<
+name: Vcr1_rew/srch_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VTR1_REW/VI.SRCH_<<
+name: Vtr1_rew/vi.srch_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VCR_REW_<</<<
+name: Vcr_rew_<</<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: RR
+name: Rr
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0B 00 00 00
 #
-name: VTR_STOP_[]
+name: Vtr_stop_[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0B 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0B 00 00 00
 #
-name: VCR1_STOP[]
+name: Vcr1_stop[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0B 00 00 00
 #
-name: VCR1_STOP_[]
+name: Vcr1_stop_[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0B 00 00 00
 #
-name: VCR_STOP_[]
+name: Vcr_stop_[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0B 00 00 00
 #
-name: VTR1_STOP_[]
+name: Vtr1_stop_[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -613,19 +613,19 @@ protocol: NECext
 address: 60 00 00 00
 command: 0C 00 00 00
 #
-name: VTR_0
+name: Vtr_0
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0C 00 00 00
 #
-name: 0_(WEEK_DAILY)
+name: 0_(week_daily)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0C 00 00 00
 #
-name: VCR1_0
+name: Vcr1_0
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -637,13 +637,13 @@ protocol: NECext
 address: 60 00 00 00
 command: 0C 00 00 00
 #
-name: VCR_0
+name: Vcr_0
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0C 00 00 00
 #
-name: VTR1_0_(?_!)
+name: Vtr1_0_(?_!)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -655,37 +655,37 @@ protocol: NECext
 address: 60 00 00 00
 command: 0D 00 00 00
 #
-name: VTR_1
+name: Vtr_1
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0D 00 00 00
 #
-name: 1_(SUN)
+name: 1_(sun)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0D 00 00 00
 #
-name: VCR1_1
+name: Vcr1_1
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0D 00 00 00
 #
-name: 1_ABC
+name: 1_abc
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0D 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0D 00 00 00
 #
-name: VTR1_1_(Q_Z)
+name: Vtr1_1_(q_z)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -697,37 +697,37 @@ protocol: NECext
 address: 60 00 00 00
 command: 0E 00 00 00
 #
-name: VTR_2
+name: Vtr_2
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0E 00 00 00
 #
-name: 2_(MON)
+name: 2_(mon)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0E 00 00 00
 #
-name: VCR1_2
+name: Vcr1_2
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0E 00 00 00
 #
-name: 2_DEF
+name: 2_def
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0E 00 00 00
 #
-name: VCR_2
+name: Vcr_2
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0E 00 00 00
 #
-name: VTR1_2_(A_B_C)
+name: Vtr1_2_(a_b_c)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -739,145 +739,145 @@ protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: VTR_3
+name: Vtr_3
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: 3_(TUE)
+name: 3_(tue)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: VCR1_3
+name: Vcr1_3
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: 3_GHI
+name: 3_ghi
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: VCR_3
+name: Vcr_3
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: VTR1_3_(D_E_F)
+name: Vtr1_3_(d_e_f)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: F.ADV
+name: F.adv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: F._ADV_(FAST_PLAY)
+name: F._adv_(fast_play)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: STILL_F.ADV_>
+name: Still_f.adv_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: F.ADV_>
+name: F.adv_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: F_ADV
+name: F_adv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: VCR1_F.ADV_>
+name: Vcr1_f.adv_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: VCR1_SKIP/F.ADV_>
+name: Vcr1_skip/f.adv_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: VCR1_F.ADV
+name: Vcr1_f.adv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: VTR1_F.ADV_>
+name: Vtr1_f.adv_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: VCR1_F_ADV
+name: Vcr1_f_adv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: STILL_F.ADV
+name: Still_f.adv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: SLOW_MOTION_+
+name: Slow_motion_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 11 00 00 00
 #
-name: SLOW_>
+name: Slow_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 11 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 11 00 00 00
 #
-name: VCR1_SLOW_>
+name: Vcr1_slow_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 11 00 00 00
 #
-name: VCR1_SLOW
+name: Vcr1_slow
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 11 00 00 00
 #
-name: VTR1_SLOW
+name: Vtr1_slow
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 11 00 00 00
 #
-name: X2_FAST
+name: X2_fast
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -889,433 +889,433 @@ protocol: NECext
 address: 60 00 00 00
 command: 12 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: VTR_PLAY_>
+name: Vtr_play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: VCR1_PLAY>
+name: Vcr1_play>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: VCR1_PLAY_>
+name: Vcr1_play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: VCR_PLAY_>
+name: Vcr_play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: VTR1_PLAY_>
+name: Vtr1_play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: MONITOR
+name: Monitor
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 15 00 00 00
 #
-name: VCR1_AUDIO_MONITOR
+name: Vcr1_audio_monitor
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 15 00 00 00
 #
-name: VTR1_UNKNOWN_2
+name: Vtr1_unknown_2
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 15 00 00 00
 #
-name: VCR1_CH1/2
+name: Vcr1_ch1/2
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 15 00 00 00
 #
-name: VCR1_MONITOR
+name: Vcr1_monitor
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 15 00 00 00
 #
-name: VCR_TV
+name: Vcr_tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VCR/TV
+name: Vcr/tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VCR1_VCR/TV
+name: Vcr1_vcr/tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VTR_VTR/TV
+name: Vtr_vtr/tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: TV/VTR
+name: Tv/vtr
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VTR/TV
+name: Vtr/tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VTR/TV
+name: Vtr/tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VCR_VCR/TV
+name: Vcr_vcr/tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VTR1_UNKNOWN_1
+name: Vtr1_unknown_1
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VCR1_TV/VCR
+name: Vcr1_tv/vcr
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: VTR_POWER
+name: Vtr_power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: VCR1_OPERATE
+name: Vcr1_operate
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: VCR1_POWER
+name: Vcr1_power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: VCR_POWER
+name: Vcr_power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: VTR1_OPERATE
+name: Vtr1_operate
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_--
+name: Channel_--
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: VTR_CHANNEL_V
+name: Vtr_channel_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL-
+name: Channel-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: V_(CHANNEL)
+name: V_(channel)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_V_(AUX)
+name: Channel_v_(aux)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_DOWN
+name: Channel_down
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CHAN_-
+name: Chan_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_V
+name: Channel_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: VCR1_CH_V
+name: Vcr1_ch_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: VCR_CH_V
+name: Vcr_ch_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: VCR1_CHANNEL_V
+name: Vcr1_channel_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: VTR1_TV_PROGRAMME_V
+name: Vtr1_tv_programme_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: VCR_CHANNEL_V
+name: Vcr_channel_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: VTR_CHANNEL_^
+name: Vtr_channel_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: ^_(CHANNEL)
+name: ^_(channel)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: CHANNEL_^_(AUX)
+name: Channel_^_(aux)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: CHANNEL_UP
+name: Channel_up
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: CHAN_+
+name: Chan_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: CHANNEL_^
+name: Channel_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: VCR1_CH_^
+name: Vcr1_ch_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: VCR_CH_^
+name: Vcr_ch_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: VCR1_CHANNEL_^
+name: Vcr1_channel_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: VTR1_TV_PROGRAMME_^
+name: Vtr1_tv_programme_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: VCR_CHANNEL_^
+name: Vcr_channel_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: CH_+
+name: Ch_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: VTR_PAUSE_
+name: Vtr_pause_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: PAUSE/STILL_
+name: Pause/still_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: VCR1_PAUSE
+name: Vcr1_pause
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: VCR1_PAUSE_
+name: Vcr1_pause_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: VCR_PAUSE_
+name: Vcr_pause_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: VCR1_PAUSE/STILL_
+name: Vcr1_pause/still_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: VTR1_PAUSE/STILL_
+name: Vtr1_pause/still_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: REVERSE
+name: Reverse
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -1327,43 +1327,43 @@ protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: VTR_4
+name: Vtr_4
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: 4_(WED)
+name: 4_(wed)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: VCR1_4
+name: Vcr1_4
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: 4_JKL
+name: 4_jkl
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: VCR_4
+name: Vcr_4
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: VTR1_4_(G_H_I_WKL)
+name: Vtr1_4_(g_h_i_wkl)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: VCR1_4_(DAILY)
+name: Vcr1_4_(daily)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -1375,55 +1375,55 @@ protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: VTR_5
+name: Vtr_5
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: 5_(THU)
+name: 5_(thu)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: VCR1_5
+name: Vcr1_5
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: 5_MNO
+name: 5_mno
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: VCR_5
+name: Vcr_5
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: VCR1_5_(DAILY)
+name: Vcr1_5_(daily)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: VTR1_5_(J_K_L)
+name: Vtr1_5_(j_k_l)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: VCR_5_(DAILY)
+name: Vcr_5_(daily)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: VCR1_5_DAILY
+name: Vcr1_5_daily
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -1441,79 +1441,79 @@ protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VTR_6
+name: Vtr_6
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: 6_(FRI)
+name: 6_(fri)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VCR1_6_(CL)
+name: Vcr1_6_(cl)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VCR1_6
+name: Vcr1_6
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: 6_PQR
+name: 6_pqr
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VCR_6
+name: Vcr_6
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VCR1_6_PL
+name: Vcr1_6_pl
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: 6_PL
+name: 6_pl
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VCR1_6_(WEEKLY)
+name: Vcr1_6_(weekly)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VCR1_6_(PL)
+name: Vcr1_6_(pl)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VTR1_6_(M_N_O)
+name: Vtr1_6_(m_n_o)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VCR_6_(WEEKLY)
+name: Vcr_6_(weekly)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VCR1_6_WEEKLY
+name: Vcr1_6_weekly
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -1525,583 +1525,583 @@ protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: VTR_7
+name: Vtr_7
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: 7_(SAT)
+name: 7_(sat)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: VCR1_7
+name: Vcr1_7
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: 7_STU
+name: 7_stu
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: VCR_7
+name: Vcr_7
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: VTR1_7_(P_R_S_DLY)
+name: Vtr1_7_(p_r_s_dly)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: VCR1_7_(WEEKLY)
+name: Vcr1_7_(weekly)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: ART
+name: Art
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 20 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 21 00 00 00
 #
-name: PNP
+name: Pnp
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 22 00 00 00
 #
-name: P_IN_P
+name: P_in_p
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 22 00 00 00
 #
-name: SHIFT
+name: Shift
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 23 00 00 00
 #
-name: MULTI
+name: Multi
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 26 00 00 00
 #
-name: SEEK
+name: Seek
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 27 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 2A 00 00 00
 #
-name: VCR1_A.DUB
+name: Vcr1_a.dub
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 2C 00 00 00
 #
-name: TAPE_SPEED
+name: Tape_speed
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 30 00 00 00
 #
-name: VCR1_T.SPEED
+name: Vcr1_t.speed
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 30 00 00 00
 #
-name: VCR1_TAPE_SPEED
+name: Vcr1_tape_speed
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 30 00 00 00
 #
-name: VCR1_SP/EP
+name: Vcr1_sp/ep
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 30 00 00 00
 #
-name: VTR1_TAPE_SPEED
+name: Vtr1_tape_speed
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 30 00 00 00
 #
-name: AVX
+name: Avx
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 34 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 34 00 00 00
 #
-name: VCR1_AUX
+name: Vcr1_aux
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 34 00 00 00
 #
-name: VCR1_AVX
+name: Vcr1_avx
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 34 00 00 00
 #
-name: VCR_AVX
+name: Vcr_avx
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 34 00 00 00
 #
-name: VCR1_INPUT
+name: Vcr1_input
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 34 00 00 00
 #
-name: VTR1_TRANS_(AUX)
+name: Vtr1_trans_(aux)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 34 00 00 00
 #
-name: VCR1_MTS_MONO
+name: Vcr1_mts_mono
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 38 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 39 00 00 00
 #
-name: VCR1_EJECT
+name: Vcr1_eject
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 39 00 00 00
 #
-name: VTR1_EJECT
+name: Vtr1_eject
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 39 00 00 00
 #
-name: VCR1_V.DUB
+name: Vcr1_v.dub
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3A 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3B 00 00 00
 #
-name: VCR1_GUIDE
+name: Vcr1_guide
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3B 00 00 00
 #
-name: INTELASCAN
+name: Intelascan
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3B 00 00 00
 #
-name: TRACKING_-_AUTO
+name: Tracking_-_auto
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3E 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3E 00 00 00
 #
-name: VCR1_AUTO
+name: Vcr1_auto
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3E 00 00 00
 #
-name: VCR1_TRACKING_AUTO
+name: Vcr1_tracking_auto
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3E 00 00 00
 #
-name: VTR1_AUTO
+name: Vtr1_auto
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3E 00 00 00
 #
-name: VCR1_AUTO_TRACKING
+name: Vcr1_auto_tracking
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 3E 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: VCR1_MENU
+name: Vcr1_menu
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: VCR1_GUIDE
+name: Vcr1_guide
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: VCR_GUIDE
+name: Vcr_guide
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: VTR1_MENU
+name: Vtr1_menu
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: SCREEN_MENU
+name: Screen_menu
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: VCR1_0000
+name: Vcr1_0000
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: VCR1_CLEAR
+name: Vcr1_clear
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: VCR_CLEAR
+name: Vcr_clear
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: VCR1_CLEAR_CNT_RESET
+name: Vcr1_clear_cnt_reset
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: CLEAR_COUNT_RESET
+name: Clear_count_reset
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: VCR1_RESET
+name: Vcr1_reset
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: VTR1_COUNTER_0000
+name: Vtr1_counter_0000
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: VCR1_T-160_RESET
+name: Vcr1_t-160_reset
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 42 00 00 00
 #
-name: VCR1_DISPLAY
+name: Vcr1_display
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 42 00 00 00
 #
-name: VCR_DISPLAY
+name: Vcr_display
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 42 00 00 00
 #
-name: VTR1_DISP.
+name: Vtr1_disp.
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 42 00 00 00
 #
-name: SCREEN_DISPLAY
+name: Screen_display
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 42 00 00 00
 #
-name: DISPLY
+name: Disply
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 42 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 43 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: VCR1_MEMORY
+name: Vcr1_memory
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: VCR1_TAPE_RETURN
+name: Vcr1_tape_return
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: VTR1_COUNTER_MEMO
+name: Vtr1_counter_memo
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: COUNTER_MEMORY
+name: Counter_memory
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: VCR1_INDEX
+name: Vcr1_index
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: VCR1_GO-TO_INDEX
+name: Vcr1_go-to_index
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: GO-TO_INDEX
+name: Go-to_index
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: VTR1_INDEX
+name: Vtr1_index
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: VCR1_INDEX_GO-TO
+name: Vcr1_index_go-to
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: COUNTER/REMAIN
+name: Counter/remain
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: VCR1_COUNT_CLOCK
+name: Vcr1_count_clock
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: COUNTER_REMAIN
+name: Counter_remain
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: VCR1_COUNTER_REMAIN
+name: Vcr1_counter_remain
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: VCR1_REMAIN_MODE
+name: Vcr1_remain_mode
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: VTR1_COUNT_REMAIN
+name: Vtr1_count_remain
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: CLOCK_COUNTER
+name: Clock_counter
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: VCR1_MODE
+name: Vcr1_mode
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 46 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 47 00 00 00
 #
-name: VCR1_REPEAT
+name: Vcr1_repeat
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 47 00 00 00
 #
-name: VCR1_TV_MONITOR
+name: Vcr1_tv_monitor
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 63 00 00 00
 #
-name: VCR1_EDIT
+name: Vcr1_edit
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 64 00 00 00
 #
-name: VCR1_SET
+name: Vcr1_set
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 65 00 00 00
 #
-name: CENTER
+name: Center
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 68 00 00 00
 #
-name: VCR1_JOG/SHUTTLE
+name: Vcr1_jog/shuttle
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 68 00 00 00
 #
-name: SKIPFF
+name: Skipff
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 69 00 00 00
 #
-name: SKIPRR
+name: Skiprr
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 6A 00 00 00
 #
-name: SLOW_MOTION_+
+name: Slow_motion_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -2113,31 +2113,31 @@ protocol: NECext
 address: 60 00 00 00
 command: 6E 00 00 00
 #
-name: VCR1_SHUTTLE_FWD
+name: Vcr1_shuttle_fwd
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 75 00 00 00
 #
-name: VCR1_SHUT_FWD_(F.S.)
+name: Vcr1_shut_fwd_(f.s.)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 75 00 00 00
 #
-name: VCR1_SHUT_FWD_>>
+name: Vcr1_shut_fwd_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 75 00 00 00
 #
-name: VCR_SHUT_FWD
+name: Vcr_shut_fwd
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 75 00 00 00
 #
-name: VCR1_SHUT.FWD(F.S)
+name: Vcr1_shut.fwd(f.s)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -2149,37 +2149,37 @@ protocol: NECext
 address: 60 00 00 00
 command: 75 00 00 00
 #
-name: VCR1_SHUTTLE_REW
+name: Vcr1_shuttle_rew
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 76 00 00 00
 #
-name: VCR1_SHUT_REV_(F.S.)
+name: Vcr1_shut_rev_(f.s.)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 76 00 00 00
 #
-name: VCR1_SHUT_REV_<<
+name: Vcr1_shut_rev_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 76 00 00 00
 #
-name: VCR_SHUT_REV
+name: Vcr_shut_rev
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 76 00 00 00
 #
-name: VCR1_SHUT.REV(F.S)
+name: Vcr1_shut.rev(f.s)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 76 00 00 00
 #
-name: FRAME_>>
+name: Frame_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -2191,157 +2191,157 @@ protocol: NECext
 address: 60 00 00 00
 command: 7D 00 00 00
 #
-name: VCR1_JOG_FWD
+name: Vcr1_jog_fwd
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7D 00 00 00
 #
-name: JOG_+
+name: Jog_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7D 00 00 00
 #
-name: VCR1_JOG_FORWARD
+name: Vcr1_jog_forward
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7D 00 00 00
 #
-name: VCR1_JOG/SHU.FORWARD
+name: Vcr1_jog/shu.forward
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7D 00 00 00
 #
-name: FRAME_<<
+name: Frame_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7E 00 00 00
 #
-name: VCR1_JOG_REW
+name: Vcr1_jog_rew
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7E 00 00 00
 #
-name: VCR1_JOG_REV
+name: Vcr1_jog_rev
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7E 00 00 00
 #
-name: JOG_-
+name: Jog_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7E 00 00 00
 #
-name: VCR1_JOG_REVERSE
+name: Vcr1_jog_reverse
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7E 00 00 00
 #
-name: VCR1_JOG/SHU.REVERSE
+name: Vcr1_jog/shu.reverse
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 7E 00 00 00
 #
-name: SHUTTLE_+
+name: Shuttle_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 83 00 00 00
 #
-name: SHUTTLE_-
+name: Shuttle_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 84 00 00 00
 #
-name: GO-TO
+name: Go-to
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 86 00 00 00
 #
-name: VCR1_GO-TO
+name: Vcr1_go-to
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 86 00 00 00
 #
-name: TITLE_(LAST_CH)
+name: Title_(last_ch)
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8A 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8A 00 00 00
 #
-name: VCR1_TITLE
+name: Vcr1_title
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8A 00 00 00
 #
-name: VCR_100/ENT
+name: Vcr_100/ent
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8B 00 00 00
 #
-name: VCR1_100/ENT
+name: Vcr1_100/ent
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8B 00 00 00
 #
-name: 100/ENT
+name: 100/ent
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8B 00 00 00
 #
-name: VCR1_+100
+name: Vcr1_+100
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8B 00 00 00
 #
-name: VCR1_+100/ENT
+name: Vcr1_+100/ent
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8B 00 00 00
 #
-name: VCR1_MTS_SA_SET
+name: Vcr1_mts_sa_set
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8C 00 00 00
 #
-name: VCR1_PRINT
+name: Vcr1_print
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8E 00 00 00
 #
-name: SPECTRA_SONIC
+name: Spectra_sonic
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8F 00 00 00
 #
-name: VCR1_SPECTRA_SONIC
+name: Vcr1_spectra_sonic
 type: parsed
 protocol: NECext
 address: 60 00 00 00

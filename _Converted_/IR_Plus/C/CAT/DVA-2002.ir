@@ -70,7 +70,7 @@ protocol: NECext
 address: 99 00 00 00
 command: EF 10 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 99 00 00 00
@@ -88,19 +88,19 @@ protocol: NECext
 address: 99 00 00 00
 command: 25 DA 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 99 00 00 00
 command: 37 C8 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 99 00 00 00
 command: D5 2A 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 99 00 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: 99 00 00 00
 command: 2D D2 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 99 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: 99 00 00 00
 command: B5 4A 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 99 00 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: 99 00 00 00
 command: 9D 62 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 99 00 00 00
@@ -148,43 +148,43 @@ protocol: NECext
 address: 99 00 00 00
 command: 6D 92 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 99 00 00 00
 command: F5 0A 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 99 00 00 00
 command: 75 8A 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 99 00 00 00
 command: 5D A2 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 99 00 00 00
 command: FD 02 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 99 00 00 00
 command: ED 12 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 99 00 00 00
 command: 3D C2 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 99 00 00 00

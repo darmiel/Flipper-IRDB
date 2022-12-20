@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: dek
+name: Dek
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: TAB
+name: Tab
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: program_plus
+name: Program_plus
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: program_minus
+name: Program_minus
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: lnb
+name: Lnb
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -115,61 +115,61 @@ protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: deem
+name: Deem
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1E 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 21 00 00 00
 #
-name: a-b
+name: A-b
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 24 00 00 00
 #
-name: save
+name: Save
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 26 00 00 00
 #
-name: audio_plus
+name: Audio_plus
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 28 00 00 00
 #
-name: audio_minus
+name: Audio_minus
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 29 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2C 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00

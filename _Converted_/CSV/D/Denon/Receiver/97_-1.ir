@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VCR_REC_(PANEL)
+name: Vcr_rec_(panel)
 type: parsed
 protocol: NECext
 address: 61 00 00 00

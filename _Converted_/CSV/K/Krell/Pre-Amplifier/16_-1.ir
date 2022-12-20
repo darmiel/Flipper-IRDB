@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: GAIN
+name: Gain
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0A 00 00 00
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: BALANCE_LEFT
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -37,13 +37,13 @@ protocol: NECext
 address: 10 00 00 00
 command: 1B 00 00 00
 #
-name: PRE_AMP_INPUT_E
+name: Pre_amp_input_e
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 20 00 00 00
 #
-name: PRE_AMP_INPUT_F
+name: Pre_amp_input_f
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -55,19 +55,19 @@ protocol: NECext
 address: 10 00 00 00
 command: 21 00 00 00
 #
-name: PRE_AMP_INPUT_A
+name: Pre_amp_input_a
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: PRE_AMP_INPUT_B
+name: Pre_amp_input_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 23 00 00 00
 #
-name: PRE_AMP_INPUT_C
+name: Pre_amp_input_c
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 10 00 00 00
 command: 24 00 00 00
 #
-name: PRE_AMP_INPUT_D
+name: Pre_amp_input_d
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -91,19 +91,19 @@ protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 28 00 00 00
 #
-name: AMP_POWER
+name: Amp_power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 28 00 00 00
 #
-name: MTR
+name: Mtr
 type: parsed
 protocol: NECext
 address: 10 00 00 00

@@ -1,337 +1,337 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PWR_ON_O
+name: Pwr_on_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 90165
 #
-name: PWR_ON_E
+name: Pwr_on_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 90165
 #
-name: COLOR_-_O
+name: Color_-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 1755 1755 1755 878 90165
 #
-name: COLOR_-_E
+name: Color_-_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 1755 1755 1755 1755 878 90165
 #
-name: COLOR_+_O
+name: Color_+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 1755 1755 878 878 91043
 #
-name: COLOR_+_E
+name: Color_+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 1755 1755 1755 878 878 91043
 #
-name: BRIGHT_-_O
+name: Bright_-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 878 878 878 90165
 #
-name: BRIGHT_-_E
+name: Bright_-_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 878 878 878 90165
 #
-name: BRIGHT_+_O
+name: Bright_+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 1755 91043
 #
-name: BRIGHT_+_E
+name: Bright_+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 1755 91043
 #
-name: CONTRAST_-_O
+name: Contrast_-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 1755 878 90165
 #
-name: CONTRAST_-_E
+name: Contrast_-_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 1755 878 90165
 #
-name: CONTRAST_+_O
+name: Contrast_+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 878 878 91043
 #
-name: CONTRAST_+_E
+name: Contrast_+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 878 878 91043
 #
-name: ENHANCE_-_O
+name: Enhance_-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 878 878 1755 878 90165
 #
-name: ENHANCE_-_E
+name: Enhance_-_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 878 878 1755 878 90165
 #
-name: ENHANCE_+_O
+name: Enhance_+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 878 878 878 878 91043
 #
-name: ENHANCE_+_E
+name: Enhance_+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 878 878 878 878 91043
 #
-name: TINT_-_O
+name: Tint_-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 90165
 #
-name: TINT_-E
+name: Tint_-e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 90165
 #
-name: TINT_+_O
+name: Tint_+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 878 878 878 878 878 90165
 #
-name: TINT_+_E
+name: Tint_+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 878 878 878 878 878 90165
 #
-name: BALANCE_-_O
+name: Balance_-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 1755 878 878 878 90165
 #
-name: BALANCE_-_E
+name: Balance_-_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 1755 878 878 878 90165
 #
-name: BALANCE_+_O
+name: Balance_+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 1755 1755 91043
 #
-name: BALANCE_+_E
+name: Balance_+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 1755 1755 91043
 #
-name: TREBLE_-_O
+name: Treble_-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 1755 878 90165
 #
-name: TREBLE_-_E
+name: Treble_-_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 1755 878 90165
 #
-name: TREBLE_+_O
+name: Treble_+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 878 878 91043
 #
-name: TREBLE_+_E
+name: Treble_+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 878 878 91043
 #
-name: BASS_-_O
+name: Bass_-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 1755 878 878 878 878 878 90165
 #
-name: BASS_-_E
+name: Bass_-_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 1755 1755 878 878 878 878 878 90165
 #
-name: BASS_+_O
+name: Bass_+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 1755 878 878 1755 91043
 #
-name: BASS_+_E
+name: Bass_+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 1755 1755 878 878 1755 91043
 #
-name: VOL-_O
+name: Vol-_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 878 878 1755 878 90165
 #
-name: VOL-_E
+name: Vol-_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 878 878 1755 878 90165
 #
-name: VOL+_O
+name: Vol+_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 878 878 878 878 91043
 #
-name: VOL+_E
+name: Vol+_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 878 878 878 878 91043
 #
-name: TEST_OFF_O
+name: Test_off_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 90165
 #
-name: TEST_OFF_E
+name: Test_off_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 90165
 #
-name: INPUT_SELECT_O
+name: Input_select_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 878 878 878 878 91043
 #
-name: INPUT_SELECT_E
+name: Input_select_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 878 878 878 878 91043
 #
-name: STATUS_O
+name: Status_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 878 878 878 90165
 #
-name: STATUS_E
+name: Status_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 878 878 878 90165
 #
-name: MUTE_O
+name: Mute_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 1755 878 90165
 #
-name: MUTE_E
+name: Mute_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 1755 878 90165
 #
-name: PP_O
+name: Pp_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 91043
 #
-name: PP_E
+name: Pp_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 91043
 #
-name: TEST_ON_O
+name: Test_on_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 1755 1755 878 90165
 #
-name: TEST_ON_E
+name: Test_on_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 1755 1755 878 90165
 #
-name: STORE_MEMORY_O
+name: Store_memory_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 878 878 1755 878 90165
 #
-name: STORE_MEMORY_E
+name: Store_memory_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 878 878 878 878 1755 878 878 1755 878 90165
 #
-name: SI./TIM_O
+name: Si./tim_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 878 878 1755 91043
 #
-name: SI./TIM_E
+name: Si./tim_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 1755 878 878 878 878 878 878 878 878 878 878 1755 1755 878 878 1755 878 878 1755 91043
 #
-name: PWR_OFF_O
+name: Pwr_off_o
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 878 878 878 878 1755 878 878 878 878 878 878 878 878 878 878 878 878 1755 878 878 1755 878 878 91043
 #
-name: PWR_OFF_E
+name: Pwr_off_e
 type: raw
 frequency: 38740
 duty_cycle: 0.330000

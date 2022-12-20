@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Main/Sap
+name: Main/sap
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -13,55 +13,55 @@ protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: AVStatus
+name: Avstatus
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: CLOSE
+name: Close
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -151,19 +151,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 77 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7A 00 00 00
 #
-name: FunctionDown
+name: Functiondown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7B 00 00 00
 #
-name: FunctionUp
+name: Functionup
 type: parsed
 protocol: NECext
 address: 03 00 00 00

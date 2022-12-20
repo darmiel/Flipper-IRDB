@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PAUSE/STEP
+name: Pause/step
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 00 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 00 00 00 00
 #
-name: Z_-_PAUSE
+name: Z_-_pause
 type: parsed
 protocol: NECext
 address: 45 00 00 00
@@ -79,145 +79,145 @@ protocol: NECext
 address: 45 00 00 00
 command: 0A 00 00 00
 #
-name: QUICK
+name: Quick
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 0B 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 0D 00 00 00
 #
-name: Z_-_SLOW_FORWARD
+name: Z_-_slow_forward
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 0D 00 00 00
 #
-name: REV_SLOW
+name: Rev_slow
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 0E 00 00 00
 #
-name: Z_-_SLOW_REWIND
+name: Z_-_slow_rewind
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 0E 00 00 00
 #
-name: V-REMOTE
+name: V-remote
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 10 00 00 00
 #
-name: REV_PLAY
+name: Rev_play
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 12 00 00 00
 #
-name: FWD_>>
+name: Fwd_>>
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 13 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 14 00 00 00
 #
-name: Z_-_STOP
+name: Z_-_stop
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 14 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 15 00 00 00
 #
-name: Z_-_PLAY
+name: Z_-_play
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 15 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 16 00 00 00
 #
-name: NAVI
+name: Navi
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 16 00 00 00
 #
-name: REV_<<
+name: Rev_<<
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 19 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 20 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 21 00 00 00
 #
-name: CURSOR_-_ENTER
+name: Cursor_-_enter
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 21 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 22 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 23 00 00 00
 #
-name: Z_-_TRACK_(_-_)
+name: Z_-_track_(_-_)
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 23 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 24 00 00 00
 #
-name: Z_-_TRACK_(_+_)
+name: Z_-_track_(_+_)
 type: parsed
 protocol: NECext
 address: 45 00 00 00
@@ -241,271 +241,271 @@ protocol: NECext
 address: 45 00 00 00
 command: 26 00 00 00
 #
-name: TITLE_SEARCH
+name: Title_search
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 26 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 27 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 27 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 28 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 29 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 29 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 2A 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 2B 00 00 00
 #
-name: A-B_REPEAT
+name: A-b_repeat
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 2C 00 00 00
 #
-name: LAST_PLAY
+name: Last_play
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 2D 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 2E 00 00 00
 #
-name: SUBTITLE_ON/OFF
+name: Subtitle_on/off
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 2F 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 40 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 41 00 00 00
 #
-name: FL_DIMMER
+name: Fl_dimmer
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 41 00 00 00
 #
-name: 3D
+name: 3d
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 43 00 00 00
 #
-name: DNR
+name: Dnr
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 49 00 00 00
 #
-name: DISC_SELECT
+name: Disc_select
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 4A 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 4D 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 4D 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 4D 00 00 00
 #
-name: CURSOR_-_RIGHT
+name: Cursor_-_right
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 4D 00 00 00
 #
-name: COLOR_STREAM_SELECT
+name: Color_stream_select
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 4E 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 51 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 51 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 51 00 00 00
 #
-name: CURSOR_-_LEFT
+name: Cursor_-_left
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 51 00 00 00
 #
-name: DISC_SELECT
+name: Disc_select
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 53 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 80 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 80 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 80 00 00 00
 #
-name: CURSOR_-_UP
+name: Cursor_-_up
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 80 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 81 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 81 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 81 00 00 00
 #
-name: CURSOR_-_DOWN
+name: Cursor_-_down
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 81 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 84 00 00 00
 #
-name: Z_-_FAST_FORWARD
+name: Z_-_fast_forward
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: DB 00 00 00
 #
-name: Z_-_FAST_REWIND
+name: Z_-_fast_rewind
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: DC 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: DE 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: DE 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: EF 00 00 00
 #
-name: ZOOM_(_-_)
+name: Zoom_(_-_)
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: F0 00 00 00
 #
-name: ZOOM_(_+_)
+name: Zoom_(_+_)
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: F1 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 45 00 00 00

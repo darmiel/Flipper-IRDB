@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 01 00 00 00
 #
-name: MENY/EXIT
+name: Meny/exit
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 01 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: PLAY/PAUSE/OK
+name: Play/pause/ok
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: PLAY_PAUSE
+name: Play_pause
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: >>_NEXT
+name: >>_next
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 03 00 00 00
 #
-name: GER/SKIP_FWD
+name: Ger/skip_fwd
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 03 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 03 00 00 00
 #
-name: <<_PREVIOUS
+name: <<_previous
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 04 00 00 00
 #
-name: NSTER/SKIP_REV
+name: Nster/skip_rev
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 04 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: EE 87 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: EE 87 00 00
 command: 05 00 00 00
 #
-name: PIL_UPP/+
+name: Pil_upp/+
 type: parsed
 protocol: NECext
 address: EE 87 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: EE 87 00 00
 command: 06 00 00 00
 #
-name: PIL_NER/-
+name: Pil_ner/-
 type: parsed
 protocol: NECext
 address: EE 87 00 00

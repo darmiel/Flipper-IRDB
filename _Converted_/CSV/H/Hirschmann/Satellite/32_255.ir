@@ -61,55 +61,55 @@ protocol: NECext
 address: 20 FF 00 00
 command: 09 00 00 00
 #
-name: UP_CH+
+name: Up_ch+
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 0A 00 00 00
 #
-name: DOWN_CH-
+name: Down_ch-
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 0B 00 00 00
 #
-name: RIGHT_VOL+
+name: Right_vol+
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 0C 00 00 00
 #
-name: LEFT_VOL-
+name: Left_vol-
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 0D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 0E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 0F 00 00 00
 #
-name: SEITE_+
+name: Seite_+
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 10 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 11 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
@@ -121,61 +121,61 @@ protocol: NECext
 address: 20 FF 00 00
 command: 13 00 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 14 00 00 00
 #
-name: NTSC/PAL
+name: Ntsc/pal
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 15 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 16 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 17 00 00 00
 #
-name: F1_ROT
+name: F1_rot
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 18 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 19 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 1A 00 00 00
 #
-name: TV/RADIO
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 1B 00 00 00
 #
-name: F4_BLAU
+name: F4_blau
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 1C 00 00 00
 #
-name: SEITE_-
+name: Seite_-
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 20 FF 00 00
 command: 1E 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
@@ -199,13 +199,13 @@ protocol: NECext
 address: 20 FF 00 00
 command: 40 00 00 00
 #
-name: F3_GELB
+name: F3_gelb
 type: parsed
 protocol: NECext
 address: 20 FF 00 00
 command: 41 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 20 FF 00 00

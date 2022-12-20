@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 01 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 02 00 00 00
 #
-name: CHAN_DN
+name: Chan_dn
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 03 00 00 00
 #
-name: VOL_DN
+name: Vol_dn
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 04 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 05 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 06 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 06 00 00 00
 #
-name: INPUT_SOURCE
+name: Input_source
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 07 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 09 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 0B 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 0C 00 00 00
 #
-name: POP/PBP
+name: Pop/pbp
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 0D 00 00 00
 #
-name: SWAP
+name: Swap
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 0E 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 0F 00 00 00
 #
-name: PICT
+name: Pict
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 10 00 00 00
 #
-name: WIDE
+name: Wide
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 11 00 00 00
 #
-name: PREV_CHAN
+name: Prev_chan
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 12 00 00 00
 #
-name: POS
+name: Pos
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 15 00 00 00
 #
-name: PIP_SEL
+name: Pip_sel
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 1D 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 21 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
@@ -193,25 +193,25 @@ protocol: NECext
 address: 00 1C 00 00
 command: 39 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 60 00 00 00
 #
-name: DN
+name: Dn
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 61 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 1C 00 00
 command: 62 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 1C 00 00

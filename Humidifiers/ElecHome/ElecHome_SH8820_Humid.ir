@@ -3,25 +3,25 @@ Version: 1
 # 
 # ElecHome SH8820 Humidifier
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 40 00 00 00
 # 
-name: MinMax
+name: Minmax
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 03 00 00 00
 # 
-name: ChildLock
+name: Childlock
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 57 00 00 00
 # 
-name: HumiLevel
+name: Humilevel
 type: parsed
 protocol: NEC
 address: 00 00 00 00

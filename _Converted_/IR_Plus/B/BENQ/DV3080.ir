@@ -10,73 +10,73 @@ protocol: NECext
 address: F9 06 00 00
 command: FF 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 5D A2 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: B5 4A 00 00
 #
-name: SLEEPTIMER
+name: Sleeptimer
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: E5 1A 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 95 6A 00 00
 #
-name: AUDIOMODE
+name: Audiomode
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 35 CA 00 00
 #
-name: TTX DISPLAY
+name: Ttx_display
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 0D F2 00 00
 #
-name: TTX INDEX
+name: Ttx_index
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: CD 32 00 00
 #
-name: TTX INFO
+name: Ttx_info
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 8D 72 00 00
 #
-name: TTX SUBP
+name: Ttx_subp
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 4D B2 00 00
 #
-name: TTX
+name: Ttx
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: B7 48 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: F7 08 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: F9 06 00 00
@@ -88,7 +88,7 @@ protocol: NECext
 address: F9 06 00 00
 command: DD 22 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: F9 06 00 00
@@ -100,7 +100,7 @@ protocol: NECext
 address: F9 06 00 00
 command: C7 38 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: F9 06 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: F9 06 00 00
 command: ED 12 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: F9 06 00 00
@@ -124,25 +124,25 @@ protocol: NECext
 address: F9 06 00 00
 command: 47 B8 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: D7 28 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 77 88 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 37 C8 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: F9 06 00 00
@@ -154,13 +154,13 @@ protocol: NECext
 address: F9 06 00 00
 command: BD 42 00 00
 #
-name: ZAP
+name: Zap
 type: parsed
 protocol: NECext
 address: F9 06 00 00
 command: 0F F0 00 00
 #
-name: DUAL DIGIT
+name: Dual_digit
 type: parsed
 protocol: NECext
 address: F9 06 00 00
@@ -220,7 +220,7 @@ protocol: NECext
 address: F9 06 00 00
 command: CF 30 00 00
 #
-name: BACKLIGHT
+name: Backlight
 type: parsed
 protocol: NECext
 address: F9 06 00 00
@@ -232,7 +232,7 @@ protocol: NECext
 address: F9 06 00 00
 command: 3F C0 00 00
 #
-name: USERSITUATION
+name: Usersituation
 type: parsed
 protocol: NECext
 address: F9 06 00 00

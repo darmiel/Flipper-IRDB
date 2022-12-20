@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 01 00 00 00
 #
-name: PLAY_/_PAUSE
+name: Play_/_pause
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: PLAY/PAUSE_EXTENDED
+name: Play/pause_extended
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: SELECT_(PLAY/PAUSE)
+name: Select_(play/pause)
 type: parsed
 protocol: NECext
 address: EE 87 00 00
@@ -61,49 +61,49 @@ protocol: NECext
 address: EE 87 00 00
 command: 02 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 03 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 03 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 03 00 00 00
 #
-name: RIGHT_(NEXT/FF)
+name: Right_(next/ff)
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 03 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 04 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 04 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 04 00 00 00
 #
-name: LEFT_(PREV/REW)
+name: Left_(prev/rew)
 type: parsed
 protocol: NECext
 address: EE 87 00 00
@@ -115,13 +115,13 @@ protocol: NECext
 address: EE 87 00 00
 command: 05 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 05 00 00 00
 #
-name: UP_(+)
+name: Up_(+)
 type: parsed
 protocol: NECext
 address: EE 87 00 00
@@ -133,25 +133,25 @@ protocol: NECext
 address: EE 87 00 00
 command: 06 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 06 00 00 00
 #
-name: DOWN_(-)
+name: Down_(-)
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 06 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 2E 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: EE 87 00 00

@@ -9,13 +9,13 @@ protocol: NECext
 address: 00 BF 00 00
 command: 0D F2 00 00
 # 
-name: Vol_Up
+name: Vol_up
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 44 BB 00 00
 # 
-name: Vol_Down
+name: Vol_down
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -57,13 +57,13 @@ protocol: NECext
 address: 00 BF 00 00
 command: 0E F1 00 00
 # 
-name: Ch_Up
+name: Ch_up
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 4A B5 00 00
 # 
-name: Ch_Down
+name: Ch_down
 type: parsed
 protocol: NECext
 address: 00 BF 00 00

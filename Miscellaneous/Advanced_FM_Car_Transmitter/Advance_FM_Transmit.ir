@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: Play_Pause
+name: Play_pause
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 00 00 00 00
 # 
-name: CH-
+name: Ch-
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 01 00 00 00
 # 
-name: CH+
+name: Ch+
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 02 00 00 00
 # 
-name: EQ
+name: Eq
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 04 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 05 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 02 00 00 00
@@ -109,13 +109,13 @@ protocol: NEC
 address: 02 00 00 00
 command: 16 00 00 00
 # 
-name: Pick song
+name: Pick_song
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 18 00 00 00
 # 
-name: CH Set
+name: Ch_set
 type: parsed
 protocol: NEC
 address: 02 00 00 00

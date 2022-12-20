@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LD_STOP_[]
+name: Ld_stop_[]
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 11 00 00 00
 #
-name: LD_PAUSE_
+name: Ld_pause_
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 12 00 00 00
 #
-name: LD_REW_<<
+name: Ld_rew_<<
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 14 00 00 00
 #
-name: LD_FF_>>
+name: Ld_ff_>>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 15 00 00 00
 #
-name: LD_PLAY_>
+name: Ld_play_>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00

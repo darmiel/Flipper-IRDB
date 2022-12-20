@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MIX
+name: Mix
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: DOUBLE
+name: Double
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: REVEAL
+name: Reveal
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: UPDATE
+name: Update
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -97,25 +97,25 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: X_1_X_CHANNELS
+name: X_1_x_channels
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: PR_DOWN
+name: Pr_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: PR_UP
+name: Pr_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -127,61 +127,61 @@ protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: VOL_LOW
+name: Vol_low
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: SWAP
+name: Swap
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: AV/TV
+name: Av/tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2C 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -193,13 +193,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 2F 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00

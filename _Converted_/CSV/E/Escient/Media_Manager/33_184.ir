@@ -121,7 +121,7 @@ protocol: NECext
 address: 21 B8 00 00
 command: 2B 00 00 00
 #
-name: CAPS_LOCK_ON
+name: Caps_lock_on
 type: parsed
 protocol: NECext
 address: 21 B8 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 21 B8 00 00
 command: 3A 00 00 00
 #
-name: CAPS_LOCK_OFF
+name: Caps_lock_off
 type: parsed
 protocol: NECext
 address: 21 B8 00 00

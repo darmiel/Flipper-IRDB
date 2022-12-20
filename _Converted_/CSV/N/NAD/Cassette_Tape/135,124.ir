@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 99 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 99 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9A 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9A 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9C 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9C 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9D 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9D 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9E 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9F 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 87 7C 00 00

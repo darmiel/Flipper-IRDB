@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV/SAT
+name: Tv/sat
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 01 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 02 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 03 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 09 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 0A 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 0B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 12 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 13 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 19 00 00 00
 #
-name: ALL_OFF
+name: All_off
 type: parsed
 protocol: NECext
 address: 84 84 00 00
 command: 1A 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 84 84 00 00

@@ -13,7 +13,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 47 00 00 00
 # 
-name: RBG
+name: Rbg
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -37,19 +37,19 @@ protocol: NEC
 address: 00 00 00 00
 command: 43 00 00 00
 # 
-name: RG
+name: Rg
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 07 00 00 00
 # 
-name: GB
+name: Gb
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 8955 4399 598 522 598 497 625 496 707 414 598 498 623 499 596 548 597 498 623 1619 598 1619 597 1620 622 1620 596 1620 596 1621 622 1620 596 1621 596 1621 621 499 596 1621 621 499 596 1620 623 498 596 525 570 525 621 500 595 1622 621 499 596 1621 622 499 595 1622 621 1621 595 1622 595 39466 8953 2184 597
 # 
-name: BR
+name: Br
 type: parsed
 protocol: NEC
 address: 00 00 00 00

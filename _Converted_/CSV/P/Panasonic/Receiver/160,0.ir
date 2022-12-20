@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A0 00 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A0 00 00 00
 command: 21 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: A0 00 00 00
 command: 32 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: A0 00 00 00
 command: 94 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: A0 00 00 00
 command: 9A 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: A0 00 00 00
 command: 9C 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: A0 00 00 00

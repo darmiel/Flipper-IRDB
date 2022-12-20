@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 24 4B 00 00
 command: 08 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 24 4B 00 00
 command: 0C 00 00 00
 #
-name: digital
+name: Digital
 type: parsed
 protocol: NECext
 address: 24 4B 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 24 4B 00 00
 command: 14 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 24 4B 00 00
 command: 48 00 00 00
 #
-name: phono
+name: Phono
 type: parsed
 protocol: NECext
 address: 24 4B 00 00
 command: 4C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 24 4B 00 00
 command: 50 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 24 4B 00 00
 command: 54 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 24 4B 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -13,19 +13,19 @@ protocol: NECext
 address: F3 C0 00 00
 command: 01 00 00 00
 #
-name: 016_OFF
+name: 016_off
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 01 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -37,25 +37,25 @@ protocol: NECext
 address: F3 C0 00 00
 command: 02 00 00 00
 #
-name: 016_ON
+name: 016_on
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 02 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 03 00 00 00
 #
-name: IN_1
+name: In_1
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -67,31 +67,31 @@ protocol: NECext
 address: F3 C0 00 00
 command: 05 00 00 00
 #
-name: 016_INPUT_1
+name: 016_input_1
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 05 00 00 00
 #
-name: IN_3
+name: In_3
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 06 00 00 00
 #
-name: 016_INPUT_3
+name: 016_input_3
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 06 00 00 00
 #
-name: IN_8
+name: In_8
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 07 00 00 00
 #
-name: IN_2
+name: In_2
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -103,25 +103,25 @@ protocol: NECext
 address: F3 C0 00 00
 command: 09 00 00 00
 #
-name: 016_INPUT_2
+name: 016_input_2
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 09 00 00 00
 #
-name: IN_7
+name: In_7
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 0B 00 00 00
 #
-name: 016_INPUT_7
+name: 016_input_7
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 0B 00 00 00
 #
-name: IN_4
+name: In_4
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: F3 C0 00 00
 command: 0D 00 00 00
 #
-name: 016_INPUT_4
+name: 016_input_4
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 0D 00 00 00
 #
-name: IN_5
+name: In_5
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -151,67 +151,67 @@ protocol: NECext
 address: F3 C0 00 00
 command: 0F 00 00 00
 #
-name: 016_INPUT_5
+name: 016_input_5
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 0F 00 00 00
 #
-name: STA_DN
+name: Sta_dn
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 17 00 00 00
 #
-name: STATION_-
+name: Station_-
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 17 00 00 00
 #
-name: STA_UP
+name: Sta_up
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 18 00 00 00
 #
-name: STATION_+
+name: Station_+
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 18 00 00 00
 #
-name: TUNE_DN
+name: Tune_dn
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 1B 00 00 00
 #
-name: TUNE_-
+name: Tune_-
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 1B 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 1C 00 00 00
 #
-name: TUNE_+
+name: Tune_+
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 1C 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 1F 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -223,7 +223,7 @@ protocol: NECext
 address: F3 C0 00 00
 command: 20 00 00 00
 #
-name: VOL_DN
+name: Vol_dn
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -235,19 +235,19 @@ protocol: NECext
 address: F3 C0 00 00
 command: 23 00 00 00
 #
-name: 016_VOL-
+name: 016_vol-
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 23 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 23 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -259,13 +259,13 @@ protocol: NECext
 address: F3 C0 00 00
 command: 24 00 00 00
 #
-name: 016_VOL+
+name: 016_vol+
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 24 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -277,13 +277,13 @@ protocol: NECext
 address: F3 C0 00 00
 command: 29 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 2D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -295,13 +295,13 @@ protocol: NECext
 address: F3 C0 00 00
 command: 2E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 2F 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -313,7 +313,7 @@ protocol: NECext
 address: F3 C0 00 00
 command: 30 00 00 00
 #
-name: SELECT_ENTER
+name: Select_enter
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -421,25 +421,25 @@ protocol: NECext
 address: F3 C0 00 00
 command: 3E 00 00 00
 #
-name: ZONE
+name: Zone
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 3F 00 00 00
 #
-name: SAVE
+name: Save
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 40 00 00 00
 #
-name: IN_6
+name: In_6
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 4A 00 00 00
 #
-name: 016_INPUT_6
+name: 016_input_6
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -451,13 +451,13 @@ protocol: NECext
 address: F3 C0 00 00
 command: 4A 00 00 00
 #
-name: PSET_UP
+name: Pset_up
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 4B 00 00 00
 #
-name: D_IN
+name: D_in
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -469,37 +469,37 @@ protocol: NECext
 address: F3 C0 00 00
 command: 5A 00 00 00
 #
-name: D-IN
+name: D-in
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 5A 00 00 00
 #
-name: BASS_DN
+name: Bass_dn
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 65 00 00 00
 #
-name: SOURCE_UP
+name: Source_up
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 66 00 00 00
 #
-name: IN_9
+name: In_9
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 6E 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 76 00 00 00
 #
-name: TREB_DN
+name: Treb_dn
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -511,37 +511,37 @@ protocol: NECext
 address: F3 C0 00 00
 command: 79 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 7D 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: 8E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: A2 00 00 00
 #
-name: SOURCE_DN
+name: Source_dn
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: A6 00 00 00
 #
-name: PSET_DN
+name: Pset_dn
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: C6 00 00 00
 #
-name: LOUD
+name: Loud
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -553,7 +553,7 @@ protocol: NECext
 address: F3 C0 00 00
 command: CF 00 00 00
 #
-name: BASS_UP
+name: Bass_up
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -565,13 +565,13 @@ protocol: NECext
 address: F3 C0 00 00
 command: E5 00 00 00
 #
-name: M_[STM]
+name: M_[stm]
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
 command: EB 00 00 00
 #
-name: TREB_UP
+name: Treb_up
 type: parsed
 protocol: NECext
 address: F3 C0 00 00
@@ -583,7 +583,7 @@ protocol: NECext
 address: F3 C0 00 00
 command: F9 00 00 00
 #
-name: VIDEO_+
+name: Video_+
 type: parsed
 protocol: NECext
 address: F3 C0 00 00

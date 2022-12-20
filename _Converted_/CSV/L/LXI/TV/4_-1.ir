@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNEL_UP
+name: Channel_up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 00 00 00 00
 #
-name: CHANNEL_DOWN
+name: Channel_down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 01 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 02 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 03 00 00 00
 #
-name: FINE_TUNING_+
+name: Fine_tuning_+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 04 00 00 00
 #
-name: FINE_TUNING_-
+name: Fine_tuning_-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0B 00 00 00
 #
-name: PICTURE_MODE
+name: Picture_mode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0E 00 00 00
 #
-name: TV/CATV
+name: Tv/catv
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -133,49 +133,49 @@ protocol: NECext
 address: 04 00 00 00
 command: 19 00 00 00
 #
-name: LAST_CHANNEL
+name: Last_channel
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1A 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1B 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1E 00 00 00
 #
-name: CLOCK/TIMER
+name: Clock/timer
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 48 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4C 00 00 00
 #
-name: PICTURE_RESET
+name: Picture_reset
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4D 00 00 00
 #
-name: AUTO_PROGRAM
+name: Auto_program
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 54 00 00 00
 #
-name: ADD/DEL
+name: Add/del
 type: parsed
 protocol: NECext
 address: 04 00 00 00

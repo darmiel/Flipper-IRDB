@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 02 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 03 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 06 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 0F 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 13 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 16 00 00 00
 #
-name: TV_VCR
+name: Tv_vcr
 type: parsed
 protocol: NECext
 address: 89 77 00 00
@@ -109,73 +109,73 @@ protocol: NECext
 address: 89 77 00 00
 command: 49 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 4B 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 4C 00 00 00
 #
-name: SHOWVIEW
+name: Showview
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 4D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 4F 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 50 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 51 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 53 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 56 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 58 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 59 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 89 77 00 00
 command: 5C 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 89 77 00 00

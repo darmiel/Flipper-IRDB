@@ -13,7 +13,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 01 00 00 00
 #
-name: START+
+name: Start+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 02 00 00 00
 #
-name: STOP_+
+name: Stop_+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 03 00 00 00
 #
-name: DATE_+
+name: Date_+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 04 00 00 00
 #
-name: START-
+name: Start-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 05 00 00 00
 #
-name: STOP_-
+name: Stop_-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 06 00 00 00
 #
-name: DATE_-
+name: Date_-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -97,79 +97,79 @@ protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: CHANNEL+
+name: Channel+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 32 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 34 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 36 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 36 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 37 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 45 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 05 00 00 00

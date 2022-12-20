@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 00 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 01 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 02 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 03 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 04 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -49,19 +49,19 @@ protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0A 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 04 00 00 00
 command: 10 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 11 00 00 00
 #
-name: MegaBass
+name: Megabass
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 04 00 00 00
 command: 19 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 04 00 00 00
 command: 1F 00 00 00
 #
-name: MusicMenu
+name: Musicmenu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -121,13 +121,13 @@ protocol: NECext
 address: 04 00 00 00
 command: 27 00 00 00
 #
-name: Clock/Timer
+name: Clock/timer
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 33 00 00 00
 #
-name: Timer(POWER)
+name: Timer(power)
 type: parsed
 protocol: NECext
 address: 04 00 00 00

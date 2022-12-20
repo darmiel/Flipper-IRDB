@@ -10,13 +10,13 @@ protocol: NECext
 address: FD 00 00 00
 command: 65 9A 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: E5 1A 00 00
 #
-name: TV/RADIO
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -28,25 +28,25 @@ protocol: NECext
 address: FD 00 00 00
 command: 67 98 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: B7 48 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 5D A2 00 00
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 5F A0 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -58,7 +58,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 9F 60 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: FD 00 00 00
 command: A5 5A 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -82,7 +82,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 27 D8 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -94,25 +94,25 @@ protocol: NECext
 address: FD 00 00 00
 command: 97 68 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 77 88 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 55 AA 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: FD 00 00 00
 command: 57 A8 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -172,7 +172,7 @@ protocol: NECext
 address: FD 00 00 00
 command: CF 30 00 00
 #
-name: LIST/TEXT
+name: List/text
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -184,7 +184,7 @@ protocol: NECext
 address: FD 00 00 00
 command: 0F F0 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: FD 00 00 00
@@ -244,7 +244,7 @@ protocol: NECext
 address: FD 00 00 00
 command: BD 42 00 00
 #
-name: FILE
+name: File
 type: parsed
 protocol: NECext
 address: FD 00 00 00

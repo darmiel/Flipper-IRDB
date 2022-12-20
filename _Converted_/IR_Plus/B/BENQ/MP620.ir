@@ -10,25 +10,25 @@ protocol: NECext
 address: 0C 00 00 00
 command: BF 40 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F C0 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 5F A0 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9F 60 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
@@ -40,7 +40,7 @@ protocol: NECext
 address: 0C 00 00 00
 command: 2F D0 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
@@ -52,7 +52,7 @@ protocol: NECext
 address: 0C 00 00 00
 command: 4F B0 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: 0C 00 00 00
 command: 8F 70 00 00
 #
-name: BLANK
+name: Blank
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
@@ -76,25 +76,25 @@ protocol: NECext
 address: 0C 00 00 00
 command: CF 30 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: DF 20 00 00
 #
-name: KEY-SMALLER
+name: Key-smaller
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AF 50 00 00
 #
-name: KEY-AUTO
+name: Key-auto
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 77 88 00 00
 #
-name: KEY-LARGER
+name: Key-larger
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

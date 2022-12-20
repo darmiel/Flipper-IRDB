@@ -10,7 +10,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 2F D0 00 00
 #
-name: TV/RADIO
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 6F 90 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -82,55 +82,55 @@ protocol: NECext
 address: FF 00 00 00
 command: FF 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CF 30 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 0F F0 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 7D 82 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: F7 08 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: E7 18 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 27 D8 00 00
 #
-name: FAV-
+name: Fav-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: C7 38 00 00
 #
-name: FAV+
+name: Fav+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 17 E8 00 00
 #
-name: SKIP+
+name: Skip+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 5D A2 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 9D 62 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -166,7 +166,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 4F B0 00 00
 #
-name: SKIP-
+name: Skip-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -178,7 +178,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 6D 92 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -220,73 +220,73 @@ protocol: NECext
 address: FF 00 00 00
 command: 15 EA 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 4D B2 00 00
 #
-name: TELETEXT
+name: Teletext
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: AD 52 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: DD 22 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 8F 70 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: BD 42 00 00
 #
-name: GOTO
+name: Goto
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 65 9A 00 00
 #
-name: REPEATALL
+name: Repeatall
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: FD 02 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D5 2A 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 97 68 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: B5 4A 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -298,7 +298,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 95 6A 00 00
 #
-name: FORMAT
+name: Format
 type: parsed
 protocol: NECext
 address: FF 00 00 00

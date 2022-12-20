@@ -55,19 +55,19 @@ protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: PLAY_>_(ENHANCE)
+name: Play_>_(enhance)
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: STOP_[]_(PROCESSOR)
+name: Stop_[]_(processor)
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00

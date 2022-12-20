@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: TUN
+name: Tun
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 14 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 15 00 00 00
 #
-name: TP1
+name: Tp1
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 16 00 00 00
 #
-name: TP2
+name: Tp2
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 17 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 18 00 00 00
 #
-name: BAL_R
+name: Bal_r
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1A 00 00 00
 #
-name: BAL_L
+name: Bal_l
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1B 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 26 00 00 00
 #
-name: ALARM
+name: Alarm
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 29 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2A 00 00 00
 #
-name: TIME_UP
+name: Time_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2B 00 00 00
 #
-name: TIMEDN
+name: Timedn
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2C 00 00 00
 #
-name: LISTEN
+name: Listen
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 38 00 00 00
 #
-name: BASS+
+name: Bass+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6B 00 00 00
 #
-name: BASS-
+name: Bass-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6C 00 00 00
 #
-name: TREB+
+name: Treb+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6D 00 00 00
 #
-name: TREB-
+name: Treb-
 type: parsed
 protocol: NECext
 address: 10 00 00 00

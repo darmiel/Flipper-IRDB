@@ -61,133 +61,133 @@ protocol: NECext
 address: 60 00 00 00
 command: D6 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: D7 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: D9 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: DA 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: DB 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: DC 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: DC 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: DD 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: DE 00 00 00
 #
-name: ALBUM
+name: Album
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: E3 00 00 00
 #
-name: ARTIST
+name: Artist
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: E4 00 00 00
 #
-name: GENRE
+name: Genre
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: E5 00 00 00
 #
-name: PLAYLIST
+name: Playlist
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: E7 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: E8 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: E9 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: EB 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: ED 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: EE 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: EF 00 00 00
 #
-name: OUTPUT
+name: Output
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: F0 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: F1 00 00 00
 #
-name: DISC_-
+name: Disc_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: F2 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -199,31 +199,31 @@ protocol: NECext
 address: 60 00 00 00
 command: F3 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: F4 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: F5 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: F7 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: F8 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: 60 00 00 00

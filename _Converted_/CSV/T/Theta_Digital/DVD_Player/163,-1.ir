@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -67,121 +67,121 @@ protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: CONDITION
+name: Condition
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: PLAY_<
+name: Play_<
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: SLOW_MOTION_-
+name: Slow_motion_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: SLOW_MOTION_+
+name: Slow_motion_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 99 00 00 00
 #
-name: FRAME_>>
+name: Frame_>>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9A 00 00 00
 #
-name: FRAME_<<
+name: Frame_<<
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9B 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9C 00 00 00
 #
-name: PREV.
+name: Prev.
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 9E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A3 00 00 00

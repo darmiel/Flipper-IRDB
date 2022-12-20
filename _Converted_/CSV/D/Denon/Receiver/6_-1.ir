@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VDP_POWER
+name: Vdp_power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 81 00 00 00
 #
-name: VDP_POWER_(DISC_SKIP
+name: Vdp_power_(disc_skip
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 81 00 00 00
 #
-name: VDP_STOP_[]
+name: Vdp_stop_[]
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 83 00 00 00
 #
-name: VDP_PLAY_>
+name: Vdp_play_>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 84 00 00 00
 #
-name: VDP_PAUSE_
+name: Vdp_pause_
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 85 00 00 00
 #
-name: VDP_SKIP_>>
+name: Vdp_skip_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 86 00 00 00
 #
-name: VDP_>>
+name: Vdp_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 86 00 00 00
 #
-name: VDP_SKIP_<<
+name: Vdp_skip_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 87 00 00 00
 #
-name: VDP_<<
+name: Vdp_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 87 00 00 00
 #
-name: VDP_SCAN_>>
+name: Vdp_scan_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -67,79 +67,79 @@ protocol: NECext
 address: 06 00 00 00
 command: 88 00 00 00
 #
-name: VDP_>>
+name: Vdp_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 88 00 00 00
 #
-name: VDP_FFWD_>>
+name: Vdp_ffwd_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 88 00 00 00
 #
-name: VDP_SCAN_<<
+name: Vdp_scan_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 89 00 00 00
 #
-name: VDP_<<
+name: Vdp_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 89 00 00 00
 #
-name: VDP_REW_<<
+name: Vdp_rew_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 89 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: C0 00 00 00
 #
-name: MD-STOP
+name: Md-stop
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E1 00 00 00
 #
-name: MD-PLAY
+name: Md-play
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E2 00 00 00
 #
-name: MD-PAUSE
+name: Md-pause
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E3 00 00 00
 #
-name: MD-FF
+name: Md-ff
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E9 00 00 00
 #
-name: MD-RW
+name: Md-rw
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: EA 00 00 00
 #
-name: MD-SEARCH+
+name: Md-search+
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: EB 00 00 00
 #
-name: MD-SEARCH-
+name: Md-search-
 type: parsed
 protocol: NECext
 address: 06 00 00 00

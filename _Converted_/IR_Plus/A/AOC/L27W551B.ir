@@ -10,7 +10,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 7F 80 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -22,25 +22,25 @@ protocol: NECext
 address: BD 00 00 00
 command: 77 88 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 8D 72 00 00
 #
-name: Sleep Timer
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 37 C8 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 3F C0 00 00
 #
-name: Txt Expand
+name: Txt_expand
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 15 EA 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: BD 00 00 00
 command: D5 2A 00 00
 #
-name: Mix Scan
+name: Mix_scan
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 6D 92 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 0D F2 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -172,13 +172,13 @@ protocol: NECext
 address: BD 00 00 00
 command: BF 40 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: E7 18 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -190,7 +190,7 @@ protocol: NECext
 address: BD 00 00 00
 command: DF 20 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -262,7 +262,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 7D 82 00 00
 #
-name: Fav/Rcl
+name: Fav/rcl
 type: parsed
 protocol: NECext
 address: BD 00 00 00

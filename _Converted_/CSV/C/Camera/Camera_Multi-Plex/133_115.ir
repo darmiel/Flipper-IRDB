@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 85 73 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 85 73 00 00
 command: 88 00 00 00
 #
-name: PIP_ON
+name: Pip_on
 type: parsed
 protocol: NECext
 address: 85 73 00 00
@@ -67,31 +67,31 @@ protocol: NECext
 address: 85 73 00 00
 command: 8A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 8B 00 00 00
 #
-name: IR_OP
+name: Ir_op
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 8C 00 00 00
 #
-name: PG_DWN
+name: Pg_dwn
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 8D 00 00 00
 #
-name: PG_UP
+name: Pg_up
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 8E 00 00 00
 #
-name: BELL_MT
+name: Bell_mt
 type: parsed
 protocol: NECext
 address: 85 73 00 00
@@ -103,43 +103,43 @@ protocol: NECext
 address: 85 73 00 00
 command: 90 00 00 00
 #
-name: MAIN_+
+name: Main_+
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 91 00 00 00
 #
-name: SUB_+
+name: Sub_+
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 92 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 93 00 00 00
 #
-name: MAIN_-
+name: Main_-
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 95 00 00 00
 #
-name: SUB_-
+name: Sub_-
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 96 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 85 73 00 00
 command: 97 00 00 00
 #
-name: MUENU
+name: Muenu
 type: parsed
 protocol: NECext
 address: 85 73 00 00

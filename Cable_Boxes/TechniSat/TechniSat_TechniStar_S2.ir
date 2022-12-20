@@ -69,157 +69,157 @@ protocol: RC5
 address: 08 00 00 00
 command: 09 00 00 00
 # 
-name: REC
+name: Rec
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 37 00 00 00
 # 
-name: 0 / AV
+name: 0_/_av
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 00 00 00 00
 # 
-name: OPT
+name: Opt
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 0A 00 00 00
 # 
-name: RED / BW
+name: Red_/_bw
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 2B 00 00 00
 # 
-name: GREEN / STOP
+name: Green_/_stop
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 2C 00 00 00
 # 
-name: YELLOW / PLAY-PAUSE
+name: Yellow_/_play-pause
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 2D 00 00 00
 # 
-name: BLUE / FF
+name: Blue_/_ff
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 2E 00 00 00
 # 
-name: UP
+name: Up
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 10 00 00 00
 # 
-name: DOWN
+name: Down
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 11 00 00 00
 # 
-name: LEFT
+name: Left
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 15 00 00 00
 # 
-name: RIGHT
+name: Right
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 16 00 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 17 00 00 00
 # 
-name: SFI / EPG
+name: Sfi_/_epg
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 2F 00 00 00
 # 
-name: REF / EXIT
+name: Ref_/_exit
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 22 00 00 00
 # 
-name: INFO
+name: Info
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 0F 00 00 00
 # 
-name: CH+
+name: Ch+
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 20 00 00 00
 # 
-name: CH-
+name: Ch-
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 21 00 00 00
 # 
-name: TV / RADIO
+name: Tv_/_radio
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 13 00 00 00
 # 
-name: MENU
+name: Menu
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 12 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 10 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 11 00 00 00
 # 
-name: TXT
+name: Txt
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 3C 00 00 00
 # 
-name: STILL
+name: Still
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 29 00 00 00
 # 
-name: PIP
+name: Pip
 type: parsed
 protocol: RC5X
 address: 08 00 00 00
 command: 18 00 00 00
 # 
-name: SOUND
+name: Sound
 type: parsed
 protocol: RC5
 address: 08 00 00 00
 command: 23 00 00 00
 # 
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: RC5
 address: 08 00 00 00

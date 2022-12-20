@@ -1,259 +1,259 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 12V_TRIGGER_A_ON
+name: 12v_trigger_a_on
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 04 00 00 00
 #
-name: 12V_TRIGGER_A_OFF
+name: 12v_trigger_a_off
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 05 00 00 00
 #
-name: 12V_TRIGGER_B_ON
+name: 12v_trigger_b_on
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 06 00 00 00
 #
-name: 12V_TRIGGER_B_OFF
+name: 12v_trigger_b_off
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 07 00 00 00
 #
-name: 12V_TRIGGER_C_ON
+name: 12v_trigger_c_on
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 08 00 00 00
 #
-name: 12V_TRIGGER_C_OFF
+name: 12v_trigger_c_off
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 09 00 00 00
 #
-name: MODE_PLLX_MOVIE
+name: Mode_pllx_movie
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 0A 00 00 00
 #
-name: MODE_PLLX_MUSIC
+name: Mode_pllx_music
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 0B 00 00 00
 #
-name: MODE_PLLX_GAME
+name: Mode_pllx_game
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 0C 00 00 00
 #
-name: MODE_NEO6_CINEMA
+name: Mode_neo6_cinema
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 0D 00 00 00
 #
-name: MODE_NEO6_MUSIC
+name: Mode_neo6_music
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 0E 00 00 00
 #
-name: LOCK
+name: Lock
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 14 00 00 00
 #
-name: UNLOCK
+name: Unlock
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 15 00 00 00
 #
-name: TUNE_DIRECT
+name: Tune_direct
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 40 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 40 00 00 00
 #
-name: TUNE_DOWN
+name: Tune_down
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 41 00 00 00
 #
-name: TUNE_SEARCH_MODE
+name: Tune_search_mode
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 4D 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 5C 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 5D 00 00 00
 #
-name: NET/USB_FFWD
+name: Net/usb_ffwd
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 80 00 00 00
 #
-name: NET/USB_REW
+name: Net/usb_rew
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 81 00 00 00
 #
-name: NET/USB_RETURN
+name: Net/usb_return
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 86 00 00 00
 #
-name: INPUT_NET_AUDIO
+name: Input_net_audio
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 87 00 00 00
 #
-name: INPUT_MUSIC_SERVER
+name: Input_music_server
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 88 00 00 00
 #
-name: INPUT_INTERNET_RADIO
+name: Input_internet_radio
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 89 00 00 00
 #
-name: NET/USB_PLAY
+name: Net/usb_play
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 8D 00 00 00
 #
-name: NET/USB_STOP
+name: Net/usb_stop
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 8E 00 00 00
 #
-name: NET/USB_TRACK_+
+name: Net/usb_track_+
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 8F 00 00 00
 #
-name: NET/USB_TRACK_-
+name: Net/usb_track_-
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 90 00 00 00
 #
-name: NET/USB_PAUSE
+name: Net/usb_pause
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 91 00 00 00
 #
-name: NET/USB_REPEAT
+name: Net/usb_repeat
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 92 00 00 00
 #
-name: NET/USB_MENU
+name: Net/usb_menu
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 94 00 00 00
 #
-name: NET/USB_TOP_MENU
+name: Net/usb_top_menu
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 95 00 00 00
 #
-name: NET/USB_RANDOM
+name: Net/usb_random
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 9B 00 00 00
 #
-name: NET/USB_DISPLAY
+name: Net/usb_display
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 9E 00 00 00
 #
-name: NET/USB_SETUP
+name: Net/usb_setup
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 9F 00 00 00
 #
-name: NET/USB_UP
+name: Net/usb_up
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: C0 00 00 00
 #
-name: NET/USB_DOWN
+name: Net/usb_down
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: C1 00 00 00
 #
-name: NET/USB_LEFT
+name: Net/usb_left
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: C2 00 00 00
 #
-name: NET/USB_RIGHT
+name: Net/usb_right
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: C3 00 00 00
 #
-name: NET/USB_SELECT
+name: Net/usb_select
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: C4 00 00 00
 #
-name: NET/USB_CAPS
+name: Net/usb_caps
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: D0 00 00 00
 #
-name: NET/USB_DELETE
+name: Net/usb_delete
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -265,7 +265,7 @@ protocol: NECext
 address: D2 02 00 00
 command: D5 00 00 00
 #
-name: NET/USB_1
+name: Net/usb_1
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -277,7 +277,7 @@ protocol: NECext
 address: D2 02 00 00
 command: D6 00 00 00
 #
-name: NET/USB_2
+name: Net/usb_2
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -289,7 +289,7 @@ protocol: NECext
 address: D2 02 00 00
 command: D7 00 00 00
 #
-name: NET/USB_3
+name: Net/usb_3
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -301,7 +301,7 @@ protocol: NECext
 address: D2 02 00 00
 command: D8 00 00 00
 #
-name: NET/USB_4
+name: Net/usb_4
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -313,7 +313,7 @@ protocol: NECext
 address: D2 02 00 00
 command: D9 00 00 00
 #
-name: NET/USB_5
+name: Net/usb_5
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -325,7 +325,7 @@ protocol: NECext
 address: D2 02 00 00
 command: DA 00 00 00
 #
-name: NET/USB_6
+name: Net/usb_6
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -337,7 +337,7 @@ protocol: NECext
 address: D2 02 00 00
 command: DB 00 00 00
 #
-name: NET/USB_7
+name: Net/usb_7
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -349,7 +349,7 @@ protocol: NECext
 address: D2 02 00 00
 command: DC 00 00 00
 #
-name: NET/USB_8
+name: Net/usb_8
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -361,7 +361,7 @@ protocol: NECext
 address: D2 02 00 00
 command: DD 00 00 00
 #
-name: NET/USB_9
+name: Net/usb_9
 type: parsed
 protocol: NECext
 address: D2 02 00 00
@@ -373,7 +373,7 @@ protocol: NECext
 address: D2 02 00 00
 command: DE 00 00 00
 #
-name: NET/USB_0
+name: Net/usb_0
 type: parsed
 protocol: NECext
 address: D2 02 00 00

@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SYNC_MENU
+name: Sync_menu
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 58 00 00 00
 #
-name: HDMI_SCROLL
+name: Hdmi_scroll
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 59 00 00 00
 #
-name: INPUT_HDMI_1
+name: Input_hdmi_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5A 00 00 00
 #
-name: INPUT_HDMI_1_(2011)
+name: Input_hdmi_1_(2011)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5A 00 00 00
 #
-name: INPUT_HDMI_2
+name: Input_hdmi_2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5B 00 00 00
 #
-name: INPUT_HDMI_2_(2011)
+name: Input_hdmi_2_(2011)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5B 00 00 00
 #
-name: INPUT_HDMI_3
+name: Input_hdmi_3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5C 00 00 00
 #
-name: INPUT_HDMI_3_(2011)
+name: Input_hdmi_3_(2011)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5C 00 00 00
 #
-name: INPUT_HDMI_4
+name: Input_hdmi_4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5D 00 00 00
 #
-name: INPUT_HDMI_4_(2011)
+name: Input_hdmi_4_(2011)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5D 00 00 00
 #
-name: INPUT_HDMI_5
+name: Input_hdmi_5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5E 00 00 00
 #
-name: INPUT_HDMI_5_(2011)
+name: Input_hdmi_5_(2011)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 5E 00 00 00
 #
-name: MENU_POP_UP
+name: Menu_pop_up
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 61 00 00 00
 #
-name: DME_X_BRAVIA_MODULE
+name: Dme_x_bravia_module
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 6B 00 00 00
 #
-name: INTERNET_TV
+name: Internet_tv
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 79 00 00 00
 #
-name: INTERNET_APPS
+name: Internet_apps
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 7A 00 00 00
 #
-name: NETFLIX
+name: Netflix
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 7C 00 00 00
 #
-name: INTERNET_QRIOCITY
+name: Internet_qriocity
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

@@ -61,133 +61,133 @@ protocol: NECext
 address: 04 00 00 00
 command: CA 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D0 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D4 00 00 00
 #
-name: SRCH_>>
+name: Srch_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D8 00 00 00
 #
-name: SRCH_<<
+name: Srch_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: D9 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DA 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DB 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DC 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DD 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DE 00 00 00
 #
-name: REC/MUTE
+name: Rec/mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: DF 00 00 00
 #
-name: MODE_COUNTER
+name: Mode_counter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: E1 00 00 00
 #
-name: RESET_COUNTER
+name: Reset_counter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: E2 00 00 00
 #
-name: RENUMBER
+name: Renumber
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: E7 00 00 00
 #
-name: END
+name: End
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: EA 00 00 00
 #
-name: ID_MODE
+name: Id_mode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: EB 00 00 00
 #
-name: WRITE
+name: Write
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: EC 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: ED 00 00 00
 #
-name: DIGITAL_FADE_IN
+name: Digital_fade_in
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: F1 00 00 00
 #
-name: DIGITAL_FADE_OUT
+name: Digital_fade_out
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: F2 00 00 00
 #
-name: FINE_CUE_<
+name: Fine_cue_<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: F3 00 00 00
 #
-name: FINE_CUE_>
+name: Fine_cue_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: F4 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 04 00 00 00

@@ -19,7 +19,7 @@ protocol: NECext
 address: A2 A2 00 00
 command: 03 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -31,13 +31,13 @@ protocol: NECext
 address: A2 A2 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 06 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: A2 A2 00 00
 command: 0B 00 00 00
 #
-name: SkipForward
+name: Skipforward
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: A2 A2 00 00
 command: 0E 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: A2 A2 00 00
 command: 12 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: A2 A2 00 00
 command: 16 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -139,13 +139,13 @@ protocol: NECext
 address: A2 A2 00 00
 command: 1A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 1B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
@@ -163,19 +163,19 @@ protocol: NECext
 address: A2 A2 00 00
 command: 1F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A2 A2 00 00
 command: 60 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: A2 A2 00 00

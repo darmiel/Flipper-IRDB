@@ -10,7 +10,7 @@ protocol: NECext
 address: 27 61 00 00
 command: 79 86 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 27 61 00 00
@@ -22,13 +22,13 @@ protocol: NECext
 address: 27 61 00 00
 command: 21 DE 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: 59 A6 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 27 61 00 00
@@ -40,7 +40,7 @@ protocol: NECext
 address: 27 61 00 00
 command: 69 96 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 27 61 00 00
@@ -52,7 +52,7 @@ protocol: NECext
 address: 27 61 00 00
 command: A9 56 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 27 61 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: 27 61 00 00
 command: C9 36 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: 27 61 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: 27 61 00 00
 command: 49 B6 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 27 61 00 00
@@ -136,55 +136,55 @@ protocol: NECext
 address: 27 61 00 00
 command: E1 1E 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: 61 9E 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: 41 BE 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: 81 7E 00 00
 #
-name: ANLGE
+name: Anlge
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: 01 FE 00 00
 #
-name: SETTINGS
+name: Settings
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: 19 E6 00 00
 #
-name: SLIDESHOW
+name: Slideshow
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: E9 16 00 00
 #
-name: PHOTO
+name: Photo
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: B9 46 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 27 61 00 00
 command: 39 C6 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: 27 61 00 00

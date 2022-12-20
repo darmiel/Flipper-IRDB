@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 00 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 30 00 00 00
@@ -73,133 +73,133 @@ protocol: NECext
 address: 30 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 13 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 14 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 15 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 16 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 17 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 18 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 19 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 20 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 21 00 00 00
 #
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 22 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 23 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 24 00 00 00
 #
-name: CAPTION
+name: Caption
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 25 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 26 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 27 00 00 00
 #
-name: F/F
+name: F/f
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 28 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 29 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 30 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 31 00 00 00
 #
-name: HD
+name: Hd
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 32 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 30 00 00 00

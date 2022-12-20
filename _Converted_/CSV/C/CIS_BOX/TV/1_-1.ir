@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: VOL_DN
+name: Vol_dn
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: ANT
+name: Ant
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2A 00 00 00
 #
-name: PWR_ON
+name: Pwr_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2E 00 00 00
 #
-name: PWR_OFF
+name: Pwr_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2F 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3A 00 00 00
 #
-name: IN1
+name: In1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 40 00 00 00
 #
-name: IN2
+name: In2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 41 00 00 00
 #
-name: IN3
+name: In3
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 42 00 00 00
 #
-name: IN4
+name: In4
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 47 00 00 00
 #
-name: IN5
+name: In5
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 48 00 00 00
 #
-name: PIP_ON_OFF
+name: Pip_on_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 5B 00 00 00
 #
-name: PIC_MODE
+name: Pic_mode
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 5E 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 01 00 00 00

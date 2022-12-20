@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 29 00 00 00
 #
-name: VIDEO_INPUT
+name: Video_input
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2A 00 00 00
 #
-name: INPUT_A
+name: Input_a
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2B 00 00 00
 #
-name: INPUT_B
+name: Input_b
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2C 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2F 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 33 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 34 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 35 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 36 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 5A 00 00 00
 #
-name: S_VIDEO_INPUT
+name: S_video_input
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 5F 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 54 00 00 00

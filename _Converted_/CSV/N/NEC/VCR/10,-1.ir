@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNEL_^
+name: Channel_^
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 00 00 00 00
 #
-name: CHANNEL_V
+name: Channel_v
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 01 00 00 00
 #
-name: SKIP_SEARCH
+name: Skip_search
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 02 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 04 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 05 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 06 00 00 00
 #
-name: AUDIO_DUB
+name: Audio_dub
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 08 00 00 00
 #
-name: VIDEO/TV
+name: Video/tv
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0A 00 00 00
 #
-name: FF/SRCH_>>
+name: Ff/srch_>>
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0C 00 00 00
 #
-name: REW/SRCH_<<
+name: Rew/srch_<<
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0D 00 00 00
 #
-name: PAUSE/STILL_
+name: Pause/still_
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0E 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 0A 00 00 00
 command: 1C 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 0A 00 00 00

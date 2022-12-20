@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 02 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -85,13 +85,13 @@ protocol: NECext
 address: 07 07 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0F 00 00 00
 #
-name: cp-
+name: Cp-
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -103,31 +103,31 @@ protocol: NECext
 address: 07 07 00 00
 command: 11 00 00 00
 #
-name: cp+
+name: Cp+
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 12 00 00 00
 #
-name: pstd
+name: Pstd
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 16 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1A 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1B 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 23 00 00 00
 #
-name: psize
+name: Psize
 type: parsed
 protocol: NECext
 address: 07 07 00 00

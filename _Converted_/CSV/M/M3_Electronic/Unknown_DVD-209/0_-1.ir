@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -91,91 +91,91 @@ protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: v-mode
+name: V-mode
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 43 00 00 00
 #
-name: hdres
+name: Hdres
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 46 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 48 00 00 00
 #
-name: rev
+name: Rev
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 49 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 50 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 55 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 00 00 00 00

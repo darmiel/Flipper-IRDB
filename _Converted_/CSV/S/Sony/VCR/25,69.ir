@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SEARCH_SELECT
+name: Search_select
 type: parsed
 protocol: NECext
 address: 19 45 00 00
 command: 2D 00 00 00
 #
-name: PRINT
+name: Print
 type: parsed
 protocol: NECext
 address: 19 45 00 00

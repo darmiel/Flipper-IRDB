@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 00 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 01 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 02 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 04 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 05 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 06 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 07 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 08 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 09 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 0A 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 0F 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 12 00 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 1A 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 1B 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 84 79 00 00
 command: 1E 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 84 79 00 00

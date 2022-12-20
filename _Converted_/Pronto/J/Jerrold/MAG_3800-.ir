@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 28978 131 28978 131 28978 131 19275 131 19275
 #
-name: FAVORITE
+name: Favorite
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
@@ -67,7 +67,7 @@ frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 28978 131 28978 131 28978 131 19275 131 28978
 #
-name: SELECT
+name: Select
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
@@ -79,61 +79,61 @@ frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 28978 131 19275 131 19275 131 28978 131 19275
 #
-name: ENTER
+name: Enter
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 19275 131 19275 131 19275 131 19275 131 28978
 #
-name: A/B
+name: A/b
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 28978 131 28978 131 19275 131 19275 131 19275
 #
-name: LAST_CHANNEL
+name: Last_channel
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 19275 131 28978 131 28978 131 19275 131 19275
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 19275 131 28978 131 19275 131 28978 131 28978
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 19275 131 19275 131 28978 131 28978 131 28978
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 28978 131 19275 131 28978 131 19275 131 19275
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 28978 131 19275 131 19275 131 19275 131 19275
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 19275 131 28978 131 19275 131 19275 131 28978
 #
-name: PC/PM
+name: Pc/pm
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 28978 131 19275 131 19275 131 28978 131 28978
 #
-name: TCP
+name: Tcp
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
@@ -145,19 +145,19 @@ frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 19275 131 19275 131 28978 131 19275 131 19275
 #
-name: LEARN
+name: Learn
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 19275 131 19275 131 19275 131 28978 131 19275
 #
-name: PROGRAM
+name: Program
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58087 131 19275 131 19275 131 28978 131 28978 131 19275
 #
-name: DELETE
+name: Delete
 type: raw
 frequency: 38029
 duty_cycle: 0.330000

@@ -64,7 +64,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 19 E6 00 00
 #
-name: MEDIA
+name: Media
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 77 88 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -88,7 +88,7 @@ protocol: NECext
 address: 08 00 00 00
 command: B7 48 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -100,7 +100,7 @@ protocol: NECext
 address: 08 00 00 00
 command: D7 28 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -112,91 +112,91 @@ protocol: NECext
 address: 08 00 00 00
 command: 57 A8 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 7D 82 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 07 F8 00 00
 #
-name: info
+name: Info
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 3D C2 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: F7 08 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: FD 02 00 00
 #
-name: OPT+
+name: Opt+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: BD 42 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 0F F0 00 00
 #
-name: SCHEDULE
+name: Schedule
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 49 B6 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: BF 40 00 00
 #
-name: SLOW FWD
+name: Slow_fwd
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: C9 36 00 00
 #
-name: TV/RADIO
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 4F B0 00 00
 #
-name: VIDEO MyTV
+name: Video_mytv
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: C7 38 00 00
 #
-name: RADIO Favourite
+name: Radio_favourite
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 47 B8 00 00
 #
-name: MUSIC HD TV
+name: Music_hd_tv
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A7 58 00 00
 #
-name: PHOTO Genre
+name: Photo_genre
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -256,7 +256,7 @@ protocol: NECext
 address: 08 00 00 00
 command: 2F D0 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 08 00 00 00
@@ -268,55 +268,55 @@ protocol: NECext
 address: 08 00 00 00
 command: CF 30 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 8F 70 00 00
 #
-name: TELETEXT
+name: Teletext
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 89 76 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5D A2 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 9D 62 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: CD 32 00 00
 #
-name: FAV +
+name: Fav_+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: A9 56 00 00
 #
-name: FAV LIST
+name: Fav_list
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 29 D6 00 00
 #
-name: V FORMAT
+name: V_format
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 0D F2 00 00
 #
-name: WIDE
+name: Wide
 type: parsed
 protocol: NECext
 address: 08 00 00 00

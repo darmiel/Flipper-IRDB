@@ -73,331 +73,331 @@ protocol: NECext
 address: B6 00 00 00
 command: 0A 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 10 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 11 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 11 00 00 00
 #
-name: STOP_[]/(CANCEL)
+name: Stop_[]/(cancel)
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 11 00 00 00
 #
-name: STOP_[]_(CANCEL)
+name: Stop_[]_(cancel)
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 11 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: PLAY/PAUSE_>_
+name: Play/pause_>_
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: PLAY/PAUSE_>
+name: Play/pause_>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: PLAY/PAUSE(ENTER)
+name: Play/pause(enter)
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: PLAY/PAUSE_>/
+name: Play/pause_>/
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: PLAY/PAUSE_
+name: Play/pause_
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 14 00 00 00
 #
-name: FAST_REW
+name: Fast_rew
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 14 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 14 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 14 00 00 00
 #
-name: SCAN_REV_<<
+name: Scan_rev_<<
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 14 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: FAST_FWD
+name: Fast_fwd
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: FFWD_>>
+name: Ffwd_>>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: SCAN_FWD_>>
+name: Scan_fwd_>>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: SKIP_REV_<<
+name: Skip_rev_<<
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: <<_SEARCH/SCAN
+name: <<_search/scan
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: SKIP_FWD_>>
+name: Skip_fwd_>>
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: >>_SEARCH/SCAN
+name: >>_search/scan
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: TIME_DISPLAY
+name: Time_display
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 18 00 00 00
 #
-name: TIME_DISP.
+name: Time_disp.
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 18 00 00 00
 #
-name: TIME_DISP
+name: Time_disp
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 18 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 19 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1A 00 00 00
 #
-name: CHECK
+name: Check
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1B 00 00 00
 #
-name: P_MODE
+name: P_mode
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1F 00 00 00
 #
-name: P-MODE
+name: P-mode
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1F 00 00 00
 #
-name: P.MODE
+name: P.mode
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1F 00 00 00
 #
-name: P._MODE
+name: P._mode
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1F 00 00 00
 #
-name: PLAY_MODE
+name: Play_mode
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1F 00 00 00
 #
-name: OUTPUT_DOWN
+name: Output_down
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 48 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 48 00 00 00
 #
-name: OUTPUT_UP
+name: Output_up
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 49 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 49 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4A 00 00 00
 #
-name: EDIT-1
+name: Edit-1
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4A 00 00 00
 #
-name: EDIT_MODE
+name: Edit_mode
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4A 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4D 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4F 00 00 00
 #
-name: RANDOM_PLAY
+name: Random_play
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4F 00 00 00
 #
-name: DISP_P
+name: Disp_p
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 50 00 00 00
 #
-name: DISP
+name: Disp
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -409,211 +409,211 @@ protocol: NECext
 address: B6 00 00 00
 command: 50 00 00 00
 #
-name: DISC_P
+name: Disc_p
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 50 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 51 00 00 00
 #
-name: 1_DISC_SELECTOR
+name: 1_disc_selector
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 51 00 00 00
 #
-name: DISC_SELECTOR_1
+name: Disc_selector_1
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 51 00 00 00
 #
-name: DISC_SLCT_1
+name: Disc_slct_1
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 51 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 52 00 00 00
 #
-name: 2_DISC_SELECTOR
+name: 2_disc_selector
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 52 00 00 00
 #
-name: DISC_SELECTOR_2
+name: Disc_selector_2
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 52 00 00 00
 #
-name: DISC_SLCT_2
+name: Disc_slct_2
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 52 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 53 00 00 00
 #
-name: 3_DISC_SELECTOR
+name: 3_disc_selector
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 53 00 00 00
 #
-name: DISC_SELECTOR_3
+name: Disc_selector_3
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 53 00 00 00
 #
-name: DISC_SLCT_3
+name: Disc_slct_3
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 53 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 54 00 00 00
 #
-name: 4_DISC_SELECTOR
+name: 4_disc_selector
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 54 00 00 00
 #
-name: DISC_SELECTOR_4
+name: Disc_selector_4
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 54 00 00 00
 #
-name: DISC_SLCT_4
+name: Disc_slct_4
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 54 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 55 00 00 00
 #
-name: 5_DISC_SELECTOR
+name: 5_disc_selector
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 55 00 00 00
 #
-name: DISC_SELECTOR_5
+name: Disc_selector_5
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 55 00 00 00
 #
-name: DISC_SLCT_5
+name: Disc_slct_5
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 55 00 00 00
 #
-name: 6_DISC_SELECTOR
+name: 6_disc_selector
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 56 00 00 00
 #
-name: DISC_6
+name: Disc_6
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 56 00 00 00
 #
-name: PEAK_SEARCH
+name: Peak_search
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 8D 00 00 00
 #
-name: EDIT-2
+name: Edit-2
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 8E 00 00 00
 #
-name: PGM_FILE
+name: Pgm_file
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 8F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 91 00 00 00
 #
-name: MAG.RECALL
+name: Mag.recall
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 92 00 00 00
 #
-name: P1_RECALL
+name: P1_recall
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 93 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 94 00 00 00
 #
-name: MAG.
+name: Mag.
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 95 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 96 00 00 00
 #
-name: PGM
+name: Pgm
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 97 00 00 00
 #
-name: PEAK
+name: Peak
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 98 00 00 00
 #
-name: DSP
+name: Dsp
 type: parsed
 protocol: NECext
 address: B6 00 00 00

@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VCR2_REC
+name: Vcr2_rec
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 37 00 00 00
 #
-name: VCR_2
+name: Vcr_2
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: DSS
+name: Dss
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: VCR_2_(DSS)
+name: Vcr_2_(dss)
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: DSS/VCR2
+name: Dss/vcr2
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: VCR2
+name: Vcr2
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: VCR2/DSS
+name: Vcr2/dss
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: DSS_INPUT
+name: Dss_input
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: VCR_2/DSS
+name: Vcr_2/dss
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT_-_DSS
+name: Input_-_dss
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT:_DSS
+name: Input:_dss
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT:_DSS/MD
+name: Input:_dss/md
 type: parsed
 protocol: NECext
 address: 06 00 00 00

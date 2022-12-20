@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE_TOGGLE_T0
+name: Mute_toggle_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE_TOGGLE_T1
+name: Mute_toggle_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 0D 00 00 00
 #
-name: VOLUME_UP_T0
+name: Volume_up_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 10 00 00 00
 #
-name: VOLUME_UP_T1
+name: Volume_up_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 10 00 00 00
 #
-name: VOLUME_DOWN_T0
+name: Volume_down_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 11 00 00 00
 #
-name: VOLUME_DOWN_T1
+name: Volume_down_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 11 00 00 00
 #
-name: F1_T0
+name: F1_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 38 00 00 00
 #
-name: F1_T1
+name: F1_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 38 00 00 00
 #
-name: F2_T0
+name: F2_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 39 00 00 00
 #
-name: F2_T1
+name: F2_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 39 00 00 00
 #
-name: F3_T0
+name: F3_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 86 00 00 00
 #
-name: F3_T1
+name: F3_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 86 00 00 00
 #
-name: F4_T0
+name: F4_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 87 00 00 00
 #
-name: F4_T1
+name: F4_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 87 00 00 00
 #
-name: MUTE_T0
+name: Mute_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 98 00 00 00
 #
-name: MUTE_T1
+name: Mute_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 98 00 00 00
 #
-name: UNMUTE_T0
+name: Unmute_t0
 type: parsed
 protocol: NECext
 address: C8 00 00 00
 command: 99 00 00 00
 #
-name: UNMUTE_T1
+name: Unmute_t1
 type: parsed
 protocol: NECext
 address: C8 00 00 00

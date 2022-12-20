@@ -1,223 +1,223 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DVD_INPUT
+name: Dvd_input
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 1C 00 00 00
 #
-name: DVD/HD
+name: Dvd/hd
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 1C 00 00 00
 #
-name: INPUT:_DVD
+name: Input:_dvd
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 1C 00 00 00
 #
-name: HD_3
+name: Hd_3
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 40 00 00 00
 #
-name: PIC_MEMORY
+name: Pic_memory
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 41 00 00 00
 #
-name: CONTRAST
+name: Contrast
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 42 00 00 00
 #
-name: BRIGHT
+name: Bright
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 43 00 00 00
 #
-name: PIC_MODE
+name: Pic_mode
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 44 00 00 00
 #
-name: COLOR_TEMP
+name: Color_temp
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 45 00 00 00
 #
-name: WIDE
+name: Wide
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: AD 00 00 00
 #
-name: CHANGE_SCRN_SIZE
+name: Change_scrn_size
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: AD 00 00 00
 #
-name: CHNG_SCRN_SIZE
+name: Chng_scrn_size
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: AD 00 00 00
 #
-name: MODE:_WIDE
+name: Mode:_wide
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: AD 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B0 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B1 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B2 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B3 00 00 00
 #
-name: CURSON_RIGHT
+name: Curson_right
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B3 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B4 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B5 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C0 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C0 00 00 00
 #
-name: RGB/PC1
+name: Rgb/pc1
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C1 00 00 00
 #
-name: RGB/PC2
+name: Rgb/pc2
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C2 00 00 00
 #
-name: RGB/PC3
+name: Rgb/pc3
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C3 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C4 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C4 00 00 00
 #
-name: POINTER
+name: Pointer
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C9 00 00 00
 #
-name: ZOOM_+
+name: Zoom_+
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: CA 00 00 00
 #
-name: ZOOM_-
+name: Zoom_-
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: CB 00 00 00
 #
-name: MULTISCREEN
+name: Multiscreen
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: CC 00 00 00
 #
-name: MULTI_SCREEN
+name: Multi_screen
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: CC 00 00 00
 #
-name: MULTI_SCRN_SEL.
+name: Multi_scrn_sel.
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: CD 00 00 00
 #
-name: DVD/HD2
+name: Dvd/hd2
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: DC 00 00 00
 #
-name: HD_2
+name: Hd_2
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: DC 00 00 00
 #
-name: DVD/HD1
+name: Dvd/hd1
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: EB 00 00 00
 #
-name: HD_1
+name: Hd_1
 type: parsed
 protocol: NECext
 address: 18 18 00 00

@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER
+name: Tuner
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 9913 131 15146 131 9913 131 9913 131 30187
 #
-name: FAV_STA
+name: Fav_sta
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 15146 131 9913 131 9913 131 9913 131 30187
 #
-name: CHAN_DWN
+name: Chan_dwn
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 15146 131 15146 131 9913 131 15146 131 30187
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 15146 131 15146 131 15146 131 9913 131 30187
 #
-name: CD
+name: Cd
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 9913 131 15146 131 15146 131 9913 131 30187
 #
-name: RANDOM
+name: Random
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 15146 131 9913 131 15146 131 9913 131 30187
 #
-name: DISK
+name: Disk
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 15146 131 15146 131 9913 131 9913 131 30187
 #
-name: CD_PLAY
+name: Cd_play
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 15146 131 9913 131 9913 131 9913 131 30187
 #
-name: TAPE
+name: Tape
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 9913 131 15146 131 9913 131 15146 131 30187
 #
-name: TAPE_PSE
+name: Tape_pse
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 9913 131 15146 131 15146 131 9913 131 30187
 #
-name: REW
+name: Rew
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 15146 131 9913 131 9913 131 15146 131 30187
 #
-name: FFWD
+name: Ffwd
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 15146 131 9913 131 9913 131 15146 131 30187
 #
-name: LD
+name: Ld
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 15146 131 15146 131 9913 131 15146 131 30187
 #
-name: LD_PAUSE
+name: Ld_pause
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 9913 131 9913 131 15146 131 15146 131 30187
 #
-name: LD_BACK
+name: Ld_back
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 9913 131 9913 131 9913 131 15146 131 30187
 #
-name: LD_FWD
+name: Ld_fwd
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 9913 131 9913 131 15146 131 9913 131 30187
 #
-name: <<SEARCH
+name: <<search
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 15146 131 15146 131 9913 131 15146 131 15146 131 30187
 #
-name: SEARCH>>
+name: Search>>
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
@@ -115,25 +115,25 @@ frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 15146 131 9913 131 15146 131 9913 131 30187
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 9913 131 15146 131 9913 131 9913 131 30187
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 9913 131 9913 131 15146 131 15146 131 30187
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 9913 131 15146 131 9913 131 15146 131 15146 131 30187
 #
-name: STBY
+name: Stby
 type: raw
 frequency: 38029
 duty_cycle: 0.330000

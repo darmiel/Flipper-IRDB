@@ -4,31 +4,31 @@ Filetype: IR signals file
 # 
 Version: 1
 #
-name: VolUp
+name: Volup
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 01 FE 00 00
 # 
-name: VolDown
+name: Voldown
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 02 FD 00 00
 # 
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 00 FF 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 09 F6 00 00
 # 
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 78 0E 00 00

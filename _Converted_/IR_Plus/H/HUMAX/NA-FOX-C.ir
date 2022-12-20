@@ -10,37 +10,37 @@ protocol: RC5
 address: 12 00 00 00
 command: 8C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 92 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: BF 00 00 00
 #
-name: PPV
+name: Ppv
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: B1 00 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 8A 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 8F 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -70,7 +70,7 @@ protocol: RC5
 address: 12 00 00 00
 command: AE 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -94,7 +94,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 95 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -106,7 +106,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 96 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -130,19 +130,19 @@ protocol: RC5
 address: 12 00 00 00
 command: 8D 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: BC 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 93 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -202,7 +202,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 89 00 00 00
 #
-name: TV/RAD
+name: Tv/rad
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -214,7 +214,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 80 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: RC5
 address: 12 00 00 00

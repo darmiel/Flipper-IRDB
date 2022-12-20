@@ -61,301 +61,301 @@ protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNEL_-_PREVIOUS
+name: Channel_-_previous
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0D 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: CHANNEL_-_UP
+name: Channel_-_up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: CHANNEL_-_DOWN
+name: Channel_-_down
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: CURSOR_-_UP
+name: Cursor_-_up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: CURSOR_-_RIGHT
+name: Cursor_-_right
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: CURSOR_-_DOWN
+name: Cursor_-_down
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: CURSOR_-_LEFT
+name: Cursor_-_left
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1A 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: CURSOR_-_ENTER
+name: Cursor_-_enter
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNEL_GUIDE
+name: Channel_guide
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1E 00 00 00
 #
-name: GUIDE_-_CHANNEL
+name: Guide_-_channel
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1E 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1F 00 00 00
 #
-name: Z_-_RECORD
+name: Z_-_record
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1F 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 20 00 00 00
 #
-name: Z_-_PLAY
+name: Z_-_play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 20 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 21 00 00 00
 #
-name: Z_-_PAUSE
+name: Z_-_pause
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 21 00 00 00
 #
-name: FAST_FOWARD
+name: Fast_foward
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 22 00 00 00
 #
-name: Z_-_FAST_FORWARD
+name: Z_-_fast_forward
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 22 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 23 00 00 00
 #
-name: Z_-_FAST_REWIND
+name: Z_-_fast_rewind
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 23 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 24 00 00 00
 #
-name: Z_-_STOP
+name: Z_-_stop
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 24 00 00 00
 #
-name: RETURN_TO_LIVE
+name: Return_to_live
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 25 00 00 00
 #
-name: Z_-_RETURN_TO_LIVE
+name: Z_-_return_to_live
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 25 00 00 00
 #
-name: QUICK_SKIP
+name: Quick_skip
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 26 00 00 00
 #
-name: Z_-_QUICK_SKIP
+name: Z_-_quick_skip
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 26 00 00 00
 #
-name: INSTANT_REPLAY
+name: Instant_replay
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 27 00 00 00
 #
-name: Z_-_INSTANT_REPLAY
+name: Z_-_instant_replay
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 27 00 00 00
 #
-name: REPLAY_GUIDE
+name: Replay_guide
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 28 00 00 00
 #
-name: GUIDE_-_REPLAY
+name: Guide_-_replay
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 28 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 29 00 00 00
 #
-name: REPLAY_ZONES
+name: Replay_zones
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2A 00 00 00
 #
-name: GUIDE_-_ZONE
+name: Guide_-_zone
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2A 00 00 00
 #
-name: EXP
+name: Exp
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2B 00 00 00
 #
-name: TV_/_VCR
+name: Tv_/_vcr
 type: parsed
 protocol: NECext
 address: 01 00 00 00

@@ -67,145 +67,145 @@ protocol: NECext
 address: 08 00 00 00
 command: 4C 00 00 00
 #
-name: PROGRAM/DIRECT
+name: Program/direct
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 4D 00 00 00
 #
-name: CLEAR/DELETE
+name: Clear/delete
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 51 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 52 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 54 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 58 00 00 00
 #
-name: SKIP_FORWARD
+name: Skip_forward
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 58 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 59 00 00 00
 #
-name: SKIP_BACK
+name: Skip_back
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 59 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5A 00 00 00
 #
-name: TUNER_DOWN
+name: Tuner_down
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5A 00 00 00
 #
-name: TUNER_UP
+name: Tuner_up
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5A 00 00 00
 #
-name: FAST_REWIND
+name: Fast_rewind
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5B 00 00 00
 #
-name: TUNER_UP
+name: Tuner_up
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5B 00 00 00
 #
-name: TUNER_DOWN
+name: Tuner_down
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5B 00 00 00
 #
-name: CD_PLAY/PAUSE
+name: Cd_play/pause
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5C 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5E 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 5E 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6A 00 00 00
 #
-name: FOLDER_+
+name: Folder_+
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6B 00 00 00
 #
-name: FOLDER_-
+name: Folder_-
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 6E 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 70 00 00 00
 #
-name: FOLDER_MODE
+name: Folder_mode
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 7E 00 00 00
 #
-name: MENU/SET
+name: Menu/set
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 91 00 00 00
 #
-name: SDB/TONE
+name: Sdb/tone
 type: parsed
 protocol: NECext
 address: 08 00 00 00

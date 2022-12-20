@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DVD/HD
+name: Dvd/hd
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: 1C 00 00 00
 #
-name: WIDE
+name: Wide
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: AD 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B0 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B1 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B2 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: B3 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C0 00 00 00
 #
-name: MENU/ENTER
+name: Menu/enter
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C4 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C5 00 00 00
 #
-name: ID_SELECT
+name: Id_select
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C8 00 00 00
 #
-name: POINTER
+name: Pointer
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: C9 00 00 00
 #
-name: ZOOM_+
+name: Zoom_+
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: CA 00 00 00
 #
-name: ZOOM_-
+name: Zoom_-
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: CB 00 00 00
 #
-name: MULTI
+name: Multi
 type: parsed
 protocol: NECext
 address: 18 18 00 00
 command: CC 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 18 18 00 00

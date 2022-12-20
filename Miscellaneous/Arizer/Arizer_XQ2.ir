@@ -3,19 +3,19 @@ Version: 1
 # 
 # Arizer Extreme Q2 Vaporizer
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 1B 00 00 00
 # 
-name: TEMP+
+name: Temp+
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 05 00 00 00
 # 
-name: TEMP-
+name: Temp-
 type: parsed
 protocol: NEC
 address: 01 00 00 00
@@ -39,43 +39,43 @@ protocol: NEC
 address: 01 00 00 00
 command: 1F 00 00 00
 # 
-name: Fan_Off
+name: Fan_off
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 01 00 00 00
 # 
-name: Fan_Low
+name: Fan_low
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 09 00 00 00
 # 
-name: Fan_Med
+name: Fan_med
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 04 00 00 00
 # 
-name: Fan_High
+name: Fan_high
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 07 00 00 00
 # 
-name: Beep_Level
+name: Beep_level
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 12 00 00 00
 # 
-name: Auto_Off
+name: Auto_off
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 08 00 00 00
 # 
-name: LED
+name: Led
 type: parsed
 protocol: NEC
 address: 01 00 00 00

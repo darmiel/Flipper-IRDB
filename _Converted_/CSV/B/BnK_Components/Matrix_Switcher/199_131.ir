@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 021_OFF
+name: 021_off
 type: parsed
 protocol: NECext
 address: C7 83 00 00
 command: 01 00 00 00
 #
-name: 021_ON
+name: 021_on
 type: parsed
 protocol: NECext
 address: C7 83 00 00
 command: 02 00 00 00
 #
-name: 021_MUTE
+name: 021_mute
 type: parsed
 protocol: NECext
 address: C7 83 00 00
 command: 03 00 00 00
 #
-name: 021_VOL-
+name: 021_vol-
 type: parsed
 protocol: NECext
 address: C7 83 00 00
 command: 23 00 00 00
 #
-name: 021_VOL+
+name: 021_vol+
 type: parsed
 protocol: NECext
 address: C7 83 00 00
 command: 24 00 00 00
 #
-name: 021_IN_6
+name: 021_in_6
 type: parsed
 protocol: NECext
 address: C7 83 00 00

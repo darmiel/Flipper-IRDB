@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_SCAN_<<
+name: Cd_scan_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 06 00 00 00
 #
-name: CD/LD_SCAN_<<
+name: Cd/ld_scan_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 06 00 00 00
 #
-name: CD_ANY_V
+name: Cd_any_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 06 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 06 00 00 00
 #
-name: CD_SCAN_>>
+name: Cd_scan_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 07 00 00 00
 #
-name: CD/LD_SCAN_>>
+name: Cd/ld_scan_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 07 00 00 00
 #
-name: CD_ANY_^
+name: Cd_any_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 07 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 07 00 00 00
 #
-name: CD_DISC
+name: Cd_disc
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 08 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 08 00 00 00
 #
-name: CD_DISC_SKIP_(AUTO)
+name: Cd_disc_skip_(auto)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 08 00 00 00
 #
-name: CD_FUNCTION
+name: Cd_function
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 08 00 00 00
 #
-name: CENTER_LEVEL_V
+name: Center_level_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0A 00 00 00
 #
-name: AUDIO_REV_PLAY_<
+name: Audio_rev_play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0A 00 00 00
 #
-name: SURROUND_CENTER
+name: Surround_center
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0B 00 00 00
 #
-name: CENTER
+name: Center
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0B 00 00 00
 #
-name: CENTER_LEVEL_^
+name: Center_level_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0B 00 00 00
 #
-name: AUDIO_PLAY_>
+name: Audio_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -115,25 +115,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 0D 00 00 00
 #
-name: TUNER/CD_+10
+name: Tuner/cd_+10
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0D 00 00 00
 #
-name: CD_+10
+name: Cd_+10
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0D 00 00 00
 #
-name: TUNER/CD/LD_+10
+name: Tuner/cd/ld_+10
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0D 00 00 00
 #
-name: CD/AUDIO_+10
+name: Cd/audio_+10
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -145,13 +145,13 @@ protocol: NECext
 address: B8 00 00 00
 command: 0D 00 00 00
 #
-name: EQ_EFFECT
+name: Eq_effect
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0F 00 00 00
 #
-name: EQUALIZER_EFFECT
+name: Equalizer_effect
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: B8 00 00 00
 command: 1C 00 00 00
 #
-name: MENU_ON_SCREEN
+name: Menu_on_screen
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -181,31 +181,31 @@ protocol: NECext
 address: B8 00 00 00
 command: 41 00 00 00
 #
-name: SURROUND_MEMORY
+name: Surround_memory
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 44 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 44 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 44 00 00 00
 #
-name: SURROUND_M.CALL
+name: Surround_m.call
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 45 00 00 00
 #
-name: M.CALL
+name: M.call
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -229,103 +229,103 @@ protocol: NECext
 address: B8 00 00 00
 command: 47 00 00 00
 #
-name: DELAY_TIME_V
+name: Delay_time_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 4C 00 00 00
 #
-name: AUDIO_ANY_V
+name: Audio_any_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 4C 00 00 00
 #
-name: V_DELAY
+name: V_delay
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 4C 00 00 00
 #
-name: SURROUND_DELAY
+name: Surround_delay
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 4D 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 4D 00 00 00
 #
-name: DELAY_TIME_^
+name: Delay_time_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 4D 00 00 00
 #
-name: AUDIO_ANY_^
+name: Audio_any_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 4D 00 00 00
 #
-name: CENTER_MODE
+name: Center_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 55 00 00 00
 #
-name: SURROUND_TONE
+name: Surround_tone
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 56 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 56 00 00 00
 #
-name: TEST_TONE_ON/OFF
+name: Test_tone_on/off
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 56 00 00 00
 #
-name: SURROUND_TEST_ZONE
+name: Surround_test_zone
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 56 00 00 00
 #
-name: AUDIO_FUNCTION
+name: Audio_function
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 56 00 00 00
 #
-name: ON/OFF_TEST_TONE
+name: On/off_test_tone
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 56 00 00 00
 #
-name: TEST_TONE_MODE
+name: Test_tone_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 57 00 00 00
 #
-name: MODE_TEST_TONE
+name: Mode_test_tone
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 57 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -337,25 +337,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 80 00 00 00
 #
-name: TUNER/CD_0
+name: Tuner/cd_0
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 80 00 00 00
 #
-name: CD_0
+name: Cd_0
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 80 00 00 00
 #
-name: TUNER/CD/LD_0
+name: Tuner/cd/ld_0
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 80 00 00 00
 #
-name: CD/AUDIO_0
+name: Cd/audio_0
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -367,25 +367,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 81 00 00 00
 #
-name: TUNER/CD_1
+name: Tuner/cd_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 81 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 81 00 00 00
 #
-name: TUNER/CD/LD_1
+name: Tuner/cd/ld_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 81 00 00 00
 #
-name: CD/AUDIO_1
+name: Cd/audio_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -397,25 +397,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 82 00 00 00
 #
-name: TUNER/CD_2
+name: Tuner/cd_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 82 00 00 00
 #
-name: CD_2
+name: Cd_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 82 00 00 00
 #
-name: TUNER/CD/LD_2
+name: Tuner/cd/ld_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 82 00 00 00
 #
-name: CD/AUDIO_2
+name: Cd/audio_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -427,25 +427,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 83 00 00 00
 #
-name: TUNER/CD_3
+name: Tuner/cd_3
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 83 00 00 00
 #
-name: CD_3
+name: Cd_3
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 83 00 00 00
 #
-name: TUNER/CD/LD_3
+name: Tuner/cd/ld_3
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 83 00 00 00
 #
-name: CD/AUDIO_3
+name: Cd/audio_3
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -457,25 +457,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 84 00 00 00
 #
-name: TUNER/CD_4
+name: Tuner/cd_4
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 84 00 00 00
 #
-name: CD_4
+name: Cd_4
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 84 00 00 00
 #
-name: TUNER/CD/LD_4
+name: Tuner/cd/ld_4
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 84 00 00 00
 #
-name: CD/AUDIO_4
+name: Cd/audio_4
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -487,25 +487,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 85 00 00 00
 #
-name: TUNER/CD_5
+name: Tuner/cd_5
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 85 00 00 00
 #
-name: CD_5
+name: Cd_5
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 85 00 00 00
 #
-name: TUNER/CD/LD_5
+name: Tuner/cd/ld_5
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 85 00 00 00
 #
-name: CD/AUDIO_5
+name: Cd/audio_5
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -517,25 +517,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 86 00 00 00
 #
-name: TUNER/CD_6
+name: Tuner/cd_6
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 86 00 00 00
 #
-name: CD_6
+name: Cd_6
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 86 00 00 00
 #
-name: TUNER/CD/LD_6
+name: Tuner/cd/ld_6
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 86 00 00 00
 #
-name: CD/AUDIO_6
+name: Cd/audio_6
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -547,25 +547,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 87 00 00 00
 #
-name: TUNER/CD_7
+name: Tuner/cd_7
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 87 00 00 00
 #
-name: CD_7
+name: Cd_7
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 87 00 00 00
 #
-name: TUNER/CD/LD_7
+name: Tuner/cd/ld_7
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 87 00 00 00
 #
-name: CD/AUDIO_7
+name: Cd/audio_7
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -577,25 +577,25 @@ protocol: NECext
 address: B8 00 00 00
 command: 88 00 00 00
 #
-name: TUNER/CD_8
+name: Tuner/cd_8
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 88 00 00 00
 #
-name: CD_8
+name: Cd_8
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 88 00 00 00
 #
-name: TUNER/CD/LD_8
+name: Tuner/cd/ld_8
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 88 00 00 00
 #
-name: CD/AUDIO_8
+name: Cd/audio_8
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -607,409 +607,409 @@ protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: TUNER/CD_9
+name: Tuner/cd_9
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: CD_9
+name: Cd_9
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: TUNER/CD/LD_9
+name: Tuner/cd/ld_9
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: CD/AUDIO_9
+name: Cd/audio_9
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8A 00 00 00
 #
-name: TUNER_P.CALL_V
+name: Tuner_p.call_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: TUNER_P.SCAN_V
+name: Tuner_p.scan_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: P.CALL_V
+name: P.call_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: RCVR_P.CALL_<
+name: Rcvr_p.call_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8E 00 00 00
 #
-name: TUNER_BAND
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: RCVR_BAND
+name: Rcvr_band
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: AM-FM
+name: Am-fm
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 90 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 91 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 92 00 00 00
 #
-name: CD/LD
+name: Cd/ld
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 92 00 00 00
 #
-name: VIDEO2
+name: Video2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 93 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 93 00 00 00
 #
-name: TAPE1
+name: Tape1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 94 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 94 00 00 00
 #
-name: TAPE2/MONITOR
+name: Tape2/monitor
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: TAPE_2
+name: Tape_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: TAPE2_(MONITOR)
+name: Tape2_(monitor)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: TAPE2
+name: Tape2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: TAPE_2_(MONITOR)
+name: Tape_2_(monitor)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: VIDEO1
+name: Video1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 96 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 96 00 00 00
 #
-name: TUNER_P.CALL
+name: Tuner_p.call
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: TUNER_P.SCAN
+name: Tuner_p.scan
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: TUNER_P.CALL_^
+name: Tuner_p.call_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: P.SCAN
+name: P.scan
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: TUNER_P.SCAN_^
+name: Tuner_p.scan_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: P.CALL_^
+name: P.call_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: RCVR_P.CALL_>
+name: Rcvr_p.call_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOLUME_CONTROL_V
+name: Volume_control_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOLUME_CTRL_V
+name: Volume_ctrl_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: MAIN_VOLUME_V
+name: Main_volume_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOL_CONTROL_V
+name: Vol_control_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOLUME+
+name: Volume+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: VOLUME_CONTROL_^
+name: Volume_control_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: VOLUME_CTRL_^
+name: Volume_ctrl_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: MAIN_VOLUME_^
+name: Main_volume_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: VOL_CONTROL_^
+name: Vol_control_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9C 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: RCVR_POWER
+name: Rcvr_power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CD/AUDIO_POWER
+name: Cd/audio_power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: AUDIO_POWER
+name: Audio_power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CDOE2_POWER_OFF
+name: Cdoe2_power_off
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE_5_POWER_ON
+name: Code_5_power_on
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE2_POWER_ON
+name: Code2_power_on
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE5_POWER_OFF
+name: Code5_power_off
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: TUNER_DIRECT
+name: Tuner_direct
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9E 00 00 00
 #
-name: DIRECT
+name: Direct
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -1021,769 +1021,769 @@ protocol: NECext
 address: B8 00 00 00
 command: 9F 00 00 00
 #
-name: PHONO_STOP_[]
+name: Phono_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C0 00 00 00
 #
-name: PHONO_R.PLAY_<
+name: Phono_r.play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C1 00 00 00
 #
-name: PHONO_PLAY_<
+name: Phono_play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C1 00 00 00
 #
-name: EQ_M.CALL
+name: Eq_m.call
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C5 00 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C5 00 00 00
 #
-name: EQUALIZER_M.CALL
+name: Equalizer_m.call
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C5 00 00 00
 #
-name: REAR_LEVEL_V
+name: Rear_level_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C6 00 00 00
 #
-name: AUDIO_SKIP_REV_<<
+name: Audio_skip_rev_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C6 00 00 00
 #
-name: SURROUND_REAR
+name: Surround_rear
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C7 00 00 00
 #
-name: REAR
+name: Rear
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C7 00 00 00
 #
-name: REAR_LEVEL_^
+name: Rear_level_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C7 00 00 00
 #
-name: AUDIO_SKIP_FWD>>
+name: Audio_skip_fwd>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C7 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C9 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C9 00 00 00
 #
-name: CD_STOP_(BAND)
+name: Cd_stop_(band)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C9 00 00 00
 #
-name: CD/LD_STOP_[]
+name: Cd/ld_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C9 00 00 00
 #
-name: CD_PLAY/PAUSE_>/
+name: Cd_play/pause_>/
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: CD_PLAY/PAUSE
+name: Cd_play/pause
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: CD_PLAY_>/
+name: Cd_play_>/
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: CD/LD_PLAY/PA._>/
+name: Cd/ld_play/pa._>/
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: PLAY/PAUSE_>/
+name: Play/pause_>/
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: CD_SKIP_<<
+name: Cd_skip_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: CD_SKIP_REV_<<
+name: Cd_skip_rev_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: CD_<<_(TUNING_<<)
+name: Cd_<<_(tuning_<<)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: CD/LD_SKIP_<<
+name: Cd/ld_skip_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: CD_SKIP_>>
+name: Cd_skip_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: CD_SKIP_FWD_>>
+name: Cd_skip_fwd_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: CD_>>(TUNING_>>)
+name: Cd_>>(tuning_>>)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: CD/LD_SKIP_>>
+name: Cd/ld_skip_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: TAPEA_R.PLAY_<
+name: Tapea_r.play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: TAPEA_REV_PLAY_<
+name: Tapea_rev_play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: TAPE_A_REV_PLAY_<
+name: Tape_a_rev_play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: TAPE_A_R.PLAY_<
+name: Tape_a_r.play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: TAPE_A_PLAY_REV
+name: Tape_a_play_rev
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: A_PLAY_R._<
+name: A_play_r._<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: TAPEA_PLAY_>
+name: Tapea_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D1 00 00 00
 #
-name: TAPE_A_PLAY_>
+name: Tape_a_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D1 00 00 00
 #
-name: TAPE_A_PLAY
+name: Tape_a_play
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D1 00 00 00
 #
-name: A_PLAY_>
+name: A_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D1 00 00 00
 #
-name: TAPEA_REW_<<
+name: Tapea_rew_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: TAPEA_<<
+name: Tapea_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: TAPE_A_REW_<<
+name: Tape_a_rew_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: TAPEA_<<_(TUNING_<<)
+name: Tapea_<<_(tuning_<<)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: TAPE_A_REW_I<<
+name: Tape_a_rew_i<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: A_REW_<<
+name: A_rew_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: TAPEA_FFWD_>>
+name: Tapea_ffwd_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TAPEA_>>
+name: Tapea_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TAPEA_FF_>>
+name: Tapea_ff_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TAPE_A_FF_>>
+name: Tape_a_ff_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TAPEA_>>_(TUNING_>>)
+name: Tapea_>>_(tuning_>>)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TAPE_A_FFWD_>>
+name: Tape_a_ffwd_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TAPE_A_FFWD_>>I
+name: Tape_a_ffwd_>>i
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: A_FF_>>
+name: A_ff_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: TAPEA_PAUSE_
+name: Tapea_pause_
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D4 00 00 00
 #
-name: TAPEA_PAUSE_(AUTO)
+name: Tapea_pause_(auto)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D4 00 00 00
 #
-name: TAPE_A_PAUSE_
+name: Tape_a_pause_
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D4 00 00 00
 #
-name: A_PAUSE_
+name: A_pause_
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D4 00 00 00
 #
-name: TAPEA_STOP_[]
+name: Tapea_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D5 00 00 00
 #
-name: TAPE_A_STOP_[]
+name: Tape_a_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D5 00 00 00
 #
-name: TAPEA_STOP_(BAND)
+name: Tapea_stop_(band)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D5 00 00 00
 #
-name: A_STOP_[]
+name: A_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D5 00 00 00
 #
-name: TAPEA_RECORD
+name: Tapea_record
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D6 00 00 00
 #
-name: TAPEA_REC
+name: Tapea_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D6 00 00 00
 #
-name: TAPE_A_REC
+name: Tape_a_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D6 00 00 00
 #
-name: TAPE_A_RECORD
+name: Tape_a_record
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D6 00 00 00
 #
-name: A_REC
+name: A_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D6 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: SURR_MODE
+name: Surr_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: BYPASS_SURROUND
+name: Bypass_surround
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: TAPEB_R.PLAY_<
+name: Tapeb_r.play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TAPEB_REV_PLAY_<
+name: Tapeb_rev_play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: PLAY_REV_<
+name: Play_rev_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TAPEB_R.PLAY
+name: Tapeb_r.play
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TAPE_B_REV_PLAY_<
+name: Tape_b_rev_play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TAPE_B_R.PLAY_<
+name: Tape_b_r.play_<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TAPE_B_PLAY_REV
+name: Tape_b_play_rev
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: B_PLAY_R._<
+name: B_play_r._<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TAPEB_PLAY_>
+name: Tapeb_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: TAPE_B_PLAY_>
+name: Tape_b_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: TAPEB_PLAY_(P.CALL)
+name: Tapeb_play_(p.call)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: TAPE_B_PLAY
+name: Tape_b_play
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: B_PLAY_>
+name: B_play_>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: TAPEB_REW_<<
+name: Tapeb_rew_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: TAPEB_<<
+name: Tapeb_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: TAPE_B_REW_<<
+name: Tape_b_rew_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: TAPEB_<<_(TUNING_<<)
+name: Tapeb_<<_(tuning_<<)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: TAPE_B_REW_I<<
+name: Tape_b_rew_i<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: B_REW_<<
+name: B_rew_<<
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: TAPEB_FFWD_>>
+name: Tapeb_ffwd_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TAPEB_>>
+name: Tapeb_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: FFWD_>>
+name: Ffwd_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TAPEB_FF_>>
+name: Tapeb_ff_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TAPE_B_FF_>>
+name: Tape_b_ff_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TAPEB_>>_(TUNING_>>)
+name: Tapeb_>>_(tuning_>>)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TAPE_B_FFWD_>>
+name: Tape_b_ffwd_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TAPE_B_FFWD_>>I
+name: Tape_b_ffwd_>>i
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: B_FF_>>
+name: B_ff_>>
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: TAPEB_PAUSE_
+name: Tapeb_pause_
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DC 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DC 00 00 00
 #
-name: TAPEB_PAUSE_(AUTO)
+name: Tapeb_pause_(auto)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DC 00 00 00
 #
-name: TAPE_B_PAUSE_
+name: Tape_b_pause_
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DC 00 00 00
 #
-name: B_PAUSE_
+name: B_pause_
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DC 00 00 00
 #
-name: TAPEB_STOP_[]
+name: Tapeb_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DD 00 00 00
 #
-name: TAPE_B_STOP_[]
+name: Tape_b_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DD 00 00 00
 #
-name: TAPEB_STOP_(BAND)
+name: Tapeb_stop_(band)
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DD 00 00 00
 #
-name: B_STOP_[]
+name: B_stop_[]
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DD 00 00 00
 #
-name: TAPEB_RECORD
+name: Tapeb_record
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: TAPEB_REC
+name: Tapeb_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: TAPEB_REC/ARM
+name: Tapeb_rec/arm
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: TAPE_B_REC/ARM
+name: Tape_b_rec/arm
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: TAPE_B_REC
+name: Tape_b_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: TAPE_B_RECORD
+name: Tape_b_record
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: B_REC
+name: B_rec
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DE 00 00 00
 #
-name: SURR.MODE
+name: Surr.mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DF 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DF 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DF 00 00 00
 #
-name: MODE_SURROUND
+name: Mode_surround
 type: parsed
 protocol: NECext
 address: B8 00 00 00

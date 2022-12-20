@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: B-MUTE
+name: B-mute
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 00 00 00 00
 #
-name: -_HORIZONTAL
+name: -_horizontal
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 02 00 00 00
 #
-name: H-_PULSE
+name: H-_pulse
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 03 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 06 00 00 00
 #
-name: R-MUTE
+name: R-mute
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 08 00 00 00
 #
-name: +_HORIZONTAL
+name: +_horizontal
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0A 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0B 00 00 00
 #
-name: DIG_ANALOG
+name: Dig_analog
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0D 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0F 00 00 00
 #
-name: IN-KEY
+name: In-key
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 10 00 00 00
 #
-name: BOW
+name: Bow
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 12 00 00 00
 #
-name: IN-PIN
+name: In-pin
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 13 00 00 00
 #
-name: KEY
+name: Key
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 14 00 00 00
 #
-name: G-MUTE
+name: G-mute
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1A 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1B 00 00 00
 #
-name: ADJ_TOGGLE
+name: Adj_toggle
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1C 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1D 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1E 00 00 00
 #
-name: LIN_C_/_LI_-_LIN
+name: Lin_c_/_li_-_lin
 type: parsed
 protocol: NECext
 address: 05 01 00 00

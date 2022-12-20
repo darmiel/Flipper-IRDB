@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 90 01 00 00
@@ -13,13 +13,13 @@ protocol: NECext
 address: 90 01 00 00
 command: 01 00 00 00
 #
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 90 01 00 00
 command: 02 00 00 00
 #
-name: DOWN_ARROW
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 90 01 00 00
@@ -31,31 +31,31 @@ protocol: NECext
 address: 90 01 00 00
 command: 03 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: 90 01 00 00
 command: 04 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 90 01 00 00
 command: 05 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NECext
 address: 90 01 00 00
 command: 0A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 90 01 00 00
 command: 56 00 00 00
 #
-name: VCR_PLUS
+name: Vcr_plus
 type: parsed
 protocol: NECext
 address: 90 01 00 00

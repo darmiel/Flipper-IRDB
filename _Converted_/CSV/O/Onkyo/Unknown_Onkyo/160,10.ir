@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 00 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
@@ -85,43 +85,43 @@ protocol: NECext
 address: A0 0A 00 00
 command: 21 00 00 00
 #
-name: M.Scan
+name: M.scan
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 46 00 00 00
 #
-name: RepeatAll
+name: Repeatall
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 47 00 00 00
 #
-name: RepeatA-B
+name: Repeata-b
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 48 00 00 00
 #
-name: Skip/Search_Back
+name: Skip/search_back
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 49 00 00 00
 #
-name: Skip/Search_Forward
+name: Skip/search_forward
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 4A 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 80 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00

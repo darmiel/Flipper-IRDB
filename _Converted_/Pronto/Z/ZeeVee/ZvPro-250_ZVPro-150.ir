@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Set_video_to_VGA
+name: Set_video_to_vga
 type: raw
 frequency: 37344
 duty_cycle: 0.330000

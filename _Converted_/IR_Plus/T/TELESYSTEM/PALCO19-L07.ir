@@ -10,7 +10,7 @@ protocol: NECext
 address: FD 02 00 00
 command: B7 48 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: FD 02 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: FD 02 00 00
 command: 2D D2 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FD 02 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: FD 02 00 00
 command: 27 D8 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FD 02 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: FD 02 00 00
 command: 87 78 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FD 02 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: FD 02 00 00
 command: 07 F8 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FD 02 00 00
@@ -166,7 +166,7 @@ protocol: NECext
 address: FD 02 00 00
 command: C7 38 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FD 02 00 00
@@ -202,7 +202,7 @@ protocol: NECext
 address: FD 02 00 00
 command: 4F B0 00 00
 #
-name: Fav/Last
+name: Fav/last
 type: parsed
 protocol: NECext
 address: FD 02 00 00
@@ -214,13 +214,13 @@ protocol: NECext
 address: FD 02 00 00
 command: A5 5A 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FD 02 00 00
 command: BD 42 00 00
 #
-name: Txt Ex
+name: Txt_ex
 type: parsed
 protocol: NECext
 address: FD 02 00 00
@@ -244,13 +244,13 @@ protocol: NECext
 address: FD 02 00 00
 command: D5 2A 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: FD 02 00 00
 command: 0D F2 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: FD 02 00 00

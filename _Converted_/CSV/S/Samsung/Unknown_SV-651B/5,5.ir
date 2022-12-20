@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: tv_vcr
+name: Tv_vcr
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 0C 00 00 00
 #
-name: 7_V_LOCK-
+name: 7_v_lock-
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -97,13 +97,13 @@ protocol: NECext
 address: 05 05 00 00
 command: 0E 00 00 00
 #
-name: 9_V_LOCK+
+name: 9_v_lock+
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 0E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -121,151 +121,151 @@ protocol: NECext
 address: 05 05 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 12 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 14 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 15 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 18 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 19 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1A 00 00 00
 #
-name: clear_reset
+name: Clear_reset
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1D 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1F 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 20 00 00 00
 #
-name: auto_track
+name: Auto_track
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 21 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 22 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 24 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 29 00 00 00
 #
-name: index
+name: Index
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2B 00 00 00
 #
-name: trk_up
+name: Trk_up
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2C 00 00 00
 #
-name: trk_down
+name: Trk_down
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2D 00 00 00
 #
-name: dub
+name: Dub
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2F 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 30 00 00 00
 #
-name: speed
+name: Speed
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 3A 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 5C 00 00 00
 #
-name: ipc
+name: Ipc
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 75 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 7D 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 05 05 00 00

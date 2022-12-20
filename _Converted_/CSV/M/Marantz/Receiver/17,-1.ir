@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: (TUNER-1)_0
+name: (tuner-1)_0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: TUNER1-0
+name: Tuner1-0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -19,31 +19,31 @@ protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: [TUNER-1]_0
+name: [tuner-1]_0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: 0_TUNER
+name: 0_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: TUNER_-_0
+name: Tuner_-_0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: (TUNER-1)_1
+name: (tuner-1)_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: TUNER1-1
+name: Tuner1-1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -55,19 +55,19 @@ protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: [TUNER-1]_1
+name: [tuner-1]_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: 1_TUNER
+name: 1_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: TUNER_-_1
+name: Tuner_-_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -85,13 +85,13 @@ protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: (TUNER-1)_2
+name: (tuner-1)_2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: TUNER1-2
+name: Tuner1-2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -103,31 +103,31 @@ protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: [TUNER-1]_2
+name: [tuner-1]_2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: 2TUNER
+name: 2tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: TUNER_-_2
+name: Tuner_-_2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: (TUNER-1)_3
+name: (tuner-1)_3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: TUNER1-3
+name: Tuner1-3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -139,31 +139,31 @@ protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: [TUNER-1]_3
+name: [tuner-1]_3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: 3_TUNER
+name: 3_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: TUNER_-_3
+name: Tuner_-_3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: (TUNER-1)_4
+name: (tuner-1)_4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: TUNER1-4
+name: Tuner1-4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -175,31 +175,31 @@ protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: [TUNER-1]_4
+name: [tuner-1]_4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: 4_TUNER
+name: 4_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: TUNER_-_4
+name: Tuner_-_4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: (TUNER-1)_5
+name: (tuner-1)_5
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: TUNER1-5
+name: Tuner1-5
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -211,31 +211,31 @@ protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: [TUNER-1]_5
+name: [tuner-1]_5
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: 5_TUNER
+name: 5_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: TUNER_-_5
+name: Tuner_-_5
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: (TUNER-1)_6
+name: (tuner-1)_6
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: TUNER1-6
+name: Tuner1-6
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -247,31 +247,31 @@ protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: [TUNER-1]_6
+name: [tuner-1]_6
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: 6_TUNER
+name: 6_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: TUNER_-_6
+name: Tuner_-_6
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: (TUNER-1)_7
+name: (tuner-1)_7
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: TUNER1-7
+name: Tuner1-7
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -283,25 +283,25 @@ protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: [TUNER-1]_7
+name: [tuner-1]_7
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: 7_TUNER
+name: 7_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: TUNER_-_7
+name: Tuner_-_7
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: (TUNER-1)_8
+name: (tuner-1)_8
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -313,37 +313,37 @@ protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: TUNER1-8
+name: Tuner1-8
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: [TUNER-1]_8
+name: [tuner-1]_8
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: 8_TUNER
+name: 8_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: TUNER_-_8
+name: Tuner_-_8
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: (TUNER-1)_9
+name: (tuner-1)_9
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: TUNER1-9
+name: Tuner1-9
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -355,187 +355,187 @@ protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: [TUNER-1]_9
+name: [tuner-1]_9
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: 9_TUNER
+name: 9_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: TUNER_-_9
+name: Tuner_-_9
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: (TUNER-1)FRQ._DIRECT
+name: (tuner-1)frq._direct
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: TUNER1_FREQ._DIRECT
+name: Tuner1_freq._direct
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: DIRECT_TUNE
+name: Direct_tune
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: [TUNER-1]_F-DIRECT
+name: [tuner-1]_f-direct
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: FREQ._DIRECT_(TUNER)
+name: Freq._direct_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: F/P
+name: F/p
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: FREQ._DIRECT
+name: Freq._direct
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: SOURCE_ON/OFF
+name: Source_on/off
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0C 00 00 00
 #
-name: DISPLAY_MODE
+name: Display_mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0F 00 00 00
 #
-name: T.DISP_/_PAUSE
+name: T.disp_/_pause
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0F 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0F 00 00 00
 #
-name: TUNER:_DISP
+name: Tuner:_disp
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0F 00 00 00
 #
-name: (TUNER-1)_TUNING_+
+name: (tuner-1)_tuning_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNE>>
+name: Tune>>
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNER1_FREQ._TUNE_+
+name: Tuner1_freq._tune_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNE_+
+name: Tune_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: [TUNER-1]_FREQ+
+name: [tuner-1]_freq+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNING_+
+name: Tuning_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNER_>>_TUNING_+
+name: Tuner_>>_tuning_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: SCAN_+
+name: Scan_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNER:_FREQUENCY_+
+name: Tuner:_frequency_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNER_FREQUENCY_+
+name: Tuner_frequency_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: SEEK_UP
+name: Seek_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNING_UP
+name: Tuning_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: (TUNER-1)_TUNING_-
+name: (tuner-1)_tuning_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -547,583 +547,583 @@ protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNE<<
+name: Tune<<
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNER1_FREQ._TUNE_-
+name: Tuner1_freq._tune_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNE_-
+name: Tune_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNE_DOWN
+name: Tune_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: [TUNER-1]_FREQ_-
+name: [tuner-1]_freq_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNING_-
+name: Tuning_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNER_<<TUNING_-
+name: Tuner_<<tuning_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: SCAN_-
+name: Scan_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNER:_FREQUENCY_-
+name: Tuner:_frequency_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNER_FREQUENCY_-
+name: Tuner_frequency_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: SEEK_DOWN
+name: Seek_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TUNING_DOWN
+name: Tuning_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: (TUNER-1)_PRE_UP+
+name: (tuner-1)_pre_up+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRESET_++
+name: Preset_++
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: CHANNEL>>
+name: Channel>>
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: TUNER1_PRESET_+
+name: Tuner1_preset_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: CHANNEL_UP
+name: Channel_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: [TUNER-1]PRESET+
+name: [tuner-1]preset+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: TUNER_>>I_PRESET_+
+name: Tuner_>>i_preset_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: TUNER_-_PRESET+
+name: Tuner_-_preset+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: FM/AM_+
+name: Fm/am_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: TUNER:_PRESET_+
+name: Tuner:_preset_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: TUNER_PRESET_+
+name: Tuner_preset_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: SKIP_UP
+name: Skip_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: (TUNER-1)_PRE_DOWN-
+name: (tuner-1)_pre_down-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: PRESET_--
+name: Preset_--
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: CHANNEL<<
+name: Channel<<
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: TUNER1_PRESET_-
+name: Tuner1_preset_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: CHANNEL_DOWN
+name: Channel_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: [TUNER-1]PRESET_-
+name: [tuner-1]preset_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: TUNER_I<<_PRESET_-
+name: Tuner_i<<_preset_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: TUNER_-_PRESET-
+name: Tuner_-_preset-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: TUNER:_PRESET_-
+name: Tuner:_preset_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: TUNER_PRESET_-
+name: Tuner_preset_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: SKIP_DOWN
+name: Skip_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: (TUNER-1)_T-MODE
+name: (tuner-1)_t-mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: TUNER1_T-MODE
+name: Tuner1_t-mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: [TUNER-1]_T-MODE
+name: [tuner-1]_t-mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: TUNER_MODE
+name: Tuner_mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: T.MODE
+name: T.mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: TUNER:_FM_MODE
+name: Tuner:_fm_mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: TUNER:_T-MODE
+name: Tuner:_t-mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: FM_MODE
+name: Fm_mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: STEREO/MONO
+name: Stereo/mono
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: (TUNER-1)_MEMO
+name: (tuner-1)_memo
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: TUNER1_MEMO
+name: Tuner1_memo
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: [TUNER-1]_MEMO
+name: [tuner-1]_memo
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: MEMORY_(TUNER)
+name: Memory_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: (TUNER-1)_PRE_SCAN
+name: (tuner-1)_pre_scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: TUNER1_PRESET_SCAN
+name: Tuner1_preset_scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: PRESET_SCAN
+name: Preset_scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: P.SCAN/V-OFF
+name: P.scan/v-off
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: PRESET_SCAN_TUNER
+name: Preset_scan_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: TUNER:_PRESET_SCAN
+name: Tuner:_preset_scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: DWR
+name: Dwr
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2C 00 00 00
 #
-name: TUNER:_DWR
+name: Tuner:_dwr
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2C 00 00 00
 #
-name: (TUNER-1)_FM
+name: (tuner-1)_fm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2D 00 00 00
 #
-name: TUNER1_FM
+name: Tuner1_fm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2D 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2D 00 00 00
 #
-name: [TUNER-1]_FM
+name: [tuner-1]_fm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2D 00 00 00
 #
-name: INPUT:_FM
+name: Input:_fm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2D 00 00 00
 #
-name: (TUNER-1)_AM
+name: (tuner-1)_am
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: TUNER1_AM
+name: Tuner1_am
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: [TUNER-1]_AM
+name: [tuner-1]_am
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: INPUT:_AM
+name: Input:_am
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: LW
+name: Lw
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2F 00 00 00
 #
-name: TUNER:_LW
+name: Tuner:_lw
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2F 00 00 00
 #
-name: (TUNER-1)_CLEAR
+name: (tuner-1)_clear
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: TUNER1_CLEAR
+name: Tuner1_clear
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: [TUNER-1]_CLEAR
+name: [tuner-1]_clear
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: LINE_1
+name: Line_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: TUNER-1
+name: Tuner-1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: TUNER_-_1_(LINE_1)
+name: Tuner_-_1_(line_1)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: TUNER_-_AM/FM
+name: Tuner_-_am/fm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT_-_TUNER
+name: Input_-_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT:_TUNER
+name: Input:_tuner
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: TUNER:_BAND
+name: Tuner:_band
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: PRESET_INFO
+name: Preset_info
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 52 00 00 00
 #
-name: TUNER:_PRESET_INFO
+name: Tuner:_preset_info
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 52 00 00 00
 #
-name: PTY
+name: Pty
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 78 00 00 00
 #
-name: TUNER:_PTY
+name: Tuner:_pty
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 78 00 00 00
 #
-name: TUNER:_STM
+name: Tuner:_stm
 type: parsed
 protocol: NECext
 address: 11 00 00 00

@@ -70,7 +70,7 @@ protocol: NECext
 address: 9F 00 00 00
 command: FF 00 00 00
 #
-name: TV/R
+name: Tv/r
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
@@ -82,13 +82,13 @@ protocol: NECext
 address: 9F 00 00 00
 command: 3D C2 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 1D E2 00 00
 #
-name: V-FMT
+name: V-fmt
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
@@ -106,73 +106,73 @@ protocol: NECext
 address: 9F 00 00 00
 command: 0D F2 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: A7 58 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 1F E0 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 37 C8 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 2F D0 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: DD 22 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: F5 0A 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 15 EA 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 25 DA 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 7D 82 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 97 68 00 00
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3F C0 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
@@ -232,7 +232,7 @@ protocol: NECext
 address: 9F 00 00 00
 command: 85 7A 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
@@ -244,7 +244,7 @@ protocol: NECext
 address: 9F 00 00 00
 command: 65 9A 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 9F 00 00 00

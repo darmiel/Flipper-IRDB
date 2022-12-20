@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 40 00 00 00
 #
-name: Z2_TUNING_UP
+name: Z2_tuning_up
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 40 00 00 00
 #
-name: TUNE_DOWN
+name: Tune_down
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 41 00 00 00
 #
-name: Z2_TUNING_DOWN
+name: Z2_tuning_down
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 41 00 00 00
 #
-name: SEARCH_MODE
+name: Search_mode
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 4D 00 00 00
 #
-name: XM_SEARCH_MODE
+name: Xm_search_mode
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 4D 00 00 00
 #
-name: NET_TUNE_FFWD
+name: Net_tune_ffwd
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 80 00 00 00
 #
-name: NET_TUNE_REW
+name: Net_tune_rew
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 81 00 00 00
 #
-name: NET_TUNE_RETURN
+name: Net_tune_return
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 86 00 00 00
 #
-name: MUSIC_SERVER
+name: Music_server
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 88 00 00 00
 #
-name: INTERNET_RADIO
+name: Internet_radio
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 89 00 00 00
 #
-name: NET_TUNE_PLAY
+name: Net_tune_play
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 8D 00 00 00
 #
-name: NET_TUNE_STOP
+name: Net_tune_stop
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 8E 00 00 00
 #
-name: NET_TUNE_TRACK_+
+name: Net_tune_track_+
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 8F 00 00 00
 #
-name: NET_TUNE_TRACK_-
+name: Net_tune_track_-
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 90 00 00 00
 #
-name: NET_TUNE_PAUSE
+name: Net_tune_pause
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 91 00 00 00
 #
-name: NET_TUNE_REPEAT
+name: Net_tune_repeat
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 92 00 00 00
 #
-name: NET_TUNE_RANDOM
+name: Net_tune_random
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 93 00 00 00
 #
-name: NET_TUNE_DISPLAY
+name: Net_tune_display
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: 9E 00 00 00
 #
-name: NET_TUNE_UP
+name: Net_tune_up
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: C0 00 00 00
 #
-name: NET_TUNE_DOWN
+name: Net_tune_down
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: C1 00 00 00
 #
-name: NET_TUNE_LEFT
+name: Net_tune_left
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: C2 00 00 00
 #
-name: NET_TUNE_RIGHT
+name: Net_tune_right
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: C3 00 00 00
 #
-name: NET_TUNE_SELECT
+name: Net_tune_select
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: D2 14 00 00
 command: D5 00 00 00
 #
-name: NET_TUNE_1
+name: Net_tune_1
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: D2 14 00 00
 command: D6 00 00 00
 #
-name: NET_TUNE_2
+name: Net_tune_2
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: D2 14 00 00
 command: D7 00 00 00
 #
-name: NET_TUNE_3
+name: Net_tune_3
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: D2 14 00 00
 command: D8 00 00 00
 #
-name: NET_TUNE_4
+name: Net_tune_4
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -229,7 +229,7 @@ protocol: NECext
 address: D2 14 00 00
 command: D9 00 00 00
 #
-name: NET_TUNE_5
+name: Net_tune_5
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -247,7 +247,7 @@ protocol: NECext
 address: D2 14 00 00
 command: DA 00 00 00
 #
-name: NET_TUNE_6
+name: Net_tune_6
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -265,7 +265,7 @@ protocol: NECext
 address: D2 14 00 00
 command: DB 00 00 00
 #
-name: NET_TUNE_7
+name: Net_tune_7
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -283,7 +283,7 @@ protocol: NECext
 address: D2 14 00 00
 command: DC 00 00 00
 #
-name: NET_TUNE_8
+name: Net_tune_8
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -301,7 +301,7 @@ protocol: NECext
 address: D2 14 00 00
 command: DD 00 00 00
 #
-name: NET_TUNE_9
+name: Net_tune_9
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -319,7 +319,7 @@ protocol: NECext
 address: D2 14 00 00
 command: DE 00 00 00
 #
-name: NET_TUNE_0/10
+name: Net_tune_0/10
 type: parsed
 protocol: NECext
 address: D2 14 00 00
@@ -331,19 +331,19 @@ protocol: NECext
 address: D2 14 00 00
 command: DE 00 00 00
 #
-name: DIRECT_TUNE
+name: Direct_tune
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: DF 00 00 00
 #
-name: Z2_DIRECT_TUNING
+name: Z2_direct_tuning
 type: parsed
 protocol: NECext
 address: D2 14 00 00
 command: DF 00 00 00
 #
-name: DIRECT_TUNING
+name: Direct_tuning
 type: parsed
 protocol: NECext
 address: D2 14 00 00

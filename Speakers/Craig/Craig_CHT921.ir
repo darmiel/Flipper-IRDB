@@ -3,61 +3,61 @@ Version: 1
 # 
 # Craig Electronics Speaker CHT921
 # 
-name: POWERToggle
+name: Powertoggle
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 12 00 00 00
 # 
-name: VolumeUp
+name: Volumeup
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 03 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 01 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1E 00 00 00
 # 
-name: PrevTrack
+name: Prevtrack
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0A 00 00 00
 # 
-name: Play_Pause
+name: Play_pause
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1B 00 00 00
 # 
-name: NextTrack
+name: Nexttrack
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1F 00 00 00
 # 
-name: BassUp
+name: Bassup
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 06 00 00 00
 # 
-name: BassDown
+name: Bassdown
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 04 00 00 00
 # 
-name: EQ
+name: Eq
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -69,13 +69,13 @@ protocol: NEC
 address: 00 00 00 00
 command: 02 00 00 00
 # 
-name: TrebleUp
+name: Trebleup
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 09 00 00 00
 # 
-name: TrebleDown
+name: Trebledown
 type: parsed
 protocol: NEC
 address: 00 00 00 00

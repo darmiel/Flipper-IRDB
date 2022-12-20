@@ -61,247 +61,247 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: PP
+name: Pp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: TV_+
+name: Tv_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: P_P
+name: P_p
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: I_II
+name: I_ii
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: TEXT_ZOOM
+name: Text_zoom
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: TEXT_CLOCK
+name: Text_clock
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: TEXT_UPDOWN
+name: Text_updown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: TEXT_QUESTION
+name: Text_question
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2C 00 00 00
 #
-name: TEXT_X
+name: Text_x
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: TEXT_HALFPAGE
+name: Text_halfpage
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: TV_MOVE_HORIZ
+name: Tv_move_horiz
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 50 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 51 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 52 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 55 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 56 00 00 00
 #
-name: TV_UPPERRIGHTCORNER
+name: Tv_upperrightcorner
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 58 00 00 00
 #
-name: TV_MOVEFROMUPPERRIGHTCORNER
+name: Tv_movefromupperrightcorner
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 59 00 00 00
 #
-name: TV_MOVEFROMTHERETOO
+name: Tv_movefromtheretoo
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5A 00 00 00
 #
-name: TV_UPPERRIGHTCORNER_ANDTRIANGLEINTHELOWERCORNER
+name: Tv_upperrightcorner_andtriangleinthelowercorner
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5F 00 00 00
 #
-name: TV_MUSTER
+name: Tv_muster
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 60 00 00 00
 #
-name: BRIGHT_LEVEL
+name: Bright_level
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 64 00 00 00
 #
-name: TV_UPPERRIGHTCORNER_TRIANGLE
+name: Tv_upperrightcorner_triangle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 65 00 00 00
 #
-name: GRAY+
+name: Gray+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 66 00 00 00
 #
-name: GRAY-
+name: Gray-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 67 00 00 00
 #
-name: TV_UPPERLEFTCORNER
+name: Tv_upperleftcorner
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 68 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6C 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6D 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6E 00 00 00
 #
-name: WHITE
+name: White
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6F 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 71 00 00 00
 #
-name: TV_FORMAT
+name: Tv_format
 type: parsed
 protocol: NECext
 address: 00 00 00 00

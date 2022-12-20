@@ -58,7 +58,7 @@ protocol: NECext
 address: C3 3C 00 00
 command: EE 11 00 00
 #
-name: TUNING-
+name: Tuning-
 type: parsed
 protocol: NECext
 address: C3 3C 00 00
@@ -70,13 +70,13 @@ protocol: NECext
 address: C3 3C 00 00
 command: 6E 91 00 00
 #
-name: TUNING+
+name: Tuning+
 type: parsed
 protocol: NECext
 address: C3 3C 00 00
 command: 1F E0 00 00
 #
-name: REPEAT/FM MODE
+name: Repeat/fm_mode
 type: parsed
 protocol: NECext
 address: C3 3C 00 00
@@ -88,13 +88,13 @@ protocol: NECext
 address: C3 3C 00 00
 command: 9F 60 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: C3 3C 00 00
 command: 5F A0 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: C3 3C 00 00
@@ -106,19 +106,19 @@ protocol: NECext
 address: C3 3C 00 00
 command: DF 20 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: C3 3C 00 00
 command: 8D 72 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: C3 3C 00 00
 command: BD 42 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: C3 3C 00 00

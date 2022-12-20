@@ -1,811 +1,811 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PHONO_STOP_[]
+name: Phono_stop_[]
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 03 00 00 00
 #
-name: PHONO_STOP_[]_(4)
+name: Phono_stop_[]_(4)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 03 00 00 00
 #
-name: PHONO_STOP
+name: Phono_stop
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 03 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 03 00 00 00
 #
-name: PHONO_PLAY_>
+name: Phono_play_>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 0C 00 00 00
 #
-name: PHONO_PLAY_>_(1)
+name: Phono_play_>_(1)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 0C 00 00 00
 #
-name: PHONO_PLAY
+name: Phono_play
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 0C 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 43 00 00 00
 #
-name: CD_STOP_[]_(4)
+name: Cd_stop_[]_(4)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 43 00 00 00
 #
-name: CD_STOP[]
+name: Cd_stop[]
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 43 00 00 00
 #
-name: CD_STOP_(-_[])
+name: Cd_stop_(-_[])
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 43 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 43 00 00 00
 #
-name: CD_EJECT_(10)
+name: Cd_eject_(10)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 44 00 00 00
 #
-name: CD_OPEN/CLOSE
+name: Cd_open/close
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 44 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4C 00 00 00
 #
-name: CD_PLAY_>_(1)
+name: Cd_play_>_(1)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4C 00 00 00
 #
-name: CD_PLAY>
+name: Cd_play>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4C 00 00 00
 #
-name: CD_PLAY_(+_>)
+name: Cd_play_(+_>)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4C 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4C 00 00 00
 #
-name: CD_PAUSE_
+name: Cd_pause_
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4D 00 00 00
 #
-name: CD_PAUSE_(5)
+name: Cd_pause_(5)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4D 00 00 00
 #
-name: CD_PAUSE_()
+name: Cd_pause_()
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4D 00 00 00
 #
-name: CD_PAUSE
+name: Cd_pause
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 4D 00 00 00
 #
-name: CD_SKIP_<<
+name: Cd_skip_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: CD_<<_(2)
+name: Cd_<<_(2)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: CD_A.SEARCH_REV_<<
+name: Cd_a.search_rev_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: CD_SKIP_REV_<<
+name: Cd_skip_rev_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: CD_SKIP_<
+name: Cd_skip_<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: CD_AUTO_SEARCH_<<
+name: Cd_auto_search_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: AUTO_SEARCH_<<
+name: Auto_search_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: CD_REW/<<
+name: Cd_rew/<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 58 00 00 00
 #
-name: CD_SKIP_>>
+name: Cd_skip_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: CD_>>(3)
+name: Cd_>>(3)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: CD_A.SEARCH_FWD_>>
+name: Cd_a.search_fwd_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: CD_SKIP_FWD_>>
+name: Cd_skip_fwd_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: CD_SKIP_>
+name: Cd_skip_>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: CD_AUTO_SEARCH_>>
+name: Cd_auto_search_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: AUTO_SEARCH_>>
+name: Auto_search_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: CD_FF/>>
+name: Cd_ff/>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 59 00 00 00
 #
-name: TRACK_0
+name: Track_0
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 60 00 00 00
 #
-name: CD_100
+name: Cd_100
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 60 00 00 00
 #
-name: CD_TRACK_0
+name: Cd_track_0
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 60 00 00 00
 #
-name: CD_0
+name: Cd_0
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 60 00 00 00
 #
-name: TRACK_1
+name: Track_1
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 61 00 00 00
 #
-name: CD_101
+name: Cd_101
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 61 00 00 00
 #
-name: CD_TRACK_1
+name: Cd_track_1
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 61 00 00 00
 #
-name: TV_1
+name: Tv_1
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 61 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 61 00 00 00
 #
-name: TRACK_2
+name: Track_2
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 62 00 00 00
 #
-name: CD_102
+name: Cd_102
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 62 00 00 00
 #
-name: CD_TRACK_2
+name: Cd_track_2
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 62 00 00 00
 #
-name: TV_2
+name: Tv_2
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 62 00 00 00
 #
-name: CD_2
+name: Cd_2
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 62 00 00 00
 #
-name: TRACK_3
+name: Track_3
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 63 00 00 00
 #
-name: CD_103
+name: Cd_103
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 63 00 00 00
 #
-name: CD_TRACK_3
+name: Cd_track_3
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 63 00 00 00
 #
-name: TV_3
+name: Tv_3
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 63 00 00 00
 #
-name: CD_3
+name: Cd_3
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 63 00 00 00
 #
-name: TRACK_4
+name: Track_4
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 64 00 00 00
 #
-name: CD_104
+name: Cd_104
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 64 00 00 00
 #
-name: CD_TRACK_4
+name: Cd_track_4
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 64 00 00 00
 #
-name: TV_4
+name: Tv_4
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 64 00 00 00
 #
-name: CD_4
+name: Cd_4
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 64 00 00 00
 #
-name: TRACK_5
+name: Track_5
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 65 00 00 00
 #
-name: CD_105
+name: Cd_105
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 65 00 00 00
 #
-name: CD_TRACK_5
+name: Cd_track_5
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 65 00 00 00
 #
-name: TV_5
+name: Tv_5
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 65 00 00 00
 #
-name: CD_5
+name: Cd_5
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 65 00 00 00
 #
-name: TRACK_6
+name: Track_6
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 66 00 00 00
 #
-name: CD_106
+name: Cd_106
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 66 00 00 00
 #
-name: CD_TRACK_6
+name: Cd_track_6
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 66 00 00 00
 #
-name: TV_6
+name: Tv_6
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 66 00 00 00
 #
-name: CD_6
+name: Cd_6
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 66 00 00 00
 #
-name: TRACK_7/P
+name: Track_7/p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 67 00 00 00
 #
-name: CD_107/P
+name: Cd_107/p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 67 00 00 00
 #
-name: CD_TRACK_7
+name: Cd_track_7
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 67 00 00 00
 #
-name: TV_7/P
+name: Tv_7/p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 67 00 00 00
 #
-name: CD_7/P
+name: Cd_7/p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 67 00 00 00
 #
-name: CD_7
+name: Cd_7
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 67 00 00 00
 #
-name: TRACK_8
+name: Track_8
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 68 00 00 00
 #
-name: CD_108
+name: Cd_108
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 68 00 00 00
 #
-name: CD_TRACK_8
+name: Cd_track_8
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 68 00 00 00
 #
-name: TV_8
+name: Tv_8
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 68 00 00 00
 #
-name: CD_8
+name: Cd_8
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 68 00 00 00
 #
-name: TRACK_9
+name: Track_9
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 69 00 00 00
 #
-name: CD_109
+name: Cd_109
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 69 00 00 00
 #
-name: CD_TRACK_9
+name: Cd_track_9
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 69 00 00 00
 #
-name: TV_9
+name: Tv_9
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 69 00 00 00
 #
-name: CD_9
+name: Cd_9
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 69 00 00 00
 #
-name: TRACK_10
+name: Track_10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6E 00 00 00
 #
-name: CD_1010
+name: Cd_1010
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6E 00 00 00
 #
-name: CD_TRACK_10
+name: Cd_track_10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6E 00 00 00
 #
-name: TV_10
+name: Tv_10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6E 00 00 00
 #
-name: CD_10
+name: Cd_10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6E 00 00 00
 #
-name: CD_10_CONTINUE
+name: Cd_10_continue
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6E 00 00 00
 #
-name: TRACK_+10
+name: Track_+10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6F 00 00 00
 #
-name: CD_10+10
+name: Cd_10+10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6F 00 00 00
 #
-name: CD_TRACK_+10
+name: Cd_track_+10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6F 00 00 00
 #
-name: TV_+10
+name: Tv_+10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6F 00 00 00
 #
-name: CD_+10
+name: Cd_+10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 6F 00 00 00
 #
-name: CD_SCAN_<<
+name: Cd_scan_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 70 00 00 00
 #
-name: CD_<<_(6)
+name: Cd_<<_(6)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 70 00 00 00
 #
-name: CD_REW_<<
+name: Cd_rew_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 70 00 00 00
 #
-name: CD_SEARCH_REV_<<
+name: Cd_search_rev_<<
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 70 00 00 00
 #
-name: CD_REV_(<_<<)
+name: Cd_rev_(<_<<)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 70 00 00 00
 #
-name: CD_CHANGER_PRGM
+name: Cd_changer_prgm
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 71 00 00 00
 #
-name: PRGM
+name: Prgm
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 71 00 00 00
 #
-name: CD_CHANGER_+10
+name: Cd_changer_+10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 71 00 00 00
 #
-name: DISC_PRGM
+name: Disc_prgm
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 71 00 00 00
 #
-name: CD_DISC_PRGM(10)
+name: Cd_disc_prgm(10)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 71 00 00 00
 #
-name: CD_0_(DISC)
+name: Cd_0_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 71 00 00 00
 #
-name: CD_PRGM
+name: Cd_prgm
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 71 00 00 00
 #
-name: CD_CHANGER_MAG.PRGM
+name: Cd_changer_mag.prgm
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 73 00 00 00
 #
-name: MAG.PRGM
+name: Mag.prgm
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 73 00 00 00
 #
-name: MAG._PRGM
+name: Mag._prgm
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 73 00 00 00
 #
-name: CD_CHANGER_0
+name: Cd_changer_0
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 73 00 00 00
 #
-name: DISC_MAG.PRGM
+name: Disc_mag.prgm
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 73 00 00 00
 #
-name: CD_+10_(DISC)
+name: Cd_+10_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 73 00 00 00
 #
-name: CD_SCAN_>>
+name: Cd_scan_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 76 00 00 00
 #
-name: CD_>>_(P)
+name: Cd_>>_(p)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 76 00 00 00
 #
-name: CD_FFWD_>>
+name: Cd_ffwd_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 76 00 00 00
 #
-name: CD_SEARCH_FWD_>>
+name: Cd_search_fwd_>>
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 76 00 00 00
 #
-name: CD_FWD_(>_>>)
+name: Cd_fwd_(>_>>)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 76 00 00 00
 #
-name: CD_CHANGER_CONTINUE
+name: Cd_changer_continue
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 77 00 00 00
 #
-name: CONTINUE
+name: Continue
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 77 00 00 00
 #
-name: CD_CHANGER_10
+name: Cd_changer_10
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 77 00 00 00
 #
-name: DISC_CONTINUE
+name: Disc_continue
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 77 00 00 00
 #
-name: CD_DISC_CONTINUE(9)
+name: Cd_disc_continue(9)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 77 00 00 00
 #
-name: CD_10_(DISC)_CONTIN
+name: Cd_10_(disc)_contin
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 77 00 00 00
 #
-name: CD_CONTINUE
+name: Cd_continue
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 77 00 00 00
 #
-name: CD_DISC_P
+name: Cd_disc_p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: CD_CHANGER_P
+name: Cd_changer_p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: CD_DISC_7/P
+name: Cd_disc_7/p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
@@ -817,61 +817,61 @@ protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: DISC_7/P
+name: Disc_7/p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: CD_CHANGER_7/P
+name: Cd_changer_7/p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: DISC_P
+name: Disc_p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: CD_DISC_P_(7)
+name: Cd_disc_p_(7)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: CD_7/P
+name: Cd_7/p
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: CD_DISC_7
+name: Cd_disc_7
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: CD_7/P_(DISC)
+name: Cd_7/p_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 78 00 00 00
 #
-name: CD_DISC_1
+name: Cd_disc_1
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 79 00 00 00
 #
-name: CD_DISC_1_(>)
+name: Cd_disc_1_(>)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 79 00 00 00
 #
-name: CD_CHANGER_1
+name: Cd_changer_1
 type: parsed
 protocol: NECext
 address: B3 00 00 00
@@ -883,37 +883,37 @@ protocol: NECext
 address: B3 00 00 00
 command: 79 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 79 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 79 00 00 00
 #
-name: CD_1_(DISC)
+name: Cd_1_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 79 00 00 00
 #
-name: CD_DISC_2
+name: Cd_disc_2
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7A 00 00 00
 #
-name: CD_DISC_2_(<<)
+name: Cd_disc_2_(<<)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7A 00 00 00
 #
-name: CD_CHANGER_2
+name: Cd_changer_2
 type: parsed
 protocol: NECext
 address: B3 00 00 00
@@ -925,37 +925,37 @@ protocol: NECext
 address: B3 00 00 00
 command: 7A 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7A 00 00 00
 #
-name: CD_2
+name: Cd_2
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7A 00 00 00
 #
-name: CD_2_(DISC)
+name: Cd_2_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7A 00 00 00
 #
-name: CD_DISC_3
+name: Cd_disc_3
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7B 00 00 00
 #
-name: CD_DISC_3_(>>)
+name: Cd_disc_3_(>>)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7B 00 00 00
 #
-name: CD_CHANGER_3
+name: Cd_changer_3
 type: parsed
 protocol: NECext
 address: B3 00 00 00
@@ -967,37 +967,37 @@ protocol: NECext
 address: B3 00 00 00
 command: 7B 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7B 00 00 00
 #
-name: CD_3
+name: Cd_3
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7B 00 00 00
 #
-name: CD_3_(DISC)
+name: Cd_3_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7B 00 00 00
 #
-name: CD_DISC_4
+name: Cd_disc_4
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7C 00 00 00
 #
-name: CD_DISC_4_([])
+name: Cd_disc_4_([])
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7C 00 00 00
 #
-name: CD_CHANGER_4
+name: Cd_changer_4
 type: parsed
 protocol: NECext
 address: B3 00 00 00
@@ -1009,37 +1009,37 @@ protocol: NECext
 address: B3 00 00 00
 command: 7C 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7C 00 00 00
 #
-name: CD_4
+name: Cd_4
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7C 00 00 00
 #
-name: CD_4_(DISC)
+name: Cd_4_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7C 00 00 00
 #
-name: CD_DISC_5
+name: Cd_disc_5
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7D 00 00 00
 #
-name: CD_DISC_5_()
+name: Cd_disc_5_()
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7D 00 00 00
 #
-name: CD_CHANGER_5
+name: Cd_changer_5
 type: parsed
 protocol: NECext
 address: B3 00 00 00
@@ -1051,37 +1051,37 @@ protocol: NECext
 address: B3 00 00 00
 command: 7D 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7D 00 00 00
 #
-name: CD_5
+name: Cd_5
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7D 00 00 00
 #
-name: CD_5_(DISC)
+name: Cd_5_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7D 00 00 00
 #
-name: CD_DISC_6
+name: Cd_disc_6
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7E 00 00 00
 #
-name: CD_DISC_6_(<<)
+name: Cd_disc_6_(<<)
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7E 00 00 00
 #
-name: CD_CHANGER_6
+name: Cd_changer_6
 type: parsed
 protocol: NECext
 address: B3 00 00 00
@@ -1093,19 +1093,19 @@ protocol: NECext
 address: B3 00 00 00
 command: 7E 00 00 00
 #
-name: DISC_6
+name: Disc_6
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7E 00 00 00
 #
-name: CD_6
+name: Cd_6
 type: parsed
 protocol: NECext
 address: B3 00 00 00
 command: 7E 00 00 00
 #
-name: CD_6_(DISC)
+name: Cd_6_(disc)
 type: parsed
 protocol: NECext
 address: B3 00 00 00

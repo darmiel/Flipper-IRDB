@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 896 896 896 896 1791 896 896 1791 896 896 89858
 #
-name: FOTO
+name: Foto
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 1791 1791 1791 896 896 896 88963
 #
-name: ZOOM
+name: Zoom
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
@@ -25,7 +25,7 @@ frequency: 35734
 duty_cycle: 0.330000
 data: 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 1791 896 896 1791 1791 896 88963
 #
-name: AZUL
+name: Azul
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
@@ -91,7 +91,7 @@ frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 89858
 #
-name: AV
+name: Av
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
@@ -103,25 +103,25 @@ frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1791 896 896 896 896 896 896 896 896 1791 1791 896 896 896 896 1791 1791 89858
 #
-name: TEXT
+name: Text
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 1791 896 896 896 896 896 896 1791 896 896 89858
 #
-name: TV
+name: Tv
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 896 896 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 896 896 1791 896 896 896 88963
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 896 896 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 896 896 1791 1791 89858
 #
-name: SLEEP
+name: Sleep
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
@@ -139,31 +139,31 @@ frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 1791 1791 896 896 896 896 896 896 1791 896 88963
 #
-name: OK
+name: Ok
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 1791 1791 1791 1791 896 896 1791 896 88963
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 896 896 896 896 896 896 89858
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 896 896 896 896 1791 896 88963
 #
-name: TIME
+name: Time
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 1791 1791 1791 1791 1791 1791 89858
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 35734
 duty_cycle: 0.330000

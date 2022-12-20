@@ -64,7 +64,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 153 7447 204 7402 176 7425 174 7420 182 7449 160 4945 79 4974 133 7471 91 7519 137 4968 80 7496 171
 #
-name: AV
+name: Av
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -82,7 +82,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 172 7485 75 7484 94 7493 90 7529 128 4948 90 4979 171 7454 192 4868 154 4945 165
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -94,13 +94,13 @@ frequency: 38000
 duty_cycle: 0.33
 data: 139 7468 87 4989 90 7506 90 7493 177 7463 141 7465 135 4954 177 4911 141 7477 137 4954 139 7455 136
 #
-name: EXIT
+name: Exit
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 208 7428 137 7493 137 7475 92 7557 77 7539 123 4897 210 7455 140 7458 104 7495 137 4955 77 7556 89
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -112,7 +112,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 206 7410 123 7507 210 7399 89 7522 89 7519 137 4958 139 7475 137 4928 165 4972 117
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -124,7 +124,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 181 7406 178 4919 165 7419 142 7469 171 7461 185 4912 133 7445 136 7543 117 4898 189 7460 144 7462 180
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -136,7 +136,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 157 7436 190 7399 125 7533 205 7397 139 7475 139 4948 139 7444 141 4917 235 4871 139 7468 142 7448 126
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -148,7 +148,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 207 7397 179 4919 180 7435 207 7419 90 7501 130 4959 207 7399 145 7459 208 7349 192 4906 142 4948 182
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38000
 duty_cycle: 0.33

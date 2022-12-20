@@ -1,325 +1,325 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DAY_UP
+name: Day_up
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 06 00 00 00
 #
-name: DAY_DOWN
+name: Day_down
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 07 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 08 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 09 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0A 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0B 00 00 00
 #
-name: THEME
+name: Theme
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0C 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0E 00 00 00
 #
-name: MENU_UP
+name: Menu_up
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0E 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0F 00 00 00
 #
-name: MENU_DOWN
+name: Menu_down
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0F 00 00 00
 #
-name: DN
+name: Dn
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 0F 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 10 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 10 00 00 00
 #
-name: MENU_LEFT
+name: Menu_left
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 10 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 10 00 00 00
 #
-name: RR
+name: Rr
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 10 00 00 00
 #
-name: LT
+name: Lt
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 10 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 11 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 11 00 00 00
 #
-name: MENU_RIGHT
+name: Menu_right
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 11 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 11 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 11 00 00 00
 #
-name: RT
+name: Rt
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 11 00 00 00
 #
-name: CURSOR_"OK"
+name: Cursor_"ok"
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 18 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 18 00 00 00
 #
-name: EXECUTE
+name: Execute
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 18 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 18 00 00 00
 #
-name: CURSOR_SELECT
+name: Cursor_select
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 18 00 00 00
 #
-name: SMART_FILE
+name: Smart_file
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 1C 00 00 00
 #
-name: TAPE_GUIDE
+name: Tape_guide
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 1C 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 35 00 00 00
 #
-name: INPUT_1_VTR_3
+name: Input_1_vtr_3
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 35 00 00 00
 #
-name: INPUT_1
+name: Input_1
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 35 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 36 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 37 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 38 00 00 00
 #
-name: VIDEO_5
+name: Video_5
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 3C 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 43 00 00 00
 #
-name: VCR_PLUS
+name: Vcr_plus
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 60 00 00 00
 #
-name: VCR_PLUS+
+name: Vcr_plus+
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 60 00 00 00
 #
-name: VCR_PLUS_+
+name: Vcr_plus_+
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 60 00 00 00
 #
-name: VCR+
+name: Vcr+
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 60 00 00 00
 #
-name: VCR_PLUS:_ONCE
+name: Vcr_plus:_once
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 61 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 61 00 00 00
 #
-name: ONCE
+name: Once
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 61 00 00 00
 #
-name: VCR_PLUS:_DAILY
+name: Vcr_plus:_daily
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 62 00 00 00
 #
-name: DAILY
+name: Daily
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 62 00 00 00
 #
-name: VCR_PLUS:_WEEKLY
+name: Vcr_plus:_weekly
 type: parsed
 protocol: NECext
 address: BA 00 00 00
 command: 63 00 00 00
 #
-name: WEEKLY
+name: Weekly
 type: parsed
 protocol: NECext
 address: BA 00 00 00

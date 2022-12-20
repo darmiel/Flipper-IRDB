@@ -55,13 +55,13 @@ protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: CHECK
+name: Check
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -79,19 +79,19 @@ protocol: NECext
 address: 11 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 13 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -103,37 +103,37 @@ protocol: NECext
 address: 11 00 00 00
 command: 17 00 00 00
 #
-name: C.INDEX
+name: C.index
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 18 00 00 00
 #
-name: FILE
+name: File
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 19 00 00 00
 #
-name: FILE_RECALL
+name: File_recall
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1A 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1B 00 00 00
 #
-name: CONTINUE
+name: Continue
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1D 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 27 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -205,127 +205,127 @@ protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2A 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2C 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 30 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 32 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 33 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 34 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 35 00 00 00
 #
-name: INDEX-
+name: Index-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 36 00 00 00
 #
-name: INDEX+
+name: Index+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 37 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 39 00 00 00
 #
-name: SLOWREW
+name: Slowrew
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: SLOWFF
+name: Slowff
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3B 00 00 00
 #
-name: MUSIC_SCAN
+name: Music_scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3C 00 00 00
 #
-name: A.SPACE
+name: A.space
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4E 00 00 00
 #
-name: PEAK_SEARCH
+name: Peak_search
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4F 00 00 00
 #
-name: DISPLAY_MODE
+name: Display_mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 56 00 00 00
 #
-name: FADER
+name: Fader
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 5F 00 00 00
 #
-name: LEVEL_FILE
+name: Level_file
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 68 00 00 00
 #
-name: MEMO_INPUT
+name: Memo_input
 type: parsed
 protocol: NECext
 address: 11 00 00 00

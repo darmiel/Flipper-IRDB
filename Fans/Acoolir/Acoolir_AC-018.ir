@@ -3,49 +3,49 @@ Version: 1
 #
 # Acoolir Tower Fan AC-018
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 01 00 00 00
 # 
-name: SPEED+
+name: Speed+
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 05 00 00 00
 # 
-name: SPEED-
+name: Speed-
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 1B 00 00 00
 # 
-name: TIMER+
+name: Timer+
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 07 00 00 00
 # 
-name: TIMER-
+name: Timer-
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 09 00 00 00
 # 
-name: SWING
+name: Swing
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 03 00 00 00
 # 
-name: NIGHT
+name: Night
 type: parsed
 protocol: NEC
 address: 80 00 00 00
 command: 08 00 00 00
 # 
-name: POWER FULL
+name: Power_full
 type: parsed
 protocol: NEC
 address: 80 00 00 00

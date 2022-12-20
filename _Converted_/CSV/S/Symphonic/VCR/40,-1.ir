@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 00 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 04 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 06 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 07 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0B 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0C 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0D 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0E 00 00 00
 #
-name: ADD/DELETE
+name: Add/delete
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0F 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 14 00 00 00
 #
-name: TAPE_COUNTER
+name: Tape_counter
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 14 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 15 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 1A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 28 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 28 00 00 00
 command: 1F 00 00 00
 #
-name: POWER/TIMER_RECORD
+name: Power/timer_record
 type: parsed
 protocol: NECext
 address: 28 00 00 00
@@ -157,13 +157,13 @@ protocol: NECext
 address: 28 00 00 00
 command: 29 00 00 00
 #
-name: BLANK
+name: Blank
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 39 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 28 00 00 00

@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 00 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 01 00 00 00
 #
-name: select_menu
+name: Select_menu
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 02 00 00 00
 #
-name: enter/ok
+name: Enter/ok
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 03 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 04 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 05 00 00 00
 #
-name: fast_backward
+name: Fast_backward
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 06 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 07 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 08 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 09 00 00 00
 #
-name: caption
+name: Caption
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 0A 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 0B 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 0C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 0D 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 0E 00 00 00
 #
-name: nicam
+name: Nicam
 type: parsed
 protocol: NECext
 address: 00 F6 00 00
 command: 0F 00 00 00
 #
-name: game/remote
+name: Game/remote
 type: parsed
 protocol: NECext
 address: 00 F6 00 00

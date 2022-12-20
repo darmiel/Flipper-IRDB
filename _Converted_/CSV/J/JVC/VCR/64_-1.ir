@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV_TV/VIDEO
+name: Tv_tv/video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0F 00 00 00
 #
-name: TV_SELECT_(IN/OUT)
+name: Tv_select_(in/out)
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: TV_POWER
+name: Tv_power
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: VCR_VOL+
+name: Vcr_vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: TV_CH/SET_+
+name: Tv_ch/set_+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: VCR_VOL-
+name: Vcr_vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: TV_CH/SET_-
+name: Tv_ch/set_-
 type: parsed
 protocol: NECext
 address: 40 00 00 00

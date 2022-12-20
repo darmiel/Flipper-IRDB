@@ -25,7 +25,7 @@ protocol: NECext
 address: 84 3C 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 84 3C 00 00
 command: 05 00 00 00
 #
-name: TV_SAT
+name: Tv_sat
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 84 3C 00 00
 command: 0B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 0C 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 84 3C 00 00
 command: 0E 00 00 00
 #
-name: CHAN_RIGHT
+name: Chan_right
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 0F 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
@@ -109,67 +109,67 @@ protocol: NECext
 address: 84 3C 00 00
 command: 11 00 00 00
 #
-name: CHAN_LEFT
+name: Chan_left
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 12 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 14 00 00 00
 #
-name: NORM
+name: Norm
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 15 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 16 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 18 00 00 00
 #
-name: LEVEL
+name: Level
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 19 00 00 00
 #
-name: SHAPE
+name: Shape
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 1C 00 00 00
 #
-name: EFFECT
+name: Effect
 type: parsed
 protocol: NECext
 address: 84 3C 00 00
 command: 1D 00 00 00
 #
-name: DOLBY
+name: Dolby
 type: parsed
 protocol: NECext
 address: 84 3C 00 00

@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE_T0
+name: Mute_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: MUTE_T1
+name: Mute_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: VOL+_T0
+name: Vol+_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: VOL+_T1
+name: Vol+_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: VOL-_T0
+name: Vol-_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: VOL-_T1
+name: Vol-_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00

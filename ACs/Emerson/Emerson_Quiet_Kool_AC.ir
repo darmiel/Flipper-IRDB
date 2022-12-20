@@ -15,7 +15,7 @@ protocol: NEC
 address: 81 00 00 00
 command: 69 00 00 00
 # 
-name: Fan Speed
+name: Fan_speed
 type: parsed
 protocol: NEC
 address: 81 00 00 00
@@ -39,7 +39,7 @@ protocol: NEC
 address: 81 00 00 00
 command: 66 00 00 00
 # 
-name: Vent Angle
+name: Vent_angle
 type: parsed
 protocol: NEC
 address: 81 00 00 00

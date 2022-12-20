@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PROGRAMCHANNEL_-
+name: Programchannel_-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: PROGRAM_CHANNEL_+
+name: Program_channel_+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NECext
 address: 05 00 00 00

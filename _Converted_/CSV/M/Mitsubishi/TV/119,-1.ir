@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CABLE_INPUT_V
+name: Cable_input_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: 1A 00 00 00
 #
-name: CABLE_INPUT_^
+name: Cable_input_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00

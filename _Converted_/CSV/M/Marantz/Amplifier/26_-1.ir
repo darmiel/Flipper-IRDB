@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RECORDER_1_(CD-R)
+name: Recorder_1_(cd-r)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

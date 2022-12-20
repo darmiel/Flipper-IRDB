@@ -1,199 +1,199 @@
 Filetype: IR signals file
 Version: 1
 #
-name: one
+name: One
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 00 00 00 00
 #
-name: four
+name: Four
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 00 00 00 00
 #
-name: five
+name: Five
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 00 00 00 00
 #
-name: zero
+name: Zero
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 00 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 00 00 00 00
 #
-name: setup
+name: Setup
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 00 00 00 00
 #
-name: two
+name: Two
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 01 00 00 00
 #
-name: six
+name: Six
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 01 00 00 00
 #
-name: three
+name: Three
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 02 00 00 00
 #
-name: seven
+name: Seven
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 02 00 00 00
 #
-name: eight
+name: Eight
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 04 00 00 00
 #
-name: nine
+name: Nine
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 04 00 00 00
 #
-name: up
+name: Up
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 04 00 00 00
 #
-name: down
+name: Down
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 04 00 00 00
 #
-name: left
+name: Left
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 05 00 00 00
 #
-name: right
+name: Right
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 06 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 08 00 00 00
 #
-name: select
+name: Select
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 08 00 00 00
 #
-name: i
+name: I
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 0A 00 00 00
 #
-name: ch+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 10 00 00 00
 #
-name: ch-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 10 00 00 00
 #
-name: red
+name: Red
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 18 00 00 00
 #
-name: green
+name: Green
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 19 00 00 00
 #
-name: yellow
+name: Yellow
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 1A 00 00 00
 #
-name: blue
+name: Blue
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 20 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 24 00 00 00
 #
-name: help
+name: Help
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 40 00 00 00
 #
-name: back
+name: Back
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 42 00 00 00
 #
-name: foxtel
+name: Foxtel
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 49 00 00 00
 #
-name: boxoffice
+name: Boxoffice
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 80 00 00 00
 #
-name: tvguide
+name: Tvguide
 type: parsed
 protocol: NECext
 address: 10 50 00 00
 command: 88 00 00 00
 #
-name: active
+name: Active
 type: parsed
 protocol: NECext
 address: 10 50 00 00

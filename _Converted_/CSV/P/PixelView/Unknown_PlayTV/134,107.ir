@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 00 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -37,25 +37,25 @@ protocol: NECext
 address: 86 6B 00 00
 command: 02 00 00 00
 #
-name: tv/fm
+name: Tv/fm
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 03 00 00 00
 #
-name: timeshift
+name: Timeshift
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 03 00 00 00
 #
-name: fn-
+name: Fn-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 04 00 00 00
 #
-name: bw
+name: Bw
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -85,19 +85,19 @@ protocol: NECext
 address: 86 6B 00 00
 command: 06 00 00 00
 #
-name: scan
+name: Scan
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 07 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 07 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -139,49 +139,49 @@ protocol: NECext
 address: 86 6B 00 00
 command: 0B 00 00 00
 #
-name: fn+
+name: Fn+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0C 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0C 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0D 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0D 00 00 00
 #
-name: function
+name: Function
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0E 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0E 00 00 00
 #
-name: freeze
+name: Freeze
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -211,25 +211,25 @@ protocol: NECext
 address: 86 6B 00 00
 command: 12 00 00 00
 #
-name: loop
+name: Loop
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 13 00 00 00
 #
-name: loop
+name: Loop
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 13 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 14 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -247,49 +247,49 @@ protocol: NECext
 address: 86 6B 00 00
 command: 15 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 16 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 16 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 17 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 17 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 18 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 18 00 00 00
 #
-name: snapshot
+name: Snapshot
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 19 00 00 00
 #
-name: scan
+name: Scan
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -307,43 +307,43 @@ protocol: NECext
 address: 86 6B 00 00
 command: 1B 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1C 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00

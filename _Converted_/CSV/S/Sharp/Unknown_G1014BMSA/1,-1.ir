@@ -1,205 +1,205 @@
 Filetype: IR signals file
 Version: 1
 #
-name: num1
+name: Num1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: num2
+name: Num2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: num3
+name: Num3
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: num4
+name: Num4
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: num5
+name: Num5
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: num6
+name: Num6
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: num7
+name: Num7
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: num8
+name: Num8
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: num9
+name: Num9
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: num0
+name: Num0
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: tv_video
+name: Tv_video
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: vol_mute
+name: Vol_mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: screen_time
+name: Screen_time
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: screen_blank
+name: Screen_blank
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: screen_smaller
+name: Screen_smaller
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 33 00 00 00
 #
-name: screen_switch
+name: Screen_switch
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: screen_close
+name: Screen_close
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 35 00 00 00
 #
-name: screen_s
+name: Screen_s
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: screen_bigger
+name: Screen_bigger
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: screen_question
+name: Screen_question
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 38 00 00 00
 #
-name: num_switch
+name: Num_switch
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3C 00 00 00
 #
-name: p_c
+name: P_c
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3D 00 00 00
 #
-name: pr
+name: Pr
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 41 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 48 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 49 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4A 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4B 00 00 00
 #
-name: screen_info
+name: Screen_info
 type: parsed
 protocol: NECext
 address: 01 00 00 00

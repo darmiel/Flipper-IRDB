@@ -61,139 +61,139 @@ protocol: NECext
 address: 0B 0B 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 0A 00 00 00
 #
-name: tv/txt
+name: Tv/txt
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 0B 00 00 00
 #
-name: tv/av
+name: Tv/av
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 0C 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 0E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 0F 00 00 00
 #
-name: picture
+name: Picture
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 10 00 00 00
 #
-name: num
+name: Num
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 11 00 00 00
 #
-name: index
+name: Index
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 11 00 00 00
 #
-name: exp
+name: Exp
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 14 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 15 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 16 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 17 00 00 00
 #
-name: norm
+name: Norm
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 18 00 00 00
 #
-name: hold
+name: Hold
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 18 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 19 00 00 00
 #
-name: mix
+name: Mix
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 1A 00 00 00
 #
-name: rev
+name: Rev
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 1B 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 1C 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 1D 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00
 command: 1E 00 00 00
 #
-name: cyan
+name: Cyan
 type: parsed
 protocol: NECext
 address: 0B 0B 00 00

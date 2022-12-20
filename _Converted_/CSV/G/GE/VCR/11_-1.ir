@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANEL_UP
+name: Chanel_up
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 10 00 00 00
 #
-name: CHANEL_DN
+name: Chanel_dn
 type: parsed
 protocol: NECext
 address: 0B 00 00 00

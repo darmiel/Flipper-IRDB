@@ -100,7 +100,7 @@ protocol: RC5
 address: 0A 00 00 00
 command: 95 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: RC5
 address: 0A 00 00 00
@@ -130,7 +130,7 @@ protocol: RC5
 address: 1A 00 00 00
 command: A6 00 00 00
 #
-name: i
+name: I
 type: parsed
 protocol: RC5
 address: 02 00 00 00
@@ -142,7 +142,7 @@ protocol: RC5
 address: 1A 00 00 00
 command: A2 00 00 00
 #
-name: SFI
+name: Sfi
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -154,7 +154,7 @@ protocol: RC5
 address: 1A 00 00 00
 command: A0 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: RC5
 address: 0A 00 00 00

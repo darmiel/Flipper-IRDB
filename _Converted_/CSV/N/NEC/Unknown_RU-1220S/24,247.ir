@@ -13,181 +13,181 @@ protocol: NECext
 address: 18 F7 00 00
 command: 02 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 08 00 00 00
 #
-name: END/CONV_CONTROL
+name: End/conv_control
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 09 00 00 00
 #
-name: TEST_PATTERN_TEST
+name: Test_pattern_test
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 0B 00 00 00
 #
-name: TEST_PATTERN_COARSE
+name: Test_pattern_coarse
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 0E 00 00 00
 #
-name: TEST_PATTERN_FINE
+name: Test_pattern_fine
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 0F 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 12 00 00 00
 #
-name: STATIC
+name: Static
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 15 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 18 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 19 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1C 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1D 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1E 00 00 00
 #
-name: SEL
+name: Sel
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 40 00 00 00
 #
-name: BEAM
+name: Beam
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 41 00 00 00
 #
-name: LEVEL_CONTROL_PRESET
+name: Level_control_preset
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 42 00 00 00
 #
-name: LEVEL_CONTROL_CALL
+name: Level_control_call
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 43 00 00 00
 #
-name: PICTURE_UP
+name: Picture_up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 46 00 00 00
 #
-name: PICTURE_DOWN
+name: Picture_down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 47 00 00 00
 #
-name: COLOR_UP
+name: Color_up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 48 00 00 00
 #
-name: COLOR_DOWN
+name: Color_down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 49 00 00 00
 #
-name: BRIGHT_UP
+name: Bright_up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 4A 00 00 00
 #
-name: BRIGHT_DOWN
+name: Bright_down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 4B 00 00 00
 #
-name: TINT_UP
+name: Tint_up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 4C 00 00 00
 #
-name: TINT_DOWN
+name: Tint_down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 4D 00 00 00
 #
-name: SHARPNESS_UP
+name: Sharpness_up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 4E 00 00 00
 #
-name: SHARPNESS_DOWN
+name: Sharpness_down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 4F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5D 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5E 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 18 F7 00 00

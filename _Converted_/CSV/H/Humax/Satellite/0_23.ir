@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 17 00 00
@@ -67,67 +67,67 @@ protocol: NECext
 address: 00 17 00 00
 command: 0C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 0E 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 11 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 12 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 13 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 14 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 15 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 18 00 00 00
 #
-name: GELB
+name: Gelb
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 1A 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 1B 00 00 00
 #
-name: ROT
+name: Rot
 type: parsed
 protocol: NECext
 address: 00 17 00 00
@@ -139,103 +139,103 @@ protocol: NECext
 address: 00 17 00 00
 command: 1D 00 00 00
 #
-name: BLAU
+name: Blau
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 1F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 40 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 41 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 43 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 49 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 4A 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 4D 00 00 00
 #
-name: ARCHIV
+name: Archiv
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 4F 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 60 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 61 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 63 00 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 64 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 65 00 00 00
 #
-name: ANFANG
+name: Anfang
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 66 00 00 00
 #
-name: ENDE
+name: Ende
 type: parsed
 protocol: NECext
 address: 00 17 00 00
 command: 67 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 17 00 00

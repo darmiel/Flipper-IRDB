@@ -4,7 +4,7 @@ Filetype: IR signals file
 #
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -28,25 +28,25 @@ protocol: NECext
 address: 00 EF 00 00
 command: 01 FE 00 00
 #
-name: Flash Mode
+name: Flash_mode
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 0B F4 00 00
 #
-name: Strobe Mode
+name: Strobe_mode
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 0F F0 00 00
 #
-name: Fade Mode
+name: Fade_mode
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 13 EC 00 00
 #
-name: Smooth Mode
+name: Smooth_mode
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Z3_TUNING_UP
+name: Z3_tuning_up
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 40 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 40 00 00 00
 #
-name: Z3_TUNING_DOWN
+name: Z3_tuning_down
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 41 00 00 00
 #
-name: TUNE_DOWN
+name: Tune_down
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 41 00 00 00
 #
-name: SEARCH_MODE
+name: Search_mode
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 4D 00 00 00
 #
-name: USB_FRONT
+name: Usb_front
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 87 00 00 00
 #
-name: NET_AUDIO
+name: Net_audio
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 87 00 00 00
 #
-name: MUSIC_SERVER
+name: Music_server
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 88 00 00 00
 #
-name: INTERNET_RADIO
+name: Internet_radio
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 89 00 00 00
 #
-name: NET_TUNE_PLAY
+name: Net_tune_play
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 8D 00 00 00
 #
-name: NET_TUNE_STOP
+name: Net_tune_stop
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 8E 00 00 00
 #
-name: NET_TUNE_DOWN
+name: Net_tune_down
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: 8F 00 00 00
 #
-name: NET_TUNE_UP
+name: Net_tune_up
 type: parsed
 protocol: NECext
 address: D2 18 00 00
@@ -211,13 +211,13 @@ protocol: NECext
 address: D2 18 00 00
 command: DE 00 00 00
 #
-name: Z3_DIRECT_TUNING
+name: Z3_direct_tuning
 type: parsed
 protocol: NECext
 address: D2 18 00 00
 command: DF 00 00 00
 #
-name: DIRECET_TUNE
+name: Direcet_tune
 type: parsed
 protocol: NECext
 address: D2 18 00 00

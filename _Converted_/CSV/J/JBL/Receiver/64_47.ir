@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 00 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 03 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 04 00 00 00
 #
-name: PTY
+name: Pty
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
@@ -37,55 +37,55 @@ protocol: NECext
 address: 40 2F 00 00
 command: 06 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 07 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 08 00 00 00
 #
-name: RDS
+name: Rds
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 09 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 0A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 0B 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 0C 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 0D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 0F 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 40 2F 00 00
 command: 12 00 00 00
 #
-name: >I
+name: >i
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
@@ -115,37 +115,37 @@ protocol: NECext
 address: 40 2F 00 00
 command: 17 00 00 00
 #
-name: ALARM1
+name: Alarm1
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 18 00 00 00
 #
-name: ALARM2
+name: Alarm2
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 19 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1A 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1B 00 00 00
 #
-name: SNOOZE
+name: Snooze
 type: parsed
 protocol: NECext
 address: 40 2F 00 00
 command: 1C 00 00 00
 #
-name: LIGHT
+name: Light
 type: parsed
 protocol: NECext
 address: 40 2F 00 00

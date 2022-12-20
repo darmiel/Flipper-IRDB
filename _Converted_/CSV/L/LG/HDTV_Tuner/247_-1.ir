@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D0 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D1 00 00 00
 #
-name: SYSTEM_OFF
+name: System_off
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D2 00 00 00
 #
-name: NATIVE
+name: Native
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D3 00 00 00
 #
-name: VARIABLE_1
+name: Variable_1
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D4 00 00 00
 #
-name: VARIABLE_2
+name: Variable_2
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D5 00 00 00
 #
-name: VARIABLE_3
+name: Variable_3
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D6 00 00 00
 #
-name: 1080I
+name: 1080i
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D7 00 00 00
 #
-name: 720P
+name: 720p
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D8 00 00 00
 #
-name: 480P
+name: 480p
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: D9 00 00 00
 #
-name: 480I
+name: 480i
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: DA 00 00 00
 #
-name: DVI
+name: Dvi
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: DB 00 00 00
 #
-name: RGB
+name: Rgb
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: DC 00 00 00
 #
-name: YPBPR_COMPONENT
+name: Ypbpr_component
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: DD 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: F7 00 00 00

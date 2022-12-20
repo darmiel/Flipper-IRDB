@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 00 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 01 00 00 00
 #
-name: search_bwd
+name: Search_bwd
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 02 00 00 00
 #
-name: search_fwd
+name: Search_fwd
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
@@ -97,67 +97,67 @@ protocol: NECext
 address: A0 0A 00 00
 command: 19 00 00 00
 #
-name: level+
+name: Level+
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 20 00 00 00
 #
-name: level-
+name: Level-
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 21 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 47 00 00 00
 #
-name: a-b_repeat
+name: A-b_repeat
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 48 00 00 00
 #
-name: skip_bwd
+name: Skip_bwd
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 49 00 00 00
 #
-name: skip_fwd
+name: Skip_fwd
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 4A 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 4D 00 00 00
 #
-name: time_mode
+name: Time_mode
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 55 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 80 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 81 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
@@ -169,13 +169,13 @@ protocol: NECext
 address: A0 0A 00 00
 command: 85 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8A 00 00 00
 #
-name: auto_cue
+name: Auto_cue
 type: parsed
 protocol: NECext
 address: A0 0A 00 00

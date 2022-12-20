@@ -61,193 +61,193 @@ protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0F 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1C 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1D 00 00 00
 #
-name: SKIP_NEXT
+name: Skip_next
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 20 00 00 00
 #
-name: SKIP_PREV
+name: Skip_prev
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 21 00 00 00
 #
-name: SLOW_NEXT
+name: Slow_next
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 22 00 00 00
 #
-name: SLOW_PREV
+name: Slow_prev
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 23 00 00 00
 #
-name: SCAN_NEXT
+name: Scan_next
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 28 00 00 00
 #
-name: SCAN_PREV
+name: Scan_prev
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 29 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 30 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 31 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 3A 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 3B 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 42 00 00 00
 #
-name: PROGRAMM
+name: Programm
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 45 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4B 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4E 00 00 00
 #
-name: SURR
+name: Surr
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 52 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 58 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 59 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: SELECT/ENTER
+name: Select/enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 71 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 82 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 83 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 85 00 00 00
 #
-name: MARKER
+name: Marker
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: F0 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: F1 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 04 00 00 00

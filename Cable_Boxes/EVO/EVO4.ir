@@ -6,13 +6,13 @@ Version: 1
 #
 # by JEREMYNO
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 55 AA 00 00
 # 
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
@@ -78,175 +78,175 @@ protocol: NECext
 address: 01 FD 00 00
 command: 06 F9 00 00
 # 
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 02 FD 00 00
 # 
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 1D E2 00 00
 # 
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 53 AC 00 00
 # 
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 43 BC 00 00
 # 
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 42 BD 00 00
 # 
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 5F A0 00 00
 # 
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 19 E6 00 00
 # 
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 5A A5 00 00
 # 
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 18 E7 00 00
 # 
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 5B A4 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 5E A1 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 07 F8 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 03 FC 00 00
 # 
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 1C E3 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 56 A9 00 00
 # 
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 45 BA 00 00
 # 
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 41 BE 00 00
 # 
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 47 B8 00 00
 # 
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 42 BD 00 00
 # 
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 01 FE 00 00
 # 
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 46 B9 00 00
 # 
-name: PREW
+name: Prew
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 05 FA 00 00
 # 
-name: TXT
+name: Txt
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 10 EF 00 00
 # 
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 11 EE 00 00
 # 
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 04 FB 00 00
 # 
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 4F B0 00 00
 # 
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 4E B1 00 00
 # 
-name: ORANGE
+name: Orange
 type: parsed
 protocol: NECext
 address: 01 FD 00 00
 command: 0D F2 00 00
 # 
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 01 FD 00 00

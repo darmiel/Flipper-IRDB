@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD1
+name: Cd1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -13,19 +13,19 @@ protocol: NECext
 address: 05 00 00 00
 command: 01 00 00 00
 #
-name: BAL/AUX
+name: Bal/aux
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 02 00 00 00
 #
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 03 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 08 00 00 00
 #
-name: CD2
+name: Cd2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 0A 00 00 00
 #
-name: TV/AUX
+name: Tv/aux
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 05 00 00 00
 command: 0B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 10 00 00 00
 #
-name: TAPE1
+name: Tape1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 05 00 00 00
 command: 11 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 12 00 00 00
 #
-name: TAPE2
+name: Tape2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: 05 00 00 00
 command: 19 00 00 00
 #
-name: VCR2
+name: Vcr2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 05 00 00 00

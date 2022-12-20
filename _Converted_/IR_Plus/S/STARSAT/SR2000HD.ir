@@ -10,7 +10,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 2F D0 00 00
 #
-name: TV/R
+name: Tv/r
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -22,19 +22,19 @@ protocol: NECext
 address: FF 00 00 00
 command: AF 50 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 8D 72 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: ED 12 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -106,43 +106,43 @@ protocol: NECext
 address: FF 00 00 00
 command: FF 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 47 B8 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 3D C2 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 97 68 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: AD 52 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 27 D8 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 17 E8 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 5D A2 00 00
 #
-name: exit
+name: Exit
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -166,7 +166,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 9D 62 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -178,7 +178,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 4F B0 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -190,97 +190,97 @@ protocol: NECext
 address: FF 00 00 00
 command: 6D 92 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CF 30 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: A7 58 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 77 88 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: B5 4A 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: A5 5A 00 00
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 95 6A 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 85 7A 00 00
 #
-name: FIND
+name: Find
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: B7 48 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 37 C8 00 00
 #
-name: TXT
+name: Txt
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D7 28 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 1D E2 00 00
 #
-name: MULTIPICS
+name: Multipics
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 65 9A 00 00
 #
-name: YOUTUBE
+name: Youtube
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: DD 22 00 00
 #
-name: INTERNET
+name: Internet
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: FD 02 00 00
 #
-name: TEMP
+name: Temp
 type: parsed
 protocol: NECext
 address: FF 00 00 00

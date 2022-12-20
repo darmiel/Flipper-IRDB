@@ -61,169 +61,169 @@ protocol: NECext
 address: 64 00 00 00
 command: D6 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: D7 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: D8 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: DA 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: DB 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: DC 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: DD 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: DE 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: E3 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: E4 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: E5 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: E7 00 00 00
 #
-name: REPEAT_CAPS
+name: Repeat_caps
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: E8 00 00 00
 #
-name: RETURN_DELETE
+name: Return_delete
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: E9 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: EB 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: EC 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: ED 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: EE 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: EF 00 00 00
 #
-name: CHANGER
+name: Changer
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F0 00 00 00
 #
-name: NEXT_CHAPTER
+name: Next_chapter
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F1 00 00 00
 #
-name: PREVIOUS_CHAPTER
+name: Previous_chapter
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F2 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F3 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F4 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F5 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F6 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F7 00 00 00
 #
-name: SEEK_BACK
+name: Seek_back
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: F8 00 00 00
 #
-name: SEEK_FORWARD
+name: Seek_forward
 type: parsed
 protocol: NECext
 address: 64 00 00 00

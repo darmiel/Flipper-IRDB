@@ -10,79 +10,79 @@ protocol: NECext
 address: 41 BE 00 00
 command: 0E F1 00 00
 #
-name: V-AUX
+name: V-aux
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: AE 51 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: EE 11 00 00
 #
-name: TAPE 1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 2E D1 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 6E 91 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 1E E1 00 00
 #
-name: VCR 3/DVD
+name: Vcr_3/dvd
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 5E A1 00 00
 #
-name: VCR 2
+name: Vcr_2
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: BE 41 00 00
 #
-name: VCR 1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 7E 81 00 00
 #
-name: TV/DBS
+name: Tv/dbs
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: DE 21 00 00
 #
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 3E C1 00 00
 #
-name: TAPE 2 MON
+name: Tape_2_mon
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: CE 31 00 00
 #
-name: CHAPTER-
+name: Chapter-
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 2F D0 00 00
 #
-name: CHAPTER+
+name: Chapter+
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
@@ -100,175 +100,175 @@ protocol: NECext
 address: A1 5E 00 00
 command: EF 10 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 61 9E 00 00
 command: AF 50 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 4F B0 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: CF 30 00 00
 #
-name: DECK A/B
+name: Deck_a/b
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 9F 60 00 00
 #
-name: TAPE-VCR
+name: Tape-vcr
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: FF 00 00 00
 #
-name: TAPE-VCR
+name: Tape-vcr
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 3F C0 00 00
 #
-name: TAPE-VCR
+name: Tape-vcr
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 7F 80 00 00
 #
-name: TAPE-VCR
+name: Tape-vcr
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: BF 40 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: AC 53 00 00
 #
-name: TUNER VCR TV A/B/C/D/E
+name: Tuner_vcr_tv_a/b/c/d/e
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: B7 48 00 00
 #
-name: PRESET/CH-
+name: Preset/ch-
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: 77 88 00 00
 #
-name: PRESET/CH+
+name: Preset/ch+
 type: parsed
 protocol: NECext
 address: A1 5E 00 00
 command: F7 08 00 00
 #
-name: FRONT LEVEL+
+name: Front_level+
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 4C B3 00 00
 #
-name: HALL 1 / 1
+name: Hall_1_/_1
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: F4 0B 00 00
 #
-name: HALL 2 / 2
+name: Hall_2_/_2
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 74 8B 00 00
 #
-name: HALL 3 / 3
+name: Hall_3_/_3
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: B4 4B 00 00
 #
-name: CHURCH / 4
+name: Church_/_4
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 34 CB 00 00
 #
-name: FRONT LEVEL-
+name: Front_level-
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 8C 73 00 00
 #
-name: ROCK CONCERT / 5
+name: Rock_concert_/_5
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: D4 2B 00 00
 #
-name: JAZZ CLUB / 6
+name: Jazz_club_/_6
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 54 AB 00 00
 #
-name: CONCERT VIDEO 1 / 7
+name: Concert_video_1_/_7
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 94 6B 00 00
 #
-name: CONCERT VIDEO 2 / 8
+name: Concert_video_2_/_8
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 14 EB 00 00
 #
-name: CENTER LEVEL+
+name: Center_level+
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 2C D3 00 00
 #
-name: TV THEATER / 9
+name: Tv_theater_/_9
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: E4 1B 00 00
 #
-name: MOVIE THEATER 1 / 10
+name: Movie_theater_1_/_10
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 64 9B 00 00
 #
-name: MOVIE THEATER 2 / 11
+name: Movie_theater_2_/_11
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: A4 5B 00 00
 #
-name: DOLBY AC-3/PROLOG / 12
+name: Dolby_ac-3/prolog_/_12
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 24 DB 00 00
 #
-name: CENTER LEVEL-
+name: Center_level-
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: CC 33 00 00
 #
-name: ON SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
@@ -280,13 +280,13 @@ protocol: NECext
 address: 41 BE 00 00
 command: 5C A3 00 00
 #
-name: MASTER VOL+
+name: Master_vol+
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 4E B1 00 00
 #
-name: REAR LEVEL+
+name: Rear_level+
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
@@ -298,7 +298,7 @@ protocol: NECext
 address: 41 BE 00 00
 command: 1C E3 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
@@ -310,13 +310,13 @@ protocol: NECext
 address: 41 BE 00 00
 command: 9C 63 00 00
 #
-name: REAR LEVEL-
+name: Rear_level-
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
 command: 6C 93 00 00
 #
-name: EFFECT ON OFF
+name: Effect_on_off
 type: parsed
 protocol: NECext
 address: 41 BE 00 00
@@ -328,7 +328,7 @@ protocol: NECext
 address: 41 BE 00 00
 command: DC 23 00 00
 #
-name: MASTER VOL-
+name: Master_vol-
 type: parsed
 protocol: NECext
 address: 41 BE 00 00

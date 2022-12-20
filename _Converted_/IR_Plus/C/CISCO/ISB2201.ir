@@ -16,43 +16,43 @@ frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 631 631 631 631 316 316 631 631 316 88932
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 631 631 316 316 631 316 316 631 316 88932
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 631 631 631 631 316 316 631 89248
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 631 631 631 316 316 631 631 631 316 88932
 #
-name: EXIT
+name: Exit
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 631 316 316 316 316 316 316 631 631 89248
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 631 631 631 631 631 631 316 88932
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 631 631 631 316 316 631 631 89248
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 38028
 duty_cycle: 0.33
@@ -64,13 +64,13 @@ frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 316 316 631 316 316 631 316 316 631 89248
 #
-name: VIDEO
+name: Video
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 631 631 316 316 316 316 316 316 316 316 631 89248
 #
-name: OPTIONS
+name: Options
 type: raw
 frequency: 38028
 duty_cycle: 0.33
@@ -82,7 +82,7 @@ frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 316 316 631 316 316 316 316 631 631 89248
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38028
 duty_cycle: 0.33
@@ -94,13 +94,13 @@ frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 631 631 316 316 316 316 316 316 631 89248
 #
-name: CLEAR
+name: Clear
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 631 316 316 316 316 631 631 631 316 88932
 #
-name: TELETEXT
+name: Teletext
 type: raw
 frequency: 38028
 duty_cycle: 0.33
@@ -112,13 +112,13 @@ frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 316 316 631 316 316 631 631 631 316 88932
 #
-name: GUIDE/TV-RADIO
+name: Guide/tv-radio
 type: raw
 frequency: 38028
 duty_cycle: 0.33
 data: 316 631 316 316 631 316 316 631 316 316 631 631 631 631 316 316 631 316 316 316 316 316 316 316 316 631 316 88932
 #
-name: REC
+name: Rec
 type: raw
 frequency: 38028
 duty_cycle: 0.33

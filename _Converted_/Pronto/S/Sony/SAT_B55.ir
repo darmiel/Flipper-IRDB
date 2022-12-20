@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Satellite-POWER
+name: Satellite-power
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -25,7 +25,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2410 596 596 596 596 596 1193 596 1193 596 1193 596 596 596 596 596 1193 596 1193 596 596 596 1193 596 596 24525 2385 596
 #
-name: TV/SAT
+name: Tv/sat
 type: raw
 frequency: 40244
 duty_cycle: 0.330000
@@ -145,7 +145,7 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 2410 596 1193 596 596 596 1193 596 596 596 1193 596 1193 596 1193 596 1193 596 1193 596 1193 596 596 596 1193 596 1193 596 596 596 1193 17990 2385 596
 #
-name: Arrow-Enter
+name: Arrow-enter
 type: raw
 frequency: 40244
 duty_cycle: 0.330000

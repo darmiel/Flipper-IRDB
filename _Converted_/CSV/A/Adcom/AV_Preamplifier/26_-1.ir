@@ -1,163 +1,163 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CURSOR_RIGHT_(CD)
+name: Cursor_right_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: CURSOR_LEFT_(CD)
+name: Cursor_left_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: RDS
+name: Rds
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 02 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 03 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 04 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 05 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 0E 00 00 00
 #
-name: 1_(CD)
+name: 1_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 10 00 00 00
 #
-name: 2_(CD)
+name: 2_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 11 00 00 00
 #
-name: 3_(CD)
+name: 3_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 12 00 00 00
 #
-name: 4_(CD)
+name: 4_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 13 00 00 00
 #
-name: 5_(CD)
+name: 5_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 14 00 00 00
 #
-name: 6_(CD)
+name: 6_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 15 00 00 00
 #
-name: 7_(CD)
+name: 7_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 16 00 00 00
 #
-name: 8_(CD)
+name: 8_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 17 00 00 00
 #
-name: 9_(CD)
+name: 9_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 18 00 00 00
 #
-name: +10_(CD)
+name: +10_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 19 00 00 00
 #
-name: 0_(CD)
+name: 0_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 1A 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 40 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 41 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 42 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 43 00 00 00
 #
-name: REPEAT_(CD)
+name: Repeat_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 49 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 4E 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 50 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 57 00 00 00
 #
-name: MODE_(CD)
+name: Mode_(cd)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 1A 00 00 00
 command: 7F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -223,85 +223,85 @@ protocol: NECext
 address: 1A 00 00 00
 command: 81 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 82 00 00 00
 #
-name: VIDEO1
+name: Video1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 83 00 00 00
 #
-name: VIDEO2
+name: Video2
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 84 00 00 00
 #
-name: VIDEO3
+name: Video3
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 85 00 00 00
 #
-name: VIDEO4
+name: Video4
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 86 00 00 00
 #
-name: VIDEO5
+name: Video5
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 87 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 88 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 89 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 89 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8A 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8C 00 00 00
 #
-name: TUNE_DOWN
+name: Tune_down
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8D 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 8E 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
@@ -349,73 +349,73 @@ protocol: NECext
 address: 1A 00 00 00
 command: 96 00 00 00
 #
-name: DYNAMIC_RANGE
+name: Dynamic_range
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C1 00 00 00
 #
-name: EXTERNAL_5.1
+name: External_5.1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C1 00 00 00
 #
-name: BACKS
+name: Backs
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C5 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C6 00 00 00
 #
-name: BALANCE
+name: Balance
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: C7 00 00 00
 #
-name: DIM
+name: Dim
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: CA 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D1 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D1 00 00 00
 #
-name: PRESET/TUNE
+name: Preset/tune
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D3 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D5 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: D5 00 00 00
 #
-name: DYNAMIC_RANGE
+name: Dynamic_range
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

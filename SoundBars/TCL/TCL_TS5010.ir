@@ -3,61 +3,61 @@ Version: 1
 # 
 # TCL TS5010 Soundbar
 #
-name: POWERToggle
+name: Powertoggle
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 1C E3 00 00
 # 
-name: VolUp
+name: Volup
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 21 DE 00 00
 # 
-name: VolDown
+name: Voldown
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 2B D4 00 00
 # 
-name: VolMute
+name: Volmute
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 1D E2 00 00
 # 
-name: ChannelUp
+name: Channelup
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 21 DE 00 00
 # 
-name: ChannelDown
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 2B D4 00 00
 # 
-name: DPad_Up
+name: Dpad_up
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 21 DE 00 00
 # 
-name: DPad_Down
+name: Dpad_down
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 2B D4 00 00
 # 
-name: DPad_Left
+name: Dpad_left
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 13 EC 00 00
 # 
-name: DPad_Right
+name: Dpad_right
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
@@ -75,7 +75,7 @@ protocol: NECext
 address: 86 FF 00 00
 command: 2A D5 00 00
 # 
-name: FastForward
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
@@ -93,13 +93,13 @@ protocol: NECext
 address: 86 FF 00 00
 command: 2A D5 00 00
 # 
-name: Skip_Back
+name: Skip_back
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 13 EC 00 00
 # 
-name: Skip_Forward
+name: Skip_forward
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
@@ -117,25 +117,25 @@ protocol: NECext
 address: 86 FF 00 00
 command: 2B D4 00 00
 # 
-name: InputAux
+name: Inputaux
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 10 EF 00 00
 # 
-name: InputBluetooth
+name: Inputbluetooth
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 1B E4 00 00
 # 
-name: InputOptical
+name: Inputoptical
 type: parsed
 protocol: NECext
 address: 86 FF 00 00
 command: 12 ED 00 00
 # 
-name: InputUSB
+name: Inputusb
 type: parsed
 protocol: NECext
 address: 86 FF 00 00

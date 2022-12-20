@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWEROn
+name: Poweron
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 41 00 00 00
 #
-name: POWEROff
+name: Poweroff
 type: parsed
 protocol: NECext
 address: F0 00 00 00
@@ -37,13 +37,13 @@ protocol: NECext
 address: F0 00 00 00
 command: 65 00 00 00
 #
-name: S-Video
+name: S-video
 type: parsed
 protocol: NECext
 address: F0 00 00 00
 command: 66 00 00 00
 #
-name: HDMI
+name: Hdmi
 type: parsed
 protocol: NECext
 address: F0 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: F0 00 00 00
 command: 87 00 00 00
 #
-name: AutoPosition
+name: Autoposition
 type: parsed
 protocol: NECext
 address: F0 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: F0 00 00 00
 command: D1 00 00 00
 #
-name: ColorTemp
+name: Colortemp
 type: parsed
 protocol: NECext
 address: F0 00 00 00

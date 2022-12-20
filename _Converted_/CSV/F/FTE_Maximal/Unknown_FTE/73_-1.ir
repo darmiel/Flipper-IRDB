@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 49 00 00 00
 command: 00 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 49 00 00 00
 command: 04 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 49 00 00 00
 command: 06 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 49 00 00 00
 command: 07 00 00 00
 #
-name: FREQ
+name: Freq
 type: parsed
 protocol: NECext
 address: 49 00 00 00
 command: 08 00 00 00
 #
-name: DEV
+name: Dev
 type: parsed
 protocol: NECext
 address: 49 00 00 00
 command: 09 00 00 00
 #
-name: STEP_DOWN
+name: Step_down
 type: parsed
 protocol: NECext
 address: 49 00 00 00
 command: 0A 00 00 00
 #
-name: STEP_UP
+name: Step_up
 type: parsed
 protocol: NECext
 address: 49 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 49 00 00 00
 command: 0E 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 49 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 49 00 00 00
 command: 12 00 00 00
 #
-name: A.MODE
+name: A.mode
 type: parsed
 protocol: NECext
 address: 49 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 49 00 00 00
 command: 16 00 00 00
 #
-name: POLARITY
+name: Polarity
 type: parsed
 protocol: NECext
 address: 49 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 49 00 00 00
 command: 19 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 49 00 00 00

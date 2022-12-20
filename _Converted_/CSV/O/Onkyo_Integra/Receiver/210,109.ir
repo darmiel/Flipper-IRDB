@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 00 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 03 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 04 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 05 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 08 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 09 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0A 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0B 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0D 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0F 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 5D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 82 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 83 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 84 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 85 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 97 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: D2 6D 00 00

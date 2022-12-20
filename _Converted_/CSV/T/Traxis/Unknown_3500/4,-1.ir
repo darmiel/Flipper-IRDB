@@ -13,7 +13,7 @@ protocol: NECext
 address: 04 00 00 00
 command: 1D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -31,19 +31,19 @@ protocol: NECext
 address: 04 00 00 00
 command: 25 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 28 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 29 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 04 00 00 00

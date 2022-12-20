@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 15 00 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 30 00 00 00
 #
-name: MEGA_BASS
+name: Mega_bass
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 3F 00 00 00
 #
-name: FUNCTION
+name: Function
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 47 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 60 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 44 00 00 00

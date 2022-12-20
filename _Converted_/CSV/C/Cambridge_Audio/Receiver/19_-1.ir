@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 01 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 02 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 03 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 04 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 05 00 00 00
 #
-name: REC_1
+name: Rec_1
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 06 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 07 00 00 00
 #
-name: REC_2
+name: Rec_2
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 08 00 00 00
 #
-name: ALL_OFF
+name: All_off
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 0B 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 0D 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 13 00 00 00
 command: 10 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 13 00 00 00

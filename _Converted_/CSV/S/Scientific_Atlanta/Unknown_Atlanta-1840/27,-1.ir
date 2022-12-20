@@ -1,193 +1,193 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 02 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 03 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 04 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 05 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 06 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 07 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 08 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0C 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0D 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0E 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0E 00 00 00
 #
-name: NUMERIC_STAR
+name: Numeric_star
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0F 00 00 00
 #
-name: NUM_1
+name: Num_1
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 10 00 00 00
 #
-name: NUM_2
+name: Num_2
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 11 00 00 00
 #
-name: NUM_3
+name: Num_3
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 12 00 00 00
 #
-name: NUM_4
+name: Num_4
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 13 00 00 00
 #
-name: NUM_5
+name: Num_5
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 14 00 00 00
 #
-name: NUM_6
+name: Num_6
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 15 00 00 00
 #
-name: NUM_7
+name: Num_7
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 16 00 00 00
 #
-name: NUM_8
+name: Num_8
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 17 00 00 00
 #
-name: NUM_9
+name: Num_9
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 18 00 00 00
 #
-name: NUM_0
+name: Num_0
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 19 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1E 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 21 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 22 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 28 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 29 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -211,43 +211,43 @@ protocol: NECext
 address: 1B 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 33 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 34 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 35 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 36 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 37 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 39 00 00 00
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

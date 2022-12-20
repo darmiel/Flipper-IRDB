@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 00 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 02 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 05 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 10 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 11 00 00 00
 #
-name: bass
+name: Bass
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 12 00 00 00
 #
-name: tuning
+name: Tuning
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 13 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 20 00 00 00
 #
-name: discskip
+name: Discskip
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 21 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 22 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 26 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 30 00 00 00
 #
-name: fade
+name: Fade
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 31 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 32 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 34 00 00 00
 #
-name: soudmode
+name: Soudmode
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 40 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 41 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 47 00 00 00
 #
-name: cdplay
+name: Cdplay
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 51 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 53 00 00 00
 #
-name: fmam
+name: Fmam
 type: parsed
 protocol: NECext
 address: 00 04 00 00
 command: 60 00 00 00
 #
-name: tapeplay
+name: Tapeplay
 type: parsed
 protocol: NECext
 address: 00 04 00 00

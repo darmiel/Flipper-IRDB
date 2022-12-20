@@ -7,7 +7,7 @@ protocol: NECext
 address: B8 05 00 00
 command: 4F 00 00 00
 #
-name: TUNER_MEMORY
+name: Tuner_memory
 type: parsed
 protocol: NECext
 address: B8 05 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: B8 05 00 00
 command: 4F 00 00 00
 #
-name: MPEG
+name: Mpeg
 type: parsed
 protocol: NECext
 address: B8 05 00 00

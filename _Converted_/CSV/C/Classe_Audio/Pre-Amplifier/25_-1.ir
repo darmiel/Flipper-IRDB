@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 0D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 11 00 00 00
 #
-name: AUD1
+name: Aud1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 14 00 00 00
 #
-name: AUD2
+name: Aud2
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 15 00 00 00
 #
-name: AUD3
+name: Aud3
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 16 00 00 00
 #
-name: MODE_>
+name: Mode_>
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -121,13 +121,13 @@ protocol: NECext
 address: 19 00 00 00
 command: 21 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 21 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 22 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 23 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 24 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 25 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 26 00 00 00
 #
-name: AV1
+name: Av1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -199,7 +199,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 30 00 00 00
 #
-name: AV2
+name: Av2
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 31 00 00 00
 #
-name: AV3
+name: Av3
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -223,7 +223,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 32 00 00 00
 #
-name: AV4
+name: Av4
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -235,7 +235,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 33 00 00 00
 #
-name: MODE_<
+name: Mode_<
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -247,7 +247,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 38 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -259,7 +259,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 39 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -271,7 +271,7 @@ protocol: NECext
 address: 19 00 00 00
 command: 3C 00 00 00
 #
-name: COMPR
+name: Compr
 type: parsed
 protocol: NECext
 address: 19 00 00 00

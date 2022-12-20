@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 4C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 4D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 50 00 00 00
 #
-name: TAPE_MONITOR
+name: Tape_monitor
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 58 00 00 00
 #
-name: TAPE-1/1>2
+name: Tape-1/1>2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 59 00 00 00
 #
-name: TAPE-2/2>1
+name: Tape-2/2>1
 type: parsed
 protocol: NECext
 address: 02 00 00 00

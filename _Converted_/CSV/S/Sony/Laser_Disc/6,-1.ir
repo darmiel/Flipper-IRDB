@@ -61,205 +61,205 @@ protocol: NECext
 address: 06 00 00 00
 command: 09 00 00 00
 #
-name: SEARCH/NEXT
+name: Search/next
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0B 00 00 00
 #
-name: FRAME/TIME
+name: Frame/time
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 15 00 00 00
 #
-name: AUDIO_MONITOR
+name: Audio_monitor
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 17 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 18 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1A 00 00 00
 #
-name: REVERSE
+name: Reverse
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1E 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1F 00 00 00
 #
-name: SPEED_SET+
+name: Speed_set+
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 21 00 00 00
 #
-name: SPEED_SET_+
+name: Speed_set_+
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 21 00 00 00
 #
-name: SPEED_SET-
+name: Speed_set-
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 22 00 00 00
 #
-name: SPEED_SET_-
+name: Speed_set_-
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 22 00 00 00
 #
-name: MULTI-SPEED>
+name: Multi-speed>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 23 00 00 00
 #
-name: MULTISPEED_>
+name: Multispeed_>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 23 00 00 00
 #
-name: MULTI-SPEED<
+name: Multi-speed<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 24 00 00 00
 #
-name: MULTISPEED_<
+name: Multispeed_<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 24 00 00 00
 #
-name: MEMORY_PLAY
+name: Memory_play
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 25 00 00 00
 #
-name: AV_TIME
+name: Av_time
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 28 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 29 00 00 00
 #
-name: STILL/STEP>
+name: Still/step>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2B 00 00 00
 #
-name: STILL/STEP_>
+name: Still/step_>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2B 00 00 00
 #
-name: STILL/STEP<
+name: Still/step<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2C 00 00 00
 #
-name: STILL/STEP_<
+name: Still/step_<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2C 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2F 00 00 00
 #
-name: PGM
+name: Pgm
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 30 00 00 00
 #
-name: CX
+name: Cx
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 32 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 34 00 00 00
 #
-name: ACS/AMS_>>
+name: Acs/ams_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 34 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 35 00 00 00
 #
-name: ACS/AMS_<<
+name: Acs/ams_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 35 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -271,43 +271,43 @@ protocol: NECext
 address: 06 00 00 00
 command: 39 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3A 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 40 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 41 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 44 00 00 00
 #
-name: AUTO_PAUSE
+name: Auto_pause
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 46 00 00 00
 #
-name: 1/ALL
+name: 1/all
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 47 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 06 00 00 00

@@ -73,7 +73,7 @@ protocol: NECext
 address: 14 00 00 00
 command: 0B 00 00 00
 #
-name: AFT/Band
+name: Aft/band
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -85,37 +85,37 @@ protocol: NECext
 address: 14 00 00 00
 command: 0D 00 00 00
 #
-name: Auto_Search+
+name: Auto_search+
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0E 00 00 00
 #
-name: Fine_Tuning+
+name: Fine_tuning+
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0F 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 11 00 00 00
 #
-name: Auto_Search-
+name: Auto_search-
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 12 00 00 00
 #
-name: Fine_Tuning-
+name: Fine_tuning-
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -133,61 +133,61 @@ protocol: NECext
 address: 14 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 16 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 17 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 18 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 19 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1D 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -205,19 +205,19 @@ protocol: NECext
 address: 14 00 00 00
 command: 29 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 30 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 34 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -229,7 +229,7 @@ protocol: NECext
 address: 14 00 00 00
 command: 39 00 00 00
 #
-name: Q.V.
+name: Q.v.
 type: parsed
 protocol: NECext
 address: 14 00 00 00

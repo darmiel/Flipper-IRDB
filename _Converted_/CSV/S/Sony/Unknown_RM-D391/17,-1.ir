@@ -55,109 +55,109 @@ protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: LINE_VOL_UP
+name: Line_vol_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 12 00 00 00
 #
-name: LINE_VOL_DOWN
+name: Line_vol_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 13 00 00 00
 #
-name: CONTINUE
+name: Continue
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1D 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: TEN
+name: Ten
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: >TEN
+name: >ten
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 27 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 28 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2C 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 30 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 32 00 00 00
 #
-name: REV
+name: Rev
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 33 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 34 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 39 00 00 00
 #
-name: M.SCAN
+name: M.scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3C 00 00 00
 #
-name: FADER
+name: Fader
 type: parsed
 protocol: NECext
 address: 11 00 00 00

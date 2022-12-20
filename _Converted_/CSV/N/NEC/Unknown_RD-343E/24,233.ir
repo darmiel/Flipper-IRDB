@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 03 00 00 00
 #
-name: RGB
+name: Rgb
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 04 00 00 00
 #
-name: SELECT_PICTURE
+name: Select_picture
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 08 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 14 00 00 00
 #
-name: SELECT_MENU
+name: Select_menu
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 46 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 47 00 00 00
 #
-name: DISPLAY_+
+name: Display_+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5C 00 00 00
 #
-name: DISPLAY_-
+name: Display_-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5D 00 00 00
 #
-name: 4X
+name: 4x
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 87 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 91 00 00 00
 #
-name: S-VIDEO
+name: S-video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00

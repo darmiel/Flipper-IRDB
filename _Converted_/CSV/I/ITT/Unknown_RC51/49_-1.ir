@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 01 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 02 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 12 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 14 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 15 00 00 00
 #
-name: index
+name: Index
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 16 00 00 00
 #
-name: cycle
+name: Cycle
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 43 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 44 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 31 00 00 00
 command: 4B 00 00 00
 #
-name: vps
+name: Vps
 type: parsed
 protocol: NECext
 address: 31 00 00 00

@@ -67,55 +67,55 @@ protocol: NECext
 address: 10 00 00 00
 command: 0A 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: DISPLAY_DIMMER
+name: Display_dimmer
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 12 00 00 00
 #
-name: INPUT_SCROLL_UP
+name: Input_scroll_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 20 00 00 00
 #
-name: INPUT_SCROLL_DOWN
+name: Input_scroll_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 21 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 38 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00

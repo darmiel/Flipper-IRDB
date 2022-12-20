@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 03 00 00 00
 #
-name: WAKE_UP/SLEEP
+name: Wake_up/sleep
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 03 00 00 00
 #
-name: INPUT:_FM/AM
+name: Input:_fm/am
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 0B 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 17 00 00 00
 #
-name: FADE_MUTING
+name: Fade_muting
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -67,67 +67,67 @@ protocol: NECext
 address: A3 00 00 00
 command: 28 00 00 00
 #
-name: BASS
+name: Bass
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 31 00 00 00
 #
-name: TREBLE
+name: Treble
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 37 00 00 00
 #
-name: SEA_MODE
+name: Sea_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 38 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: INPUT:_MD/AUX
+name: Input:_md/aux
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3E 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3E 00 00 00
 #
-name: LIVE-S_MODE
+name: Live-s_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: FM_MODE
+name: Fm_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 5A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 70 00 00 00
 #
-name: AHB_PRO
+name: Ahb_pro
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 75 00 00 00
 #
-name: AUTO_PRESET
+name: Auto_preset
 type: parsed
 protocol: NECext
 address: A3 00 00 00

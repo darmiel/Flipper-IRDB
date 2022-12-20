@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SKIP_<<_/_P.CALL
+name: Skip_<<_/_p.call
 type: parsed
 protocol: NECext
 address: B8 02 00 00
 command: 00 00 00 00
 #
-name: SKIP_>>_/_P.CALL
+name: Skip_>>_/_p.call
 type: parsed
 protocol: NECext
 address: B8 02 00 00
 command: 01 00 00 00
 #
-name: SEARCH_<<_/_TUNING
+name: Search_<<_/_tuning
 type: parsed
 protocol: NECext
 address: B8 02 00 00
 command: 02 00 00 00
 #
-name: SEARCH_>>_/_TUNING
+name: Search_>>_/_tuning
 type: parsed
 protocol: NECext
 address: B8 02 00 00
 command: 03 00 00 00
 #
-name: STOP_/_AUTO/MONO
+name: Stop_/_auto/mono
 type: parsed
 protocol: NECext
 address: B8 02 00 00
 command: 04 00 00 00
 #
-name: TUNER_/_BAND
+name: Tuner_/_band
 type: parsed
 protocol: NECext
 address: B8 02 00 00
 command: 06 00 00 00
 #
-name: PLAY/PAUSE_/_CD
+name: Play/pause_/_cd
 type: parsed
 protocol: NECext
 address: B8 02 00 00
 command: 07 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: B8 02 00 00
 command: 1D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: B8 02 00 00

@@ -1,229 +1,229 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DIGITAL_DBS/BS
+name: Digital_dbs/bs
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 83 00 00 00
 #
-name: DIGITAL_VDP
+name: Digital_vdp
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 84 00 00 00
 #
-name: DIGITAL_CD
+name: Digital_cd
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 85 00 00 00
 #
-name: DIGITAL_DAT
+name: Digital_dat
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 86 00 00 00
 #
-name: AMP_CD_DIRECT
+name: Amp_cd_direct
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8C 00 00 00
 #
-name: STEREO_T.M.
+name: Stereo_t.m.
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9D 00 00 00
 #
-name: DIRECT_T.S.
+name: Direct_t.s.
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9E 00 00 00
 #
-name: PARAM.DSP.REC
+name: Param.dsp.rec
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9F 00 00 00
 #
-name: AMP_PARAMETER
+name: Amp_parameter
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A0 00 00 00
 #
-name: PARAM.MAIN
+name: Param.main
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A0 00 00 00
 #
-name: PARAM.SUB
+name: Param.sub
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A1 00 00 00
 #
-name: AMP_CLEAR
+name: Amp_clear
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A2 00 00 00
 #
-name: PARAM.CLEAR
+name: Param.clear
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A2 00 00 00
 #
-name: AMP_SET_+
+name: Amp_set_+
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A3 00 00 00
 #
-name: PARAM.SET_+
+name: Param.set_+
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A3 00 00 00
 #
-name: AMP_SET_-
+name: Amp_set_-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A4 00 00 00
 #
-name: PARAM.SET_-
+name: Param.set_-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A4 00 00 00
 #
-name: AMP_EFFECT
+name: Amp_effect
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A6 00 00 00
 #
-name: AMP_INPUT_ADJ.
+name: Amp_input_adj.
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A7 00 00 00
 #
-name: AMP_MEMORY
+name: Amp_memory
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A9 00 00 00
 #
-name: AMP_PERSONAL_MEM_1
+name: Amp_personal_mem_1
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AA 00 00 00
 #
-name: AMP_PERSONAL_MEM_2
+name: Amp_personal_mem_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: AB 00 00 00
 #
-name: VIDEO_OFF
+name: Video_off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B2 00 00 00
 #
-name: AMP_TUNER_PRESET_V
+name: Amp_tuner_preset_v
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D5 00 00 00
 #
-name: TUNER_CH_V
+name: Tuner_ch_v
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D5 00 00 00
 #
-name: TUNER_PRESET_V
+name: Tuner_preset_v
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D5 00 00 00
 #
-name: TUNER_PRESET_CH_DN
+name: Tuner_preset_ch_dn
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D5 00 00 00
 #
-name: AMP_TUNER_PRESET_^
+name: Amp_tuner_preset_^
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D6 00 00 00
 #
-name: TUNER_CH_^
+name: Tuner_ch_^
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D6 00 00 00
 #
-name: TUNER_PRESET_^
+name: Tuner_preset_^
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D6 00 00 00
 #
-name: TUNER_PRESET_CH_UP
+name: Tuner_preset_ch_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D6 00 00 00
 #
-name: TUNER_BAND
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D7 00 00 00
 #
-name: TUNER_AT/MANU
+name: Tuner_at/manu
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D8 00 00 00
 #
-name: TUNER_TUNE_^
+name: Tuner_tune_^
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: D9 00 00 00
 #
-name: TUNER_TUNE_V
+name: Tuner_tune_v
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: DA 00 00 00
 #
-name: TUNER_RF
+name: Tuner_rf
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: DB 00 00 00
 #
-name: TUNER_P.SCAN
+name: Tuner_p.scan
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: DC 00 00 00
 #
-name: TUNER_POWER
+name: Tuner_power
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

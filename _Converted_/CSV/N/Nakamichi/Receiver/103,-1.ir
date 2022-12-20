@@ -1,181 +1,181 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_DISC
+name: Cd_disc
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 8F 00 00 00
 #
-name: CD_DISC_^
+name: Cd_disc_^
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 8F 00 00 00
 #
-name: CD_DISC_1-6
+name: Cd_disc_1-6
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 8F 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 8F 00 00 00
 #
-name: CD_DISC_V
+name: Cd_disc_v
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 90 00 00 00
 #
-name: CD_DISC_SCAN
+name: Cd_disc_scan
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 93 00 00 00
 #
-name: DISC_SCAN
+name: Disc_scan
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 93 00 00 00
 #
-name: CD_SINGLE
+name: Cd_single
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 9A 00 00 00
 #
-name: CD_SCAN_<<
+name: Cd_scan_<<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C1 00 00 00
 #
-name: CD_SEARCH_<<
+name: Cd_search_<<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C1 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C1 00 00 00
 #
-name: CD_SKIP_<
+name: Cd_skip_<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C2 00 00 00
 #
-name: CD_TRACK_<
+name: Cd_track_<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C2 00 00 00
 #
-name: CD_<
+name: Cd_<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C2 00 00 00
 #
-name: CD_SKIP_I<
+name: Cd_skip_i<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C2 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C5 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C5 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C6 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C6 00 00 00
 #
-name: CD_SCAN_>>
+name: Cd_scan_>>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C7 00 00 00
 #
-name: CD_SEARCH_>>
+name: Cd_search_>>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C7 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C7 00 00 00
 #
-name: CD_SKIP_>
+name: Cd_skip_>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C8 00 00 00
 #
-name: CD_TRACK_>
+name: Cd_track_>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C8 00 00 00
 #
-name: CD_>
+name: Cd_>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C8 00 00 00
 #
-name: CD_SKIP_>I
+name: Cd_skip_>i
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C8 00 00 00
 #
-name: CD_PAUSE_
+name: Cd_pause_
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: CB 00 00 00
 #
-name: CD_PAUSE
+name: Cd_pause
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: CB 00 00 00
 #
-name: CD_RANDOM
+name: Cd_random
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: DB 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 67 00 00 00

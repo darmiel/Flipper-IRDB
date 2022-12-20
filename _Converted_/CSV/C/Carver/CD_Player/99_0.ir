@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 63 00 00 00
 command: 05 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 63 00 00 00
 command: 06 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 63 00 00 00
 command: 07 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 63 00 00 00
 command: 08 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 63 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 63 00 00 00
 command: 0B 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 63 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 63 00 00 00
 command: 13 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 63 00 00 00
@@ -103,31 +103,31 @@ protocol: NECext
 address: 63 00 00 00
 command: 18 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 63 00 00 00
 command: 19 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 63 00 00 00
 command: 1A 00 00 00
 #
-name: REPEAT_(1/ALL)
+name: Repeat_(1/all)
 type: parsed
 protocol: NECext
 address: 63 00 00 00
 command: 1B 00 00 00
 #
-name: STOP/CLEAR_[]
+name: Stop/clear_[]
 type: parsed
 protocol: NECext
 address: 63 00 00 00
 command: 1C 00 00 00
 #
-name: PLAY/PAUSE_>/
+name: Play/pause_>/
 type: parsed
 protocol: NECext
 address: 63 00 00 00

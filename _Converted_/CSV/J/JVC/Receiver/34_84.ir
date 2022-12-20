@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SURR:EX/ES/PLII
+name: Surr:ex/es/plii
 type: parsed
 protocol: NECext
 address: 22 54 00 00
 command: 10 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 22 54 00 00

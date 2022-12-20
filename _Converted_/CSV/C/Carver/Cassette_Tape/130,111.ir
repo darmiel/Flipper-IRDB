@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 82 6F 00 00
 command: 00 00 00 00
 #
-name: REVIEW_<<
+name: Review_<<
 type: parsed
 protocol: NECext
 address: 82 6F 00 00
 command: 04 00 00 00
 #
-name: CUE_>>
+name: Cue_>>
 type: parsed
 protocol: NECext
 address: 82 6F 00 00
 command: 06 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 82 6F 00 00
 command: 09 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 82 6F 00 00
 command: 0A 00 00 00
 #
-name: REC_MUTE
+name: Rec_mute
 type: parsed
 protocol: NECext
 address: 82 6F 00 00
 command: 0E 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 82 6F 00 00
 command: 14 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 82 6F 00 00

@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 00 00 00 00
 #
-name: FOLDER_DOWN
+name: Folder_down
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 00 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 01 00 00 00
 #
-name: FOLDER_UP
+name: Folder_up
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 01 00 00 00
 #
-name: NEXT_SELECTION
+name: Next_selection
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 05 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 06 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 08 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 09 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
@@ -121,151 +121,151 @@ protocol: NECext
 address: D2 2C 00 00
 command: 1A 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 1B 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 1C 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 1D 00 00 00
 #
-name: FOLDER_RIGHT
+name: Folder_right
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 1D 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 1E 00 00 00
 #
-name: FOLDER_LEFT
+name: Folder_left
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 1E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 1F 00 00 00
 #
-name: INTRO_SCAN
+name: Intro_scan
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 45 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 46 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 5C 00 00 00
 #
-name: DISK_-
+name: Disk_-
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 5F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 8E 00 00 00
 #
-name: OFF_(STANDBY)
+name: Off_(standby)
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: 8F 00 00 00
 #
-name: DISC1
+name: Disc1
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D5 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D5 00 00 00
 #
-name: DISC2
+name: Disc2
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D6 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D6 00 00 00
 #
-name: DISC3
+name: Disc3
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D7 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D7 00 00 00
 #
-name: DISC4
+name: Disc4
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D8 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D8 00 00 00
 #
-name: DISC5
+name: Disc5
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D9 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: D9 00 00 00
 #
-name: DISC6
+name: Disc6
 type: parsed
 protocol: NECext
 address: D2 2C 00 00
 command: DA 00 00 00
 #
-name: DISC_6
+name: Disc_6
 type: parsed
 protocol: NECext
 address: D2 2C 00 00

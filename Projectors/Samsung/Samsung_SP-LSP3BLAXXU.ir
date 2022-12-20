@@ -93,7 +93,7 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 0F 00 00 00
 # 
-name: Play I Pause
+name: Play_i_pause
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

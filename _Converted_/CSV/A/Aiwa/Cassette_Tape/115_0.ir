@@ -1,193 +1,193 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DECK1_MS_>>
+name: Deck1_ms_>>
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 01 00 00 00
 #
-name: DECK1_MS_<<
+name: Deck1_ms_<<
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 02 00 00 00
 #
-name: DECK1_REC_MUTE
+name: Deck1_rec_mute
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 03 00 00 00
 #
-name: DECK1_REC
+name: Deck1_rec
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 04 00 00 00
 #
-name: DECK1_PLAY_>
+name: Deck1_play_>
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 05 00 00 00
 #
-name: DECK1_R.PLAY_<
+name: Deck1_r.play_<
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 06 00 00 00
 #
-name: DECK1_PAUSE
+name: Deck1_pause
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 07 00 00 00
 #
-name: MONITOR_SOURCE/TAPE
+name: Monitor_source/tape
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 08 00 00 00
 #
-name: DECK1_STOP_[]
+name: Deck1_stop_[]
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 0A 00 00 00
 #
-name: DECK1
+name: Deck1
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 0E 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 0F 00 00 00
 #
-name: DECK2
+name: Deck2
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 0F 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 10 00 00 00
 #
-name: MS/CUE_>>
+name: Ms/cue_>>
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 11 00 00 00
 #
-name: DECK2_MS_>>
+name: Deck2_ms_>>
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 11 00 00 00
 #
-name: MS/REVIEW_<<
+name: Ms/review_<<
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 12 00 00 00
 #
-name: DECK2_MS_<<
+name: Deck2_ms_<<
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 12 00 00 00
 #
-name: REC_MUTE
+name: Rec_mute
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 13 00 00 00
 #
-name: DECK2_REC_MUTE
+name: Deck2_rec_mute
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 13 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 14 00 00 00
 #
-name: DECK2_REC
+name: Deck2_rec
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 14 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 15 00 00 00
 #
-name: DECK2_PLAY_>
+name: Deck2_play_>
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 15 00 00 00
 #
-name: DECK2_R.PLAY_<
+name: Deck2_r.play_<
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 16 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 17 00 00 00
 #
-name: DECK2_PAUSE
+name: Deck2_pause
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 17 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 1A 00 00 00
 #
-name: DECK2_STOP_[]
+name: Deck2_stop_[]
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 1A 00 00 00
 #
-name: COUNTER_ZERO_RETURN
+name: Counter_zero_return
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 1B 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 1C 00 00 00
 #
-name: HIGH
+name: High
 type: parsed
 protocol: NECext
 address: 73 00 00 00
 command: 1D 00 00 00
 #
-name: DUAL_REC
+name: Dual_rec
 type: parsed
 protocol: NECext
 address: 73 00 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DV/USB
+name: Dv/usb
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 00 00 00 00
 #
-name: HDD/Dub
+name: Hdd/dub
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
@@ -67,25 +67,25 @@ protocol: NECext
 address: 00 9F 00 00
 command: 0C 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 0D 00 00 00
 #
-name: PS/IS
+name: Ps/is
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 0E 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 0F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
@@ -97,61 +97,61 @@ protocol: NECext
 address: 00 9F 00 00
 command: 11 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 12 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 14 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 15 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 16 00 00 00
 #
-name: Up_Arrow
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 17 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 18 00 00 00
 #
-name: FB
+name: Fb
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 19 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 1A 00 00 00
 #
-name: GOTO
+name: Goto
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 1B 00 00 00
 #
-name: Sort/Slow
+name: Sort/slow
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
@@ -163,19 +163,19 @@ protocol: NECext
 address: 00 9F 00 00
 command: 1D 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 1E 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 1F 00 00 00
 #
-name: TimeShift
+name: Timeshift
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
@@ -187,13 +187,13 @@ protocol: NECext
 address: 00 9F 00 00
 command: 41 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 42 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
@@ -205,7 +205,7 @@ protocol: NECext
 address: 00 9F 00 00
 command: 45 00 00 00
 #
-name: Disc_OP
+name: Disc_op
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
@@ -223,13 +223,13 @@ protocol: NECext
 address: 00 9F 00 00
 command: 49 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 4A 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
@@ -241,61 +241,61 @@ protocol: NECext
 address: 00 9F 00 00
 command: 4C 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 4D 00 00 00
 #
-name: Right_Arrow
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 4E 00 00 00
 #
-name: Add/Clear
+name: Add/clear
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 4F 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 51 00 00 00
 #
-name: Down_Arrow
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 52 00 00 00
 #
-name: Pause/Step
+name: Pause/step
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 54 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 55 00 00 00
 #
-name: Left_Arrow
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 56 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 57 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
@@ -307,37 +307,37 @@ protocol: NECext
 address: 00 9F 00 00
 command: 59 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 5A 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 5B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 5C 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 5D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 9F 00 00
 command: 5E 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 00 9F 00 00

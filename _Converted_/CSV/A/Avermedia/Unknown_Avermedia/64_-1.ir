@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LEFTARROW
+name: Leftarrow
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -67,19 +67,19 @@ protocol: NECext
 address: 40 00 00 00
 command: 0A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0C 00 00 00
 #
-name: COLOR
+name: Color
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0D 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -91,97 +91,97 @@ protocol: NECext
 address: 40 00 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 10 00 00 00
 #
-name: CAPTURE
+name: Capture
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 11 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: LOOP
+name: Loop
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 13 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 14 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 15 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 16 00 00 00
 #
-name: RIGHTARROW
+name: Rightarrow
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 18 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1C 00 00 00
 #
-name: AUTOSCAN
+name: Autoscan
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 40 00 00 00

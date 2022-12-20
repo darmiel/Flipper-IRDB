@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 02 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 05 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 06 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 07 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 07 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 08 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 09 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0A 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 15 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 1B 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -133,19 +133,19 @@ protocol: NECext
 address: 20 00 00 00
 command: 1F 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 40 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 41 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 20 00 00 00

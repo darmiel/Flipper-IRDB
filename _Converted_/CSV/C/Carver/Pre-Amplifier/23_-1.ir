@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DAT/TAPE_MONITOR
+name: Dat/tape_monitor
 type: parsed
 protocol: NECext
 address: 17 00 00 00

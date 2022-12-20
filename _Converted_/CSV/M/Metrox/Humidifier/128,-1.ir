@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: HEATER
+name: Heater
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 01 00 00 00
 #
-name: MIST_LVL
+name: Mist_lvl
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 03 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 04 00 00 00
 #
-name: HUMIDITY_SET
+name: Humidity_set
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 05 00 00 00
 #
-name: IONIZER
+name: Ionizer
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 06 00 00 00
 #
-name: NIGHT_MODE
+name: Night_mode
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 00 00 00

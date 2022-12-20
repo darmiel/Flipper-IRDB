@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNE-
+name: Tune-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 89721
 #
-name: TUNE+
+name: Tune+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -73,13 +73,13 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 888 888 888 888 888 888 888 888 888 90609
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 888 888 1776 1776 1776 1776 888 89721
 #
-name: PROGRAM
+name: Program
 type: raw
 frequency: 36045
 duty_cycle: 0.330000

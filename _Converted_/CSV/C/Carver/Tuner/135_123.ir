@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 08 00 00 00
 #
-name: PAUSE/STOP
+name: Pause/stop
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 09 00 00 00
 #
-name: SKIP_+
+name: Skip_+
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 0A 00 00 00
 #
-name: SKIP_-
+name: Skip_-
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 40 00 00 00
 #
-name: TUNING_UP
+name: Tuning_up
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 46 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 46 00 00 00
 #
-name: TUNING_DOWN
+name: Tuning_down
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 47 00 00 00
 #
-name: TUNE_DOWN
+name: Tune_down
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 47 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 48 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 87 7B 00 00
 command: 59 00 00 00
 #
-name: ACCD
+name: Accd
 type: parsed
 protocol: NECext
 address: 87 7B 00 00

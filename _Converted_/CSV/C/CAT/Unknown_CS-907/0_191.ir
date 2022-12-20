@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FMMode
+name: Fmmode
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 05 00 00 00
 #
-name: DolbyDigital
+name: Dolbydigital
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -37,13 +37,13 @@ protocol: NECext
 address: 00 BF 00 00
 command: 07 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 08 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 12 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 17 00 00 00
 #
-name: DSPDown
+name: Dspdown
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 1D 00 00 00
 #
-name: ChLevel
+name: Chlevel
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 1F 00 00 00
 #
-name: X_3Stereo
+name: X_3stereo
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 41 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -163,13 +163,13 @@ protocol: NECext
 address: 00 BF 00 00
 command: 43 00 00 00
 #
-name: DTS
+name: Dts
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 44 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -181,25 +181,25 @@ protocol: NECext
 address: 00 BF 00 00
 command: 46 00 00 00
 #
-name: ProLogic
+name: Prologic
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 47 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 48 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 49 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 50 00 00 00
 #
-name: PreTun
+name: Pretun
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -229,7 +229,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 56 00 00 00
 #
-name: FMAM
+name: Fmam
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -241,13 +241,13 @@ protocol: NECext
 address: 00 BF 00 00
 command: 59 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 5E 00 00 00
 #
-name: DSPUp
+name: Dspup
 type: parsed
 protocol: NECext
 address: 00 BF 00 00

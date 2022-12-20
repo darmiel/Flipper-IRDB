@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 02 00 00 00
 #
-name: VIDEO_2_INPUT
+name: Video_2_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 02 00 00 00
 #
-name: DSS_INPUT
+name: Dss_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -25,19 +25,19 @@ protocol: NECext
 address: B8 00 00 00
 command: 02 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 02 00 00 00
 #
-name: CENTER-
+name: Center-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0A 00 00 00
 #
-name: CENTER+
+name: Center+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -49,31 +49,31 @@ protocol: NECext
 address: B8 00 00 00
 command: 0D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0D 00 00 00
 #
-name: CENTER_MODE
+name: Center_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 55 00 00 00
 #
-name: RDS_DISPLAY
+name: Rds_display
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 58 00 00 00
 #
-name: DISP
+name: Disp
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 58 00 00 00
 #
-name: LOUDNESS
+name: Loudness
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: B8 00 00 00
 command: 80 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -205,7 +205,7 @@ protocol: NECext
 address: B8 00 00 00
 command: 83 00 00 00
 #
-name: INPUT_SEL
+name: Input_sel
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -235,7 +235,7 @@ protocol: NECext
 address: B8 00 00 00
 command: 85 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -289,289 +289,289 @@ protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: FAVORITE
+name: Favorite
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 90 00 00 00
 #
-name: PHONO_INPUT
+name: Phono_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 90 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 91 00 00 00
 #
-name: TUNER_INPUT
+name: Tuner_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 91 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 91 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 92 00 00 00
 #
-name: CD_INPUT
+name: Cd_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 92 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 92 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 92 00 00 00
 #
-name: AV_AUX
+name: Av_aux
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 93 00 00 00
 #
-name: AV-AUX_INPUT
+name: Av-aux_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 93 00 00 00
 #
-name: AV_AUX
+name: Av_aux
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 93 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 93 00 00 00
 #
-name: MD/TAPE1
+name: Md/tape1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: TAPE_1_MD_INPUT
+name: Tape_1_md_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: TAPE_INPUT
+name: Tape_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 96 00 00 00
 #
-name: VIDEO_1_INPUT
+name: Video_1_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 96 00 00 00
 #
-name: VCR_INPUT
+name: Vcr_input
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 96 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 96 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9C 00 00 00
 #
-name: SYS._POWER
+name: Sys._power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE4_POWER_OFF
+name: Code4_power_off
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE1_POWER_OFF
+name: Code1_power_off
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE1_POWER_ON
+name: Code1_power_on
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE3_POWER_OFF
+name: Code3_power_off
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE3_POWER_ON
+name: Code3_power_on
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: CODE4_POWER_ON
+name: Code4_power_on
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: PRO_LOGIC
+name: Pro_logic
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: PRO-LOGIC
+name: Pro-logic
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: SURROUND-
+name: Surround-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C6 00 00 00
 #
-name: SURROUND+
+name: Surround+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C7 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: STEREO_MODE
+name: Stereo_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D7 00 00 00
 #
-name: LISTEN_MODE
+name: Listen_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DF 00 00 00
 #
-name: DSP_MODE
+name: Dsp_mode
 type: parsed
 protocol: NECext
 address: B8 00 00 00

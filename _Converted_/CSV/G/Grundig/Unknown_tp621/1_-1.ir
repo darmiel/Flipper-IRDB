@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ok
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: u
+name: U
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 00 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: w
+name: W
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: y
+name: Y
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: v
+name: V
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: t
+name: T
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: bright
+name: Bright
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: o
+name: O
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: tint
+name: Tint
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: n
+name: N
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: color
+name: Color
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: j
+name: J
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: white
+name: White
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: i
+name: I
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: p
+name: P
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: a
+name: A
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: b
+name: B
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: c
+name: C
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: f
+name: F
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: g
+name: G
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: h
+name: H
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -199,7 +199,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: k
+name: K
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: l
+name: L
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -223,79 +223,79 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: m
+name: M
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 19 00 00 00
 #
-name: p/c
+name: P/c
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: s
+name: S
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1A 00 00 00
 #
-name: p+
+name: P+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: q
+name: Q
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2A 00 00 00
 #
-name: p-
+name: P-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: x
+name: X
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2B 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: r
+name: R
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2D 00 00 00
 #
-name: text
+name: Text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: e
+name: E
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 30 00 00 00
 #
-name: stop
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: d
+name: D
 type: parsed
 protocol: NECext
 address: 01 00 00 00

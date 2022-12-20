@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 01 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 01 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 02 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
@@ -37,25 +37,25 @@ protocol: NECext
 address: 0B 4F 00 00
 command: 05 00 00 00
 #
-name: IN_1_VCR
+name: In_1_vcr
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 05 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 06 00 00 00
 #
-name: IN_3_TV
+name: In_3_tv
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 06 00 00 00
 #
-name: IN_8
+name: In_8
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
@@ -67,127 +67,127 @@ protocol: NECext
 address: 0B 4F 00 00
 command: 09 00 00 00
 #
-name: IN_2_TIVO
+name: In_2_tivo
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 09 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 0B 00 00 00
 #
-name: IN_7_TAPE
+name: In_7_tape
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 0B 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 0D 00 00 00
 #
-name: IN_4_DVD
+name: In_4_dvd
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 0D 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 0F 00 00 00
 #
-name: IN_5_CD
+name: In_5_cd
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 0F 00 00 00
 #
-name: CENTER_-
+name: Center_-
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 15 00 00 00
 #
-name: CENTER_+
+name: Center_+
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 16 00 00 00
 #
-name: STA_DN
+name: Sta_dn
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 17 00 00 00
 #
-name: STA_UP
+name: Sta_up
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 18 00 00 00
 #
-name: REAR_-
+name: Rear_-
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 19 00 00 00
 #
-name: REAR_+
+name: Rear_+
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 1A 00 00 00
 #
-name: TUNE_DN
+name: Tune_dn
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 1B 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 1C 00 00 00
 #
-name: SUB_-
+name: Sub_-
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 1D 00 00 00
 #
-name: SUB_+
+name: Sub_+
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 1E 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 1F 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 23 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
@@ -199,43 +199,43 @@ protocol: NECext
 address: 0B 4F 00 00
 command: 29 00 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 2A 00 00 00
 #
-name: DVD-A
+name: Dvd-a
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 2B 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 2D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 2E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 2F 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 30 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
@@ -307,133 +307,133 @@ protocol: NECext
 address: 0B 4F 00 00
 command: 3F 00 00 00
 #
-name: SAVE
+name: Save
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 40 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 4A 00 00 00
 #
-name: IN_6_SAT
+name: In_6_sat
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 4A 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 4B 00 00 00
 #
-name: D_IN
+name: D_in
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 5A 00 00 00
 #
-name: BASS_DN
+name: Bass_dn
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 65 00 00 00
 #
-name: IN_9
+name: In_9
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 6E 00 00 00
 #
-name: AM_TUNER
+name: Am_tuner
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 76 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 76 00 00 00
 #
-name: TREB_DN
+name: Treb_dn
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 79 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 7D 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 8A 00 00 00
 #
-name: FM_MODE
+name: Fm_mode
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 8E 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 8E 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 8E 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: 9A 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: C6 00 00 00
 #
-name: SURR
+name: Surr
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: CA 00 00 00
 #
-name: LOUD
+name: Loud
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: CF 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: E2 00 00 00
 #
-name: BASS_UP
+name: Bass_up
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00
 command: E5 00 00 00
 #
-name: TREB_UP
+name: Treb_up
 type: parsed
 protocol: NECext
 address: 0B 4F 00 00

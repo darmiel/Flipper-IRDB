@@ -85,7 +85,7 @@ protocol: SIRC20
 address: 10 05 00 00
 command: 76 00 00 00
 # 
-name: BT_pairing
+name: Bt_pairing
 type: parsed
 protocol: SIRC20
 address: 10 05 00 00
@@ -139,13 +139,13 @@ protocol: SIRC15
 address: 30 00 00 00
 command: 53 00 00 00
 # 
-name: SW+
+name: Sw+
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 5C 00 00 00
 # 
-name: SW-
+name: Sw-
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
@@ -217,7 +217,7 @@ protocol: SIRC20
 address: 10 01 00 00
 command: 38 00 00 00
 # 
-name: BT_rx_tx
+name: Bt_rx_tx
 type: parsed
 protocol: SIRC20
 address: 10 0D 00 00

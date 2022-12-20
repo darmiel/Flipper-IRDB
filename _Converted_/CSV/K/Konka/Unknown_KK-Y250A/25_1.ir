@@ -61,91 +61,91 @@ protocol: NECext
 address: 19 01 00 00
 command: 09 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 0A 00 00 00
 #
-name: novideo
+name: Novideo
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 0B 00 00 00
 #
-name: tv/av
+name: Tv/av
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 0D 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 0E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 10 00 00 00
 #
-name: analog
+name: Analog
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 13 00 00 00
 #
-name: game
+name: Game
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 14 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 15 00 00 00
 #
-name: vstatus
+name: Vstatus
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 16 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 1A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 1B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 1C 00 00 00
 #
-name: timing
+name: Timing
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 1D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 19 01 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 19 01 00 00

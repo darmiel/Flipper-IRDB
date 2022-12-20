@@ -16,25 +16,25 @@ protocol: NEC
 address: 00 00 00 00
 command: 01 00 00 00
 # 
-name: Timer 4h
+name: Timer_4h
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 02 00 00 00
 # 
-name: Timer 8h
+name: Timer_8h
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 03 00 00 00
 # 
-name: Candle mode
+name: Candle_mode
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 04 00 00 00
 # 
-name: Light mode
+name: Light_mode
 type: parsed
 protocol: NEC
 address: 00 00 00 00

@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: gainup
+name: Gainup
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 03 00 00 00
 #
-name: gaindown
+name: Gaindown
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 04 00 00 00
 #
-name: brightdown
+name: Brightdown
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 05 00 00 00
 #
-name: brightup
+name: Brightup
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 06 00 00 00
 #
-name: contrastdown
+name: Contrastdown
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 07 00 00 00
 #
-name: contrastup
+name: Contrastup
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 09 00 00 00
 #
-name: tvav
+name: Tvav
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0E 00 00 00
 #
-name: one
+name: One
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 10 00 00 00
 #
-name: two
+name: Two
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 11 00 00 00
 #
-name: three
+name: Three
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 12 00 00 00
 #
-name: four
+name: Four
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 13 00 00 00
 #
-name: five
+name: Five
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 14 00 00 00
 #
-name: six
+name: Six
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 15 00 00 00
 #
-name: seven
+name: Seven
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 16 00 00 00
 #
-name: eight
+name: Eight
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 17 00 00 00
 #
-name: nine
+name: Nine
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 18 00 00 00
 #
-name: zero
+name: Zero
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 19 00 00 00
 #
-name: ten
+name: Ten
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1A 00 00 00
 #
-name: twenty
+name: Twenty
 type: parsed
 protocol: NECext
 address: 02 00 00 00

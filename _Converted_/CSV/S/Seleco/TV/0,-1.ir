@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: MIXED
+name: Mixed
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 00 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # Roomba robotic vacuum cleaner 
 #
-name: WALL
+name: Wall
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

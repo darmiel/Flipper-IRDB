@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 12_NOW_PLAYING
+name: 12_now_playing
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 81 00 00 00
 #
-name: 1_UP/REPEAT
+name: 1_up/repeat
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 86 00 00 00
 #
-name: 2_DOWN/SHUFFLE
+name: 2_down/shuffle
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 87 00 00 00
 #
-name: 4_LIBRARY/MENU
+name: 4_library/menu
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 88 00 00 00
 #
-name: 6_SKIP-
+name: 6_skip-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 89 00 00 00
 #
-name: 8_PAUSE
+name: 8_pause
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8A 00 00 00
 #
-name: 10_SKIP+
+name: 10_skip+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8B 00 00 00
 #
-name: 5_X_HIDE/BACK
+name: 5_x_hide/back
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8E 00 00 00
 #
-name: 7_DISPLAY/X_REMOVE
+name: 7_display/x_remove
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 8F 00 00 00
 #
-name: 9_STOP/I_CLEAR
+name: 9_stop/i_clear
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 90 00 00 00
 #
-name: 11_PLAY/SELECT
+name: 11_play/select
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 91 00 00 00
 #
-name: 3_I_VIEW/ALPHA
+name: 3_i_view/alpha
 type: parsed
 protocol: NECext
 address: 60 00 00 00

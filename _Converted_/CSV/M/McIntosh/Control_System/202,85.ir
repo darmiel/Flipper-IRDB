@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CDR
+name: Cdr
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 88 00 00 00
 #
-name: SERVER
+name: Server
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 89 00 00 00
 #
-name: MM
+name: Mm
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 8A 00 00 00
 #
-name: MC
+name: Mc
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 8D 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 90 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 92 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: 97 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: C2 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: C3 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: C6 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: CA 55 00 00
 command: CB 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: CA 55 00 00

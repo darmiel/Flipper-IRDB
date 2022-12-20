@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RTN
+name: Rtn
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 01 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 07 00 00 00
 #
-name: CHAN_DN
+name: Chan_dn
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 0B 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -79,49 +79,49 @@ protocol: NECext
 address: 02 00 00 00
 command: 0F 00 00 00
 #
-name: VOL_DN
+name: Vol_dn
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 10 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 13 00 00 00
 #
-name: FINE+
+name: Fine+
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 14 00 00 00
 #
-name: ERA
+name: Era
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 16 00 00 00
 #
-name: ADD
+name: Add
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 17 00 00 00
 #
-name: FINE-
+name: Fine-
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 18 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1A 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 02 00 00 00

@@ -1,217 +1,217 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0F 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0F 00 00 00
 #
-name: PRESET1
+name: Preset1
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 11 00 00 00
 #
-name: PRESET2
+name: Preset2
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 12 00 00 00
 #
-name: PRESET3
+name: Preset3
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 13 00 00 00
 #
-name: PRESET4
+name: Preset4
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 14 00 00 00
 #
-name: PRESET5
+name: Preset5
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 15 00 00 00
 #
-name: PRESET6
+name: Preset6
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 16 00 00 00
 #
-name: PRESET7
+name: Preset7
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 17 00 00 00
 #
-name: PRESET8
+name: Preset8
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 18 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1B 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1B 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1F 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 49 00 00 00
 #
-name: DVD/CD
+name: Dvd/cd
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4A 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4B 00 00 00
 #
-name: SUBWOOF_+
+name: Subwoof_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4C 00 00 00
 #
-name: SUBWOOF_-
+name: Subwoof_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4D 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4F 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 50 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5F 00 00 00
 #
-name: CENTER_+
+name: Center_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 86 00 00 00
 #
-name: CENTER_-
+name: Center_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 87 00 00 00
 #
-name: SURROUND_+
+name: Surround_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 88 00 00 00
 #
-name: SURROUND_-
+name: Surround_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 89 00 00 00
 #
-name: MATRIX_6.1
+name: Matrix_6.1
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 90 00 00 00
 #
-name: DOLBY/DTS
+name: Dolby/dts
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 99 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9C 00 00 00
 #
-name: SET_MENU
+name: Set_menu
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: D9 00 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DA 00 00 00
 #
-name: SPORTS
+name: Sports
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DB 00 00 00
 #
-name: GAME
+name: Game
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DC 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 78 00 00 00

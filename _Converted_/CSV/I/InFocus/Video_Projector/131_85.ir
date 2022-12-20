@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 84 00 00 00
 #
-name: PICTURE_MODE
+name: Picture_mode
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 85 00 00 00
 #
-name: PICTURE_+
+name: Picture_+
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 86 00 00 00
 #
-name: PICTURE_-
+name: Picture_-
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 87 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 88 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 89 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8A 00 00 00
 #
-name: INPUT_SELECT
+name: Input_select
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8B 00 00 00
 #
-name: PICTURE_RESET
+name: Picture_reset
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8C 00 00 00
 #
-name: FOCUS_PATTERN
+name: Focus_pattern
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8D 00 00 00
 #
-name: FOCUS_V
+name: Focus_v
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8E 00 00 00
 #
-name: FOCUS_^
+name: Focus_^
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8F 00 00 00
 #
-name: AUTO_FOCUS
+name: Auto_focus
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 90 00 00 00
 #
-name: ZOOM_WIDE
+name: Zoom_wide
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 91 00 00 00
 #
-name: ZOOM_NARROW
+name: Zoom_narrow
 type: parsed
 protocol: NECext
 address: 83 55 00 00

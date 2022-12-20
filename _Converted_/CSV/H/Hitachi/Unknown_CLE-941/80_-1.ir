@@ -13,13 +13,13 @@ protocol: NECext
 address: 50 00 00 00
 command: 05 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 09 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 50 00 00 00
@@ -49,43 +49,43 @@ protocol: NECext
 address: 50 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 12 00 00 00
 #
-name: CH
+name: Ch
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 13 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 19 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 50 00 00 00
@@ -115,19 +115,19 @@ protocol: NECext
 address: 50 00 00 00
 command: 1F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 40 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 43 00 00 00
 #
-name: PSCAN100HZ
+name: Pscan100hz
 type: parsed
 protocol: NECext
 address: 50 00 00 00
@@ -145,25 +145,25 @@ protocol: NECext
 address: 50 00 00 00
 command: 5F 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 6B 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 6C 00 00 00
 #
-name: REV
+name: Rev
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 6D 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 50 00 00 00

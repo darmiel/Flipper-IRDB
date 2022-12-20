@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 00 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 17 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 17 00 00 00
 command: 0A 00 00 00
 #
-name: GOTO
+name: Goto
 type: parsed
 protocol: NECext
 address: 17 00 00 00
@@ -79,133 +79,133 @@ protocol: NECext
 address: 17 00 00 00
 command: 0C 00 00 00
 #
-name: SUB-TITLE
+name: Sub-title
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 0F 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 10 00 00 00
 #
-name: SET-UP
+name: Set-up
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 11 00 00 00
 #
-name: CURSER_UP
+name: Curser_up
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 12 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 13 00 00 00
 #
-name: CURSER_LEFT
+name: Curser_left
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 14 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 15 00 00 00
 #
-name: CURSER_RIGHT
+name: Curser_right
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 16 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 17 00 00 00
 #
-name: CURSER_DOWN
+name: Curser_down
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 18 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 19 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 1A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 1B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 1C 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 1D 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 1E 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 1F 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 20 00 00 00
 #
-name: ZOOM_-
+name: Zoom_-
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 21 00 00 00
 #
-name: ZOOM_+
+name: Zoom_+
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 22 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 17 00 00 00
 command: 23 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 17 00 00 00

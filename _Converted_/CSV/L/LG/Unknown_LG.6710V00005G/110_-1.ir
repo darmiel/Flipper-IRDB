@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 00 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 02 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -49,19 +49,19 @@ protocol: NECext
 address: 6E 00 00 00
 command: 07 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 08 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 09 00 00 00
 #
-name: p/still
+name: P/still
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -91,19 +91,19 @@ protocol: NECext
 address: 6E 00 00 00
 command: 0F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 16 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -121,97 +121,97 @@ protocol: NECext
 address: 6E 00 00 00
 command: 1D 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1E 00 00 00
 #
-name: clear/reset
+name: Clear/reset
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1F 00 00 00
 #
-name: timer-prog
+name: Timer-prog
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 3A 00 00 00
 #
-name: viss
+name: Viss
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 41 00 00 00
 #
-name: trk-
+name: Trk-
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 44 00 00 00
 #
-name: trk+
+name: Trk+
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 45 00 00 00
 #
-name: clock/count
+name: Clock/count
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 4C 00 00 00
 #
-name: tv/av
+name: Tv/av
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 56 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 58 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 59 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 5C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 5D 00 00 00
 #
-name: auto
+name: Auto
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 5F 00 00 00
 #
-name: qview
+name: Qview
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 77 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 7D 00 00 00
 #
-name: system
+name: System
 type: parsed
 protocol: NECext
 address: 6E 00 00 00

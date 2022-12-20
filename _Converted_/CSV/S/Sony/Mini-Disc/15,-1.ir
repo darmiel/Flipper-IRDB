@@ -7,7 +7,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 00 00 00 00
 #
-name: 1_(F)
+name: 1_(f)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 01 00 00 00
 #
-name: 2_(G)
+name: 2_(g)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 02 00 00 00
 #
-name: 3_(H)
+name: 3_(h)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 03 00 00 00
 #
-name: 4_(I)
+name: 4_(i)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 04 00 00 00
 #
-name: 5_(J)
+name: 5_(j)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 05 00 00 00
 #
-name: 6_(K)
+name: 6_(k)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 06 00 00 00
 #
-name: 7_(L)
+name: 7_(l)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 07 00 00 00
 #
-name: 8_(M)
+name: 8_(m)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 08 00 00 00
 #
-name: 9_(N)
+name: 9_(n)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 09 00 00 00
 #
-name: 10_(O)
+name: 10_(o)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -133,121 +133,121 @@ protocol: NECext
 address: 0F 00 00 00
 command: 0A 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 15 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 16 00 00 00
 #
-name: PLAY_MODE
+name: Play_mode
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 17 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 18 00 00 00
 #
-name: SCROLL
+name: Scroll
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 19 00 00 00
 #
-name: (E)
+name: (e)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 1A 00 00 00
 #
-name: (D)
+name: (d)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 1B 00 00 00
 #
-name: CONTINUE_(A)
+name: Continue_(a)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 1D 00 00 00
 #
-name: SHUFFLE_(B)
+name: Shuffle_(b)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 1E 00 00 00
 #
-name: PROGRAM_(C)
+name: Program_(c)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 1F 00 00 00
 #
-name: <TRACK
+name: <track
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 20 00 00 00
 #
-name: STEP_<<
+name: Step_<<
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 20 00 00 00
 #
-name: TRACK>
+name: Track>
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 21 00 00 00
 #
-name: STEP_>>
+name: Step_>>
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 21 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 26 00 00 00
 #
-name: REPEAT_(?)
+name: Repeat_(?)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 26 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 27 00 00 00
 #
-name: A--B_(!)
+name: A--b_(!)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 27 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -259,97 +259,97 @@ protocol: NECext
 address: 0F 00 00 00
 command: 28 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 29 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2A 00 00 00
 #
-name: CD-SYNC_START
+name: Cd-sync_start
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2A 00 00 00
 #
-name: <<REWIND
+name: <<rewind
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2B 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2B 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2C 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2C 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2D 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2F 00 00 00
 #
-name: T._REC
+name: T._rec
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 30 00 00 00
 #
-name: A._SPACE_(()
+name: A._space_(()
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 33 00 00 00
 #
-name: M._SCAN_())
+name: M._scan_())
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 34 00 00 00
 #
-name: WRITE_CHAR
+name: Write_char
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 36 00 00 00
 #
-name: WRITE_NUM
+name: Write_num
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 37 00 00 00
 #
-name: WRITE_NAME
+name: Write_name
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -361,73 +361,73 @@ protocol: NECext
 address: 0F 00 00 00
 command: 3E 00 00 00
 #
-name: MUSIC_SYNC
+name: Music_sync
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 3F 00 00 00
 #
-name: 11_(P)
+name: 11_(p)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 40 00 00 00
 #
-name: 12_(Q)
+name: 12_(q)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 41 00 00 00
 #
-name: 13_(R)
+name: 13_(r)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 42 00 00 00
 #
-name: 14_(S)
+name: 14_(s)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 43 00 00 00
 #
-name: 15_(T)
+name: 15_(t)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 44 00 00 00
 #
-name: 16_(U)
+name: 16_(u)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 45 00 00 00
 #
-name: 17_(V)
+name: 17_(v)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 46 00 00 00
 #
-name: 18_(W)
+name: 18_(w)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 47 00 00 00
 #
-name: 19_(X)
+name: 19_(x)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 48 00 00 00
 #
-name: 20_(Y)
+name: 20_(y)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 49 00 00 00
 #
-name: 21_(Z)
+name: 21_(z)
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -457,7 +457,7 @@ protocol: NECext
 address: 0F 00 00 00
 command: 4E 00 00 00
 #
-name: FADER
+name: Fader
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

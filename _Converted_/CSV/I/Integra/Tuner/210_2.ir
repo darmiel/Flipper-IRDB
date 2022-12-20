@@ -61,7 +61,7 @@ protocol: NECext
 address: D2 02 00 00
 command: DE 00 00 00
 #
-name: DIRECT_ACCESS
+name: Direct_access
 type: parsed
 protocol: NECext
 address: D2 02 00 00

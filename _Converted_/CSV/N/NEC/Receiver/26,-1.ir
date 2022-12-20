@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_TRACH_>>
+name: Cd_trach_>>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 00 00 00 00
 #
-name: CD_TRACK_<<
+name: Cd_track_<<
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 01 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 04 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 05 00 00 00
 #
-name: CD_PAUSE_
+name: Cd_pause_
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

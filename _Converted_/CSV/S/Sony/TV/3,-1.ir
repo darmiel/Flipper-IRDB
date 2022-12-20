@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CLOCK
+name: Clock
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 2B 00 00 00
 #
-name: AUDIO/RED
+name: Audio/red
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4C 00 00 00
 #
-name: AUDIO_MENU
+name: Audio_menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4C 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4C 00 00 00
 #
-name: PICTURE/GREEN
+name: Picture/green
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4D 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4D 00 00 00
 #
-name: VIDEO_MENU
+name: Video_menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4D 00 00 00
 #
-name: MULTISELECT/YELLOW
+name: Multiselect/yellow
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4E 00 00 00
 #
-name: MULTI-PIP
+name: Multi-pip
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4E 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4E 00 00 00
 #
-name: 16/9/BLUE
+name: 16/9/blue
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4F 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4F 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 03 00 00 00

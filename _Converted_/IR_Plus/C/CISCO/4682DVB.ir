@@ -10,13 +10,13 @@ protocol: NECext
 address: BF 80 00 00
 command: C4 3B 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: BF 80 00 00
 command: 3C C3 00 00
 #
-name: TV/SAT
+name: Tv/sat
 type: parsed
 protocol: NECext
 address: BF 80 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: BF 80 00 00
 command: 66 99 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: BF 80 00 00
@@ -142,13 +142,13 @@ protocol: NECext
 address: BF 80 00 00
 command: B4 4B 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: BF 80 00 00
 command: 0C F3 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: BF 80 00 00
@@ -160,13 +160,13 @@ protocol: NECext
 address: BF 80 00 00
 command: C6 39 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: BF 80 00 00
 command: 9E 61 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: BF 80 00 00
@@ -178,7 +178,7 @@ protocol: NECext
 address: BF 80 00 00
 command: 94 6B 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: BF 80 00 00
@@ -214,7 +214,7 @@ protocol: NECext
 address: BF 80 00 00
 command: EE 11 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: BF 80 00 00
@@ -250,7 +250,7 @@ protocol: NECext
 address: BF 80 00 00
 command: F4 0B 00 00
 #
-name: Sleep Timer
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: BF 80 00 00

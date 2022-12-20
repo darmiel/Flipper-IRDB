@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: WIDE_2
+name: Wide_2
 type: parsed
 protocol: NECext
 address: 84 82 00 00

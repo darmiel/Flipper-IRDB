@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 00 00 00 00
 #
-name: CH_V
+name: Ch_v
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 01 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 02 00 00 00
 #
-name: PLAY/ATR_>
+name: Play/atr_>
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 03 00 00 00
 #
-name: STOP/EJ_[]
+name: Stop/ej_[]
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 04 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 06 00 00 00
 #
-name: CH_^
+name: Ch_^
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 07 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 08 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 09 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 0A 00 00 00
 #
-name: LCV_(CHANGE)
+name: Lcv_(change)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 0B 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 0C 00 00 00
 #
-name: MUTE_(SELECT)
+name: Mute_(select)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 0D 00 00 00
 #
-name: CLK/CTR
+name: Clk/ctr
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 0E 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 0F 00 00 00
 #
-name: 0_(AUX)
+name: 0_(aux)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: 84 62 00 00
 command: 11 00 00 00
 #
-name: 2_(TRK_-)
+name: 2_(trk_-)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 12 00 00 00
 #
-name: 3_(TRK_+)
+name: 3_(trk_+)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
@@ -127,13 +127,13 @@ protocol: NECext
 address: 84 62 00 00
 command: 14 00 00 00
 #
-name: 5_(PICTURE_-)
+name: 5_(picture_-)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 15 00 00 00
 #
-name: 6_(PICTURE_+)
+name: 6_(picture_+)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
@@ -145,13 +145,13 @@ protocol: NECext
 address: 84 62 00 00
 command: 17 00 00 00
 #
-name: 8_(SLOW_-)
+name: 8_(slow_-)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 18 00 00 00
 #
-name: 9_(SLOW_+)
+name: 9_(slow_+)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
@@ -163,31 +163,31 @@ protocol: NECext
 address: 84 62 00 00
 command: 1A 00 00 00
 #
-name: VIEW
+name: View
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 1B 00 00 00
 #
-name: COPY
+name: Copy
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 1C 00 00 00
 #
-name: DECK_SELECT
+name: Deck_select
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 1D 00 00 00
 #
-name: SKIP_(ZERO_RTN)
+name: Skip_(zero_rtn)
 type: parsed
 protocol: NECext
 address: 84 62 00 00
 command: 1E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 84 62 00 00

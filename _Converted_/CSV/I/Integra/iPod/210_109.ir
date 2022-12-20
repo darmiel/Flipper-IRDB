@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP_(PAUSE)
+name: Stop_(pause)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 15 00 00 00
 #
-name: REV_PLAY_(PLAYLIST)
+name: Rev_play_(playlist)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 16 00 00 00
 #
-name: REC_PAUSE_(BACKLIGHT
+name: Rec_pause_(backlight
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 18 00 00 00
 #
-name: FF_(TRACK_+)
+name: Ff_(track_+)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 19 00 00 00
 #
-name: REW_(TRACK_-)
+name: Rew_(track_-)
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 1A 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 93 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: D2 6D 00 00

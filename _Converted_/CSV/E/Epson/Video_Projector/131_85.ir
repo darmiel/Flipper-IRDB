@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DEFAULT
+name: Default
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 39 00 00 00
 #
-name: SHARPNESS
+name: Sharpness
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 3B 00 00 00
 #
-name: RGBCMY
+name: Rgbcmy
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 3D 00 00 00
 #
-name: INPUT_VIDEO
+name: Input_video
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 70 00 00 00
 #
-name: INPUT_COMPONENT
+name: Input_component
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 71 00 00 00
 #
-name: INPUT_HDMI_1
+name: Input_hdmi_1
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 73 00 00 00
 #
-name: INPUT_HDMI_2
+name: Input_hdmi_2
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 77 00 00 00
 #
-name: GAMMA
+name: Gamma
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 7E 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 84 00 00 00
 #
-name: CURSER_ENTER
+name: Curser_enter
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 85 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8A 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8B 00 00 00
 #
-name: COLOR_MODE
+name: Color_mode
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 8F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 90 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 91 00 00 00
 #
-name: BLANK
+name: Blank
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 93 00 00 00
 #
-name: PATTERN
+name: Pattern
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 96 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9A 00 00 00
 #
-name: INPUT_S-VIDEO
+name: Input_s-video
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9C 00 00 00
 #
-name: INPUT_PC
+name: Input_pc
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 9D 00 00 00
 #
-name: CURSER_UP
+name: Curser_up
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B0 00 00 00
 #
-name: CURSER_DOWN
+name: Curser_down
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: B2 00 00 00
 #
-name: CURSER_LEFT
+name: Curser_left
 type: parsed
 protocol: NECext
 address: 83 55 00 00

@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: C-LOCK
+name: C-lock
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0E 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 12 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: TIMER_ON_OFF
+name: Timer_on_off
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 20 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 21 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 22 00 00 00
 #
-name: REV
+name: Rev
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 23 00 00 00
 #
-name: PAUSE_STILL
+name: Pause_still
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 25 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 27 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 28 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 2C 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 33 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 37 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 83 00 00 00
 #
-name: TRACKING_UP
+name: Tracking_up
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 85 00 00 00
 #
-name: TRACKING_DOWN
+name: Tracking_down
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 86 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00

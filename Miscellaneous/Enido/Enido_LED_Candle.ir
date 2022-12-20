@@ -51,13 +51,13 @@ protocol: NEC
 address: 00 00 00 00
 command: 0E 00 00 00
 # 
-name: Dim -
+name: Dim_-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 10 00 00 00
 # 
-name: Dim +
+name: Dim_+
 type: parsed
 protocol: NEC
 address: 00 00 00 00

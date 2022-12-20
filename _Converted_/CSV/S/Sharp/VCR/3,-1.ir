@@ -61,103 +61,103 @@ protocol: NECext
 address: 03 00 00 00
 command: 0A 00 00 00
 #
-name: REC_STANDBY
+name: Rec_standby
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0E 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 16 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1D 00 00 00
 #
-name: SP/LP/EP
+name: Sp/lp/ep
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1F 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 21 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 21 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 22 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 23 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 23 00 00 00
 #
-name: FRAME_ADVANCE
+name: Frame_advance
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 24 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 25 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 27 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 28 00 00 00
 #
-name: SLOW_MOTION_+
+name: Slow_motion_+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 2F 00 00 00
 #
-name: SLOW_MOTION_-
+name: Slow_motion_-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -169,25 +169,25 @@ protocol: NECext
 address: 03 00 00 00
 command: 31 00 00 00
 #
-name: ZERO_BACK
+name: Zero_back
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 83 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 84 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 8C 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 03 00 00 00

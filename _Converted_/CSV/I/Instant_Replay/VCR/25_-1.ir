@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 05 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 19 00 00 00

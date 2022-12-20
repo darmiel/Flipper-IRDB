@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 02 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 07 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 09 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: E6 04 00 00
@@ -31,13 +31,13 @@ protocol: NECext
 address: E6 04 00 00
 command: 0C 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 0E 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: E6 04 00 00
@@ -49,31 +49,31 @@ protocol: NECext
 address: E6 04 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 14 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 15 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 17 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 18 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: E6 04 00 00
@@ -91,31 +91,31 @@ protocol: NECext
 address: E6 04 00 00
 command: 1B 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 1C 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 1E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 1F 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 23 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: E6 04 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: E6 04 00 00
 command: 28 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 2B 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: E6 04 00 00
@@ -169,43 +169,43 @@ protocol: NECext
 address: E6 04 00 00
 command: 36 00 00 00
 #
-name: DOT
+name: Dot
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 48 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 4D 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 4E 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 4F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 52 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: E6 04 00 00
 command: 53 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: E6 04 00 00

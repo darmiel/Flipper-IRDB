@@ -61,241 +61,241 @@ protocol: NECext
 address: AA 00 00 00
 command: 09 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 0B 00 00 00
 #
-name: CH_PLUS
+name: Ch_plus
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 10 00 00 00
 #
-name: CH_MINUS
+name: Ch_minus
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 1C 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 24 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 25 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 26 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 27 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 28 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 38 00 00 00
 #
-name: INPUT_ANT
+name: Input_ant
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 45 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 49 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 4A 00 00 00
 #
-name: INPUT1
+name: Input1
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: INPUT2
+name: Input2
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: INPUT3
+name: Input3
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: INPUT4
+name: Input4
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: HDMI5
+name: Hdmi5
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: HDMI6
+name: Hdmi6
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: INPUT_PC
+name: Input_pc
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: DOT
+name: Dot
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: CH_ENTER
+name: Ch_enter
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: CH_RETURN
+name: Ch_return
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5A 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: HOME_MENU
+name: Home_menu
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: TV_GUIDE
+name: Tv_guide
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: DAY_PLUS
+name: Day_plus
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: DAY_MINUS
+name: Day_minus
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: PAGE_PLUS
+name: Page_plus
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: PAGE_MINUS
+name: Page_minus
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: BLUE_A
+name: Blue_a
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: RED_B
+name: Red_b
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: GREEN_C
+name: Green_c
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: YELLOW_D
+name: Yellow_d
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5B 00 00 00
 #
-name: SCREEN_SIZE
+name: Screen_size
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: AA 00 00 00
 command: 5E 00 00 00
 #
-name: AV_SELECTION
+name: Av_selection
 type: parsed
 protocol: NECext
 address: AA 00 00 00

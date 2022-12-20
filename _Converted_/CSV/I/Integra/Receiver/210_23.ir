@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: UNIVERSAL_PORT
+name: Universal_port
 type: parsed
 protocol: NECext
 address: D2 17 00 00
 command: 8A 00 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: D2 17 00 00
 command: 9E 00 00 00
 #
-name: XM
+name: Xm
 type: parsed
 protocol: NECext
 address: D2 17 00 00
 command: DA 00 00 00
 #
-name: SIRIUS
+name: Sirius
 type: parsed
 protocol: NECext
 address: D2 17 00 00

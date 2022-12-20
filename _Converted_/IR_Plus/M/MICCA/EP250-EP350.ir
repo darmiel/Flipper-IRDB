@@ -166,7 +166,7 @@ protocol: NECext
 address: FF 00 00 00
 command: ED 12 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -268,7 +268,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 5F A0 00 00
 #
-name: TV System
+name: Tv_system
 type: parsed
 protocol: NECext
 address: FF 00 00 00

@@ -1,247 +1,247 @@
 Filetype: IR signals file
 Version: 1
 #
-name: no_0
+name: No_0
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 00 00 00 00
 #
-name: no_1
+name: No_1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: no_2
+name: No_2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: no_3
+name: No_3
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: no_4
+name: No_4
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: no_5
+name: No_5
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: no_6
+name: No_6
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: no_7
+name: No_7
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: no_8
+name: No_8
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: no_9
+name: No_9
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0D 00 00 00
 #
-name: pp
+name: Pp
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 20 00 00 00
 #
-name: prog_dn
+name: Prog_dn
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 21 00 00 00
 #
-name: plessp
+name: Plessp
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 22 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 23 00 00 00
 #
-name: txt_hold
+name: Txt_hold
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 29 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2A 00 00 00
 #
-name: screen_size
+name: Screen_size
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2B 00 00 00
 #
-name: pc_in
+name: Pc_in
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2C 00 00 00
 #
-name: txt_hide
+name: Txt_hide
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2D 00 00 00
 #
-name: inner_screen
+name: Inner_screen
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2E 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 30 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 35 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 38 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3C 00 00 00
 #
-name: tv_dtv
+name: Tv_dtv
 type: parsed
 protocol: NECext
 address: 01 00 00 00

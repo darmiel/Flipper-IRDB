@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 00 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 01 00 00 00
 #
-name: PLAY_MODE_(SHUFFLE)
+name: Play_mode_(shuffle)
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 08 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 0A 00 00 00
 #
-name: STOP_(PAUSE)
+name: Stop_(pause)
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 0B 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 0C 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 0D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 0E 00 00 00
 #
-name: PROGRAM_(PLAYLIST_MO
+name: Program_(playlist_mo
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 10 00 00 00
 #
-name: DISPLAY_(BKLIGHT)
+name: Display_(bklight)
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 11 00 00 00
 #
-name: ENTER_(PLAYLIST_MODE
+name: Enter_(playlist_mode
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 11 00 00 00
 #
-name: SCROLL_(BKLIGHT)
+name: Scroll_(bklight)
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 12 00 00 00
 #
-name: RANDOM_(SHUFFLE)
+name: Random_(shuffle)
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 15 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: D2 6C 00 00

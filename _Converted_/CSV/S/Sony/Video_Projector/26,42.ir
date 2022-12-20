@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: KEYSTONE
+name: Keystone
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 3A 00 00 00
 #
-name: MS_SLIDE
+name: Ms_slide
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 3C 00 00 00
 #
-name: STANDARD
+name: Standard
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 3E 00 00 00
 #
-name: SIDE_SHOT_-
+name: Side_shot_-
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 3F 00 00 00
 #
-name: SIDE_SHOT_+
+name: Side_shot_+
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 3F 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 50 00 00 00
 #
-name: VID_MEM_OFF
+name: Vid_mem_off
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 50 00 00 00
 #
-name: VIDEO_MEMORY_-_OFF
+name: Video_memory_-_off
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 50 00 00 00
 #
-name: MEM_1
+name: Mem_1
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 51 00 00 00
 #
-name: VIDEO_MEMORY_1
+name: Video_memory_1
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 51 00 00 00
 #
-name: DYNAMIC
+name: Dynamic
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 51 00 00 00
 #
-name: VIDEO_MEM_1
+name: Video_mem_1
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
@@ -79,25 +79,25 @@ protocol: NECext
 address: 1A 2A 00 00
 command: 51 00 00 00
 #
-name: VIDEO_MEMORY_-_1
+name: Video_memory_-_1
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 51 00 00 00
 #
-name: MEM_2
+name: Mem_2
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 52 00 00 00
 #
-name: VIDEO_MEMORY_2
+name: Video_memory_2
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 52 00 00 00
 #
-name: VIDEO_MEM_2
+name: Video_mem_2
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
@@ -109,31 +109,31 @@ protocol: NECext
 address: 1A 2A 00 00
 command: 52 00 00 00
 #
-name: VIDEO_MEMORY_-_2
+name: Video_memory_-_2
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 52 00 00 00
 #
-name: MEM_3
+name: Mem_3
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 53 00 00 00
 #
-name: VIDEO_MEMORY_3
+name: Video_memory_3
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 53 00 00 00
 #
-name: CINEMA
+name: Cinema
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 53 00 00 00
 #
-name: VIDEO_MEM_3
+name: Video_mem_3
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
@@ -145,37 +145,37 @@ protocol: NECext
 address: 1A 2A 00 00
 command: 53 00 00 00
 #
-name: VIDEO_MEMORY_-_3
+name: Video_memory_-_3
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 53 00 00 00
 #
-name: MEM_4
+name: Mem_4
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 54 00 00 00
 #
-name: VIDEO_MEMORY_4
+name: Video_memory_4
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 54 00 00 00
 #
-name: USER_1
+name: User_1
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 54 00 00 00
 #
-name: PIC_MODE_1
+name: Pic_mode_1
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 54 00 00 00
 #
-name: VIDEO_MEM_4
+name: Video_mem_4
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
@@ -187,37 +187,37 @@ protocol: NECext
 address: 1A 2A 00 00
 command: 54 00 00 00
 #
-name: VIDEO_MEMORY_-_4
+name: Video_memory_-_4
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 54 00 00 00
 #
-name: MEM_5
+name: Mem_5
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 55 00 00 00
 #
-name: VIDEO_MEMORY_5
+name: Video_memory_5
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 55 00 00 00
 #
-name: USER2
+name: User2
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 55 00 00 00
 #
-name: PIC_MODE_2
+name: Pic_mode_2
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 55 00 00 00
 #
-name: VIDEO_MEM_5
+name: Video_mem_5
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
@@ -229,37 +229,37 @@ protocol: NECext
 address: 1A 2A 00 00
 command: 55 00 00 00
 #
-name: VIDEO_MEMORY_-_5
+name: Video_memory_-_5
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 55 00 00 00
 #
-name: MEM_6
+name: Mem_6
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 56 00 00 00
 #
-name: VIDEO_MEMORY_6
+name: Video_memory_6
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 56 00 00 00
 #
-name: USER3
+name: User3
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 56 00 00 00
 #
-name: PIC_MODE_3
+name: Pic_mode_3
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 56 00 00 00
 #
-name: VIDEO_MEM_6
+name: Video_mem_6
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
@@ -271,97 +271,97 @@ protocol: NECext
 address: 1A 2A 00 00
 command: 56 00 00 00
 #
-name: VIDEO_MEMORY_-_6
+name: Video_memory_-_6
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 56 00 00 00
 #
-name: VIDEO_MEMORY_7
+name: Video_memory_7
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 57 00 00 00
 #
-name: VIDEO_MEMORY_8
+name: Video_memory_8
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 58 00 00 00
 #
-name: VIDEO_MEMORY_9
+name: Video_memory_9
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 59 00 00 00
 #
-name: VIDEO_MEMORY_10
+name: Video_memory_10
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 5A 00 00 00
 #
-name: APA
+name: Apa
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 60 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 66 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 67 00 00 00
 #
-name: FUNTION_1
+name: Funtion_1
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 68 00 00 00
 #
-name: FUNTION_2
+name: Funtion_2
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 69 00 00 00
 #
-name: PLUS
+name: Plus
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 6A 00 00 00
 #
-name: ZOOM_+
+name: Zoom_+
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 6A 00 00 00
 #
-name: MINUS
+name: Minus
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 6B 00 00 00
 #
-name: ZOOM_-
+name: Zoom_-
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 6B 00 00 00
 #
-name: WIDE_MODE
+name: Wide_mode
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00
 command: 6E 00 00 00
 #
-name: LENS
+name: Lens
 type: parsed
 protocol: NECext
 address: 1A 2A 00 00

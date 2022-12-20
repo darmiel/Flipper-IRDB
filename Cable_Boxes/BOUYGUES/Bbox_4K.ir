@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 68 6B 00 00
 command: 41 BE 00 00
 # 
-name: TV screen
+name: Tv_screen
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
 command: 34 CB 00 00
 # 
-name: Fav. CH
+name: Fav._ch
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 68 6B 00 00
 command: 1C E3 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
@@ -133,31 +133,31 @@ protocol: NECext
 address: 68 6B 00 00
 command: 14 EB 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
 command: 0D F2 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
 command: 0E F1 00 00
 # 
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
 command: 10 EF 00 00
 # 
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
 command: 1A E5 00 00
 # 
-name: Google Assistant
+name: Google_assistant
 type: parsed
 protocol: NECext
 address: 68 6B 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: 68 6B 00 00
 command: 0F F0 00 00
 # 
-name: Play/Pause
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 68 6B 00 00

@@ -1,499 +1,499 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DELAY_TIME_L&R_+
+name: Delay_time_l&r_+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 01 00 00 00
 #
-name: DELAY_TIME_L&R_-
+name: Delay_time_l&r_-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 02 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 03 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 04 00 00 00
 #
-name: SS
+name: Ss
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 05 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 06 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 07 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 08 00 00 00
 #
-name: FULL_MUTE
+name: Full_mute
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 0C 00 00 00
 #
-name: ECHO
+name: Echo
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 10 00 00 00
 #
-name: DELAY_TIME_L_+
+name: Delay_time_l_+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 18 00 00 00
 #
-name: DELAY_TIME_L_-
+name: Delay_time_l_-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 19 00 00 00
 #
-name: DELAY_TIME_R_+
+name: Delay_time_r_+
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 1A 00 00 00
 #
-name: DELAY_TIME_R_-
+name: Delay_time_r_-
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 1B 00 00 00
 #
-name: OUT1
+name: Out1
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 1C 00 00 00
 #
-name: OUT_1_V
+name: Out_1_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 1D 00 00 00
 #
-name: OUT2
+name: Out2
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 1E 00 00 00
 #
-name: OUT_2_V
+name: Out_2_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 1F 00 00 00
 #
-name: LEFT_^
+name: Left_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 40 00 00 00
 #
-name: RIGHT_^
+name: Right_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 41 00 00 00
 #
-name: OUT1_L
+name: Out1_l
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 42 00 00 00
 #
-name: OUT1_R
+name: Out1_r
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 43 00 00 00
 #
-name: OUT2_L
+name: Out2_l
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 44 00 00 00
 #
-name: OUT2_R
+name: Out2_r
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 45 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 46 00 00 00
 #
-name: BY-PASS
+name: By-pass
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 47 00 00 00
 #
-name: HALL_SURROUND
+name: Hall_surround
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 48 00 00 00
 #
-name: MATRIX_SURROUND
+name: Matrix_surround
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 49 00 00 00
 #
-name: DOLBY
+name: Dolby
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 4A 00 00 00
 #
-name: CREATION
+name: Creation
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 4B 00 00 00
 #
-name: 1_PRESET
+name: 1_preset
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 4C 00 00 00
 #
-name: 2_PRESET
+name: 2_preset
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 4D 00 00 00
 #
-name: 3_PRESET
+name: 3_preset
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 4E 00 00 00
 #
-name: VIDEO1
+name: Video1
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 4F 00 00 00
 #
-name: VIDEO2
+name: Video2
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 50 00 00 00
 #
-name: VIDEO3
+name: Video3
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 51 00 00 00
 #
-name: VIDEO4
+name: Video4
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 52 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 53 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 54 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 55 00 00 00
 #
-name: AUX1
+name: Aux1
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 56 00 00 00
 #
-name: AUX2
+name: Aux2
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 57 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 80 00 00 00
 #
-name: L/R_+_(DELAY_TIME)
+name: L/r_+_(delay_time)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 81 00 00 00
 #
-name: L/R_-_(DELAY_TIME)
+name: L/r_-_(delay_time)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 82 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 83 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 84 00 00 00
 #
-name: CENTER
+name: Center
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 85 00 00 00
 #
-name: METER
+name: Meter
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 86 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 87 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 88 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 8A 00 00 00
 #
-name: CENTER_MODE
+name: Center_mode
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 8B 00 00 00
 #
-name: FULL_MUTE
+name: Full_mute
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 8C 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 8E 00 00 00
 #
-name: ECHO
+name: Echo
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 90 00 00 00
 #
-name: L_+_(DELAY_TIME)
+name: L_+_(delay_time)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 98 00 00 00
 #
-name: L_-_(DELAY_TIME)
+name: L_-_(delay_time)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 99 00 00 00
 #
-name: R_+_(DELAY_TIME)
+name: R_+_(delay_time)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 9A 00 00 00
 #
-name: R_-_(DELAY_TIME)
+name: R_-_(delay_time)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 9B 00 00 00
 #
-name: OUT_1_^
+name: Out_1_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 9C 00 00 00
 #
-name: OUT_1_V
+name: Out_1_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 9D 00 00 00
 #
-name: OUT_2_^
+name: Out_2_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 9E 00 00 00
 #
-name: OUT_2_V
+name: Out_2_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: 9F 00 00 00
 #
-name: OUT_1_L_^
+name: Out_1_l_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: C2 00 00 00
 #
-name: OUT_1_R_^
+name: Out_1_r_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: C3 00 00 00
 #
-name: OUT_2_L_^
+name: Out_2_l_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: C4 00 00 00
 #
-name: OUT_2_R_^
+name: Out_2_r_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: C5 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: C6 00 00 00
 #
-name: STEREO_(SURR_SLCT)
+name: Stereo_(surr_slct)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: C7 00 00 00
 #
-name: DOLBY_(SURR_SLCT)
+name: Dolby_(surr_slct)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: C8 00 00 00
 #
-name: CREATION_(SURR_SLCT)
+name: Creation_(surr_slct)
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: C9 00 00 00
 #
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: CC 00 00 00
 #
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: CD 00 00 00
 #
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: CE 00 00 00
 #
-name: PRESET_4
+name: Preset_4
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: CF 00 00 00
 #
-name: PRESET_5
+name: Preset_5
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: D0 00 00 00
 #
-name: OUT_1_L_V
+name: Out_1_l_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: D1 00 00 00
 #
-name: OUT_1_R_V
+name: Out_1_r_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: D2 00 00 00
 #
-name: OUT_2_L_V
+name: Out_2_l_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: D3 00 00 00
 #
-name: OUT_2_R_V
+name: Out_2_r_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: D4 00 00 00
 #
-name: CENTER_^
+name: Center_^
 type: parsed
 protocol: NECext
 address: 0D 00 00 00
 command: D5 00 00 00
 #
-name: CENTER_V
+name: Center_v
 type: parsed
 protocol: NECext
 address: 0D 00 00 00

@@ -7,7 +7,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 3A 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 07 00 00 00

@@ -1,241 +1,241 @@
 Filetype: IR signals file
 Version: 1
 #
-name: one
+name: One
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 01 00 00 00
 #
-name: two
+name: Two
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 02 00 00 00
 #
-name: three
+name: Three
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 03 00 00 00
 #
-name: four
+name: Four
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 04 00 00 00
 #
-name: five
+name: Five
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 05 00 00 00
 #
-name: six
+name: Six
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 06 00 00 00
 #
-name: seven
+name: Seven
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 07 00 00 00
 #
-name: eight
+name: Eight
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 08 00 00 00
 #
-name: nine
+name: Nine
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 09 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0D 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0E 00 00 00
 #
-name: prev
+name: Prev
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 10 00 00 00
 #
-name: zero
+name: Zero
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 11 00 00 00
 #
-name: dash
+name: Dash
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 12 00 00 00
 #
-name: enter
+name: Enter
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 13 00 00 00
 #
-name: menu
+name: Menu
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 20 00 00 00
 #
-name: up_arrow
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 21 00 00 00
 #
-name: down_arrow
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 22 00 00 00
 #
-name: left_arrow
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 23 00 00 00
 #
-name: right_arrow
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 24 00 00 00
 #
-name: select
+name: Select
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 25 00 00 00
 #
-name: exit
+name: Exit
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 26 00 00 00
 #
-name: back
+name: Back
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 27 00 00 00
 #
-name: guide
+name: Guide
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 28 00 00 00
 #
-name: active
+name: Active
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 29 00 00 00
 #
-name: list
+name: List
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2A 00 00 00
 #
-name: info
+name: Info
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2E 00 00 00
 #
-name: play
+name: Play
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 30 00 00 00
 #
-name: stop
+name: Stop
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 31 00 00 00
 #
-name: pause
+name: Pause
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 32 00 00 00
 #
-name: rewind
+name: Rewind
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 33 00 00 00
 #
-name: ffwd
+name: Ffwd
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 34 00 00 00
 #
-name: record
+name: Record
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 35 00 00 00
 #
-name: chapt_prev
+name: Chapt_prev
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 36 00 00 00
 #
-name: chapt_next
+name: Chapt_next
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 37 00 00 00
 #
-name: red
+name: Red
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 41 00 00 00
 #
-name: yellow
+name: Yellow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 42 00 00 00
 #
-name: green
+name: Green
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 43 00 00 00
 #
-name: blue
+name: Blue
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

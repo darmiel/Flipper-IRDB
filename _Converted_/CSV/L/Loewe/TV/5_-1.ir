@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AV1
+name: Av1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 72 00 00 00
 #
-name: AV2
+name: Av2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 73 00 00 00
 #
-name: AV3
+name: Av3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 74 00 00 00
 #
-name: AVS
+name: Avs
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 75 00 00 00
 #
-name: VGA
+name: Vga
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 76 00 00 00
 #
-name: HDMI
+name: Hdmi
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 77 00 00 00
 #
-name: COMP
+name: Comp
 type: parsed
 protocol: NECext
 address: 05 00 00 00

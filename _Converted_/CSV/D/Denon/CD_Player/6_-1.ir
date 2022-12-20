@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STROBE
+name: Strobe
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 41 00 00 00
 #
-name: DIGITAL_FNR
+name: Digital_fnr
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 42 00 00 00
 #
-name: STILL_&_SOUND
+name: Still_&_sound
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 43 00 00 00
 #
-name: ART
+name: Art
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 57 00 00 00
 #
-name: SIDE_A
+name: Side_a
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 76 00 00 00
 #
-name: SIDE_B
+name: Side_b
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 77 00 00 00
 #
-name: JOG_REV
+name: Jog_rev
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 79 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 81 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 82 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 83 00 00 00
 #
-name: PLAY>/PAUSE
+name: Play>/pause
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -91,79 +91,79 @@ protocol: NECext
 address: 06 00 00 00
 command: 89 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 8A 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 8B 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 8E 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 8F 00 00 00
 #
-name: SEARCH_MODE
+name: Search_mode
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 90 00 00 00
 #
-name: DIGITAL/ANALOG/CX
+name: Digital/analog/cx
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 91 00 00 00
 #
-name: AUDIO_MONITOR
+name: Audio_monitor
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 92 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 93 00 00 00
 #
-name: INTRO_SCAN
+name: Intro_scan
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 94 00 00 00
 #
-name: MULTI_SPEED_>
+name: Multi_speed_>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 98 00 00 00
 #
-name: MULTI_SPEED_<
+name: Multi_speed_<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 99 00 00 00
 #
-name: STROBE_+
+name: Strobe_+
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 9A 00 00 00
 #
-name: STROBE_-
+name: Strobe_-
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -181,13 +181,13 @@ protocol: NECext
 address: 06 00 00 00
 command: 9D 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 9E 00 00 00
 #
-name: AUTO_SPACE
+name: Auto_space
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -247,13 +247,13 @@ protocol: NECext
 address: 06 00 00 00
 command: A9 00 00 00
 #
-name: SINGLE
+name: Single
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: B1 00 00 00
 #
-name: JOG_FWD
+name: Jog_fwd
 type: parsed
 protocol: NECext
 address: 06 00 00 00

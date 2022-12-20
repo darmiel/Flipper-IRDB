@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 03 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 09 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 0A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 0F 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 19 00 00 00
 #
-name: OFF_TIMER
+name: Off_timer
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 1E 00 00 00
 #
-name: AUTO_ADJUST
+name: Auto_adjust
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 1F 00 00 00
 #
-name: RGB/PC
+name: Rgb/pc
 type: parsed
 protocol: NECext
 address: 18 00 00 00

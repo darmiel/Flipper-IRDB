@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV/RADIO
+name: Tv/radio
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 2A 11 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 09 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
@@ -73,133 +73,133 @@ protocol: NECext
 address: 2A 11 00 00
 command: 0F 00 00 00
 #
-name: OPTIONS
+name: Options
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 20 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 21 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 22 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 23 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 24 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 25 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 26 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 28 00 00 00
 #
-name: YELLOW_BUTTON
+name: Yellow_button
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 30 00 00 00
 #
-name: BLUE_BUTTON
+name: Blue_button
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 31 00 00 00
 #
-name: APP
+name: App
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 32 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 33 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 34 00 00 00
 #
-name: FAV+
+name: Fav+
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 35 00 00 00
 #
-name: TELETEXT
+name: Teletext
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 36 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 40 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 41 00 00 00
 #
-name: RED_BUTTON
+name: Red_button
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 42 00 00 00
 #
-name: GREEN_BUTTON
+name: Green_button
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 43 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 44 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 45 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
@@ -211,19 +211,19 @@ protocol: NECext
 address: 2A 11 00 00
 command: 51 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 52 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 2A 11 00 00
 command: 53 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 2A 11 00 00

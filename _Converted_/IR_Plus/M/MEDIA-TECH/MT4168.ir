@@ -70,7 +70,7 @@ protocol: NECext
 address: BD 40 00 00
 command: B7 48 00 00
 #
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: BD 40 00 00
@@ -82,7 +82,7 @@ protocol: NECext
 address: BD 40 00 00
 command: 77 88 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: BD 40 00 00

@@ -1,229 +1,229 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 02 00 00 00
 #
-name: BRITE_UP
+name: Brite_up
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 03 00 00 00
 #
-name: BRITE_+
+name: Brite_+
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 03 00 00 00
 #
-name: BRITE_DOWN
+name: Brite_down
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 07 00 00 00
 #
-name: BRITE_-
+name: Brite_-
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 07 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 0E 00 00 00
 #
-name: SOURCE_SELECT
+name: Source_select
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 10 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 10 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 13 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 14 00 00 00
 #
-name: DN
+name: Dn
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 14 00 00 00
 #
-name: AUTO_TRACKING
+name: Auto_tracking
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 17 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 17 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 17 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 20 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 21 00 00 00
 #
-name: PRESETS
+name: Presets
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2C 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2C 00 00 00
 #
-name: SOURCE1
+name: Source1
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2D 00 00 00
 #
-name: DVI_1
+name: Dvi_1
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2D 00 00 00
 #
-name: SOURCE2
+name: Source2
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2E 00 00 00
 #
-name: RGB_2
+name: Rgb_2
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2E 00 00 00
 #
-name: SOURCE3
+name: Source3
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2F 00 00 00
 #
-name: COMPONENT_3
+name: Component_3
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 2F 00 00 00
 #
-name: SOURCE4
+name: Source4
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 30 00 00 00
 #
-name: SVHS_4
+name: Svhs_4
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 30 00 00 00
 #
-name: BLANK
+name: Blank
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 31 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 32 00 00 00
 #
-name: AUTO_IMAGE
+name: Auto_image
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 33 00 00 00
 #
-name: RESIZE
+name: Resize
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 34 00 00 00
 #
-name: OVERSCAN
+name: Overscan
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 35 00 00 00
 #
-name: CONTRAST_UP
+name: Contrast_up
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 36 00 00 00
 #
-name: CONTRAST_+
+name: Contrast_+
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 36 00 00 00
 #
-name: CONTRAST_DOWN
+name: Contrast_down
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 37 00 00 00
 #
-name: CONTRAST_-
+name: Contrast_-
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 37 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 39 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 3A 00 00 00
 #
-name: NATIVE
+name: Native
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
@@ -241,7 +241,7 @@ protocol: NECext
 address: 87 4E 00 00
 command: 3D 00 00 00
 #
-name: LETTER_BOX
+name: Letter_box
 type: parsed
 protocol: NECext
 address: 87 4E 00 00

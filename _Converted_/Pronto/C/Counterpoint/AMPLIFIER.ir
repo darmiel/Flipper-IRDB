@@ -1,169 +1,169 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LD
+name: Ld
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 872 872 1745 1745 872 872 1745 872 872 88842
 #
-name: TUNER
+name: Tuner
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 872 872 1745 1745 1745 1745 872 872 872 87997
 #
-name: SAT
+name: Sat
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 1745 872 872 872 872 1745 1745 1745 1745 1745 88842
 #
-name: VCR1
+name: Vcr1
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 872 872 1745 1745 1745 872 872 1745 872 87997
 #
-name: VCR2
+name: Vcr2
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 872 872 1745 1745 1745 872 872 872 872 88842
 #
-name: STDBY
+name: Stdby
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 1745 872 872 1745 872 872 872 872 872 872 872 872 1745 872 87997
 #
-name: TEST
+name: Test
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 872 872 872 872 1745 1745 88842
 #
-name: BYPASS
+name: Bypass
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 1745 1745 1745 872 872 872 87997
 #
-name: MUSIC
+name: Music
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 1745 872 872 1745 872 872 88842
 #
-name: PRO_LOGIC
+name: Pro_logic
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 1745 872 872 1745 1745 872 87997
 #
-name: HALL
+name: Hall
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 1745 872 872 872 872 1745 88842
 #
-name: REAR_UP
+name: Rear_up
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 1745 872 872 1745 872 872 872 872 1745 872 872 872 872 872 87997
 #
-name: REAR_DN
+name: Rear_dn
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 872 872 1745 1745 872 872 88842
 #
-name: CENTER_UP
+name: Center_up
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 872 872 1745 1745 1745 872 87997
 #
-name: CENTER_DN
+name: Center_dn
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 1745 872 872 1745 872 872 1745 1745 1745 1745 88870
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 1745 1745 872 872 1745 872 87997
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 1745 1745 872 872 872 872 88842
 #
-name: AUDIO_CD
+name: Audio_cd
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 1745 872 872 1745 1745 1745 1745 1745 1745 872 87997
 #
-name: AUDIO_VIDEO
+name: Audio_video
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 1745 872 872 1745 1745 1745 1745 1745 872 872 88842
 #
-name: AUDIO_DISC
+name: Audio_disc
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 1745 1745 1745 872 872 872 872 872 87997
 #
-name: AUDIO_CABLE
+name: Audio_cable
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 1745 872 872 872 872 1745 1745 872 87997
 #
-name: AUDIO_TUNER
+name: Audio_tuner
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 1745 872 872 872 872 872 872 1745 88842
 #
-name: AUDIO_TAPE1
+name: Audio_tape1
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 1745 872 872 872 872 1745 872 872 88842
 #
-name: AUDIO_TAPE2
+name: Audio_tape2
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 1745 872 872 1745 1745 872 872 872 87997
 #
-name: AUDIO_AUX
+name: Audio_aux
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 1745 872 872 1745 1745 872 872 1745 1745 1745 88842
 #
-name: AUDIO_MUTE
+name: Audio_mute
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 1745 1745 872 872 872 872 1745 872 87997
 #
-name: AUDIO_VOL+
+name: Audio_vol+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 1745 872 872 1745 872 872 872 872 88842
 #
-name: AUDIO_VOL-
+name: Audio_vol-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000

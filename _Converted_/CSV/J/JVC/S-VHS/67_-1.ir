@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOPP
+name: Stopp
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 03 00 00 00
 #
-name: SPOLA_>>
+name: Spola_>>
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 06 00 00 00
 #
-name: SPOLA_<<
+name: Spola_<<
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 07 00 00 00
 #
-name: POWER_ON-OFF
+name: Power_on-off
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0D 00 00 00
 #
-name: GER
+name: Ger
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 14 00 00 00
 #
-name: NSTER
+name: Nster
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 15 00 00 00
 #
-name: CURSOR_NER/CH-
+name: Cursor_ner/ch-
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 18 00 00 00
 #
-name: CURSOR_UPP/CH+
+name: Cursor_upp/ch+
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -115,25 +115,25 @@ protocol: NECext
 address: 43 00 00 00
 command: 29 00 00 00
 #
-name: 0/AUX
+name: 0/aux
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 33 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 37 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 3C 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 43 00 00 00

@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON/OFF
+name: Power_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: M-POWER
+name: M-power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: SOURCE_ON/OFF
+name: Source_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: POWER_(TOGGLE)
+name: Power_(toggle)
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE_ON/OFF
+name: Mute_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: AUDIO_MUTE_-_ATT
+name: Audio_mute_-_att
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: OSD_INFO
+name: Osd_info
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: 0EN4
+name: 0en4
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: OSD_INFO._DISPLAY
+name: Osd_info._display
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: AMP_-_OSD
+name: Amp_-_osd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: MAIN_VOL_UP
+name: Main_vol_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: MASTER_VOLUME_UP
+name: Master_volume_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL_+
+name: Vol_+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: MAIN_VOLUME_UP
+name: Main_volume_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: MAIN_VOL_DOWN
+name: Main_vol_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -139,37 +139,37 @@ protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: MASTER_VOLUME_DOWN
+name: Master_volume_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: VOL_-
+name: Vol_-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: MAIN_VOLUME_DOWN
+name: Main_volume_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: BASS_+
+name: Bass_+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 16 00 00 00
 #
-name: BASS_++
+name: Bass_++
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -181,241 +181,241 @@ protocol: NECext
 address: 10 00 00 00
 command: 16 00 00 00
 #
-name: BASS_UP
+name: Bass_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 16 00 00 00
 #
-name: BASS+
+name: Bass+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 16 00 00 00
 #
-name: BASS_-
+name: Bass_-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 17 00 00 00
 #
-name: BASS--
+name: Bass--
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 17 00 00 00
 #
-name: BASS_DOWN
+name: Bass_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 17 00 00 00
 #
-name: BASS-
+name: Bass-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 17 00 00 00
 #
-name: TREBLE_+
+name: Treble_+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 18 00 00 00
 #
-name: TREB_++
+name: Treb_++
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 18 00 00 00
 #
-name: TREB_+
+name: Treb_+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 18 00 00 00
 #
-name: TREBLE_UP
+name: Treble_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 18 00 00 00
 #
-name: TREBLE-
+name: Treble-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 18 00 00 00
 #
-name: TREBLE+
+name: Treble+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 18 00 00 00
 #
-name: TREBLE_-
+name: Treble_-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 19 00 00 00
 #
-name: TREB--
+name: Treb--
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 19 00 00 00
 #
-name: TREB_-
+name: Treb_-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 19 00 00 00
 #
-name: TREBLE_DOWN
+name: Treble_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 19 00 00 00
 #
-name: TREBLE+
+name: Treble+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 19 00 00 00
 #
-name: TREBLE-
+name: Treble-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 19 00 00 00
 #
-name: BALANCE_RIGHT
+name: Balance_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1A 00 00 00
 #
-name: BAL_>
+name: Bal_>
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1A 00 00 00
 #
-name: BALANCE_LEFT
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1B 00 00 00
 #
-name: DC_TRIGGER-1_ON
+name: Dc_trigger-1_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1B 00 00 00
 #
-name: BAL_<
+name: Bal_<
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1B 00 00 00
 #
-name: SPEAKER_SEL.
+name: Speaker_sel.
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1D 00 00 00
 #
-name: SPKR_MODE
+name: Spkr_mode
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1D 00 00 00
 #
-name: SPKR_A/B
+name: Spkr_a/b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1D 00 00 00
 #
-name: SPKR_A_/_B
+name: Spkr_a_/_b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1D 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1D 00 00 00
 #
-name: SPEAKER_A-B
+name: Speaker_a-b
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1D 00 00 00
 #
-name: SOURCE_DIRECT
+name: Source_direct
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: SOURCE_DIRECT_-_PURE
+name: Source_direct_-_pure
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: PURE_DIRECT
+name: Pure_direct
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: P._DIRECT
+name: P._direct
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: MODE_-_DIRECT
+name: Mode_-_direct
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: DIRECT
+name: Direct
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: S-DIRECT
+name: S-direct
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: SPEAKER_A_ON/OFF
+name: Speaker_a_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 23 00 00 00
 #
-name: SPEAKER-A_ON/OFF
+name: Speaker-a_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 23 00 00 00
 #
-name: SORROUND_MODE
+name: Sorround_mode
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -427,289 +427,289 @@ protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: MODE_-_SURROUND
+name: Mode_-_surround
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 26 00 00 00
 #
-name: SPEAKER_B_ON/OFF
+name: Speaker_b_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 27 00 00 00
 #
-name: SPEAKER-B_ON/OFF
+name: Speaker-b_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 27 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: CURSOR_+
+name: Cursor_+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: CURSOR_-_UP
+name: Cursor_-_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: SELECT_DOWN
+name: Select_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: SELECT_UP
+name: Select_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: CURSOR-
+name: Cursor-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: DOWN_ARROW
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: CURSOR_-_DOWN
+name: Cursor_-_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: OK/OSD_MENU
+name: Ok/osd_menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: OSD_MENU_ON/OK
+name: Osd_menu_on/ok
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: ARROW_ENTER
+name: Arrow_enter
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: AMP_-_ENTER
+name: Amp_-_enter
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: AMP_-_MENU
+name: Amp_-_menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: CURSOR_SELECT
+name: Cursor_select
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: CURSOR_-_OK
+name: Cursor_-_ok
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: EXIT_MENU
+name: Exit_menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 53 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 53 00 00 00
 #
-name: AMP_-_MENU_OFF
+name: Amp_-_menu_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 53 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: LEFT_ARROW
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: CURSOR_-_LEFT
+name: Cursor_-_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: SELECT_LEFT
+name: Select_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: RIGHT_ARROW
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: CURSOR_-_RIGHT
+name: Cursor_-_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: SELECT_RIGHT
+name: Select_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 57 00 00 00
 #
-name: ENTER_(OK)
+name: Enter_(ok)
 type: parsed
 protocol: NECext
 address: 10 00 00 00

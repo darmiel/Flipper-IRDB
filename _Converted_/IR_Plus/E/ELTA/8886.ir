@@ -88,7 +88,7 @@ protocol: NECext
 address: FE 01 00 00
 command: 3F C0 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FE 01 00 00
@@ -106,7 +106,7 @@ protocol: NECext
 address: FE 01 00 00
 command: 5F A0 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FE 01 00 00

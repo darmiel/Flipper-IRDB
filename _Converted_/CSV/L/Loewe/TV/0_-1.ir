@@ -121,253 +121,253 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: PIP_ON/OFF
+name: Pip_on/off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: INPUT_TOGGLE
+name: Input_toggle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: INOUT
+name: Inout
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: PIP_AUDIO_MONITOR
+name: Pip_audio_monitor
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: MENU_KEY
+name: Menu_key
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: M_(MENY)
+name: M_(meny)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: TV_ON/OFF
+name: Tv_on/off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: POWER:_ON
+name: Power:_on
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: FAVORITE
+name: Favorite
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: GER
+name: Ger
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: CURSOR
+name: Cursor
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: NSTER
+name: Nster
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: INPUT:_COMPONENT_1
+name: Input:_component_1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: VID_1C_/_ANT_A
+name: Vid_1c_/_ant_a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: VGA
+name: Vga
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: TV_ON
+name: Tv_on
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: PROGRAM_-
+name: Program_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: PROGRAM_+
+name: Program_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: TV_OFF
+name: Tv_off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: WINDOW
+name: Window
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: N_KNAPP
+name: N_knapp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -379,61 +379,61 @@ protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: FORMAT
+name: Format
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: D_KNAPP
+name: D_knapp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: INPUT_VCR
+name: Input_vcr
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: INPUT_DVD
+name: Input_dvd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: INPUT:_FRONT
+name: Input:_front
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: FRONT_/_VID_1C
+name: Front_/_vid_1c
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -445,13 +445,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CURSOR_UPP
+name: Cursor_upp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -463,163 +463,163 @@ protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: CURSOR_NER
+name: Cursor_ner
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: INPUT:_VIDEO_2
+name: Input:_video_2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: POWER:_OFF
+name: Power:_off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: BILDMENY
+name: Bildmeny
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: INPUT:_ANT_B
+name: Input:_ant_b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: INPUT_SAT
+name: Input_sat
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: STB
+name: Stb
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: INPUT:_ANTENNA_A
+name: Input:_antenna_a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: ANT_A
+name: Ant_a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: INPUT_STB
+name: Input_stb
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: I_(INFO)
+name: I_(info)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: SWAP
+name: Swap
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: KNAPP
+name: Knapp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: GUL_KNAPP
+name: Gul_knapp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: INFO_2
+name: Info_2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: ASSIST+MENU
+name: Assist+menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: EDIT_FAVORITES
+name: Edit_favorites
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -631,337 +631,337 @@ protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: ASSIST
+name: Assist
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: INPUT:_2_(2)
+name: Input:_2_(2)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 33 00 00 00
 #
-name: INPUT:_VIDEO_2_2ND
+name: Input:_video_2_2nd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 33 00 00 00
 #
-name: INPUT:_S-VIDEO_1
+name: Input:_s-video_1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: VID_1S
+name: Vid_1s
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: RADIO_MODE
+name: Radio_mode
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: LJUDMENY
+name: Ljudmeny
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: SAT_RADIO
+name: Sat_radio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: INPUT:_RGB_1080I
+name: Input:_rgb_1080i
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: INPUT:_RGB_480P
+name: Input:_rgb_480p
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: INPUT:_DVD_480P
+name: Input:_dvd_480p
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: TELETEXT
+name: Teletext
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: T_(TEXT)
+name: T_(text)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: END_KEY
+name: End_key
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: E_(EXIT)
+name: E_(exit)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: END
+name: End
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: SOUND_MENU
+name: Sound_menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 40 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 40 00 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 40 00 00 00
 #
-name: TV_MODE_ON
+name: Tv_mode_on
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 48 00 00 00
 #
-name: RADIO_MODE_ON
+name: Radio_mode_on
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 49 00 00 00
 #
-name: AV_INPUT_MENU
+name: Av_input_menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4A 00 00 00
 #
-name: INPUT_AV
+name: Input_av
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4A 00 00 00
 #
-name: EPG2
+name: Epg2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4E 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4E 00 00 00
 #
-name: *_EPG
+name: *_epg
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4E 00 00 00
 #
-name: INFO_KEY
+name: Info_key
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4F 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 4F 00 00 00
 #
-name: PIP_#
+name: Pip_#
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 58 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 58 00 00 00
 #
-name: #_PIP
+name: #_pip
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 58 00 00 00
 #
-name: ASPECT_RATIO
+name: Aspect_ratio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5A 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5A 00 00 00
 #
-name: FORMAT
+name: Format
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5A 00 00 00
 #
-name: TIMER_DIALOG
+name: Timer_dialog
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5B 00 00 00
 #
-name: REC_MENU
+name: Rec_menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5B 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5B 00 00 00
 #
-name: DR+_ARCHIVE
+name: Dr+_archive
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 5C 00 00 00
 #
-name: INPUT:_VGA
+name: Input:_vga
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6E 00 00 00
 #
-name: INPUT:_VIDEO_3
+name: Input:_video_3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 6F 00 00 00
 #
-name: INPUT:_DVI
+name: Input:_dvi
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 70 00 00 00
 #
-name: INPUT:_COMPONENT_2
+name: Input:_component_2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 71 00 00 00
 #
-name: AV1
+name: Av1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 72 00 00 00
 #
-name: AV2
+name: Av2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 73 00 00 00
 #
-name: AV3
+name: Av3
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 74 00 00 00
 #
-name: AVS
+name: Avs
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 75 00 00 00
 #
-name: VGA
+name: Vga
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 76 00 00 00
 #
-name: HDMI_1
+name: Hdmi_1
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 77 00 00 00
 #
-name: COMPONENT
+name: Component
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 78 00 00 00
 #
-name: HDMI_2
+name: Hdmi_2
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 79 00 00 00
 #
-name: HDMI_3
+name: Hdmi_3
 type: parsed
 protocol: NECext
 address: 00 00 00 00

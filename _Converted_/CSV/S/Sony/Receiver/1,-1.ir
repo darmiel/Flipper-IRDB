@@ -61,7 +61,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 40 00 00 00
 #
-name: PROFILE
+name: Profile
 type: parsed
 protocol: NECext
 address: 01 00 00 00

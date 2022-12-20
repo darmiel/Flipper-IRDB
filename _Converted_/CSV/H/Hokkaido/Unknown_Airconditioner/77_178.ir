@@ -1,349 +1,349 @@
 Filetype: IR signals file
 Version: 1
 #
-name: off
+name: Off
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: DE 00 00 00
 #
-name: fanlow
+name: Fanlow
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool17low
+name: Cool17low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool18low
+name: Cool18low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool19low
+name: Cool19low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool20low
+name: Cool20low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool21low
+name: Cool21low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool22low
+name: Cool22low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool23low
+name: Cool23low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool24low
+name: Cool24low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: cool25low
+name: Cool25low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat17low
+name: Heat17low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat18low
+name: Heat18low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat19low
+name: Heat19low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat20low
+name: Heat20low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat21low
+name: Heat21low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat22low
+name: Heat22low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat23low
+name: Heat23low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat24low
+name: Heat24low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: heat25low
+name: Heat25low
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: F9 00 00 00
 #
-name: fanmed
+name: Fanmed
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool17med
+name: Cool17med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool18med
+name: Cool18med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool19med
+name: Cool19med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool20med
+name: Cool20med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool21med
+name: Cool21med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool22med
+name: Cool22med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool23med
+name: Cool23med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool24med
+name: Cool24med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: cool25med
+name: Cool25med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat17med
+name: Heat17med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat18med
+name: Heat18med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat19med
+name: Heat19med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat20med
+name: Heat20med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat21med
+name: Heat21med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat22med
+name: Heat22med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat23med
+name: Heat23med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat24med
+name: Heat24med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: heat25med
+name: Heat25med
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FA 00 00 00
 #
-name: fanhigh
+name: Fanhigh
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool17high
+name: Cool17high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool18high
+name: Cool18high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool19high
+name: Cool19high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool20high
+name: Cool20high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool21high
+name: Cool21high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool22high
+name: Cool22high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool23high
+name: Cool23high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool24high
+name: Cool24high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: cool25high
+name: Cool25high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat17high
+name: Heat17high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat18high
+name: Heat18high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat19high
+name: Heat19high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat20high
+name: Heat20high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat21high
+name: Heat21high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat22high
+name: Heat22high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat23high
+name: Heat23high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat24high
+name: Heat24high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00
 command: FC 00 00 00
 #
-name: heat25high
+name: Heat25high
 type: parsed
 protocol: NECext
 address: 4D B2 00 00

@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNEL_/_PAGE_UP
+name: Channel_/_page_up
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 00 00 00 00
 #
-name: CHANNEL_/_PAGE_DOWN
+name: Channel_/_page_down
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 01 00 00 00
 #
-name: CUR_UP
+name: Cur_up
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 04 00 00 00
 #
-name: CUR_DOWN
+name: Cur_down
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 05 00 00 00
 #
-name: CUR_RIGHT
+name: Cur_right
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 06 00 00 00
 #
-name: CUR_LEFT
+name: Cur_left
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 07 00 00 00
 #
-name: POWER_(TOGGLE)
+name: Power_(toggle)
 type: parsed
 protocol: NECext
 address: F7 00 00 00
@@ -103,79 +103,79 @@ protocol: NECext
 address: F7 00 00 00
 command: 19 00 00 00
 #
-name: PREV-CHAN
+name: Prev-chan
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 1A 00 00 00
 #
-name: SURF
+name: Surf
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 1E 00 00 00
 #
-name: CC/DATE
+name: Cc/date
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 39 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 43 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 44 00 00 00
 #
-name: -_(DASH)
+name: -_(dash)
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 4C 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 5B 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 65 00 00 00
 #
-name: RATIO
+name: Ratio
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 79 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 81 00 00 00
 #
-name: SIGNAL
+name: Signal
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: 96 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: A9 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: F7 00 00 00

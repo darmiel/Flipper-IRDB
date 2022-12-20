@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 01 00 00 00
 #
-name: backlight
+name: Backlight
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 02 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 03 00 00 00
 #
-name: irisopen
+name: Irisopen
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 04 00 00 00
 #
-name: preset
+name: Preset
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 06 00 00 00
 #
-name: id
+name: Id
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 07 00 00 00
 #
-name: irisclose
+name: Irisclose
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 08 00 00 00
 #
-name: focusnear
+name: Focusnear
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 20 00 00 00
 command: 0B 00 00 00
 #
-name: irisauto
+name: Irisauto
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0C 00 00 00
 #
-name: focusfar
+name: Focusfar
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 0F 00 00 00
 #
-name: focusauto
+name: Focusauto
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -103,55 +103,55 @@ protocol: NECext
 address: 20 00 00 00
 command: 13 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 16 00 00 00
 #
-name: cursor
+name: Cursor
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 17 00 00 00
 #
-name: tele
+name: Tele
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 18 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 19 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1A 00 00 00
 #
-name: wide
+name: Wide
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1C 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1D 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1E 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 20 00 00 00

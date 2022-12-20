@@ -61,25 +61,25 @@ protocol: NECext
 address: 20 00 00 00
 command: 09 00 00 00
 #
-name: VolUp
+name: Volup
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0A 00 00 00
 #
-name: VolDown
+name: Voldown
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0B 00 00 00
 #
-name: ChanUp
+name: Chanup
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0C 00 00 00
 #
-name: ChanDown
+name: Chandown
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -115,37 +115,37 @@ protocol: NECext
 address: 20 00 00 00
 command: 13 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 14 00 00 00
 #
-name: PgUp
+name: Pgup
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 17 00 00 00
 #
-name: PgDown
+name: Pgdown
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 18 00 00 00
 #
-name: FavChan
+name: Favchan
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 1E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 26 00 00 00
 #
-name: Tv_Radio
+name: Tv_radio
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -199,7 +199,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 2C 00 00 00
 #
-name: PreChan
+name: Prechan
 type: parsed
 protocol: NECext
 address: 20 00 00 00

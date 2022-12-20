@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 07 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 08 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 09 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -31,19 +31,19 @@ protocol: NECext
 address: 1B 00 00 00
 command: 0B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0C 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0E 00 00 00
 #
-name: BUY
+name: Buy
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -109,31 +109,31 @@ protocol: NECext
 address: 1B 00 00 00
 command: 19 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 21 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

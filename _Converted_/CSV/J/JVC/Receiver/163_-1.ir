@@ -1,457 +1,457 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SLEEP_TIMER
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 03 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 03 00 00 00
 #
-name: TV_SLEEP
+name: Tv_sleep
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 03 00 00 00
 #
-name: SLEEP_(SHIFT+3)
+name: Sleep_(shift+3)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 03 00 00 00
 #
-name: DAP_PRO_LOGIN_ON/OFF
+name: Dap_pro_login_on/off
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 05 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 05 00 00 00
 #
-name: SURROUND_ON/OFF
+name: Surround_on/off
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 05 00 00 00
 #
-name: SURR_REAR_ON/OFF(-)
+name: Surr_rear_on/off(-)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 05 00 00 00
 #
-name: ACCOUSTIC_EXPANDER
+name: Accoustic_expander
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 05 00 00 00
 #
-name: DAP(PROCESS)POWER
+name: Dap(process)power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 05 00 00 00
 #
-name: DAPDOLBY_ON/OFF
+name: Dapdolby_on/off
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 05 00 00 00
 #
-name: DAT
+name: Dat
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 06 00 00 00
 #
-name: TAPE_2
+name: Tape_2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: TAPE_2_SOURCE_SELECT
+name: Tape_2_source_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: TAPE_2/VIDEO_SOUND
+name: Tape_2/video_sound
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: VIDEO_SOUND
+name: Video_sound
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: TAPE2
+name: Tape2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: TAPE2/VIDEO_SOUND
+name: Tape2/video_sound
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: SOURCE_SELECT_TAPE_2
+name: Source_select_tape_2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: SOURCE_SLCT_TAPE2
+name: Source_slct_tape2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: TAPE2_MONITOR
+name: Tape2_monitor
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 07 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 08 00 00 00
 #
-name: FM_SOURCE_SELECT
+name: Fm_source_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 08 00 00 00
 #
-name: SOURCE_SELECT_FM
+name: Source_select_fm
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 08 00 00 00
 #
-name: SOURCE_SLCT_FM
+name: Source_slct_fm
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 08 00 00 00
 #
-name: INPUT_-_FM
+name: Input_-_fm
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 08 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 09 00 00 00
 #
-name: AM_SOURCE_SELECT
+name: Am_source_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 09 00 00 00
 #
-name: SOURCE_SELECT_AM
+name: Source_select_am
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 09 00 00 00
 #
-name: SOURCE_SLCT_AM
+name: Source_slct_am
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 09 00 00 00
 #
-name: INPUT_-_AM
+name: Input_-_am
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 09 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 0B 00 00 00
 #
-name: DAP_L_BALANCE
+name: Dap_l_balance
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 0E 00 00 00
 #
-name: DAP_R_BALANCE
+name: Dap_r_balance
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 0F 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 10 00 00 00
 #
-name: TVSOUND
+name: Tvsound
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 10 00 00 00
 #
-name: INPUT_-_TV
+name: Input_-_tv
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 10 00 00 00
 #
-name: VTR
+name: Vtr
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 11 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 11 00 00 00
 #
-name: INPUT_-_VCR
+name: Input_-_vcr
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 11 00 00 00
 #
-name: AUX-1_(VIDEO)
+name: Aux-1_(video)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 12 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 12 00 00 00
 #
-name: VCR2_POWER
+name: Vcr2_power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 12 00 00 00
 #
-name: VIDEO2
+name: Video2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 13 00 00 00
 #
-name: VTR_SOUND_SELECTOR
+name: Vtr_sound_selector
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 15 00 00 00
 #
-name: SOUND_SELECTOR
+name: Sound_selector
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 15 00 00 00
 #
-name: AUDIO_POWER
+name: Audio_power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 17 00 00 00
 #
-name: AM/FM_DOWN_-
+name: Am/fm_down_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 18 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 18 00 00 00
 #
-name: AM/FM_PRESET_CH_-
+name: Am/fm_preset_ch_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 18 00 00 00
 #
-name: AM/FM_PRESET_-
+name: Am/fm_preset_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 18 00 00 00
 #
-name: FM/AM_PRESET_-
+name: Fm/am_preset_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 18 00 00 00
 #
-name: AM/FM_TUNER_PRE(-[])
+name: Am/fm_tuner_pre(-[])
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 18 00 00 00
 #
-name: AM/FM_UP_+
+name: Am/fm_up_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 19 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 19 00 00 00
 #
-name: AM/FM_PRESET_CH_+
+name: Am/fm_preset_ch_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 19 00 00 00
 #
-name: AM/FM_PRESET_+
+name: Am/fm_preset_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 19 00 00 00
 #
-name: FM/AM_PRESET_+
+name: Fm/am_preset_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 19 00 00 00
 #
-name: AM/FM_TUNER_PRE(+>)
+name: Am/fm_tuner_pre(+>)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 19 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1C 00 00 00
 #
-name: FADE_MUTING
+name: Fade_muting
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1C 00 00 00
 #
-name: FADE_MUTE
+name: Fade_mute
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1C 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1E 00 00 00
 #
-name: RCVR_VOL+
+name: Rcvr_vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1E 00 00 00
 #
-name: MAIN_VOL+
+name: Main_vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1E 00 00 00
 #
-name: MASTER_VOL+
+name: Master_vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1F 00 00 00
 #
-name: RCVR_VOL-
+name: Rcvr_vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1F 00 00 00
 #
-name: MAIN_VOL-
+name: Main_vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1F 00 00 00
 #
-name: MASTER_VOL-
+name: Master_vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1F 00 00 00
 #
-name: TUNER_100
+name: Tuner_100
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 20 00 00 00
 #
-name: FM/AM_0/10
+name: Fm/am_0/10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 20 00 00 00
 #
-name: AM/FM_0
+name: Am/fm_0
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -463,43 +463,43 @@ protocol: NECext
 address: A3 00 00 00
 command: 20 00 00 00
 #
-name: TUNER_100_MAG.PR
+name: Tuner_100_mag.pr
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 20 00 00 00
 #
-name: FM/AM_0
+name: Fm/am_0
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 20 00 00 00
 #
-name: AM/FM_1
+name: Am/fm_1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 21 00 00 00
 #
-name: TUNER_101
+name: Tuner_101
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 21 00 00 00
 #
-name: PHONO_PLAY_>
+name: Phono_play_>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 21 00 00 00
 #
-name: FM/AM_1
+name: Fm/am_1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 21 00 00 00
 #
-name: AM/FM_1(63HZ)
+name: Am/fm_1(63hz)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -511,37 +511,37 @@ protocol: NECext
 address: A3 00 00 00
 command: 21 00 00 00
 #
-name: TUNER_101_63HZ
+name: Tuner_101_63hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 21 00 00 00
 #
-name: AM/FM_2
+name: Am/fm_2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 22 00 00 00
 #
-name: TUNER_102
+name: Tuner_102
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 22 00 00 00
 #
-name: PHONO_STOP_[]
+name: Phono_stop_[]
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 22 00 00 00
 #
-name: FM/AM_2
+name: Fm/am_2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 22 00 00 00
 #
-name: AM/FM_2(160HZ)
+name: Am/fm_2(160hz)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -553,31 +553,31 @@ protocol: NECext
 address: A3 00 00 00
 command: 22 00 00 00
 #
-name: TUNER_102_160HZ
+name: Tuner_102_160hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 22 00 00 00
 #
-name: AM/FM_3
+name: Am/fm_3
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 23 00 00 00
 #
-name: TUNER_103
+name: Tuner_103
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 23 00 00 00
 #
-name: FM/AM_3
+name: Fm/am_3
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 23 00 00 00
 #
-name: AM/FM_3(400HZ)
+name: Am/fm_3(400hz)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -589,31 +589,31 @@ protocol: NECext
 address: A3 00 00 00
 command: 23 00 00 00
 #
-name: TUNER_103_400HZ
+name: Tuner_103_400hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 23 00 00 00
 #
-name: AM/FM_4
+name: Am/fm_4
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 24 00 00 00
 #
-name: TUNER_104
+name: Tuner_104
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 24 00 00 00
 #
-name: FM/AM_4
+name: Fm/am_4
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 24 00 00 00
 #
-name: AM/FM_4(1KHZ)
+name: Am/fm_4(1khz)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -625,31 +625,31 @@ protocol: NECext
 address: A3 00 00 00
 command: 24 00 00 00
 #
-name: TUNER_104_1KHZ
+name: Tuner_104_1khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 24 00 00 00
 #
-name: AM/FM_5
+name: Am/fm_5
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 25 00 00 00
 #
-name: TUNER_105
+name: Tuner_105
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 25 00 00 00
 #
-name: FM/AM_5
+name: Fm/am_5
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 25 00 00 00
 #
-name: AM/FM_5(2.5KHZ)
+name: Am/fm_5(2.5khz)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -661,31 +661,31 @@ protocol: NECext
 address: A3 00 00 00
 command: 25 00 00 00
 #
-name: TUNER_105_2.5KHZ
+name: Tuner_105_2.5khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 25 00 00 00
 #
-name: AM/FM_6
+name: Am/fm_6
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 26 00 00 00
 #
-name: TUNER_106
+name: Tuner_106
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 26 00 00 00
 #
-name: FM/AM_6
+name: Fm/am_6
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 26 00 00 00
 #
-name: AM/FM_6(6.3KHZ)
+name: Am/fm_6(6.3khz)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -697,55 +697,55 @@ protocol: NECext
 address: A3 00 00 00
 command: 26 00 00 00
 #
-name: TUNER_106_6.3KHZ
+name: Tuner_106_6.3khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 26 00 00 00
 #
-name: AM/FM_7
+name: Am/fm_7
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: TUNER_107
+name: Tuner_107
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: AM/FM_7/P
+name: Am/fm_7/p
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: FM/AM_7
+name: Fm/am_7
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: AM/FM_7/P(16KHZ)
+name: Am/fm_7/p(16khz)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: 7/P
+name: 7/p
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: TUNER_107/P_16KZ
+name: Tuner_107/p_16kz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: FM/AM_7/P
+name: Fm/am_7/p
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -757,13 +757,13 @@ protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: AM/FM_8
+name: Am/fm_8
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 28 00 00 00
 #
-name: TUNER_108
+name: Tuner_108
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -775,25 +775,25 @@ protocol: NECext
 address: A3 00 00 00
 command: 28 00 00 00
 #
-name: FM/AM_8
+name: Fm/am_8
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 28 00 00 00
 #
-name: TUNER_108_-SEA
+name: Tuner_108_-sea
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 28 00 00 00
 #
-name: AM/FM_9
+name: Am/fm_9
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 29 00 00 00
 #
-name: TUNER_109
+name: Tuner_109
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -805,25 +805,25 @@ protocol: NECext
 address: A3 00 00 00
 command: 29 00 00 00
 #
-name: FM/AM_9
+name: Fm/am_9
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 29 00 00 00
 #
-name: TUNER_109_+SEA
+name: Tuner_109_+sea
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 29 00 00 00
 #
-name: AM/FM_10
+name: Am/fm_10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 2A 00 00 00
 #
-name: TUNER_1010
+name: Tuner_1010
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -835,19 +835,19 @@ protocol: NECext
 address: A3 00 00 00
 command: 2A 00 00 00
 #
-name: FM/AM_10
+name: Fm/am_10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 2A 00 00 00
 #
-name: AM/FM_+10
+name: Am/fm_+10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 2F 00 00 00
 #
-name: TUNER_10+10
+name: Tuner_10+10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -865,19 +865,19 @@ protocol: NECext
 address: A3 00 00 00
 command: 2F 00 00 00
 #
-name: TUNER_10+10_PRGM
+name: Tuner_10+10_prgm
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 2F 00 00 00
 #
-name: FM/AM_10+
+name: Fm/am_10+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 2F 00 00 00
 #
-name: FM/AM_+10
+name: Fm/am_+10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
@@ -889,895 +889,895 @@ protocol: NECext
 address: A3 00 00 00
 command: 2F 00 00 00
 #
-name: SEA_ON/OFF_SEA
+name: Sea_on/off_sea
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 30 00 00 00
 #
-name: SEA_ON/OFF
+name: Sea_on/off
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 30 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 30 00 00 00
 #
-name: SEA_SOURCE
+name: Sea_source
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 30 00 00 00
 #
-name: SEA_LEVEL_ON/OFF
+name: Sea_level_on/off
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 30 00 00 00
 #
-name: SEA_63_HZ
+name: Sea_63_hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 31 00 00 00
 #
-name: SEA_CON._63HZ
+name: Sea_con._63hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 31 00 00 00
 #
-name: CONTROL_1_63HZ
+name: Control_1_63hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 31 00 00 00
 #
-name: SEA_63HZ(1)
+name: Sea_63hz(1)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 31 00 00 00
 #
-name: SEA_160_HZ
+name: Sea_160_hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 32 00 00 00
 #
-name: SEA_CON._160HZ
+name: Sea_con._160hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 32 00 00 00
 #
-name: CONTROL_2_160HZ
+name: Control_2_160hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 32 00 00 00
 #
-name: SEA_160HZ(2)
+name: Sea_160hz(2)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 32 00 00 00
 #
-name: SEA_400_HZ
+name: Sea_400_hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 33 00 00 00
 #
-name: SEA_CON._400HZ
+name: Sea_con._400hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 33 00 00 00
 #
-name: CONTROL_3_400HZ
+name: Control_3_400hz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 33 00 00 00
 #
-name: SEA_400HZ(3)
+name: Sea_400hz(3)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 33 00 00 00
 #
-name: SEA_1KHZ
+name: Sea_1khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 34 00 00 00
 #
-name: SEA_CON._1KHZ
+name: Sea_con._1khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 34 00 00 00
 #
-name: CONTROL_4_1KHZ
+name: Control_4_1khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 34 00 00 00
 #
-name: SEA_1KHZ(4)
+name: Sea_1khz(4)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 34 00 00 00
 #
-name: SEA_2.5_KHZ
+name: Sea_2.5_khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 35 00 00 00
 #
-name: SEA_CON._2.5KHZ
+name: Sea_con._2.5khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 35 00 00 00
 #
-name: CONTROL_5_2.5KHZ
+name: Control_5_2.5khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 35 00 00 00
 #
-name: SEA_25KHZ(5)
+name: Sea_25khz(5)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 35 00 00 00
 #
-name: SEA_6.3_KHZ
+name: Sea_6.3_khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 36 00 00 00
 #
-name: SEA_CON._6.3KHZ
+name: Sea_con._6.3khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 36 00 00 00
 #
-name: CONTROL_6_6.3KHZ
+name: Control_6_6.3khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 36 00 00 00
 #
-name: SEA_63KHZ(6)
+name: Sea_63khz(6)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 36 00 00 00
 #
-name: SEA_16_KHZ
+name: Sea_16_khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 37 00 00 00
 #
-name: SEA_CON._16KHZ
+name: Sea_con._16khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 37 00 00 00
 #
-name: CONTROL_7/P_16KHZ
+name: Control_7/p_16khz
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 37 00 00 00
 #
-name: SEA_16KHZ(7)
+name: Sea_16khz(7)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 37 00 00 00
 #
-name: SEA_PRESET_SEA
+name: Sea_preset_sea
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 38 00 00 00
 #
-name: SEA_PRESET
+name: Sea_preset
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 38 00 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 38 00 00 00
 #
-name: SEA_MODE
+name: Sea_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 38 00 00 00
 #
-name: SEA_LVL_PRESET()
+name: Sea_lvl_preset()
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 38 00 00 00
 #
-name: SEA_MODE_(+10)
+name: Sea_mode_(+10)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 38 00 00 00
 #
-name: SEA_UP_+
+name: Sea_up_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3A 00 00 00
 #
-name: SEA_CON._SEA_LEVEL_+
+name: Sea_con._sea_level_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3A 00 00 00
 #
-name: CONTROL_9_+_SEA_LEV.
+name: Control_9_+_sea_lev.
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3A 00 00 00
 #
-name: SEA_LEVEL_+
+name: Sea_level_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3A 00 00 00
 #
-name: SEA_LEVEL_(+>)
+name: Sea_level_(+>)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3A 00 00 00
 #
-name: SEA_DOWN_-
+name: Sea_down_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3B 00 00 00
 #
-name: SEA_CON._SEA_LEVEL_-
+name: Sea_con._sea_level_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3B 00 00 00
 #
-name: CONTROL_8_-_SEA_LEV.
+name: Control_8_-_sea_lev.
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3B 00 00 00
 #
-name: SEA_LEVEL_-
+name: Sea_level_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3B 00 00 00
 #
-name: SEA_LVL_FREQ(-[])
+name: Sea_lvl_freq(-[])
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3B 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: PHONO_SOURCE_SELECT
+name: Phono_source_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: PHONO_PLAY_>
+name: Phono_play_>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: SOURCE_SELECT_PHONO
+name: Source_select_phono
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: SOURCE_SLCT_PHONO
+name: Source_slct_phono
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3D 00 00 00
 #
-name: CD_SOURCE_SELECT
+name: Cd_source_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3D 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3D 00 00 00
 #
-name: SOURCE_SELECT_CD
+name: Source_select_cd
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3D 00 00 00
 #
-name: SOURCE_SLCT_CD
+name: Source_slct_cd
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3D 00 00 00
 #
-name: AUX-2_(AUDIO)
+name: Aux-2_(audio)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3E 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: TAPE_1_SOURCE_SELECT
+name: Tape_1_source_select
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: TAPE1_PLAY_>
+name: Tape1_play_>
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: SOURCE_SELECT_TAPE_1
+name: Source_select_tape_1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: SOURCE_SLCT_TAPE1
+name: Source_slct_tape1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: TAPE1
+name: Tape1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 43 00 00 00
 #
-name: VIDEO1
+name: Video1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 43 00 00 00
 #
-name: INPUT_-_DVR/DVD
+name: Input_-_dvr/dvd
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 43 00 00 00
 #
-name: DAP_DELAY_TIME
+name: Dap_delay_time
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 48 00 00 00
 #
-name: SURROUND_DELAY
+name: Surround_delay
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 48 00 00 00
 #
-name: SURR_DELAY_(+)
+name: Surr_delay_(+)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 48 00 00 00
 #
-name: SURR_DELAY_(1)
+name: Surr_delay_(1)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 48 00 00 00
 #
-name: DAP_REAR_LEVEL_+
+name: Dap_rear_level_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4E 00 00 00
 #
-name: SURROUND_REAR_+
+name: Surround_rear_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4E 00 00 00
 #
-name: CH_REAR_LEVEL_+
+name: Ch_rear_level_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4E 00 00 00
 #
-name: SUR_LVL_REAR_LVL_+
+name: Sur_lvl_rear_lvl_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4E 00 00 00
 #
-name: SURR_REAR_+_(6)
+name: Surr_rear_+_(6)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4E 00 00 00
 #
-name: REAR_VOL+
+name: Rear_vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4E 00 00 00
 #
-name: REAR_LEVEL_+
+name: Rear_level_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4E 00 00 00
 #
-name: DAP_REAR_LEVEL_-
+name: Dap_rear_level_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4F 00 00 00
 #
-name: SURROUND_REAR_-
+name: Surround_rear_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4F 00 00 00
 #
-name: CH_REAR_LEVEL_-
+name: Ch_rear_level_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4F 00 00 00
 #
-name: SUR_LVL_REAR_LVL_-
+name: Sur_lvl_rear_lvl_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4F 00 00 00
 #
-name: SURR_REAR_-_(5)
+name: Surr_rear_-_(5)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4F 00 00 00
 #
-name: REAR_VOL-
+name: Rear_vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4F 00 00 00
 #
-name: REAR_LEVEL_-
+name: Rear_level_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 4F 00 00 00
 #
-name: CSRP
+name: Csrp
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 52 00 00 00
 #
-name: CSRP_ON/OFF
+name: Csrp_on/off
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 52 00 00 00
 #
-name: DAP_DAP_MODE
+name: Dap_dap_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: SURR_CENTER_MODE_(-)
+name: Surr_center_mode_(-)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: SURR_MODE_(10)
+name: Surr_mode_(10)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: DAPDOLBY_DAP_MODE(6)
+name: Dapdolby_dap_mode(6)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: FM_MODE/MUTE_(0)
+name: Fm_mode/mute_(0)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 5A 00 00 00
 #
-name: FM_MODE
+name: Fm_mode
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 5A 00 00 00
 #
-name: DAP_DAP_LEVEL_+
+name: Dap_dap_level_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 5E 00 00 00
 #
-name: SURROUND_VOL+
+name: Surround_vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 5E 00 00 00
 #
-name: DAP_DAP_LEVEL_-
+name: Dap_dap_level_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 5F 00 00 00
 #
-name: SURROUND_VOL-
+name: Surround_vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 5F 00 00 00
 #
-name: INPUT_-_DBS
+name: Input_-_dbs
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 63 00 00 00
 #
-name: SEA_CON._DISPLAY
+name: Sea_con._display
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 70 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 70 00 00 00
 #
-name: SEA_DISPLAY
+name: Sea_display
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 70 00 00 00
 #
-name: SEA_CON._SEA_DISPLAY
+name: Sea_con._sea_display
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 70 00 00 00
 #
-name: CSRP_DISPLAY
+name: Csrp_display
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 72 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 73 00 00 00
 #
-name: SURR:ANLG/DIG.
+name: Surr:anlg/dig.
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 74 00 00 00
 #
-name: BASS_BOOST
+name: Bass_boost
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 75 00 00 00
 #
-name: TUNING_+
+name: Tuning_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 78 00 00 00
 #
-name: TUNING_-
+name: Tuning_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 79 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 7B 00 00 00
 #
-name: EQ:_LEVEL_+
+name: Eq:_level_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 80 00 00 00
 #
-name: EQ:_LEVEL_-
+name: Eq:_level_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 90 00 00 00
 #
-name: SEA_FREQUENCY_+
+name: Sea_frequency_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: A8 00 00 00
 #
-name: EQ:_FREQUENCY
+name: Eq:_frequency
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: A8 00 00 00
 #
-name: SEA_FREQUENCY_-
+name: Sea_frequency_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: A9 00 00 00
 #
-name: DAP_DAP_ON/OFF
+name: Dap_dap_on/off
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D5 00 00 00
 #
-name: INPUT_-_DVD_MULTI
+name: Input_-_dvd_multi
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D6 00 00 00
 #
-name: DAP_TEST
+name: Dap_test
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D7 00 00 00
 #
-name: SURROUND_TEST
+name: Surround_test
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D7 00 00 00
 #
-name: SURR_TEST_(+)
+name: Surr_test_(+)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D7 00 00 00
 #
-name: DAP_TEST_(>>)
+name: Dap_test_(>>)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D7 00 00 00
 #
-name: SURR_TEST_(4)
+name: Surr_test_(4)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D7 00 00 00
 #
-name: DAPDOLBY_TEST
+name: Dapdolby_test
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D7 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D7 00 00 00
 #
-name: DAP_CENTER_LEVEL_+
+name: Dap_center_level_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D8 00 00 00
 #
-name: PRESET_CENTER_L.+
+name: Preset_center_l.+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D8 00 00 00
 #
-name: SUR_LVL_CTR_LVL_+
+name: Sur_lvl_ctr_lvl_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D8 00 00 00
 #
-name: SURROUND_CTR_+
+name: Surround_ctr_+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D8 00 00 00
 #
-name: DAP_CENTER_(+>)
+name: Dap_center_(+>)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D8 00 00 00
 #
-name: SURR_CNTR_+_(3)
+name: Surr_cntr_+_(3)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D8 00 00 00
 #
-name: DAP_CENTER_LEVEL_-
+name: Dap_center_level_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D9 00 00 00
 #
-name: PRESET_CENTER_L.-
+name: Preset_center_l.-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D9 00 00 00
 #
-name: SUR_LVL_CTR_LVL_-
+name: Sur_lvl_ctr_lvl_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D9 00 00 00
 #
-name: SURROUND_CTR_-
+name: Surround_ctr_-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D9 00 00 00
 #
-name: DAP_REAR_(-[])
+name: Dap_rear_(-[])
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D9 00 00 00
 #
-name: SURR_CNTR_-_(2)
+name: Surr_cntr_-_(2)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: D9 00 00 00
 #
-name: C._TONE
+name: C._tone
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: E7 00 00 00
 #
-name: DAP_MODE_SIZE
+name: Dap_mode_size
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: F5 00 00 00
 #
-name: DAPDOLBY_SIZE_(3)
+name: Dapdolby_size_(3)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: F5 00 00 00
 #
-name: DAP_MODE_LIVE
+name: Dap_mode_live
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: F6 00 00 00
 #
-name: DAP_MODE_WALL
+name: Dap_mode_wall
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: F7 00 00 00
 #
-name: DAPDOLBY_WALL_(4)
+name: Dapdolby_wall_(4)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: F7 00 00 00
 #
-name: DAPDOLBY_LEVEL+_(8)
+name: Dapdolby_level+_(8)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: F8 00 00 00
 #
-name: DAPDOLBY_LEVEL-(7/P)
+name: Dapdolby_level-(7/p)
 type: parsed
 protocol: NECext
 address: A3 00 00 00

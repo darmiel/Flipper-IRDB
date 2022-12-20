@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 01 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 02 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 31 00 00 00
 command: 07 00 00 00
 #
-name: VTR_V
+name: Vtr_v
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -73,49 +73,49 @@ protocol: NECext
 address: 31 00 00 00
 command: 0F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE/STILL
+name: Pause/still
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 12 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 14 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 15 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 19 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -127,97 +127,97 @@ protocol: NECext
 address: 31 00 00 00
 command: 1C 00 00 00
 #
-name: 0/AV
+name: 0/av
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1D 00 00 00
 #
-name: SC
+name: Sc
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1E 00 00 00
 #
-name: ATR
+name: Atr
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1F 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 43 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 44 00 00 00
 #
-name: REMAIN
+name: Remain
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 45 00 00 00
 #
-name: CHECK
+name: Check
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 46 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 47 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 48 00 00 00
 #
-name: CL
+name: Cl
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4A 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4B 00 00 00
 #
-name: LOCK
+name: Lock
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 50 00 00 00
 #
-name: MARK
+name: Mark
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 54 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 55 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 5B 00 00 00
 #
-name: SP/LP
+name: Sp/lp
 type: parsed
 protocol: NECext
 address: 31 00 00 00

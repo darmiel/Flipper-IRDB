@@ -55,97 +55,97 @@ protocol: NECext
 address: 40 DF 00 00
 command: 09 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 0B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 0D 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 0E 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 12 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 13 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 14 00 00 00
 #
-name: PAGE_+
+name: Page_+
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 16 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 17 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 1A 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 1A 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 1B 00 00 00
 #
-name: PAGE_-
+name: Page_-
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 1C 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 1E 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 40 DF 00 00
 command: 1E 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 40 DF 00 00

@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: sleep-timer
+name: Sleep-timer
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: tv-video
+name: Tv-video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: chdn
+name: Chdn
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -115,55 +115,55 @@ protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: surround
+name: Surround
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 42 00 00 00
 #
-name: picsnd-up
+name: Picsnd-up
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5A 00 00 00
 #
-name: picsnd-dn
+name: Picsnd-dn
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5B 00 00 00
 #
-name: vsm
+name: Vsm
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 79 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7A 00 00 00
 #
-name: picture-sound
+name: Picture-sound
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7B 00 00 00
 #
-name: ssm
+name: Ssm
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 90 00 00 00
 #
-name: color-system
+name: Color-system
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 92 00 00 00
 #
-name: digits
+name: Digits
 type: parsed
 protocol: NECext
 address: 03 00 00 00

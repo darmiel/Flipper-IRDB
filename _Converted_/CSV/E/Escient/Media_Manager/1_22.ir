@@ -25,7 +25,7 @@ protocol: NECext
 address: 01 16 00 00
 command: 02 00 00 00
 #
-name: 3_DEF
+name: 3_def
 type: parsed
 protocol: NECext
 address: 01 16 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 01 16 00 00
 command: 04 00 00 00
 #
-name: 5_JKL
+name: 5_jkl
 type: parsed
 protocol: NECext
 address: 01 16 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 01 16 00 00
 command: 06 00 00 00
 #
-name: 7_PQRS
+name: 7_pqrs
 type: parsed
 protocol: NECext
 address: 01 16 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 01 16 00 00
 command: 08 00 00 00
 #
-name: 9_WXYZ
+name: 9_wxyz
 type: parsed
 protocol: NECext
 address: 01 16 00 00
@@ -91,553 +91,553 @@ protocol: NECext
 address: 01 16 00 00
 command: 09 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0B 00 00 00
 #
-name: CH_PAGE_UP
+name: Ch_page_up
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0D 00 00 00
 #
-name: CH/PAGE_+
+name: Ch/page_+
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0D 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0D 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0E 00 00 00
 #
-name: CH/PAGE_DOWN
+name: Ch/page_down
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0F 00 00 00
 #
-name: PWR
+name: Pwr
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 0F 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 10 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 11 00 00 00
 #
-name: LAST_/_MODE
+name: Last_/_mode
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 11 00 00 00
 #
-name: MODE/LAST
+name: Mode/last
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 11 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 12 00 00 00
 #
-name: OPTIONS
+name: Options
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 13 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 14 00 00 00
 #
-name: GUIDE_TOGGLE
+name: Guide_toggle
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 14 00 00 00
 #
-name: MENU_-_HOME
+name: Menu_-_home
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 14 00 00 00
 #
-name: OPEN_GLOBE
+name: Open_globe
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 15 00 00 00
 #
-name: GLOBE
+name: Globe
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 15 00 00 00
 #
-name: DISC_FLIP
+name: Disc_flip
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 15 00 00 00
 #
-name: OPENGLOBE
+name: Openglobe
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 15 00 00 00
 #
-name: TOGGLE/EXIT
+name: Toggle/exit
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 15 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 16 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 16 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 17 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 17 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 18 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 19 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 19 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1A 00 00 00
 #
-name: INFO_/_ALL
+name: Info_/_all
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1B 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1B 00 00 00
 #
-name: MENU_/_VIEW
+name: Menu_/_view
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1C 00 00 00
 #
-name: MENU/VIEW
+name: Menu/view
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1C 00 00 00
 #
-name: VIEW_TOGGLE
+name: View_toggle
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 1C 00 00 00
 #
-name: REW_/BACKSPACE
+name: Rew_/backspace
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 20 00 00 00
 #
-name: REWIND/BACKSPACE
+name: Rewind/backspace
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 20 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 20 00 00 00
 #
-name: BACKSPACE
+name: Backspace
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 20 00 00 00
 #
-name: REWIND_BACKSPACE
+name: Rewind_backspace
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 20 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 21 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 22 00 00 00
 #
-name: FF/SPACE
+name: Ff/space
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 22 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 22 00 00 00
 #
-name: SPACE
+name: Space
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 22 00 00 00
 #
-name: FORWARD_SPACE
+name: Forward_space
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 22 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 22 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 23 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 24 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 25 00 00 00
 #
-name: MOVIES
+name: Movies
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 26 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 28 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 29 00 00 00
 #
-name: I-RADIO
+name: I-radio
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2A 00 00 00
 #
-name: I_RADIO
+name: I_radio
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2A 00 00 00
 #
-name: IRADIO
+name: Iradio
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2A 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2A 00 00 00
 #
-name: MENU_-_RHAPSODY
+name: Menu_-_rhapsody
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2A 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2B 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2B 00 00 00
 #
-name: JUKEBOX_NEXT
+name: Jukebox_next
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2B 00 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2C 00 00 00
 #
-name: MENU_-_MUSIC
+name: Menu_-_music
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2C 00 00 00
 #
-name: ADD_FAVORITES
+name: Add_favorites
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2D 00 00 00
 #
-name: ADD_TO_FAVORITES
+name: Add_to_favorites
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2D 00 00 00
 #
-name: JUKEBOX_ADD
+name: Jukebox_add
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2D 00 00 00
 #
-name: PLAY_FAVOR
+name: Play_favor
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2E 00 00 00
 #
-name: PLAY_(FAVORITES)
+name: Play_(favorites)
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2E 00 00 00
 #
-name: RAMDOM
+name: Ramdom
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2F 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 2F 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 30 00 00 00
 #
-name: MACRO
+name: Macro
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 31 00 00 00
 #
-name: JUKEBOX_MACRO
+name: Jukebox_macro
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 31 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 32 00 00 00
 #
-name: JUKEBOX_PREVIOUS
+name: Jukebox_previous
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 32 00 00 00
 #
-name: JUKEBOX_REPEAT
+name: Jukebox_repeat
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 33 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 33 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 41 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 42 00 00 00
 #
-name: PLAYMODE-NORMAL
+name: Playmode-normal
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 43 00 00 00
 #
-name: PLAYMODE-RPT_TRACK
+name: Playmode-rpt_track
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 44 00 00 00
 #
-name: PLAYMODE-RPT_TITLE
+name: Playmode-rpt_title
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 45 00 00 00
 #
-name: PLAYMODE-RPT_GROUP
+name: Playmode-rpt_group
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 46 00 00 00
 #
-name: PLAYMODE-RAND_TITLE
+name: Playmode-rand_title
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 47 00 00 00
 #
-name: PLAYMODE-RAND_GROUP
+name: Playmode-rand_group
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 48 00 00 00
 #
-name: VIEW_BY_ARTIST
+name: View_by_artist
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 49 00 00 00
 #
-name: VIEW_BY_TITLE
+name: View_by_title
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 4A 00 00 00
 #
-name: VIEW_BY_SONG
+name: View_by_song
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 4B 00 00 00
 #
-name: VIEW_BY_COVER
+name: View_by_cover
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 4C 00 00 00
 #
-name: PLAYER
+name: Player
 type: parsed
 protocol: NECext
 address: 01 16 00 00
 command: 4D 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 01 16 00 00

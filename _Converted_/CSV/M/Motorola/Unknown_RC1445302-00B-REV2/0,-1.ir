@@ -115,319 +115,319 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: PAGEUP
+name: Pageup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: PAGEDOWN
+name: Pagedown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: input_a-v
+name: Input_a-v
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: heart
+name: Heart
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: heart_favorites
+name: Heart_favorites
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: function-a
+name: Function-a
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: function-a_yellow_triangle
+name: Function-a_yellow_triangle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: NUMERIC_STAR
+name: Numeric_star
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: star_ondemand
+name: Star_ondemand
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: dvr_play
+name: Dvr_play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: dvr_stop
+name: Dvr_stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: dvr_fastforward
+name: Dvr_fastforward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: dvr_rewind
+name: Dvr_rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: dvr_pause
+name: Dvr_pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1F 00 00 00
 #
-name: pip
+name: Pip
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: change
+name: Change
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: function-b
+name: Function-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: function-b_blue_square
+name: Function-b_blue_square
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 27 00 00 00
 #
-name: function-c
+name: Function-c
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: function-c_red_circle
+name: Function-c_red_circle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: function-d
+name: Function-d
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: function-d_green_diamond
+name: Function-d_green_diamond
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: dvr_record
+name: Dvr_record
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 33 00 00 00
 #
-name: arrow_up
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 34 00 00 00
 #
-name: arrow_down
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: arrow_left
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: arrow_right
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: dvr_previous
+name: Dvr_previous
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: dvr
+name: Dvr
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3D 00 00 00
 #
-name: fiostv
+name: Fiostv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3E 00 00 00
 #
-name: dvr_next
+name: Dvr_next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: pound
+name: Pound
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 40 00 00 00
 #
-name: pound_aspect
+name: Pound_aspect
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 40 00 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 42 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 43 00 00 00
 #
-name: plus_widgets
+name: Plus_widgets
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 43 00 00 00
 #
-name: widgets
+name: Widgets
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 43 00 00 00
 #
-name: KPASTERISK
+name: Kpasterisk
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 44 00 00 00
 #
-name: asterisk_cc
+name: Asterisk_cc
 type: parsed
 protocol: NECext
 address: 00 00 00 00

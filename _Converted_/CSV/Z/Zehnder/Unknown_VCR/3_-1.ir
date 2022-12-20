@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 01 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 02 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -31,19 +31,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 06 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 07 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -67,19 +67,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 0E 00 00 00
 #
-name: SYS
+name: Sys
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0F 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 12 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -103,13 +103,13 @@ protocol: NECext
 address: 03 00 00 00
 command: 16 00 00 00
 #
-name: AUD
+name: Aud
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -133,19 +133,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1F 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 20 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 03 00 00 00

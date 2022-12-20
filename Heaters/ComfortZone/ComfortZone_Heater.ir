@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 45 00 00 00
 # 
-name: 500W
+name: 500w
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 15 00 00 00
 # 
-name: 1000W
+name: 1000w
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 18 00 00 00
 # 
-name: 1500W
+name: 1500w
 type: parsed
 protocol: NEC
 address: 00 00 00 00

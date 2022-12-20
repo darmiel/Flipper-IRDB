@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SAT_VOL_^
+name: Sat_vol_^
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: SAT_VOL_V
+name: Sat_vol_v
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: SAT_MUTE
+name: Sat_mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00

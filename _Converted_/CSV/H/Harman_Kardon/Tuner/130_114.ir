@@ -1,211 +1,211 @@
 Filetype: IR signals file
 Version: 1
 #
-name: #_(P-SCAN)
+name: #_(p-scan)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 0A 00 00 00
 #
-name: AC-3
+name: Ac-3
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 50 00 00 00
 #
-name: RF
+name: Rf
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 55 00 00 00
 #
-name: OPT
+name: Opt
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 56 00 00 00
 #
-name: COAX
+name: Coax
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 57 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5C 00 00 00
 #
-name: CH_SELECT
+name: Ch_select
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: SELECT_^
+name: Select_^
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 80 00 00 00
 #
-name: SELECT_V
+name: Select_v
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 81 00 00 00
 #
-name: SELECT_>
+name: Select_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 82 00 00 00
 #
-name: SELECT_<
+name: Select_<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 83 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8A 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8C 00 00 00
 #
-name: SPEAKER_^
+name: Speaker_^
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8E 00 00 00
 #
-name: SPEAKER_V
+name: Speaker_v
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8F 00 00 00
 #
-name: HALL
+name: Hall
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 90 00 00 00
 #
-name: MATRIX
+name: Matrix
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 93 00 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 95 00 00 00
 #
-name: NIGHT
+name: Night
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 96 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9B 00 00 00
 #
-name: 3_ST
+name: 3_st
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9D 00 00 00
 #
-name: P/L
+name: P/l
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9F 00 00 00
 #
-name: AM/FM_PRESET_DISC_+
+name: Am/fm_preset_disc_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: PRESET+
+name: Preset+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: AM/FM_PRESET_DISC_-
+name: Am/fm_preset_disc_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: PRESET-
+name: Preset-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: AM/FM_SKIP_>>
+name: Am/fm_skip_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D2 00 00 00
 #
-name: AM/FM_SKIP_<<
+name: Am/fm_skip_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D3 00 00 00
 #
-name: AM/FM_PTY_(REC/)
+name: Am/fm_pty_(rec/)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D4 00 00 00
 #
-name: AM/FM_AF_(>)
+name: Am/fm_af_(>)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D5 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D9 00 00 00
 #
-name: AM/FM_RDS_DISP_(STOP
+name: Am/fm_rds_disp_(stop
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DD 00 00 00
 #
-name: INFO/RDS
+name: Info/rds
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DD 00 00 00
 #
-name: MULTI
+name: Multi
 type: parsed
 protocol: NECext
 address: 82 72 00 00

@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: counter_clear
+name: Counter_clear
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 0A 00 00 00
 #
-name: auto_monitor
+name: Auto_monitor
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 0C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 11 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 12 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 13 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 15 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 16 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 17 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 1F 00 00 00
 #
-name: RTZ
+name: Rtz
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 49 00 00 00
 #
-name: CD_sync_left
+name: Cd_sync_left
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 54 00 00 00
 #
-name: CPS_forward
+name: Cps_forward
 type: parsed
 protocol: NECext
 address: 82 78 00 00
 command: 5C 00 00 00
 #
-name: CPS_back
+name: Cps_back
 type: parsed
 protocol: NECext
 address: 82 78 00 00

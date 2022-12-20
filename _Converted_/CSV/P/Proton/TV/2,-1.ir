@@ -7,13 +7,13 @@ protocol: NECext
 address: 02 00 00 00
 command: 00 00 00 00
 #
-name: AV3_INPUT
+name: Av3_input
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 04 00 00 00
 #
-name: ANT1_/_RGB
+name: Ant1_/_rgb
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -25,25 +25,25 @@ protocol: NECext
 address: 02 00 00 00
 command: 08 00 00 00
 #
-name: ANT2
+name: Ant2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 09 00 00 00
 #
-name: TV_TUNER
+name: Tv_tuner
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0A 00 00 00
 #
-name: AV2_INPUT
+name: Av2_input
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0B 00 00 00
 #
-name: AV1_INPUT
+name: Av1_input
 type: parsed
 protocol: NECext
 address: 02 00 00 00

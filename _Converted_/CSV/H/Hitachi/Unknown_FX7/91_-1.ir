@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 02 00 00 00
 #
-name: TUNER_BAND
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 07 00 00 00
 #
-name: CASSETTE_TAPE_1/2
+name: Cassette_tape_1/2
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 09 00 00 00
 #
-name: CD_PLAY/PAUSE
+name: Cd_play/pause
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 12 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 13 00 00 00
 #
-name: CD_SKIP_FWD
+name: Cd_skip_fwd
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 14 00 00 00
 #
-name: CD_SKIP_BACK
+name: Cd_skip_back
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 15 00 00 00
 #
-name: CD_PROG
+name: Cd_prog
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 16 00 00 00
 #
-name: CASSETTE_PLAY_FORWARD
+name: Cassette_play_forward
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 19 00 00 00
 #
-name: CASSETTE_PLAY_BACK
+name: Cassette_play_back
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1A 00 00 00
 #
-name: CASSETTE_FFW
+name: Cassette_ffw
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1B 00 00 00
 #
-name: CASSETTE_REW
+name: Cassette_rew
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1C 00 00 00
 #
-name: CASSETTE_STOP
+name: Cassette_stop
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1D 00 00 00
 #
-name: CASSETTE_REC
+name: Cassette_rec
 type: parsed
 protocol: NECext
 address: 5B 00 00 00

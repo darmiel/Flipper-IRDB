@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -19,25 +19,25 @@ protocol: NECext
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 05 00 00 00
 #
-name: memo
+name: Memo
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 06 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -67,13 +67,13 @@ protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: disp
+name: Disp
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -85,31 +85,31 @@ protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 12 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 13 00 00 00
 #
-name: cat-
+name: Cat-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 14 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 15 00 00 00
 #
-name: cat+
+name: Cat+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 10 00 00 00
 command: 1C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00

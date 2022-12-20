@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD-SYNC_STANDBY
+name: Cd-sync_standby
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 32 00 00 00
 #
-name: CD-SYNC_STOP
+name: Cd-sync_stop
 type: parsed
 protocol: NECext
 address: 11 00 00 00

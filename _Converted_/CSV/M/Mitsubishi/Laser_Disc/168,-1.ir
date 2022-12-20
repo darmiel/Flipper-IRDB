@@ -61,151 +61,151 @@ protocol: NECext
 address: A8 00 00 00
 command: 09 00 00 00
 #
-name: DIGITAL/ANALOG
+name: Digital/analog
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 0C 00 00 00
 #
-name: DIGITAL/ANALOG/CX
+name: Digital/analog/cx
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 0C 00 00 00
 #
-name: DIGITAL
+name: Digital
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 0C 00 00 00
 #
-name: FILE
+name: File
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 0D 00 00 00
 #
-name: CX
+name: Cx
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 0E 00 00 00
 #
-name: FWD_>>
+name: Fwd_>>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 10 00 00 00
 #
-name: FFWD>>
+name: Ffwd>>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 10 00 00 00
 #
-name: REV_<<
+name: Rev_<<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 11 00 00 00
 #
-name: REW<<
+name: Rew<<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 11 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 13 00 00 00
 #
-name: CHAPTER
+name: Chapter
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 13 00 00 00
 #
-name: STOP/OPEN_[]
+name: Stop/open_[]
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 16 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 16 00 00 00
 #
-name: STOP/OPEN
+name: Stop/open
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 16 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 17 00 00 00
 #
-name: PLAY>
+name: Play>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 18 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 18 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 19 00 00 00
 #
-name: LAST_MEMORY
+name: Last_memory
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 19 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 1C 00 00 00
 #
-name: AUTO_EDIT
+name: Auto_edit
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 1D 00 00 00
 #
-name: AUDIO_MONITOR
+name: Audio_monitor
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 1E 00 00 00
 #
-name: AUDIO_D/A
+name: Audio_d/a
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 1E 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: A8 00 00 00
@@ -217,49 +217,49 @@ protocol: NECext
 address: A8 00 00 00
 command: 1F 00 00 00
 #
-name: JOG_FWD
+name: Jog_fwd
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 20 00 00 00
 #
-name: JOG_FWD_>>
+name: Jog_fwd_>>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 20 00 00 00
 #
-name: JOG_REV
+name: Jog_rev
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 24 00 00 00
 #
-name: JOG_REV_<<
+name: Jog_rev_<<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 24 00 00 00
 #
-name: SCAN_X2_FWD
+name: Scan_x2_fwd
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 28 00 00 00
 #
-name: SCAN_FWD
+name: Scan_fwd
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 28 00 00 00
 #
-name: SCAN_FWD(CLEAR_SCAN)
+name: Scan_fwd(clear_scan)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 28 00 00 00
 #
-name: SCAN_FWD(SLOW_SP)
+name: Scan_fwd(slow_sp)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
@@ -271,19 +271,19 @@ protocol: NECext
 address: A8 00 00 00
 command: 29 00 00 00
 #
-name: SCAN_FWD(LOW_SCAN)
+name: Scan_fwd(low_scan)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 29 00 00 00
 #
-name: SCAN_FWD(MED-SLOW)
+name: Scan_fwd(med-slow)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 29 00 00 00
 #
-name: SCAN_FWD(MED-HIGH)
+name: Scan_fwd(med-high)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
@@ -295,43 +295,43 @@ protocol: NECext
 address: A8 00 00 00
 command: 2B 00 00 00
 #
-name: SCAN_FWD(HIGH_SCAN)
+name: Scan_fwd(high_scan)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2B 00 00 00
 #
-name: SHUTTLE_FWD(F.S)
+name: Shuttle_fwd(f.s)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2B 00 00 00
 #
-name: SHUTTLE_FWD_>>
+name: Shuttle_fwd_>>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2B 00 00 00
 #
-name: SCAN_FWD(FULL_SP)
+name: Scan_fwd(full_sp)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2B 00 00 00
 #
-name: SCAN_X2_REV
+name: Scan_x2_rev
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2C 00 00 00
 #
-name: SCAN_REV(CLEAR_SCAN)
+name: Scan_rev(clear_scan)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2C 00 00 00
 #
-name: SCAN_REV(SLOW_SP)
+name: Scan_rev(slow_sp)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
@@ -343,247 +343,247 @@ protocol: NECext
 address: A8 00 00 00
 command: 2D 00 00 00
 #
-name: SCAN_REV(LOW_SCAN)
+name: Scan_rev(low_scan)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2D 00 00 00
 #
-name: SCAN_REV(MED-SLOW)
+name: Scan_rev(med-slow)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2D 00 00 00
 #
-name: SCAN_REV(MED-HIGH)
+name: Scan_rev(med-high)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2E 00 00 00
 #
-name: SCAN_REV(HIGH_SCAN)
+name: Scan_rev(high_scan)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2F 00 00 00
 #
-name: SHUTTLE_REV(F.S)
+name: Shuttle_rev(f.s)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2F 00 00 00
 #
-name: SHUTTLE_REW_<<
+name: Shuttle_rew_<<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2F 00 00 00
 #
-name: SCAN_REV(FULL_SP)
+name: Scan_rev(full_sp)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 2F 00 00 00
 #
-name: DIGITAL_LEVEL
+name: Digital_level
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 37 00 00 00
 #
-name: AUDIO_COMPRESS
+name: Audio_compress
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 37 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 42 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 43 00 00 00
 #
-name: REPEAT_B
+name: Repeat_b
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 44 00 00 00
 #
-name: REPEAT_A
+name: Repeat_a
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 44 00 00 00
 #
-name: C_(CANCEL)
+name: C_(cancel)
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 45 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 45 00 00 00
 #
-name: SEARCH_-
+name: Search_-
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 46 00 00 00
 #
-name: SEARCH_+
+name: Search_+
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 47 00 00 00
 #
-name: REPEAT_A
+name: Repeat_a
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 48 00 00 00
 #
-name: REPEAT_B
+name: Repeat_b
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 48 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 4C 00 00 00
 #
-name: SIDE_A
+name: Side_a
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 4D 00 00 00
 #
-name: DISC_SIDE_A
+name: Disc_side_a
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 4D 00 00 00
 #
-name: SIDE_B
+name: Side_b
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 4E 00 00 00
 #
-name: DISC_SIDE_B
+name: Disc_side_b
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 4E 00 00 00
 #
-name: FRAME_<
+name: Frame_<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 50 00 00 00
 #
-name: STEP_<
+name: Step_<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 50 00 00 00
 #
-name: FS_(FWD_SRCH)_>>
+name: Fs_(fwd_srch)_>>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 52 00 00 00
 #
-name: FS_>>
+name: Fs_>>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 52 00 00 00
 #
-name: SRCH_FWD_(FS)>>
+name: Srch_fwd_(fs)>>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 52 00 00 00
 #
-name: RS_(REV_SRCH)_<<
+name: Rs_(rev_srch)_<<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 53 00 00 00
 #
-name: RS_<<
+name: Rs_<<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 53 00 00 00
 #
-name: SRCH_REV_(RS)<<
+name: Srch_rev_(rs)<<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 53 00 00 00
 #
-name: FRAME_>
+name: Frame_>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 54 00 00 00
 #
-name: STEP_>
+name: Step_>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 54 00 00 00
 #
-name: SEARCH_<
+name: Search_<
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 55 00 00 00
 #
-name: SEARCH_>
+name: Search_>
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 58 00 00 00
 #
-name: HILITE/INTRO_SCAN
+name: Hilite/intro_scan
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 5A 00 00 00
 #
-name: STROBE
+name: Strobe
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 5B 00 00 00
 #
-name: STILL/W_SOUND
+name: Still/w_sound
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 5B 00 00 00
 #
-name: ONE_SHOT_MEMORY
+name: One_shot_memory
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 5D 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: A8 00 00 00

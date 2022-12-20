@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON/OFF
+name: Power_on/off
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 0C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 0C 00 00 00
 #
-name: START
+name: Start
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 0D 00 00 00
 #
-name: WINDOWS_MEDIA_CENTER
+name: Windows_media_center
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 0D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 0F 00 00 00
 #
-name: A_(GREEN)
+name: A_(green)
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 74 0F 00 00
 command: 12 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 74 0F 00 00
 command: 12 00 00 00
 #
-name: X_(BLUE)
+name: X_(blue)
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 13 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
@@ -79,193 +79,193 @@ protocol: NECext
 address: 74 0F 00 00
 command: 13 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 14 00 00 00
 #
-name: FAST_FOWARD
+name: Fast_foward
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 14 00 00 00
 #
-name: SEARCH_FORWARD
+name: Search_forward
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 14 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 15 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 15 00 00 00
 #
-name: SEARCH_BACK
+name: Search_back
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 16 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 17 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 18 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 19 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1A 00 00 00
 #
-name: SKIP_+
+name: Skip_+
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1A 00 00 00
 #
-name: SKIP_FORWARD
+name: Skip_forward
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1A 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1B 00 00 00
 #
-name: SKIP_-
+name: Skip_-
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1B 00 00 00
 #
-name: SKIP_BACK
+name: Skip_back
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1B 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1E 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 1F 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 20 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 20 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 21 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 21 00 00 00
 #
-name: CURSOR_SELECT
+name: Cursor_select
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 22 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 22 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 22 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 23 00 00 00
 #
-name: BACK_<
+name: Back_<
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 23 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 24 00 00 00
 #
-name: B_(RED)
+name: B_(red)
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
@@ -277,7 +277,7 @@ protocol: NECext
 address: 74 0F 00 00
 command: 25 00 00 00
 #
-name: LIVE_TV
+name: Live_tv
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
@@ -289,13 +289,13 @@ protocol: NECext
 address: 74 0F 00 00
 command: 25 00 00 00
 #
-name: Y_(YELLOW)
+name: Y_(yellow)
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 26 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
@@ -307,43 +307,43 @@ protocol: NECext
 address: 74 0F 00 00
 command: 26 00 00 00
 #
-name: Y_/_GUL
+name: Y_/_gul
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 26 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 28 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 4F 00 00 00
 #
-name: DISLPLAY
+name: Dislplay
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 4F 00 00 00
 #
-name: DISPLAY_MENU
+name: Display_menu
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 4F 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 51 00 00 00
 #
-name: TITLE_MENU
+name: Title_menu
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
@@ -355,13 +355,13 @@ protocol: NECext
 address: 74 0F 00 00
 command: 64 00 00 00
 #
-name: XBOX
+name: Xbox
 type: parsed
 protocol: NECext
 address: 74 0F 00 00
 command: 64 00 00 00
 #
-name: XBOX_MENU
+name: Xbox_menu
 type: parsed
 protocol: NECext
 address: 74 0F 00 00

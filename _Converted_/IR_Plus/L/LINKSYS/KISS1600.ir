@@ -16,13 +16,13 @@ protocol: RC5
 address: 15 00 00 00
 command: 8E 00 00 00
 #
-name: DVD/TV
+name: Dvd/tv
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: A8 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: RC5
 address: 15 00 00 00
@@ -94,13 +94,13 @@ protocol: RC5
 address: 15 00 00 00
 command: 80 00 00 00
 #
-name: C/CH
+name: C/ch
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: A5 00 00 00
 #
-name: TOP MENU
+name: Top_menu
 type: parsed
 protocol: RC5
 address: 15 00 00 00
@@ -112,7 +112,7 @@ protocol: RC5
 address: 15 00 00 00
 command: 8E 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -124,7 +124,7 @@ protocol: RC5
 address: 15 00 00 00
 command: 90 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: RC5
 address: 15 00 00 00
@@ -136,7 +136,7 @@ protocol: RC5
 address: 15 00 00 00
 command: 92 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: RC5
 address: 15 00 00 00
@@ -148,151 +148,151 @@ protocol: RC5
 address: 15 00 00 00
 command: 94 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: A1 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 93 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 8D 00 00 00
 #
-name: REP/A-B
+name: Rep/a-b
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: A0 00 00 00
 #
-name: AUTO/TRACK
+name: Auto/track
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: A3 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 98 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 8C 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 97 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 99 00 00 00
 #
-name: MARK
+name: Mark
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: B0 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 9C 00 00 00
 #
-name: SLOW-
+name: Slow-
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: B0 00 00 00
 #
-name: SLOW+
+name: Slow+
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 9D 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 95 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 8F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 9E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 9F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: A7 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 8D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 9B 00 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: 8F 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: A3 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: A4 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: RC5
 address: 15 00 00 00
 command: A0 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: RC5
 address: 14 00 00 00

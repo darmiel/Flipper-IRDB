@@ -3,31 +3,31 @@ Version: 1
 #
 # Digi Day 3 Safety Board
 # 
-name: Count_Days
+name: Count_days
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5C 00 00 00
 # 
-name: Actual_Date
+name: Actual_date
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 56 00 00 00
 # 
-name: Count_Time
+name: Count_time
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1F 00 00 00
 # 
-name: Green_Day
+name: Green_day
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 04 00 00 00
 # 
-name: Actual_Time
+name: Actual_time
 type: parsed
 protocol: NEC
 address: 00 00 00 00

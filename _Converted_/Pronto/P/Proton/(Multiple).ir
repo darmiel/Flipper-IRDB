@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DECK_PLAY_FWD
+name: Deck_play_fwd
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 1776 1776 888 888 1776 888 888 1776 90553
 #
-name: DECK_STOP
+name: Deck_stop
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 1776 888 888 1776 888 888 888 888 1776 888 89666
 #
-name: DECK_PLAY_REV
+name: Deck_play_rev
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 1776 1776 888 888 888 888 1776 888 888 888 89666
 #
-name: DECK_REW
+name: Deck_rew
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 860 888 888 888 1776 1776 1776 888 888 1776 1776 888 888 888 888 1776 1776 90553
 #
-name: DECK_FFWD
+name: Deck_ffwd
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 1776 1776 888 888 1776 1776 888 888 90526
 #
-name: DECK_RECORD
+name: Deck_record
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 1776 1776 888 888 1776 1776 1776 888 89666
 #
-name: TAPE
+name: Tape
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 1776 1776 90553
 #
-name: TUNING+
+name: Tuning+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 1776 888 888 888 888 1776 888 888 90526
 #
-name: TUNING-
+name: Tuning-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 1776 888 888 1776 888 888 1776 888 89638
 #
-name: AM/FM
+name: Am/fm
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -121,133 +121,133 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 1776 888 888 1776 1776 888 888 888 89666
 #
-name: PWR_ON
+name: Pwr_on
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 1776 1776 888 89666
 #
-name: PWR_OFF
+name: Pwr_off
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 90553
 #
-name: CD_PLAY
+name: Cd_play
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 1776 888 888 1776 1776 1776 1776 888 89666
 #
-name: CD_STOP
+name: Cd_stop
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 1776 888 888 1776 1776 888 888 1776 90526
 #
-name: CD_PAUSE
+name: Cd_pause
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 1776 888 888 1776 888 888 888 888 888 888 90553
 #
-name: CD_SCAN+
+name: Cd_scan+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 1776 888 888 1776 888 888 1776 1776 90526
 #
-name: CD_SCAN-
+name: Cd_scan-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 1776 888 888 1776 1776 1776 888 888 90553
 #
-name: CD_TRACK+
+name: Cd_track+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 1776 1776 888 888 888 888 888 888 888 888 90526
 #
-name: CD_TRACK-
+name: Cd_track-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 1776 1776 888 888 888 888 888 888 1776 888 89638
 #
-name: CD_REPEAT
+name: Cd_repeat
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 888 888 1776 1776 1776 888 888 888 89666
 #
-name: CD_DISPLAY
+name: Cd_display
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 1776 888 888 888 888 1776 1776 888 89666
 #
-name: PHONO
+name: Phono
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 1776 888 888 888 89666
 #
-name: TUNER
+name: Tuner
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 1776 888 888 90553
 #
-name: CD
+name: Cd
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 90526
 #
-name: VIDEO
+name: Video
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 1776 888 89666
 #
-name: TREBLE+
+name: Treble+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 1776 1776 1776 888 888 1776 90553
 #
-name: TREBLE-
+name: Treble-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 1776 1776 1776 1776 1776 888 89666
 #
-name: BASS+
+name: Bass+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 1776 1776 888 888 1776 1776 90526
 #
-name: BASS-
+name: Bass-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 1776 1776 1776 1776 888 888 90526
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 1776 1776 888 888 888 888 1776 1776 888 888 888 888 888 888 90553
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 1776 1776 888 888 888 888 1776 888 89666
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 36045
 duty_cycle: 0.330000

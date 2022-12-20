@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 20 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 21 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 30 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 36 00 00 00
 #
-name: CD1
+name: Cd1
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 37 00 00 00
 #
-name: CD2
+name: Cd2
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 38 00 00 00
 #
-name: CD3
+name: Cd3
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 39 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 14 00 00 00

@@ -82,7 +82,7 @@ protocol: NECext
 address: FC 03 00 00
 command: F6 09 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: FC 03 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: FC 03 00 00
 command: B6 49 00 00
 #
-name: CH
+name: Ch
 type: parsed
 protocol: NECext
 address: FC 03 00 00
@@ -106,19 +106,19 @@ protocol: NECext
 address: FC 03 00 00
 command: C6 39 00 00
 #
-name: VOL
+name: Vol
 type: parsed
 protocol: NECext
 address: FC 03 00 00
 command: 6E 91 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FC 03 00 00
 command: EE 11 00 00
 #
-name: VOL
+name: Vol
 type: parsed
 protocol: NECext
 address: FC 03 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: FC 03 00 00
 command: BE 41 00 00
 #
-name: CH
+name: Ch
 type: parsed
 protocol: NECext
 address: FC 03 00 00
@@ -154,13 +154,13 @@ protocol: NECext
 address: FC 03 00 00
 command: 36 C9 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: FC 03 00 00
 command: 86 79 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FC 03 00 00

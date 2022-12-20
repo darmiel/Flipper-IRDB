@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AMPLIFIER_ON
+name: Amplifier_on
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 33 00 00 00
 #
-name: RECORD_OFF
+name: Record_off
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 34 00 00 00
 #
-name: RECORD_ON
+name: Record_on
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 35 00 00 00
 #
-name: REGULAR_POLARITY
+name: Regular_polarity
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 36 00 00 00
 #
-name: INVERT_POLARITY
+name: Invert_polarity
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 37 00 00 00
 #
-name: HALF_INTENSITY
+name: Half_intensity
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 38 00 00 00
 #
-name: FULL_INTENSITY
+name: Full_intensity
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 39 00 00 00
 #
-name: RECORD_MODE
+name: Record_mode
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3A 00 00 00
 #
-name: MONITOR_MODE
+name: Monitor_mode
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3B 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3C 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3D 00 00 00
 #
-name: MUTE_(DISCREET)
+name: Mute_(discreet)
 type: parsed
 protocol: NECext
 address: 07 00 00 00

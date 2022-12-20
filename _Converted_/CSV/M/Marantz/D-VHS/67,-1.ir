@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 03 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 04 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0C 00 00 00
 #
-name: PREV.
+name: Prev.
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 0D 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 14 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 14 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 15 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 17 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 18 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 19 00 00 00
 #
-name: P._SELECT
+name: P._select
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 1A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 24 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 26 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -163,13 +163,13 @@ protocol: NECext
 address: 43 00 00 00
 command: 29 00 00 00
 #
-name: REC._LINK
+name: Rec._link
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 30 00 00 00
 #
-name: REC._SPD.
+name: Rec._spd.
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -181,7 +181,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 33 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -193,49 +193,49 @@ protocol: NECext
 address: 43 00 00 00
 command: 36 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 36 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 36 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 37 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 3C 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 3C 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 3E 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 3E 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -247,25 +247,25 @@ protocol: NECext
 address: 43 00 00 00
 command: 90 00 00 00
 #
-name: S._SEARCH
+name: S._search
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 96 00 00 00
 #
-name: SKIP
+name: Skip
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 96 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: CC 00 00 00
 #
-name: NAVI
+name: Navi
 type: parsed
 protocol: NECext
 address: 43 00 00 00

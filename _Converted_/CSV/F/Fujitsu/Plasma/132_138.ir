@@ -1,409 +1,409 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 00 00 00 00
 #
-name: C_DOWN
+name: C_down
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 00 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 01 00 00 00
 #
-name: DISCRETE_ON
+name: Discrete_on
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 01 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 02 00 00 00
 #
-name: DISCRETE_OFF
+name: Discrete_off
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 02 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 08 00 00 00
 #
-name: WIDE
+name: Wide
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 10 00 00 00
 #
-name: WIDE_(TOGGLE)
+name: Wide_(toggle)
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 10 00 00 00
 #
-name: ASPECT_WIDE_(TOG)
+name: Aspect_wide_(tog)
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 10 00 00 00
 #
-name: ASPECT_AUTO
+name: Aspect_auto
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 11 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 11 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 12 00 00 00
 #
-name: ASPECT_NORMAL
+name: Aspect_normal
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 12 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 12 00 00 00
 #
-name: ASPECT_WIDE_1
+name: Aspect_wide_1
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 13 00 00 00
 #
-name: WIDE_1
+name: Wide_1
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 13 00 00 00
 #
-name: ASPECT_WIDE1
+name: Aspect_wide1
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 13 00 00 00
 #
-name: ASPECT_WIDE_2
+name: Aspect_wide_2
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 14 00 00 00
 #
-name: WIDE_2
+name: Wide_2
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 14 00 00 00
 #
-name: ASPECT_WIDE2
+name: Aspect_wide2
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 14 00 00 00
 #
-name: ASPECT_ZOOM_1
+name: Aspect_zoom_1
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 15 00 00 00
 #
-name: ZOOM_1
+name: Zoom_1
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 15 00 00 00
 #
-name: ASPECT_ZOOM1
+name: Aspect_zoom1
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 15 00 00 00
 #
-name: ASPECT_ZOOM_2
+name: Aspect_zoom_2
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 16 00 00 00
 #
-name: ZOOM_2
+name: Zoom_2
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 16 00 00 00
 #
-name: ASPECT_ZOOM2
+name: Aspect_zoom2
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 16 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 20 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 20 00 00 00
 #
-name: ADJ._<
+name: Adj._<
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 20 00 00 00
 #
-name: ADJ_LEFT
+name: Adj_left
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 20 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 20 00 00 00
 #
-name: CURSOR_LF
+name: Cursor_lf
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 20 00 00 00
 #
-name: C_LEFT
+name: C_left
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 20 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 21 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 21 00 00 00
 #
-name: ADJ._>
+name: Adj._>
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 21 00 00 00
 #
-name: ADJ_RIGHT
+name: Adj_right
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 21 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 21 00 00 00
 #
-name: CURSOR_RT
+name: Cursor_rt
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 21 00 00 00
 #
-name: C_RIGHT
+name: C_right
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 21 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 22 00 00 00
 #
-name: MENU/EXIT
+name: Menu/exit
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 22 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 23 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 23 00 00 00
 #
-name: ADJ._UP
+name: Adj._up
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 23 00 00 00
 #
-name: ADJ_UP
+name: Adj_up
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 23 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 23 00 00 00
 #
-name: C_UP
+name: C_up
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 23 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 24 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 24 00 00 00
 #
-name: ADJ._DN.
+name: Adj._dn.
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 24 00 00 00
 #
-name: ADJ_DOWN
+name: Adj_down
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 24 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 24 00 00 00
 #
-name: CURSOR_DN
+name: Cursor_dn
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 24 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 26 00 00 00
 #
-name: CURSOR_SELECT_/ENTER
+name: Cursor_select_/enter
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 26 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 26 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 26 00 00 00
 #
-name: OFF-TIMER
+name: Off-timer
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 41 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 41 00 00 00
 #
-name: OFF_TIMER
+name: Off_timer
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 41 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 44 00 00 00
 #
-name: PICTURE_MODE
+name: Picture_mode
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 44 00 00 00
 #
-name: PIC_MODE
+name: Pic_mode
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 44 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 48 00 00 00
 #
-name: PICTURE_MEMORY
+name: Picture_memory
 type: parsed
 protocol: NECext
 address: 84 8A 00 00
 command: 48 00 00 00
 #
-name: PIC_MEMORY
+name: Pic_memory
 type: parsed
 protocol: NECext
 address: 84 8A 00 00

@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: R_SKIP
+name: R_skip
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 1791 896 896 896 896 896 896 1791 896 89159
 #
-name: F_SKIP
+name: F_skip
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 1791 896 896 896 896 896 896 896 896 90054
 #
-name: R_SRCH
+name: R_srch
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 896 896 1791 896 896 1791 1791 90054
 #
-name: F_SRCH
+name: F_srch
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 896 896 1791 1791 1791 896 896 90054
 #
-name: R_INDEX
+name: R_index
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 1791 896 896 896 896 1791 896 896 896 89159
 #
-name: F_INDEX
+name: F_index
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 1791 896 896 896 896 1791 1791 90054
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 896 896 1791 1791 1791 1791 896 89159
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 896 896 1791 896 896 896 896 896 896 90054
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 896 896 1791 1791 896 896 1791 90054
 #
-name: OPEN
+name: Open
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 896 896 1791 1791 1791 896 896 1791 1791 1791 896 896 1791 1791 896 89159
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 35734
 duty_cycle: 0.330000

@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 19433 131 29188 131 29188 131 19433 131 19433
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 29188 131 19433 131 29188 131 29188 131 29188
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 29188 131 29188 131 19406 131 29188 131 29188
 #
-name: AUD_1/2
+name: Aud_1/2
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 29188 131 29188 131 29188 131 29188 131 29188
 #
-name: CHAN+
+name: Chan+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 29188 131 29188 131 29188 131 19433 131 19433
 #
-name: CHAN-
+name: Chan-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
@@ -97,43 +97,43 @@ frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 29188 131 19433 131 19433 131 19433 131 29188
 #
-name: FAV
+name: Fav
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 19406 131 19433 131 29188 131 29188 131 29188
 #
-name: UP
+name: Up
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 29188 131 19406 131 19406 131 29188 131 19406
 #
-name: DOWN
+name: Down
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 19433 131 19433 131 29188 131 19433 131 29188
 #
-name: LEFT
+name: Left
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 19406 131 19433 131 19433 131 29188 131 29188
 #
-name: RIGHT
+name: Right
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58377 131 19380 131 19380 131 19380 131 19380 131 29109
 #
-name: ENTER
+name: Enter
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 58508 131 19433 131 19433 131 19433 131 29188 131 19433
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38029
 duty_cycle: 0.330000

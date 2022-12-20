@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ESC
+name: Esc
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -67,37 +67,37 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 277 166 277 166 610 166 777 166 159994
 #
-name: NUM_LOCK
+name: Num_lock
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 610 166 444 166 277 166 160161
 #
-name: PRT_SC
+name: Prt_sc
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 444 166 277 166 610 166 160161
 #
-name: SCROLL_LOCK
+name: Scroll_lock
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 444 166 277 166 777 166 159994
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 444 166 444 166 277 166 160327
 #
-name: INSERT
+name: Insert
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 444 166 444 166 444 166 160161
 #
-name: DELETE
+name: Delete
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -241,7 +241,7 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 277 166 610 166 777 166 777 166 159495
 #
-name: CAPS_LOCK
+name: Caps_lock
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -313,13 +313,13 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 277 166 777 166 610 166 777 166 159495
 #
-name: ENTER
+name: Enter
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 277 166 777 166 777 166 277 166 159828
 #
-name: SHIFT
+name: Shift
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -385,55 +385,55 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 277 166 444 166 777 166 159994
 #
-name: UP
+name: Up
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 444 166 777 166 777 166 159495
 #
-name: DOWN
+name: Down
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 610 166 277 166 610 166 159994
 #
-name: LEFT
+name: Left
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 610 166 277 166 444 166 160161
 #
-name: RIGHT
+name: Right
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 610 166 277 166 777 166 159828
 #
-name: FN
+name: Fn
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 277 166 610 166 444 166 160161
 #
-name: CTRL
+name: Ctrl
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 277 166 610 166 610 166 159994
 #
-name: WINDOWS
+name: Windows
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 277 166 610 166 777 166 159828
 #
-name: ALT
+name: Alt
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 277 166 777 166 277 166 160161
 #
-name: SPACE
+name: Space
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -445,19 +445,19 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 277 166 444 166 444 166 277 166 160494
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 444 166 277 166 277 166 160494
 #
-name: BACKSPACE
+name: Backspace
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 277 166 610 166 277 166 444 166 160327
 #
-name: TAB
+name: Tab
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -475,43 +475,43 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 277 166 610 166 277 166 277 166 160494
 #
-name: LEFT_CLICK
+name: Left_click
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 777 166 777 166 777 166 159162
 #
-name: RIGHT_CLICK
+name: Right_click
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 610 166 277 166 444 166 777 166 777 166 610 166 159329
 #
-name: MOUSE_UP
+name: Mouse_up
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 444 166 277 166 777 166 277 166 444 166 277 166 23082
 #
-name: MOUSE_DOWN
+name: Mouse_down
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 416 277 166 444 166 277 166 777 166 444 166 777 166 277 166 22583
 #
-name: MOUSE_LEFT
+name: Mouse_left
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 28 55 28 610 166 277 166 22749 444 277 166 444 166 277 166 777 166 444 166 610
 #
-name: MOUSE_RIGHT
+name: Mouse_right
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 166 444 166 277 166 777 166 277 166 777 166 777 166 22250 416 277
 #
-name: ALT_RIGHT
+name: Alt_right
 type: raw
 frequency: 36045
 duty_cycle: 0.330000

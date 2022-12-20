@@ -73,43 +73,43 @@ protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: tv_off
+name: Tv_off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: vcr_off
+name: Vcr_off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0C 00 00 00
 #
-name: toggle_sound
+name: Toggle_sound
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: reverse_corner
+name: Reverse_corner
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -139,19 +139,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: uhr_corner
+name: Uhr_corner
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: fa
+name: Fa
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: uhr_music
+name: Uhr_music
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -163,31 +163,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: quiz
+name: Quiz
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: program+
+name: Program+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: program-
+name: Program-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: contrast+
+name: Contrast+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: ra_sl_us
+name: Ra_sl_us
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -199,25 +199,25 @@ protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 29 00 00 00
 #
-name: color-
+name: Color-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: brightness-
+name: Brightness-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: brightness+
+name: Brightness+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -229,43 +229,43 @@ protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: color+
+name: Color+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: contrast-
+name: Contrast-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2F 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 32 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 35 00 00 00
 #
-name: corner
+name: Corner
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -277,37 +277,37 @@ protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 37 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: s100
+name: S100
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3E 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00

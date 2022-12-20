@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 00 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 79 00 00 00
@@ -19,67 +19,67 @@ protocol: NECext
 address: 79 00 00 00
 command: 00 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 02 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 04 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 05 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 06 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 07 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 08 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0A 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0B 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 79 00 00 00
@@ -151,127 +151,127 @@ protocol: NECext
 address: 79 00 00 00
 command: 1A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1B 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1B 00 00 00
 #
-name: OUTPUT_-
+name: Output_-
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1C 00 00 00
 #
-name: OUTPUT_+
+name: Output_+
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1D 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1E 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 21 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 22 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 23 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 24 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 25 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 4F 00 00 00
 #
-name: DISC_-
+name: Disc_-
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 50 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 55 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 56 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 57 00 00 00
 #
-name: RANDOM_NORMAL
+name: Random_normal
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 79 00 00 00
 #
-name: RANDOM_ON
+name: Random_on
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7A 00 00 00
 #
-name: REPEAT_OFF
+name: Repeat_off
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7C 00 00 00
 #
-name: REPEAT_ALL
+name: Repeat_all
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7D 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 79 00 00 00

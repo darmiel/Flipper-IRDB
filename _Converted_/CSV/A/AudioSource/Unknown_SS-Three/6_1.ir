@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: rear+
+name: Rear+
 type: parsed
 protocol: NECext
 address: 06 01 00 00
 command: 04 00 00 00
 #
-name: monitor
+name: Monitor
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 05 00 00 00
 #
-name: test
+name: Test
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 06 00 00 00
 #
-name: rear-
+name: Rear-
 type: parsed
 protocol: NECext
 address: 06 01 00 00
 command: 08 00 00 00
 #
-name: matrix
+name: Matrix
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 09 00 00 00
 #
-name: phantom
+name: Phantom
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0A 00 00 00
 #
-name: center+
+name: Center+
 type: parsed
 protocol: NECext
 address: 06 01 00 00
 command: 10 00 00 00
 #
-name: hall
+name: Hall
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 06 00 00 00
 command: 12 00 00 00
 #
-name: center-
+name: Center-
 type: parsed
 protocol: NECext
 address: 06 01 00 00
 command: 20 00 00 00
 #
-name: surround
+name: Surround
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -73,19 +73,19 @@ protocol: NECext
 address: 06 00 00 00
 command: 22 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 06 01 00 00
 command: 40 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 41 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 06 01 00 00

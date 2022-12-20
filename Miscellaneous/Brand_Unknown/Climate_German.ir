@@ -3,13 +3,13 @@ Version: 1
 # 
 # Unknown Climate Controller (German)
 # 
-name: Ein_Klima
+name: Ein_klima
 type: parsed
 protocol: NECext
 address: 48 18 00 00
 command: 81 00 00 00
 # 
-name: Aus_Klima
+name: Aus_klima
 type: parsed
 protocol: NECext
 address: 48 18 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -31,19 +31,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 0D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -109,19 +109,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: POLARITY
+name: Polarity
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -133,19 +133,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 23 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 24 00 00 00
 #
-name: DISPLAY_INTENSITY
+name: Display_intensity
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 25 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 01 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 #
 # GX-IR05 Remote for GAN XIN Training Clock
 #
-name: Power On
+name: Power_on
 type: parsed
 protocol: NEC
 address: 01 00 00 00
@@ -39,79 +39,79 @@ protocol: NEC
 address: 01 00 00 00
 command: 50 00 00 00
 #
-name: Tabata Cycle
+name: Tabata_cycle
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 4B 00 00 00
 #
-name: Tabata Alarm
+name: Tabata_alarm
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 54 00 00 00
 #
-name: FGB1 Up
+name: Fgb1_up
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 4A 00 00 00
 #
-name: FGB1 Down
+name: Fgb1_down
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 49 00 00 00
 #
-name: F-A
+name: F-a
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 43 00 00 00
 #
-name: C-U
+name: C-u
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 42 00 00 00
 #
-name: Exit/Br/HIIT
+name: Exit/br/hiit
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 41 00 00 00
 #
-name: Reset/FGB2
+name: Reset/fgb2
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 5D 00 00 00
 #
-name: D. ENTER
+name: D._enter
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 5A 00 00 00
 #
-name: D. START
+name: D._start
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 5E 00 00 00
 #
-name: D. STOP
+name: D._stop
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 59 00 00 00
 #
-name: D. LEFT
+name: D._left
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 5B 00 00 00
 #
-name: D. RIGHT
+name: D._right
 type: parsed
 protocol: NEC
 address: 01 00 00 00
@@ -123,79 +123,79 @@ protocol: NEC
 address: 01 00 00 00
 command: 1A 00 00 00
 #
-name: 10 Sec
+name: 10_sec
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 57 00 00 00
 #
-name: WRC
+name: Wrc
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: 0 / P0
+name: 0_/_p0
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: A+ / 12-24h
+name: A+_/_12-24h
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 4F 00 00 00
 #
-name: 1 / P1
+name: 1_/_p1
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: 2 / P2
+name: 2_/_p2
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: 3 / P3
+name: 3_/_p3
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: 4 / P4
+name: 4_/_p4
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: 5 / P5
+name: 5_/_p5
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: 6 / P6
+name: 6_/_p6
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: 7 / P7
+name: 7_/_p7
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: 8 / P8
+name: 8_/_p8
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 02 00 00 00
 #
-name: 9 / P9
+name: 9_/_p9
 type: parsed
 protocol: NEC
 address: 01 00 00 00

@@ -61,19 +61,19 @@ protocol: NECext
 address: 8D 00 00 00
 command: 09 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 0B 00 00 00
 #
-name: PEAK
+name: Peak
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
@@ -85,97 +85,97 @@ protocol: NECext
 address: 8D 00 00 00
 command: 0D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 0E 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 0F 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 10 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 13 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 14 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 16 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 17 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 18 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 19 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1A 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1C 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1D 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
@@ -247,19 +247,19 @@ protocol: NECext
 address: 8D 00 00 00
 command: 4A 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 4C 00 00 00
 #
-name: DIGITAL
+name: Digital
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 4D 00 00 00
 #
-name: DAC
+name: Dac
 type: parsed
 protocol: NECext
 address: 8D 00 00 00

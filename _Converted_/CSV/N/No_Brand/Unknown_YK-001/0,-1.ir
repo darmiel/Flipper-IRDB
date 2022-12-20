@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: EQUAL
+name: Equal
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -25,13 +25,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -73,31 +73,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 42 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 43 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 44 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 45 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 46 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00

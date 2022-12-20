@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CBL_POWER
+name: Cbl_power
 type: parsed
 protocol: NECext
 address: 03 00 00 00

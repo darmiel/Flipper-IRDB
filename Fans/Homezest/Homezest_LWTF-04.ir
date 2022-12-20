@@ -3,7 +3,7 @@ Version: 1
 # 
 # Homezest tower fan LWTF-04
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38000
 duty_cycle: 0.330000

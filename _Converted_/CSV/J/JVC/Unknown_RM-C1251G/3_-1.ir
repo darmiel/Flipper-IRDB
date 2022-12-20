@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: sleep_timer
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: cc
+name: Cc
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0E 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: sound
+name: Sound
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -145,25 +145,25 @@ protocol: NECext
 address: 03 00 00 00
 command: 77 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7A 00 00 00
 #
-name: aspect
+name: Aspect
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 93 00 00 00
 #
-name: theater_pro
+name: Theater_pro
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: D5 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 03 00 00 00

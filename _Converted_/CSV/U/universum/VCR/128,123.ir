@@ -61,205 +61,205 @@ protocol: NECext
 address: 80 7B 00 00
 command: 09 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 0A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 0B 00 00 00
 #
-name: input_select
+name: Input_select
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 0C 00 00 00
 #
-name: timer_rec
+name: Timer_rec
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 0D 00 00 00
 #
-name: tv_vcr_scart_sw
+name: Tv_vcr_scart_sw
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 12 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 13 00 00 00
 #
-name: index
+name: Index
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 14 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 16 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 17 00 00 00
 #
-name: f.fwd
+name: F.fwd
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 18 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 19 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 1A 00 00 00
 #
-name: showview
+name: Showview
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 1D 00 00 00
 #
-name: sp_lp
+name: Sp_lp
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 1E 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 1F 00 00 00
 #
-name: preset
+name: Preset
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 40 00 00 00
 #
-name: set_plus
+name: Set_plus
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 41 00 00 00
 #
-name: set_minus
+name: Set_minus
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 42 00 00 00
 #
-name: trck_fine_plus
+name: Trck_fine_plus
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 43 00 00 00
 #
-name: trck_fine_minus
+name: Trck_fine_minus
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 44 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 45 00 00 00
 #
-name: aft_vps
+name: Aft_vps
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 46 00 00 00
 #
-name: daily
+name: Daily
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 49 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4A 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4B 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4C 00 00 00
 #
-name: weekly
+name: Weekly
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4D 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 50 00 00 00
 #
-name: clock_counter
+name: Clock_counter
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 51 00 00 00
 #
-name: trck_auto
+name: Trck_auto
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 52 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 58 00 00 00
 #
-name: call
+name: Call
 type: parsed
 protocol: NECext
 address: 80 7B 00 00

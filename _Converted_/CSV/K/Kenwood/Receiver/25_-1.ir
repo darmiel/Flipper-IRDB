@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO1_CH_^_(ANY_^)
+name: Video1_ch_^_(any_^)
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 00 00 00 00
 #
-name: VIDEO1_CH_V_(ANY_V)
+name: Video1_ch_v_(any_v)
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 01 00 00 00
 #
-name: VIDEO1_STOP_(BAND)
+name: Video1_stop_(band)
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 04 00 00 00
 #
-name: VIDEO1_PLAY_(P.CALL)
+name: Video1_play_(p.call)
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 05 00 00 00
 #
-name: VIDEO1_REC
+name: Video1_rec
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 06 00 00 00
 #
-name: VIDEO1_POWER
+name: Video1_power
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 08 00 00 00
 #
-name: VIDEO_POWER
+name: Video_power
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 08 00 00 00
 #
-name: VCR/TV_(LEVEL_AUDIO)
+name: Vcr/tv_(level_audio)
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0A 00 00 00
 #
-name: VIDEO1_>>_(TUNING)
+name: Video1_>>_(tuning)
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0C 00 00 00
 #
-name: VIDEO1_<<_(TUNING)
+name: Video1_<<_(tuning)
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0D 00 00 00
 #
-name: VIDEO1_PAUSE_(AUTO)
+name: Video1_pause_(auto)
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0E 00 00 00
 #
-name: VIDEO1_1
+name: Video1_1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 10 00 00 00
 #
-name: VIDEO1_2
+name: Video1_2
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 11 00 00 00
 #
-name: VIDEO1_3
+name: Video1_3
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 12 00 00 00
 #
-name: VIDEO1_4
+name: Video1_4
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 13 00 00 00
 #
-name: VIDEO1_5
+name: Video1_5
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 14 00 00 00
 #
-name: VIDEO1_6
+name: Video1_6
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 15 00 00 00
 #
-name: VIDEO1_7
+name: Video1_7
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 16 00 00 00
 #
-name: VIDEO1_8
+name: Video1_8
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 17 00 00 00
 #
-name: VIDEO1_9
+name: Video1_9
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 18 00 00 00
 #
-name: VIDEO1_0
+name: Video1_0
 type: parsed
 protocol: NECext
 address: 19 00 00 00

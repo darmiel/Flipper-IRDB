@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: but_8
+name: But_8
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 04 00 00 00
 #
-name: but_9
+name: But_9
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 05 00 00 00
 #
-name: tv/video
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 09 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0B 00 00 00
 #
-name: but_10
+name: But_10
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0C 00 00 00
 #
-name: but_1
+name: But_1
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0D 00 00 00
 #
-name: but_2
+name: But_2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0E 00 00 00
 #
-name: but_3
+name: But_3
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0F 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 10 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 19 00 00 00
 #
-name: but_4
+name: But_4
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 1C 00 00 00
 #
-name: but_5
+name: But_5
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 1D 00 00 00
 #
-name: but_6
+name: But_6
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 1E 00 00 00
 #
-name: but_7
+name: But_7
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 1F 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 44 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 53 00 00 00
 #
-name: krasn
+name: Krasn
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 5B 00 00 00
 #
-name: zelen
+name: Zelen
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 5C 00 00 00
 #
-name: jolt
+name: Jolt
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 5D 00 00 00
 #
-name: zelen
+name: Zelen
 type: parsed
 protocol: NECext
 address: 50 00 00 00

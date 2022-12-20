@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 00 00 00 00
 #
-name: CD/MD
+name: Cd/md
 type: parsed
 protocol: NECext
 address: 80 58 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 80 58 00 00
 command: 04 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 80 58 00 00
@@ -49,13 +49,13 @@ protocol: NECext
 address: 80 58 00 00
 command: 07 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 08 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 80 58 00 00
@@ -79,49 +79,49 @@ protocol: NECext
 address: 80 58 00 00
 command: 0F 00 00 00
 #
-name: Skip+/SearchRight
+name: Skip+/searchright
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 10 00 00 00
 #
-name: Skip/SearchLeft
+name: Skip/searchleft
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 11 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 12 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 13 00 00 00
 #
-name: Prog/Random
+name: Prog/random
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 14 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 17 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 1A 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 80 58 00 00
@@ -151,19 +151,19 @@ protocol: NECext
 address: 80 58 00 00
 command: 1F 00 00 00
 #
-name: Auto_Blank
+name: Auto_blank
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 40 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 80 58 00 00
 command: 41 00 00 00
 #
-name: CD_Synchro
+name: Cd_synchro
 type: parsed
 protocol: NECext
 address: 80 58 00 00

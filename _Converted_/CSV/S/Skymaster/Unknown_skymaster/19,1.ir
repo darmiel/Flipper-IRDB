@@ -61,127 +61,127 @@ protocol: NECext
 address: 13 01 00 00
 command: 09 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0C 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0D 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0E 00 00 00
 #
-name: audio_up
+name: Audio_up
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0F 00 00 00
 #
-name: audio_down
+name: Audio_down
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 10 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 11 00 00 00
 #
-name: store
+name: Store
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 12 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 13 00 00 00
 #
-name: aft
+name: Aft
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 14 00 00 00
 #
-name: rl
+name: Rl
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 16 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 17 00 00 00
 #
-name: ch_search
+name: Ch_search
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 18 00 00 00
 #
-name: lnb
+name: Lnb
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 19 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1A 00 00 00
 #
-name: hv
+name: Hv
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1C 00 00 00
 #
-name: jump
+name: Jump
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1D 00 00 00
 #
-name: auto_on
+name: Auto_on
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1F 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 13 01 00 00

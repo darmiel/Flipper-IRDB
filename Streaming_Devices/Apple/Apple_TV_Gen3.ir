@@ -7,7 +7,7 @@ protocol: NECext
 address: EE 87 00 00
 command: 02 0C 00 00
 # 
-name: Play_Pause
+name: Play_pause
 type: parsed
 protocol: NECext
 address: EE 87 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: EE 87 00 00
 command: 07 0C 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: EE 87 00 00

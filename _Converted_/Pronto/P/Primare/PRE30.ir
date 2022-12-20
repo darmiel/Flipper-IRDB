@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STANDBY
+name: Standby
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 902 902 902 902 902 902 902 902 1619 902 902 902 902 1619 902 902 1619 902 902 1619 1619 84760
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
@@ -73,13 +73,13 @@ frequency: 37683
 duty_cycle: 0.330000
 data: 823 823 1619 1619 823 823 1619 823 823 823 823 823 823 1619 823 823 1619 823 823 823 823 84760
 #
-name: MODE
+name: Mode
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 902 902 902 902 902 902 902 902 1698 902 902 902 902 1698 1698 1698 1698 1698 1698 84760
 #
-name: DIM
+name: Dim
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
@@ -91,49 +91,49 @@ frequency: 37683
 duty_cycle: 0.330000
 data: 902 902 902 902 902 902 902 902 1619 902 902 902 902 1619 1619 1619 902 902 902 902 902 902 902 84017
 #
-name: ST/REC
+name: St/rec
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 823 823 1619 1619 823 823 1619 823 823 823 823 1619 823 823 1619 823 823 823 823 823 823 84760
 #
-name: REW/BAL
+name: Rew/bal
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 902 902 902 902 902 902 902 902 1619 902 902 902 902 902 902 1619 902 902 1619 1619 1619 84760
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 823 823 1672 1672 823 823 1672 823 823 823 823 1672 1672 823 823 1672 823 823 1672 84760
 #
-name: UP
+name: Up
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 902 902 902 902 902 902 902 902 1619 902 902 902 902 902 902 1619 902 902 902 902 902 902 902 902 902 84017
 #
-name: LEFT
+name: Left
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 823 823 1619 1619 823 823 1619 823 823 823 823 823 823 1619 1619 823 823 823 823 1619 823 84017
 #
-name: SELECT
+name: Select
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 902 902 902 902 902 902 902 902 1698 902 902 902 902 1698 1698 1698 1698 1698 902 902 902 84017
 #
-name: RIGHT
+name: Right
 type: raw
 frequency: 37683
 duty_cycle: 0.330000
 data: 823 823 1619 1619 823 823 1619 823 823 823 823 823 823 1619 1619 823 823 823 823 823 823 84760
 #
-name: DOWN
+name: Down
 type: raw
 frequency: 37683
 duty_cycle: 0.330000

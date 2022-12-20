@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RECORDER_2_(MD)
+name: Recorder_2_(md)
 type: parsed
 protocol: NECext
 address: 17 00 00 00

@@ -61,85 +61,85 @@ protocol: NECext
 address: 0E 0E 00 00
 command: 09 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 0A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 0B 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 0C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 0D 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 0E 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 0F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 14 00 00 00
 #
-name: tv/av
+name: Tv/av
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 16 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00
 command: 18 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0E 0E 00 00

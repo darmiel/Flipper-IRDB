@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 2_CH
+name: 2_ch
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 41 00 00 00
 #
-name: AFD
+name: Afd
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 42 00 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 43 00 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 49 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 4A 00 00 00
 #
-name: BASS_BOOST
+name: Bass_boost
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 4D 00 00 00
 #
-name: BASS_UP
+name: Bass_up
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 50 00 00 00
 #
-name: BASS_DOWN
+name: Bass_down
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 51 00 00 00
 #
-name: TREB_UP
+name: Treb_up
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 56 00 00 00
 #
-name: TREB_DOWN
+name: Treb_down
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 57 00 00 00
 #
-name: SHIFT
+name: Shift
 type: parsed
 protocol: NECext
 address: B0 00 00 00

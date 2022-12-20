@@ -61,37 +61,37 @@ protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: pc-off
+name: Pc-off
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: fn
+name: Fn
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 14 00 00 00
 #
-name: tv/pc
+name: Tv/pc
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -109,139 +109,139 @@ protocol: NECext
 address: 07 00 00 00
 command: 17 00 00 00
 #
-name: back
+name: Back
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: channel+
+name: Channel+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: channel-
+name: Channel-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: pause
+name: Pause
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 30 00 00 00
 #
-name: rew
+name: Rew
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 32 00 00 00
 #
-name: play
+name: Play
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 33 00 00 00
 #
-name: forw
+name: Forw
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 34 00 00 00
 #
-name: stop
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 36 00 00 00
 #
-name: rec
+name: Rec
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 37 00 00 00
 #
-name: epg
+name: Epg
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 41 00 00 00
 #
-name: help
+name: Help
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 4A 00 00 00
 #
-name: up
+name: Up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 50 00 00 00
 #
-name: down
+name: Down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 51 00 00 00
 #
-name: menu
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 52 00 00 00
 #
-name: left
+name: Left
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 55 00 00 00
 #
-name: right
+name: Right
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 56 00 00 00
 #
-name: ok
+name: Ok
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 57 00 00 00
 #
-name: my-tv
+name: My-tv
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 6B 00 00 00
 #
-name: my-music
+name: My-music
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 6C 00 00 00
 #
-name: my-pictures
+name: My-pictures
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 6D 00 00 00
 #
-name: my-videos
+name: My-videos
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 6E 00 00 00
 #
-name: next
+name: Next
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 70 00 00 00
 #
-name: prev
+name: Prev
 type: parsed
 protocol: NECext
 address: 07 00 00 00

@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 1B
+name: 1b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CD 00 00 00
 #
-name: 2B
+name: 2b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CE 00 00 00
 #
-name: 3B
+name: 3b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CF 00 00 00
 #
-name: 4B
+name: 4b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D0 00 00 00
 #
-name: 5B
+name: 5b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D1 00 00 00
 #
-name: 6B
+name: 6b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D2 00 00 00
 #
-name: 7B
+name: 7b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D3 00 00 00
 #
-name: 8B
+name: 8b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D4 00 00 00
 #
-name: 9B
+name: 9b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D5 00 00 00
 #
-name: 0B
+name: 0b
 type: parsed
 protocol: NECext
 address: FF 00 00 00

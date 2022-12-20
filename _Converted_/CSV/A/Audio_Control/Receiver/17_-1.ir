@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NUMBER_0_(TUNER)_-_R
+name: Number_0_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: NUMBER_1_(TUNER)
+name: Number_1_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: NUMBER_1_(TUNER)_-_R
+name: Number_1_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: NUMBER_2_(TUNER)_-_R
+name: Number_2_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: NUMBER_3_(TUNER)_-_R
+name: Number_3_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: NUMBER_4_(TUNER)_-_R
+name: Number_4_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: NUMBER_5_(TUNER)_-_R
+name: Number_5_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: NUMBER_6_(TUNER)_-_R
+name: Number_6_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: NUMBER_7_(TUNER)_-_R
+name: Number_7_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: NUMBER_8_(TUNER)_-_R
+name: Number_8_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: NUMBER_9_(TUNER)_-_R
+name: Number_9_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: PRE/SIRIUS_+_(T)_-_R
+name: Pre/sirius_+_(t)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRE/SIRIUS_-_(T)_-_R
+name: Pre/sirius_-_(t)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: PAGE_DOWN_(TUNE)_-_R
+name: Page_down_(tune)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: PAGE_UP_(TUNER)_-_R
+name: Page_up_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 26 00 00 00
 #
-name: DELETE_PRESET_-_R
+name: Delete_preset_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: BAND_(TUNER)_-_R
+name: Band_(tuner)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 32 00 00 00
 #
-name: TUNING_+_RIGHT_-_R
+name: Tuning_+_right_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4D 00 00 00
 #
-name: TUNING_-_LEFT_-_R
+name: Tuning_-_left_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4E 00 00 00
 #
-name: PRESET_DOWN_(TUN_-_R
+name: Preset_down_(tun_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 55 00 00 00
 #
-name: PRESET_UP_(TUNE)_-_R
+name: Preset_up_(tune)_-_r
 type: parsed
 protocol: NECext
 address: 11 00 00 00

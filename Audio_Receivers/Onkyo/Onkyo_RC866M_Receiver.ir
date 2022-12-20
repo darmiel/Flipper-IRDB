@@ -3,109 +3,109 @@ Version: 1
 # 
 # Onkyo RC-866M (for AV Receiver TX-NR626)
 #
-name: POWER_Receiver
+name: Power_receiver
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: CB 34 00 00
 # 
-name: POWER_Zone2
+name: Power_zone2
 type: parsed
 protocol: NECext
 address: D2 12 00 00
 command: CB 34 00 00
 # 
-name: POWER_Source
+name: Power_source
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 84 7B 00 00
 # 
-name: Input BD-DVD
+name: Input_bd-dvd
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
 command: 8C 73 00 00
 # 
-name: Input CBL-SAT
+name: Input_cbl-sat
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0E F1 00 00
 # 
-name: Input GAME
+name: Input_game
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0D F2 00 00
 # 
-name: Input PC
+name: Input_pc
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9C 63 00 00
 # 
-name: Input AUX
+name: Input_aux
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 9F 60 00 00
 # 
-name: Input TUNER
+name: Input_tuner
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0B F4 00 00
 # 
-name: Input TV-CD
+name: Input_tv-cd
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 09 F6 00 00
 # 
-name: Input PHONO
+name: Input_phono
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
 command: 0A F5 00 00
 # 
-name: Input NET
+name: Input_net
 type: parsed
 protocol: NECext
 address: D2 02 00 00
 command: 87 78 00 00
 # 
-name: Input USB
+name: Input_usb
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 9E 61 00 00
 # 
-name: POWER_TV
+name: Power_tv
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 84 7B 00 00
 # 
-name: TV Input
+name: Tv_input
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 87 78 00 00
 # 
-name: TV Vol_max
+name: Tv_vol_max
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 82 7D 00 00
 # 
-name: TV Vol_min
+name: Tv_vol_min
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 83 7C 00 00
 # 
-name: TV Muting
+name: Tv_muting
 type: parsed
 protocol: NECext
 address: D2 19 00 00
@@ -117,13 +117,13 @@ protocol: NECext
 address: D2 19 00 00
 command: 86 79 00 00
 # 
-name: + CH DISC
+name: +_ch_disc
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 80 7F 00 00
 # 
-name: - ALBUM
+name: -_album
 type: parsed
 protocol: NECext
 address: D2 19 00 00
@@ -147,25 +147,25 @@ protocol: NECext
 address: D2 6D 00 00
 command: 05 FA 00 00
 # 
-name: Top menu_SP-Guide
+name: Top_menu_sp-guide
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 8F 70 00 00
 # 
-name: Menu_Prev CH
+name: Menu_prev_ch
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 90 6F 00 00
 # 
-name: Q_Setup
+name: Q_setup
 type: parsed
 protocol: NECext
 address: D2 19 00 00
 command: 8E 71 00 00
 # 
-name: Home_Audio
+name: Home_audio
 type: parsed
 protocol: NECext
 address: D2 1C 00 00
@@ -177,7 +177,7 @@ protocol: NECext
 address: D2 12 00 00
 command: 54 AB 00 00
 # 
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
@@ -249,25 +249,25 @@ protocol: NECext
 address: D2 02 00 00
 command: 8E 71 00 00
 # 
-name: A_Red_Mode-TV_Search
+name: A_red_mode-tv_search
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D0 2F 00 00
 # 
-name: B_Green_Music_Repeat
+name: B_green_music_repeat
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D1 2E 00 00
 # 
-name: C_Yellow-Game_Random
+name: C_yellow-game_random
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D2 2D 00 00
 # 
-name: D_Blue_Stereo_Mode
+name: D_blue_stereo_mode
 type: parsed
 protocol: NECext
 address: D2 6C 00 00
@@ -327,7 +327,7 @@ protocol: NECext
 address: D2 02 00 00
 command: DD 22 00 00
 # 
-name: +10_10_D.Tun Dimmer
+name: +10_10_d.tun_dimmer
 type: parsed
 protocol: NECext
 address: D2 6D 00 00
@@ -339,7 +339,7 @@ protocol: NECext
 address: D2 02 00 00
 command: DE 21 00 00
 # 
-name: Clr_12_Sleep
+name: Clr_12_sleep
 type: parsed
 protocol: NECext
 address: D2 6D 00 00

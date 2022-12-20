@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 40 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 41 00 00 00
 #
-name: COMPUTER_1
+name: Computer_1
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 42 00 00 00
 #
-name: COMPUTER_2
+name: Computer_2
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 43 00 00 00
 #
-name: VIDEO/S
+name: Video/s
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 44 00 00 00
 #
-name: AUTO_PC
+name: Auto_pc
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 45 00 00 00
 #
-name: KEYSTONE
+name: Keystone
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 46 00 00 00
 #
-name: CURSOR_UP/1
+name: Cursor_up/1
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 47 00 00 00
 #
-name: CURSOR_DOWN/3
+name: Cursor_down/3
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 48 00 00 00
 #
-name: CURSOR_LEFT/4
+name: Cursor_left/4
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 49 00 00 00
 #
-name: CURSOR_RIGHT/2
+name: Cursor_right/2
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 4A 00 00 00
 #
-name: SPOT
+name: Spot
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 4B 00 00 00
 #
-name: IMAGE
+name: Image
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 50 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 51 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 52 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 53 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 54 00 00 00
 #
-name: P-TIMER
+name: P-timer
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 55 00 00 00
 #
-name: D.ZOOM_UP
+name: D.zoom_up
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 56 00 00 00
 #
-name: D.ZOOM_DOWN
+name: D.zoom_down
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 57 00 00 00
 #
-name: NO_SHOW
+name: No_show
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 58 00 00 00
 #
-name: R-CLICK
+name: R-click
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 59 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 5A 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 81 06 00 00
 command: 5B 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 81 06 00 00

@@ -61,91 +61,91 @@ protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: MTS
+name: Mts
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: PWR_ON
+name: Pwr_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2E 00 00 00
 #
-name: PWR_OFF
+name: Pwr_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2F 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3A 00 00 00
 #
-name: LINE
+name: Line
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 40 00 00 00
 #
-name: RGB1
+name: Rgb1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 43 00 00 00
 #
-name: RGB2
+name: Rgb2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 44 00 00 00
 #
-name: Y/C
+name: Y/c
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 60 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 65 00 00 00
 #
-name: SELECT+
+name: Select+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 74 00 00 00
 #
-name: SELECT-
+name: Select-
 type: parsed
 protocol: NECext
 address: 01 00 00 00

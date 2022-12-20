@@ -31,7 +31,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -97,31 +97,31 @@ protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: VT/TV
+name: Vt/tv
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -157,7 +157,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 23 00 00 00
 #
-name: Sound3D
+name: Sound3d
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -175,19 +175,19 @@ protocol: NECext
 address: 07 00 00 00
 command: 28 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: MIX
+name: Mix
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -199,13 +199,13 @@ protocol: NECext
 address: 07 00 00 00
 command: 34 00 00 00
 #
-name: CS/Stop
+name: Cs/stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 35 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 07 00 00 00

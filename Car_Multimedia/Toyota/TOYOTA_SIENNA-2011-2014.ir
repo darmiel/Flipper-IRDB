@@ -3,127 +3,127 @@ Version: 1
 #
 # Toyota Sienna (2011-2014) Rear DVD System Remote 86170-45070
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 0C F3 00 00
 # 
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 28 D7 00 00
 # 
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 20 DF 00 00
 # 
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 21 DE 00 00
 # 
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 22 DD 00 00
 # 
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 23 DC 00 00
 # 
-name: CHAPTER+
+name: Chapter+
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 0A F5 00 00
 # 
-name: CHAPTER-
+name: Chapter-
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 0B F4 00 00
 # 
-name: FOLDER+
+name: Folder+
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 4E B1 00 00
 # 
-name: FOLDER-
+name: Folder-
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 4F B0 00 00
 # 
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 1A E5 00 00
 # 
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 19 E6 00 00
 # 
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 1C E3 00 00
 # 
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 1E E1 00 00
 # 
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 1F E0 00 00
 # 
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 18 E7 00 00
 # 
-name: SPLIT
+name: Split
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 29 D6 00 00
 # 
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 12 ED 00 00
 # 
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 11 EE 00 00
 # 
-name: SIZE
+name: Size
 type: parsed
 protocol: NECext
 address: 80 E7 00 00
 command: 16 E9 00 00
 # 
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 80 E7 00 00

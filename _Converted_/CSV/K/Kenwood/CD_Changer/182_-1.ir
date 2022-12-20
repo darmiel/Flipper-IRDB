@@ -61,73 +61,73 @@ protocol: NECext
 address: B6 00 00 00
 command: 09 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 11 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: DISC_SKIP_DOWN
+name: Disc_skip_down
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: DISC_SKIP_UP
+name: Disc_skip_up
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 19 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4F 00 00 00
 #
-name: POWER_ON/OFF
+name: Power_on/off
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 91 00 00 00
 #
-name: DISC_SELECTOR
+name: Disc_selector
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 9C 00 00 00
 #
-name: BEST_SELECTION
+name: Best_selection
 type: parsed
 protocol: NECext
 address: B6 00 00 00

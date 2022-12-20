@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CODE1_VID_4
+name: Code1_vid_4
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0C 00 00 00
 #
-name: CODE1_VID_3
+name: Code1_vid_3
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0E 00 00 00
 #
-name: CODE1_POWER_OFF
+name: Code1_power_off
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 15 00 00 00
 #
-name: CODE1_POWER_ON
+name: Code1_power_on
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 15 00 00 00
 #
-name: CODE4_POWER_OFF
+name: Code4_power_off
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 15 00 00 00
 #
-name: CODE4_POWER_ON
+name: Code4_power_on
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 15 00 00 00
 #
-name: CODE1_VIDE_2
+name: Code1_vide_2
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 23 00 00 00
 #
-name: CODE1_VID_5
+name: Code1_vid_5
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2C 00 00 00
 #
-name: CODE1_VID_1
+name: Code1_vid_1
 type: parsed
 protocol: NECext
 address: 14 00 00 00

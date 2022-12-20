@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 00 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 01 00 00 00
 #
-name: am
+name: Am
 type: parsed
 protocol: NECext
 address: 36 00 00 00
@@ -79,205 +79,205 @@ protocol: NECext
 address: 36 00 00 00
 command: 0D 00 00 00
 #
-name: tuning_up
+name: Tuning_up
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 0E 00 00 00
 #
-name: tuning_down
+name: Tuning_down
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 0F 00 00 00
 #
-name: deck_stop
+name: Deck_stop
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 10 00 00 00
 #
-name: deck_f.fwd
+name: Deck_f.fwd
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 11 00 00 00
 #
-name: deck_rew
+name: Deck_rew
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 12 00 00 00
 #
-name: deck_pause
+name: Deck_pause
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 13 00 00 00
 #
-name: deck_fwd_play
+name: Deck_fwd_play
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 15 00 00 00
 #
-name: deck_rev_play
+name: Deck_rev_play
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 16 00 00 00
 #
-name: deck_1/2
+name: Deck_1/2
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 1B 00 00 00
 #
-name: muting
+name: Muting
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 1C 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 1D 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 1F 00 00 00
 #
-name: cd_stop
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 40 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 41 00 00 00
 #
-name: cd_play
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 41 00 00 00
 #
-name: cd_pause
+name: Cd_pause
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 42 00 00 00
 #
-name: cd_1_open/close
+name: Cd_1_open/close
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 43 00 00 00
 #
-name: cd_2_auto_space
+name: Cd_2_auto_space
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 44 00 00 00
 #
-name: cd_3_edit
+name: Cd_3_edit
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 45 00 00 00
 #
-name: cd_4_side_ab
+name: Cd_4_side_ab
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 46 00 00 00
 #
-name: cd_5_a-b
+name: Cd_5_a-b
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 47 00 00 00
 #
-name: cd_f.fwd
+name: Cd_f.fwd
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 4E 00 00 00
 #
-name: cd_f.back
+name: Cd_f.back
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 4F 00 00 00
 #
-name: phono
+name: Phono
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 51 00 00 00
 #
-name: tuning_mode
+name: Tuning_mode
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 58 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 59 00 00 00
 #
-name: digital_dat/tape-2
+name: Digital_dat/tape-2
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 5B 00 00 00
 #
-name: digital_aux
+name: Digital_aux
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 5C 00 00 00
 #
-name: digital_cd
+name: Digital_cd
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 5D 00 00 00
 #
-name: tape-1
+name: Tape-1
 type: parsed
 protocol: NECext
 address: 36 00 00 00
 command: 5E 00 00 00
 #
-name: dat/tape-2
+name: Dat/tape-2
 type: parsed
 protocol: NECext
 address: 36 00 00 00

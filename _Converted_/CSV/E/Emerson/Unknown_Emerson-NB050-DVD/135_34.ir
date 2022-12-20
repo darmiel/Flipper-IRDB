@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 41 00 00 00
 #
-name: AB
+name: Ab
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 43 00 00 00
 #
-name: X_OPENCLOSE
+name: X_openclose
 type: parsed
 protocol: NECext
 address: 87 22 00 00
@@ -79,157 +79,157 @@ protocol: NECext
 address: 87 22 00 00
 command: 4E 00 00 00
 #
-name: X_REPEAT
+name: X_repeat
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 50 00 00 00
 #
-name: X_PLUSTEN
+name: X_plusten
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 51 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 52 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 53 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 55 00 00 00
 #
-name: X_SEARCHMODE
+name: X_searchmode
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 57 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 58 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 5B 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 5C 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 5D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 5E 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 5F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 60 00 00 00
 #
-name: X_TOPMENU
+name: X_topmenu
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 70 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 71 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 72 00 00 00
 #
-name: X_RETURN
+name: X_return
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 73 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 74 00 00 00
 #
-name: X_LEFTARROW
+name: X_leftarrow
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 75 00 00 00
 #
-name: X_RIGHTARROW
+name: X_rightarrow
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 76 00 00 00
 #
-name: X_UPARROW
+name: X_uparrow
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 77 00 00 00
 #
-name: X_DOWNARROW
+name: X_downarrow
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 78 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 79 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 7A 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 87 22 00 00
 command: 7B 00 00 00
 #
-name: X_VSURR
+name: X_vsurr
 type: parsed
 protocol: NECext
 address: 87 22 00 00

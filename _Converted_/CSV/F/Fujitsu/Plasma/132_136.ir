@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 84 88 00 00

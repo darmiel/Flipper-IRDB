@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 03 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 04 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 72 CD 00 00
 command: 09 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 72 CD 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 72 CD 00 00
 command: 11 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
@@ -91,43 +91,43 @@ protocol: NECext
 address: 72 CD 00 00
 command: 13 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 17 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 1C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 1D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 1F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 44 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 45 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
@@ -139,13 +139,13 @@ protocol: NECext
 address: 72 CD 00 00
 command: 49 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 72 CD 00 00
 command: 5C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 72 CD 00 00

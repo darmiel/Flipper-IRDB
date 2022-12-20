@@ -7,13 +7,13 @@ protocol: NECext
 address: 83 12 00 00
 command: 00 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 83 12 00 00
 command: 01 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 83 12 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 83 12 00 00
 command: 04 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 83 12 00 00
@@ -43,13 +43,13 @@ protocol: NECext
 address: 83 12 00 00
 command: 09 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 83 12 00 00
 command: 0A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 83 12 00 00
@@ -61,19 +61,19 @@ protocol: NECext
 address: 83 12 00 00
 command: 0D 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 83 12 00 00
 command: 0E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 83 12 00 00
 command: 0F 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 83 12 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 83 12 00 00
 command: 12 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 83 12 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 83 12 00 00
 command: 15 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 83 12 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 83 12 00 00
 command: 19 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 83 12 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 83 12 00 00
 command: 1D 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 83 12 00 00

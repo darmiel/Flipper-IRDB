@@ -1,253 +1,253 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BK006_POWER_OFF
+name: Bk006_power_off
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 01 00 00 00
 #
-name: BK006_POWER_ON
+name: Bk006_power_on
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 02 00 00 00
 #
-name: BK006_MUTE
+name: Bk006_mute
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 03 00 00 00
 #
-name: BK006_V1
+name: Bk006_v1
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 05 00 00 00
 #
-name: BK006_TV
+name: Bk006_tv
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 06 00 00 00
 #
-name: BK006_V2
+name: Bk006_v2
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 09 00 00 00
 #
-name: BK006_TAPE
+name: Bk006_tape
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 0B 00 00 00
 #
-name: BK006_DVD
+name: Bk006_dvd
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 0D 00 00 00
 #
-name: BK006_CD
+name: Bk006_cd
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 0F 00 00 00
 #
-name: BK006_TUNE-
+name: Bk006_tune-
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 1B 00 00 00
 #
-name: BK006_TUNE+
+name: Bk006_tune+
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 1C 00 00 00
 #
-name: BK006_BALANCE_LEFT
+name: Bk006_balance_left
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 1F 00 00 00
 #
-name: BK006_LEFT
+name: Bk006_left
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 1F 00 00 00
 #
-name: BK006_BALANCE_RIGHT
+name: Bk006_balance_right
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 20 00 00 00
 #
-name: BK006_RIGHT
+name: Bk006_right
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 20 00 00 00
 #
-name: BK006_VOLUME-
+name: Bk006_volume-
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 23 00 00 00
 #
-name: BK006_VOLUME+
+name: Bk006_volume+
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 24 00 00 00
 #
-name: BK006_NUMBER_+10
+name: Bk006_number_+10
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 29 00 00 00
 #
-name: BK006_DOWN
+name: Bk006_down
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 2D 00 00 00
 #
-name: BK006_UP
+name: Bk006_up
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 2E 00 00 00
 #
-name: BK006_ENTER
+name: Bk006_enter
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 30 00 00 00
 #
-name: BK006_NUMBER_1
+name: Bk006_number_1
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 31 00 00 00
 #
-name: BK006_NUMBER_2
+name: Bk006_number_2
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 32 00 00 00
 #
-name: BK006_NUMBER_3
+name: Bk006_number_3
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 33 00 00 00
 #
-name: BK006_NUMBER_4
+name: Bk006_number_4
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 35 00 00 00
 #
-name: BK006_NUMBER_5
+name: Bk006_number_5
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 36 00 00 00
 #
-name: BK006_NUMBER_6
+name: Bk006_number_6
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 37 00 00 00
 #
-name: BK006_NUMBER_7
+name: Bk006_number_7
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 39 00 00 00
 #
-name: BK006_NUMBER_8
+name: Bk006_number_8
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 3A 00 00 00
 #
-name: BK006_NUMBER_9
+name: Bk006_number_9
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 3B 00 00 00
 #
-name: BK006_NUMBER_0
+name: Bk006_number_0
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 3E 00 00 00
 #
-name: BK006_Z
+name: Bk006_z
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 3F 00 00 00
 #
-name: BK006_SAVE
+name: Bk006_save
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 40 00 00 00
 #
-name: BK006_SAT
+name: Bk006_sat
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 4A 00 00 00
 #
-name: BK006_PRESET+
+name: Bk006_preset+
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 4B 00 00 00
 #
-name: BK006_AM
+name: Bk006_am
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 76 00 00 00
 #
-name: BK006_EXIT
+name: Bk006_exit
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 7D 00 00 00
 #
-name: BK006_FM
+name: Bk006_fm
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 8E 00 00 00
 #
-name: BK006_MONO
+name: Bk006_mono
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: 9A 00 00 00
 #
-name: BK006_SLEEP
+name: Bk006_sleep
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: B3 00 00 00
 #
-name: BK006_PRESET-
+name: Bk006_preset-
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00
 command: C6 00 00 00
 #
-name: BK006_STEREO
+name: Bk006_stereo
 type: parsed
 protocol: NECext
 address: 2B 4D 00 00

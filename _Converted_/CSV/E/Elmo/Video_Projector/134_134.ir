@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: A_REV
+name: A_rev
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 09 00 00 00
 #
-name: A_ZOOM_WIDE
+name: A_zoom_wide
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 0A 00 00 00
 #
-name: A_ZOOM_TELE
+name: A_zoom_tele
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 0B 00 00 00
 #
-name: A_FWD
+name: A_fwd
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 0C 00 00 00
 #
-name: A_IRIS_CLOSE
+name: A_iris_close
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 0D 00 00 00
 #
-name: A_ZERO_RESET_FWD
+name: A_zero_reset_fwd
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 0E 00 00 00
 #
-name: A_ZERO_RESET_REV
+name: A_zero_reset_rev
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 0F 00 00 00
 #
-name: A_FOCUS_F
+name: A_focus_f
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 11 00 00 00
 #
-name: A_FOCUS_N
+name: A_focus_n
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 12 00 00 00
 #
-name: A_LAMP_ON
+name: A_lamp_on
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 13 00 00 00
 #
-name: A_LAMP_OFF
+name: A_lamp_off
 type: parsed
 protocol: NECext
 address: 86 86 00 00
 command: 14 00 00 00
 #
-name: A_IRIS_OPEN
+name: A_iris_open
 type: parsed
 protocol: NECext
 address: 86 86 00 00

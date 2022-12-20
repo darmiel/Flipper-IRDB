@@ -1,163 +1,163 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_Z4_TOGGLE
+name: Power_z4_toggle
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 05 00 00 00
 #
-name: Z4_ON
+name: Z4_on
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 06 00 00 00
 #
-name: POWER_Z4_ON
+name: Power_z4_on
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 06 00 00 00
 #
-name: Z4_OFF
+name: Z4_off
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 07 00 00 00
 #
-name: POWER_Z4_OFF
+name: Power_z4_off
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 07 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1B 00 00 00
 #
-name: NET_CURSOR_UP
+name: Net_cursor_up
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1B 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1C 00 00 00
 #
-name: NET_CURSOR_DOWN
+name: Net_cursor_down
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1C 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1D 00 00 00
 #
-name: NET_CURSOR_LEFT
+name: Net_cursor_left
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1D 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1E 00 00 00
 #
-name: NET_CURSOR_RIGHT
+name: Net_cursor_right
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1E 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1F 00 00 00
 #
-name: NET_ENTER
+name: Net_enter
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 1F 00 00 00
 #
-name: TUNER_UP
+name: Tuner_up
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 90 00 00 00
 #
-name: TUNER_DOWN
+name: Tuner_down
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 91 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 92 00 00 00
 #
-name: NET_PRESET+
+name: Net_preset+
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 92 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 93 00 00 00
 #
-name: NET_PRESET-
+name: Net_preset-
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 93 00 00 00
 #
-name: NET_SHIFT
+name: Net_shift
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 94 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 9C 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: A0 00 00 00
 #
-name: NET_MEMORY
+name: Net_memory
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: A0 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: A3 00 00 00
 #
-name: NET_PG./CHAR._SRCH.
+name: Net_pg./char._srch.
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: 04 07 00 00
 command: B0 00 00 00
 #
-name: NET_1
+name: Net_1
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -181,7 +181,7 @@ protocol: NECext
 address: 04 07 00 00
 command: B1 00 00 00
 #
-name: NET_2
+name: Net_2
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: 04 07 00 00
 command: B2 00 00 00
 #
-name: NET_3
+name: Net_3
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -205,7 +205,7 @@ protocol: NECext
 address: 04 07 00 00
 command: B3 00 00 00
 #
-name: NET_4
+name: Net_4
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -217,7 +217,7 @@ protocol: NECext
 address: 04 07 00 00
 command: B4 00 00 00
 #
-name: NET_5
+name: Net_5
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -229,7 +229,7 @@ protocol: NECext
 address: 04 07 00 00
 command: B5 00 00 00
 #
-name: NET_6
+name: Net_6
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -241,7 +241,7 @@ protocol: NECext
 address: 04 07 00 00
 command: B6 00 00 00
 #
-name: NET_7
+name: Net_7
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -253,7 +253,7 @@ protocol: NECext
 address: 04 07 00 00
 command: B7 00 00 00
 #
-name: NET_8
+name: Net_8
 type: parsed
 protocol: NECext
 address: 04 07 00 00
@@ -271,337 +271,337 @@ protocol: NECext
 address: 04 07 00 00
 command: B9 00 00 00
 #
-name: TUNER_A
+name: Tuner_a
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: F8 00 00 00
 #
-name: NET_SHIFT_A
+name: Net_shift_a
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: F8 00 00 00
 #
-name: TUNER_B
+name: Tuner_b
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: F9 00 00 00
 #
-name: NET_SHIFT_B
+name: Net_shift_b
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: F9 00 00 00
 #
-name: TUNER_C
+name: Tuner_c
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FA 00 00 00
 #
-name: NET_SHIFT_C
+name: Net_shift_c
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FA 00 00 00
 #
-name: TUNER_D
+name: Tuner_d
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FB 00 00 00
 #
-name: NET_SHIFT_D
+name: Net_shift_d
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FB 00 00 00
 #
-name: TUNER_E
+name: Tuner_e
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FC 00 00 00
 #
-name: NET_SHIFT_E
+name: Net_shift_e
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FC 00 00 00
 #
-name: TUNER_F
+name: Tuner_f
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FD 00 00 00
 #
-name: NET_SHIFT_F
+name: Net_shift_f
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FD 00 00 00
 #
-name: TUNER_G
+name: Tuner_g
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FE 00 00 00
 #
-name: NET_SHIFT_G
+name: Net_shift_g
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: FE 00 00 00
 #
-name: STATUS_REQUEST
+name: Status_request
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 285 00 00 00
 #
-name: INPUT_PHONO
+name: Input_phono
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2C0 00 00 00
 #
-name: INPUT_TUNER
+name: Input_tuner
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2C1 00 00 00
 #
-name: INPUT_CD
+name: Input_cd
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2C2 00 00 00
 #
-name: TOGGLE_NET/USB
+name: Toggle_net/usb
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2C7 00 00 00
 #
-name: INPUT_XM
+name: Input_xm
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2CA 00 00 00
 #
-name: INPUT_HD_RADIO
+name: Input_hd_radio
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2CB 00 00 00
 #
-name: INPUT_NET
+name: Input_net
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2CC 00 00 00
 #
-name: INPUT_IPOD
+name: Input_ipod
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2CD 00 00 00
 #
-name: INPUT_USB
+name: Input_usb
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2CE 00 00 00
 #
-name: INPUT_DVD
+name: Input_dvd
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2D0 00 00 00
 #
-name: INPUT_HDP
+name: Input_hdp
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2D1 00 00 00
 #
-name: INPUT_TV/CBL
+name: Input_tv/cbl
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2D2 00 00 00
 #
-name: INPUT_SAT
+name: Input_sat
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2D3 00 00 00
 #
-name: INPUT_VCR
+name: Input_vcr
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2D5 00 00 00
 #
-name: INPUT_DVR
+name: Input_dvr
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2D6 00 00 00
 #
-name: INPUT_V.AUX
+name: Input_v.aux
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2D9 00 00 00
 #
-name: TOGGLE_DVD/HDP
+name: Toggle_dvd/hdp
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2DC 00 00 00
 #
-name: TOGGLE_VCR/DVR
+name: Toggle_vcr/dvr
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 2DF 00 00 00
 #
-name: NET_PLAY
+name: Net_play
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 305 00 00 00
 #
-name: NET_PAUSE
+name: Net_pause
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 306 00 00 00
 #
-name: NET_STOP
+name: Net_stop
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 307 00 00 00
 #
-name: NET_SKIP_+
+name: Net_skip_+
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 308 00 00 00
 #
-name: NET_SKIP_-
+name: Net_skip_-
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 309 00 00 00
 #
-name: NET_REPEAT_ONE
+name: Net_repeat_one
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 30A 00 00 00
 #
-name: NET_REPEAT_OFF
+name: Net_repeat_off
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 30B 00 00 00
 #
-name: NET_RANDON_ON
+name: Net_randon_on
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 30C 00 00 00
 #
-name: NET_RANDOM_OFF
+name: Net_random_off
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 30D 00 00 00
 #
-name: NET_REPEAT_ALL
+name: Net_repeat_all
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 311 00 00 00
 #
-name: NET_STATUS_REQUEST
+name: Net_status_request
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 316 00 00 00
 #
-name: Z4_REPEAT
+name: Z4_repeat
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3BC 00 00 00
 #
-name: Z4_RANDOM
+name: Z4_random
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3BD 00 00 00
 #
-name: Z4_USB_DIR._PLAY
+name: Z4_usb_dir._play
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3BE 00 00 00
 #
-name: Z4_FAVORITE_DIR.PLAY
+name: Z4_favorite_dir.play
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3BF 00 00 00
 #
-name: Z4_PRESET_CH+
+name: Z4_preset_ch+
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3CC 00 00 00
 #
-name: Z4_PRESET_CH-
+name: Z4_preset_ch-
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3CD 00 00 00
 #
-name: Z4_PRESET_SHIFT
+name: Z4_preset_shift
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3CE 00 00 00
 #
-name: Z4_SEARCH_(RDS)
+name: Z4_search_(rds)
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3D7 00 00 00
 #
-name: Z4_PLAY/PAUSE
+name: Z4_play/pause
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3E0 00 00 00
 #
-name: Z4_STOP
+name: Z4_stop
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3E1 00 00 00
 #
-name: Z4_SKIP/TUNE-
+name: Z4_skip/tune-
 type: parsed
 protocol: NECext
 address: 04 07 00 00
 command: 3E3 00 00 00
 #
-name: Z4_SKIP/TUNE+
+name: Z4_skip/tune+
 type: parsed
 protocol: NECext
 address: 04 07 00 00

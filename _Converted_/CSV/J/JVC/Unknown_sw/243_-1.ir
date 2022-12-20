@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: vmute
+name: Vmute
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 86 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: 90 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: F3 00 00 00
@@ -61,37 +61,37 @@ protocol: NECext
 address: F3 00 00 00
 command: A7 00 00 00
 #
-name: loop
+name: Loop
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: A8 00 00 00
 #
-name: dual
+name: Dual
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AA 00 00 00
 #
-name: lock
+name: Lock
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AB 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AC 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: F3 00 00 00
 command: AD 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: F3 00 00 00

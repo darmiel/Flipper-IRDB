@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 00 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 01 00 00 00
 #
-name: LOW_PASS_+
+name: Low_pass_+
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 02 00 00 00
 #
-name: LOW_PASS_-
+name: Low_pass_-
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 03 00 00 00
 #
-name: PHASE_+
+name: Phase_+
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 04 00 00 00
 #
-name: PHASE_-
+name: Phase_-
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 05 00 00 00
 #
-name: ADAPTIVE_ROOM_CORR
+name: Adaptive_room_corr
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 06 00 00 00
 #
-name: FLAT
+name: Flat
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 10 00 00 00
 #
-name: PUNCH
+name: Punch
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 11 00 00 00
 #
-name: DEPTH
+name: Depth
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 12 00 00 00
 #
-name: USER_1_RECALL
+name: User_1_recall
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 1B 00 00 00
 #
-name: USER_2_RECALL
+name: User_2_recall
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 1C 00 00 00
 #
-name: MUSIC_RECALL
+name: Music_recall
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 20 00 00 00
 #
-name: MOVIE_RECALL
+name: Movie_recall
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 21 00 00 00
 #
-name: NIGHT_RECALL
+name: Night_recall
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 22 00 00 00
 #
-name: USER_1_SAVE
+name: User_1_save
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 23 00 00 00
 #
-name: USER_2_SAVE
+name: User_2_save
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 24 00 00 00
 #
-name: MUSIC_SAVE
+name: Music_save
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 28 00 00 00
 #
-name: MOVIE_SAVE
+name: Movie_save
 type: parsed
 protocol: NECext
 address: 11 51 00 00
 command: 29 00 00 00
 #
-name: NIGHT_SAVE
+name: Night_save
 type: parsed
 protocol: NECext
 address: 11 51 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: fm/am
+name: Fm/am
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 00 00 00 00
 #
-name: rds
+name: Rds
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -25,43 +25,43 @@ protocol: NECext
 address: 02 02 00 00
 command: 03 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 04 00 00 00
 #
-name: mdrec
+name: Mdrec
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 05 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 06 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 07 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 07 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 08 00 00 00
 #
-name: pty
+name: Pty
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -85,31 +85,31 @@ protocol: NECext
 address: 02 02 00 00
 command: 0C 00 00 00
 #
-name: pickrec
+name: Pickrec
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 0D 00 00 00
 #
-name: revmode
+name: Revmode
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 0E 00 00 00
 #
-name: editcancel
+name: Editcancel
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 0F 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 10 00 00 00
 #
-name: ct
+name: Ct
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -127,37 +127,37 @@ protocol: NECext
 address: 02 02 00 00
 command: 13 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 14 00 00 00
 #
-name: checkspace
+name: Checkspace
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 15 00 00 00
 #
-name: dolby
+name: Dolby
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 16 00 00 00
 #
-name: prog
+name: Prog
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 17 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 18 00 00 00
 #
-name: rt
+name: Rt
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -175,37 +175,37 @@ protocol: NECext
 address: 02 02 00 00
 command: 1B 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 1C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 1D 00 00 00
 #
-name: titleinput
+name: Titleinput
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 1F 00 00 00
 #
-name: md
+name: Md
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 40 00 00 00
 #
-name: fmmode
+name: Fmmode
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -223,19 +223,19 @@ protocol: NECext
 address: 02 02 00 00
 command: 43 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 44 00 00 00
 #
-name: set
+name: Set
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 45 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -247,85 +247,85 @@ protocol: NECext
 address: 02 02 00 00
 command: 47 00 00 00
 #
-name: titlesearch
+name: Titlesearch
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 48 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 49 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 4A 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 4B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 4C 00 00 00
 #
-name: timedisp
+name: Timedisp
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 4D 00 00 00
 #
-name: eqmode
+name: Eqmode
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 4E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 4F 00 00 00
 #
-name: bass
+name: Bass
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 50 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 51 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 52 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 53 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 56 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 02 02 00 00

@@ -82,67 +82,67 @@ protocol: NECext
 address: FF 00 00 00
 command: 6F 90 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 87 78 00 00
 #
-name: P/I
+name: P/i
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: P/N
+name: P/n
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: C7 38 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 47 B8 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 2F D0 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D7 28 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 57 A8 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 97 68 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 17 E8 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: E7 18 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: FF 00 00 00
 command: F7 08 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -166,7 +166,7 @@ protocol: NECext
 address: FF 00 00 00
 command: B7 48 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -178,7 +178,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 37 C8 00 00
 #
-name: PBC
+name: Pbc
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -190,7 +190,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 77 88 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -232,43 +232,43 @@ protocol: NECext
 address: FF 00 00 00
 command: 3D C2 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: ED 12 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 6D 92 00 00
 #
-name: RESUME
+name: Resume
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: AD 52 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 2D D2 00 00
 #
-name: L/R
+name: L/r
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CD 32 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 4D B2 00 00
 #
-name: STEP
+name: Step
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -280,19 +280,19 @@ protocol: NECext
 address: FF 00 00 00
 command: F5 0A 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 75 8A 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 27 D8 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: FF 00 00 00

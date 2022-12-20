@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SURR_REAR_ON/OFF(-)
+name: Surr_rear_on/off(-)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 05 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 0B 00 00 00
 #
-name: TV_SOUND
+name: Tv_sound
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 10 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 11 00 00 00
 #
-name: AUDIO_POWER
+name: Audio_power
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 17 00 00 00
 #
-name: FADE_MUTE
+name: Fade_mute
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 1F 00 00 00
 #
-name: FM/AM_1
+name: Fm/am_1
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 21 00 00 00
 #
-name: FM/AM_2
+name: Fm/am_2
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 22 00 00 00
 #
-name: FM/AM_3
+name: Fm/am_3
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 23 00 00 00
 #
-name: FM/AM_4
+name: Fm/am_4
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 24 00 00 00
 #
-name: FM/AM_5
+name: Fm/am_5
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 25 00 00 00
 #
-name: FM/AM_6
+name: Fm/am_6
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 26 00 00 00
 #
-name: FM/AM_7/P
+name: Fm/am_7/p
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 27 00 00 00
 #
-name: FM/AM_8
+name: Fm/am_8
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 28 00 00 00
 #
-name: FM/AM_9
+name: Fm/am_9
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 29 00 00 00
 #
-name: FM/AM_10
+name: Fm/am_10
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 2A 00 00 00
 #
-name: FM/AM_10+
+name: Fm/am_10+
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 2F 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3C 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3D 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 3F 00 00 00
 #
-name: SURR_DELAY_(+)
+name: Surr_delay_(+)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 48 00 00 00
 #
-name: SURR_CENTER_MODE_(-)
+name: Surr_center_mode_(-)
 type: parsed
 protocol: NECext
 address: A3 00 00 00
 command: 58 00 00 00
 #
-name: SURR_TEST_(+)
+name: Surr_test_(+)
 type: parsed
 protocol: NECext
 address: A3 00 00 00

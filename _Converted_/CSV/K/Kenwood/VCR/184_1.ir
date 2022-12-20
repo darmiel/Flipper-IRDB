@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: N.B.
+name: N.b.
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 4B 00 00 00
 #
-name: MULTI_LVL_CTRL_V
+name: Multi_lvl_ctrl_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 54 00 00 00
 #
-name: MULTI_LVL_CTRL_^
+name: Multi_lvl_ctrl_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 55 00 00 00
 #
-name: LEVEL_MODE
+name: Level_mode
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 57 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: B8 01 00 00

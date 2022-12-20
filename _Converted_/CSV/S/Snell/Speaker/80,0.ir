@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BASS_SHAPE_-_CINEMA
+name: Bass_shape_-_cinema
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 02 00 00 00
 #
-name: BASS_SHAPE_-_REF.
+name: Bass_shape_-_ref.
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 03 00 00 00
 #
-name: BASS_LEVEL_+4
+name: Bass_level_+4
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 04 00 00 00
 #
-name: BASS_LEVEL_+6
+name: Bass_level_+6
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 07 00 00 00
 #
-name: BASS_LEVEL_-4
+name: Bass_level_-4
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 08 00 00 00
 #
-name: BASS_LEVEL_-6
+name: Bass_level_-6
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 09 00 00 00
 #
-name: BASS_LEVEL_+2
+name: Bass_level_+2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0F 00 00 00
 #
-name: BASS_LEVEL_-2
+name: Bass_level_-2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 11 00 00 00
 #
-name: BASS_LEVEL_0
+name: Bass_level_0
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 13 00 00 00
 #
-name: TREBLE_-_CUT
+name: Treble_-_cut
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 1E 00 00 00
 #
-name: TREBLE_-_BOOST
+name: Treble_-_boost
 type: parsed
 protocol: NECext
 address: 50 00 00 00

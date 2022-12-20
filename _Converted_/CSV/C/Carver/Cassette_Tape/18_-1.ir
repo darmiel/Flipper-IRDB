@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: >L
+name: >l
 type: parsed
 protocol: NECext
 address: 12 00 00 00
@@ -13,19 +13,19 @@ protocol: NECext
 address: 12 00 00 00
 command: 21 00 00 00
 #
-name: S/T
+name: S/t
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 26 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 29 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 12 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 12 00 00 00
 command: 2F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 12 00 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 12 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 12 00 00 00

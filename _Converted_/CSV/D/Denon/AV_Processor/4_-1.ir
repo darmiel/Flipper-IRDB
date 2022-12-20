@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SURROUND_CINEMA
+name: Surround_cinema
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 95 00 00 00
 #
-name: ROOM_EQ
+name: Room_eq
 type: parsed
 protocol: NECext
 address: 04 00 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: UnknownUnknown
+name: Unknownunknown
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
@@ -13,379 +13,379 @@ frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 872 872 872 872 1745 1745 872 872 872 67797
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 872 872 872 872 872 872 1745 872 872 67797
 #
-name: POWER_ON
+name: Power_on
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 872 872 1745 1745 872 67797
 #
-name: POWER_OFF
+name: Power_off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 872 872 1745 1745 872 872 872 872 872 67797
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 872 872 872 872 1745 872 872 872 872 67797
 #
-name: MUTE_ON
+name: Mute_on
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 1745 1745 872 872 872 872 872 872 89088
 #
-name: MUTE_OFF
+name: Mute_off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 1745 1745 872 872 872 872 1745 872 88215
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 1745 1745 872 872 1745 1745 67797
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 872 872 1745 1745 872 872 872 67797
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 1745 1745 1745 872 872 872 872 872 67797
 #
-name: DISPLAY_BRIGHTNESS
+name: Display_brightness
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 872 67797
 #
-name: SELECT
+name: Select
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 1745 872 872 67797
 #
-name: SAT
+name: Sat
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 872 872 1745 1745 67797
 #
-name: DVD
+name: Dvd
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 1745 1745 872 872 872 67797
 #
-name: AV
+name: Av
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 872 872 872 872 1745 1745 67797
 #
-name: NET
+name: Net
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 872 67797
 #
-name: DVR
+name: Dvr
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 1745 1745 1745 872 872 67797
 #
-name: TUNER
+name: Tuner
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 1745 1745 872 872 1745 67797
 #
-name: AM
+name: Am
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 1745 872 872 872 872 67797
 #
-name: FM
+name: Fm
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 1745 1745 872 67797
 #
-name: SIRIUS
+name: Sirius
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 1745 67797
 #
-name: TAPE
+name: Tape
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 872 872 872 67797
 #
-name: VCR
+name: Vcr
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 1745 872 872 872 872 67797
 #
-name: CD
+name: Cd
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 1745 872 872 1745 872 67797
 #
-name: AUX
+name: Aux
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 872 872 1745 1745 67797
 #
-name: MULTI-CHANNEL
+name: Multi-channel
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 872 67797
 #
-name: VIDEO_BYPASS_TOGGLE
+name: Video_bypass_toggle
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 1745 872 872 67797
 #
-name: VIDEO_BYPASS_ON
+name: Video_bypass_on
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 1745 872 872 872 872 872 872 67797
 #
-name: VIDEO_BYPASS_OFF
+name: Video_bypass_off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 1745 872 872 872 872 1745 872 67797
 #
-name: RANDOM
+name: Random
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 1745 1745 1745 872 872 1745 67797
 #
-name: REPEAT
+name: Repeat
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 1745 1745 1745 1745 1745 872 67797
 #
-name: UP_ARROW
+name: Up_arrow
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 1745 1745 872 872 872 872 872 872 67797
 #
-name: DN_ARROW
+name: Dn_arrow
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 1745 1745 872 872 872 872 1745 872 67797
 #
-name: RIGHT_ARROW
+name: Right_arrow
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 872 872 872 872 872 872 872 872 67797
 #
-name: LEFT_ARROW
+name: Left_arrow
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 872 872 1745 872 872 872 872 67797
 #
-name: CYCLE_BETWEEN_DECODE_MODES
+name: Cycle_between_decode_modes
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 872 872 1745 872 872 1745 872 67797
 #
-name: TRACK+
+name: Track+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 1745 67797
 #
-name: TRACK-
+name: Track-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 1745 1745 1745 67797
 #
-name: NET_PLAY/PAUSE
+name: Net_play/pause
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 872 872 872 872 1745 67797
 #
-name: DIRECT_MODE_ON/OFF
+name: Direct_mode_on/off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 872 872 872 872 872 872 872 67797
 #
-name: DIRECT_MODE_ON
+name: Direct_mode_on
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 1745 872 872 872 872 872 872 1745 67797
 #
-name: DIRECT_MODE_OFF
+name: Direct_mode_off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 1745 67797
 #
-name: ROOM_EQ_ON/OFF_/_NET_NOW_PLAYING_SCREEN
+name: Room_eq_on/off_/_net_now_playing_screen
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 872 872 1745 872 872 872 872 872 67797
 #
-name: DOLBY_VOLUME_ON/OFF_/_NET_PLAY/PAUSE
+name: Dolby_volume_on/off_/_net_play/pause
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 872 872 1745 872 872 67797
 #
-name: BASS_CONTROL_MENU
+name: Bass_control_menu
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 872 872 1745 1745 872 67797
 #
-name: BASS_INCREMENT
+name: Bass_increment
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 872 872 1745 1745 1745 872 67797
 #
-name: BASS_DECREMENT
+name: Bass_decrement
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 872 67797
 #
-name: SPEAKER_TRIM
+name: Speaker_trim
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 1745 1745 1745 872 872 1745 872 67797
 #
-name: SUBWOOFER_CONTROL_MENU
+name: Subwoofer_control_menu
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 1745 1745 872 872 1745 872 872 67797
 #
-name: SUBWOOFER_INCREMENT
+name: Subwoofer_increment
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 872 872 872 872 1745 67797
 #
-name: SUBWOOFER_DECREMENT
+name: Subwoofer_decrement
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 872 872 872 872 1745 67797
 #
-name: TREBLE_CONTROL_MENU
+name: Treble_control_menu
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 1745 872 872 872 872 1745 1745 67797
 #
-name: TREBLE_INCREMENT
+name: Treble_increment
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 1745 872 872 1745 872 67797
 #
-name: TREBLE_DECREMENT
+name: Treble_decrement
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 1745 1745 872 872 872 67797
 #
-name: FAVORITE_UP
+name: Favorite_up
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 1745 1745 872 872 872 67797
 #
-name: FAVORITE_DN
+name: Favorite_dn
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 872 872 1745 872 872 872 872 872 872 872 872 872 67797
 #
-name: HOME
+name: Home
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 1745 1745 1745 1745 872 872 67797
 #
-name: ZONE_TOGGLE
+name: Zone_toggle
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 1745 1745 872 872 872 872 872 872 872 67797
 #
-name: FOLLOW_ZONE_1
+name: Follow_zone_1
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 1745 1745 872 872 1745 872 872 872 67797
 #
-name: CYCLE_BETWEEN_OUTPUT_RESOLUTIONS
+name: Cycle_between_output_resolutions
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 872 872 1745 872 872 1745 872 872 1745 1745 67797
 #
-name: CYCLE_BETWEEN_ASPECT_RATIOS
+name: Cycle_between_aspect_ratios
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 1745 872 872 1745 1745 872 872 67797
 #
-name: LIPSYNC_CONTROL_MENU
+name: Lipsync_control_menu
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 872 872 1745 1745 872 872 1745 1745 1745 872 67797
 #
-name: LIPSYNC_INCREMENT_BY_1ms
+name: Lipsync_increment_by_1ms
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 1745 1745 872 872 872 872 872 872 872 872 872 872 67797
 #
-name: LIPSYNC_DECREMENT_BY_1ms
+name: Lipsync_decrement_by_1ms
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
@@ -451,223 +451,223 @@ frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 1745 872 872 872 872 1745 1745 1745 872 872 67797
 #
-name: SELECT_FM
+name: Select_fm
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 1745 1745 1745 1745 1745 872 872 1745 67797
 #
-name: SELECT_AM
+name: Select_am
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 1745 1745 1745 1745 1745 1745 1745 872 67797
 #
-name: INCREMENT_PRESET/NAVIGATE_UP
+name: Increment_preset/navigate_up
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 1745 1745 872 872 1745 872 872 1745 1745 872 67797
 #
-name: DECREMENT_PRESET/NAVIGATE_DN
+name: Decrement_preset/navigate_dn
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 1745 1745 872 872 1745 872 872 872 872 1745 67797
 #
-name: INCREASE_TUNING/NAVIGATE_RIGHT
+name: Increase_tuning/navigate_right
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 1745 872 872 872 872 1745 872 872 1745 1745 67797
 #
-name: DECREASE_TUNING/NAVIGATE_LEFT
+name: Decrease_tuning/navigate_left
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 872 872 872 872 1745 872 872 872 872 872 872 872 872 1745 1745 872 67797
 #
-name: BAND
+name: Band
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 872 872 872 872 872 872 67797
 #
-name: TUNER_MENU
+name: Tuner_menu
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 872 872 872 872 1745 872 67797
 #
-name: PRESET_UP_/_SIRIUS_CAT+
+name: Preset_up_/_sirius_cat+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 1745 1745 1745 872 67797
 #
-name: PRESET_DN_/_SIRIUS_CAT-
+name: Preset_dn_/_sirius_cat-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 1745 67797
 #
-name: PAGE_DOWN_PRESET_LIST
+name: Page_down_preset_list
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 872 872 872 872 1745 872 872 1745 1745 1745 872 872 1745 872 67797
 #
-name: PAGE_UP_PRESET_LIST
+name: Page_up_preset_list
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 1745 872 872 872 67797
 #
-name: DELETE_SELECTED_PRESET
+name: Delete_selected_preset
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 872 872 1745 872 872 67797
 #
-name: Z2_POWER_ON
+name: Z2_power_on
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 872 872 872 872 872 872 1745 872 67797
 #
-name: Z2_POWER_OFF
+name: Z2_power_off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 872 872 872 872 1745 1745 67797
 #
-name: Z2_VOL+
+name: Z2_vol+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 872 872 872 872 1745 872 872 872 67797
 #
-name: Z2_VOL-
+name: Z2_vol-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 872 872 1745 1745 872 872 67797
 #
-name: Z2_MUTE
+name: Z2_mute
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 872 872 1745 1745 1745 872 67797
 #
-name: Z2_MUTE_ON
+name: Z2_mute_on
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 1745 1745 872 872 872 872 67797
 #
-name: Z2_MUTE_OFF
+name: Z2_mute_off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 872 872 1745 872 872 872 872 872 67797
 #
-name: Z2_SAT
+name: Z2_sat
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 1745 1745 872 872 1745 872 67797
 #
-name: Z2_DVD
+name: Z2_dvd
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 1745 1745 872 872 1745 872 872 872 67797
 #
-name: Z2_AV
+name: Z2_av
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 872 872 1745 67797
 #
-name: Z2_NET
+name: Z2_net
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 872 872 872 872 872 67797
 #
-name: Z2_FM
+name: Z2_fm
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 1745 872 872 67797
 #
-name: Z2_AM
+name: Z2_am
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 1745 872 872 1745 1745 872 67797
 #
-name: Z2_DVR
+name: Z2_dvr
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 1745 1745 1745 1745 67797
 #
-name: Z2_AUX
+name: Z2_aux
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 1745 1745 1745 872 872 872 67797
 #
-name: Z2_TAPE
+name: Z2_tape
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 872 872 872 872 1745 872 872 1745 67797
 #
-name: Z2_VCR
+name: Z2_vcr
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 1745 1745 872 872 872 872 872 872 67797
 #
-name: Z2_CD
+name: Z2_cd
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 872 872 1745 872 67797
 #
-name: Z2_SIRIUS
+name: Z2_sirius
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1745 872 872 1745 1745 1745 872 872 872 872 872 872 872 872 872 872 1745 1745 1745 67797
 #
-name: Z3_POWER_ON
+name: Z3_power_on
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 1745 1745 1745 1745 872 872 67797
 #
-name: Z3_POWER_OFF
+name: Z3_power_off
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 1745 1745 1745 1745 1745 872 67797
 #
-name: Z3_VOL+
+name: Z3_vol+
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 1745 1745 1745 872 872 1745 67797
 #
-name: Z3_VOL-
+name: Z3_vol-
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 872 872 1745 1745 1745 1745 872 872 872 872 1745 1745 1745 1745 872 872 872 872 872 67797
 #
-name: Z3_MUTE
+name: Z3_mute
 type: raw
 frequency: 36683
 duty_cycle: 0.330000

@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MASTERVOL-
+name: Mastervol-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 01 00 00 00
 #
-name: MASTERVOL+
+name: Mastervol+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 02 00 00 00
 #
-name: BALANCE
+name: Balance
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 04 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 05 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 06 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 09 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 0C 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 0D 00 00 00
 #
-name: Q-SOUND
+name: Q-sound
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 11 00 00 00
 #
-name: X_1EXT
+name: X_1ext
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 13 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 15 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 17 00 00 00
 #
-name: CENTER-
+name: Center-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 18 00 00 00
 #
-name: SURR+
+name: Surr+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 1C 00 00 00
 #
-name: SW+
+name: Sw+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 1D 00 00 00
 #
-name: CENTER+
+name: Center+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 1E 00 00 00
 #
-name: SW-
+name: Sw-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 45 00 00 00
 #
-name: TRE+
+name: Tre+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 48 00 00 00
 #
-name: TRE-
+name: Tre-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 49 00 00 00
 #
-name: SURR-
+name: Surr-
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 4C 00 00 00
 #
-name: BASS+
+name: Bass+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 4F 00 00 00
 #
-name: STEREO/3STEREO
+name: Stereo/3stereo
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 55 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 56 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 5E 00 00 00
 #
-name: BASS-
+name: Bass-
 type: parsed
 protocol: NECext
 address: 30 00 00 00

@@ -3,37 +3,37 @@ Version: 1
 # 
 # Big Ass Fans Haiku
 # 
-name: Fan_POWER
+name: Fan_power
 type: parsed
 protocol: NECext
 address: BA F0 00 00
 command: 03 FC 00 00
 # 
-name: Light_POWER
+name: Light_power
 type: parsed
 protocol: NECext
 address: BA F0 00 00
 command: 43 BC 00 00
 # 
-name: Speed_Up
+name: Speed_up
 type: parsed
 protocol: NECext
 address: BA F0 00 00
 command: 50 AF 00 00
 # 
-name: Speed_Down
+name: Speed_down
 type: parsed
 protocol: NECext
 address: BA F0 00 00
 command: 41 BE 00 00
 # 
-name: Light_Up
+name: Light_up
 type: parsed
 protocol: NECext
 address: BA F0 00 00
 command: 42 BD 00 00
 # 
-name: Light_Down
+name: Light_down
 type: parsed
 protocol: NECext
 address: BA F0 00 00

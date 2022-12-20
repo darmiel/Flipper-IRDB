@@ -10,43 +10,43 @@ protocol: NECext
 address: FF 00 00 00
 command: CF 30 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 0F F0 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 3F C0 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 1F E0 00 00
 #
-name: PG+
+name: Pg+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D7 28 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 7D 82 00 00
 #
-name: PG-
+name: Pg-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: E7 18 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -58,7 +58,7 @@ protocol: NECext
 address: FF 00 00 00
 command: DD 22 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: FF 00 00 00
 command: CD 32 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -82,7 +82,7 @@ protocol: NECext
 address: FF 00 00 00
 command: FD 02 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: FF 00 00 00
 command: ED 12 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -106,13 +106,13 @@ protocol: NECext
 address: FF 00 00 00
 command: FF 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 2F D0 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -208,7 +208,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 9D 62 00 00
 #
-name: TV RADIO
+name: Tv_radio
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -220,7 +220,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 6D 92 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: FF 00 00 00

@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: REPEAT_OFF
+name: Repeat_off
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: C0 00 00 00
 #
-name: MODE_OFF
+name: Mode_off
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: FA 00 00 00
 #
-name: CROSS_FADE
+name: Cross_fade
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: FB 00 00 00
 #
-name: ALL_DISCS
+name: All_discs
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: FC 00 00 00
 #
-name: 1_DISC
+name: 1_disc
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: FD 00 00 00
 #
-name: REPEAT_1
+name: Repeat_1
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: FE 00 00 00
 #
-name: BEST_HIT
+name: Best_hit
 type: parsed
 protocol: NECext
 address: 04 00 00 00

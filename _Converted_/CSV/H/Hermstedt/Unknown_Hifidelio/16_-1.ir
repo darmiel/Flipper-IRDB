@@ -61,181 +61,181 @@ protocol: NECext
 address: 10 00 00 00
 command: 09 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0A 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0B 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: f1
+name: F1
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 12 00 00 00
 #
-name: artist
+name: Artist
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 13 00 00 00
 #
-name: f2
+name: F2
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 14 00 00 00
 #
-name: album
+name: Album
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 15 00 00 00
 #
-name: operate
+name: Operate
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1A 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1D 00 00 00
 #
-name: LIGHTS_TOGGLE
+name: Lights_toggle
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 20 00 00 00
 #
-name: LIGHTS_TOGGLE
+name: Lights_toggle
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 21 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 23 00 00 00
 #
-name: genre
+name: Genre
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 24 00 00 00
 #
-name: f4
+name: F4
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 26 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 29 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2B 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2C 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2E 00 00 00
 #
-name: songs
+name: Songs
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 38 00 00 00
 #
-name: lists
+name: Lists
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 3B 00 00 00
 #
-name: f3
+name: F3
 type: parsed
 protocol: NECext
 address: 10 00 00 00

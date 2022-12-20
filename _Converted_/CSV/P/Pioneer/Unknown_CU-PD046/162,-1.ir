@@ -73,7 +73,7 @@ protocol: NECext
 address: A2 00 00 00
 command: 0B 00 00 00
 #
-name: PGM
+name: Pgm
 type: parsed
 protocol: NECext
 address: A2 00 00 00
@@ -103,43 +103,43 @@ protocol: NECext
 address: A2 00 00 00
 command: 11 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 16 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1C 00 00 00
 #
-name: Random_Play
+name: Random_play
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 4A 00 00 00
 #
-name: LargerThan10
+name: Largerthan10
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 56 00 00 00
 #
-name: Hi_Lite_Scan
+name: Hi_lite_scan
 type: parsed
 protocol: NECext
 address: A2 00 00 00

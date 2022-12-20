@@ -10,7 +10,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 1776 888 888 1776 888 888 1776 888 888 68998
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -22,7 +22,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 1776 888 888 1776 1776 888 68998
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -82,7 +82,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 888 888 1776 888 888 888 888 1776 1776 888 888 1776 888 68998
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -94,223 +94,223 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 68998
 #
-name: LOCAL
+name: Local
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: LOCAL 1
+name: Local_1
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 888 888 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: LOCAL 2
+name: Local_2
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 888 888 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: LOCAL 3
+name: Local_3
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 1776 1776 888 888 888 888 1776 1776 1776 1776 888 68998
 #
-name: SOUND/FLAT
+name: Sound/flat
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 68998
 #
-name: MODE
+name: Mode
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 68998
 #
-name: FLAT
+name: Flat
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 68998
 #
-name: INPUT AUX 1
+name: Input_aux_1
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT AUX 2
+name: Input_aux_2
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT AUX 3
+name: Input_aux_3
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 888 888 1776 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT PHONO
+name: Input_phono
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT SERVER
+name: Input_server
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 888 888 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT TAPE
+name: Input_tape
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT TUNER
+name: Input_tuner
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT TV
+name: Input_tv
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 888 888 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT VIDEO 1
+name: Input_video_1
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT VIDEO 2
+name: Input_video_2
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 888 888 1776 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT VIDEO 3
+name: Input_video_3
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT VIDEO 4
+name: Input_video_4
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 888 888 1776 888 888 1776 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT VIDEO 5
+name: Input_video_5
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 1776 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: INPUT VIDEO 6
+name: Input_video_6
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 888 68998
 #
-name: BALANCE L
+name: Balance_l
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 1776 888 888 888 68998
 #
-name: BALANCE R
+name: Balance_r
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 1776 1776 68998
 #
-name: SPEAKER A
+name: Speaker_a
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 888 888 888 888 888 888 1776 888 888 1776 888 888 888 888 1776 888 888 68998
 #
-name: SPEAKER B
+name: Speaker_b
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 888 888 888 888 888 888 1776 888 888 1776 888 888 888 888 1776 1776 888 68998
 #
-name: BASS-
+name: Bass-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 888 68998
 #
-name: BASS+
+name: Bass+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 1776 1776 888 888 1776 68998
 #
-name: CENTER-
+name: Center-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 888 888 1776 888 68998
 #
-name: CENTER+
+name: Center+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 888 888 888 888 68998
 #
-name: TREBLE-
+name: Treble-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 888 888 1776 888 68998
 #
-name: TREBLE+
+name: Treble+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 888 888 888 888 68998
 #
-name: SUBWOOFER-
+name: Subwoofer-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 888 68998
 #
-name: SUBWOOFER+
+name: Subwoofer+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 1776 1776 888 888 1776 68998
 #
-name: SURROUND-
+name: Surround-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 1776 888 888 1776 1776 888 888 888 68998
 #
-name: SURROUND+
+name: Surround+
 type: raw
 frequency: 38000
 duty_cycle: 0.33

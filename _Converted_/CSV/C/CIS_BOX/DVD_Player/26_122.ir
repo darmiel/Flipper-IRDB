@@ -49,187 +49,187 @@ protocol: NECext
 address: 1A 7A 00 00
 command: 08 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 0B 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 0E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 0F 00 00 00
 #
-name: OPEN_CLOSE
+name: Open_close
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 16 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 1B 00 00 00
 #
-name: PWRON
+name: Pwron
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 2E 00 00 00
 #
-name: PWR_OFF
+name: Pwr_off
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 2F 00 00 00
 #
-name: PREV_TRACK
+name: Prev_track
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 30 00 00 00
 #
-name: NEXT_TRACK
+name: Next_track
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 32 00 00 00
 #
-name: SKAN_REW
+name: Skan_rew
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 33 00 00 00
 #
-name: SKAN_FF
+name: Skan_ff
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 34 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 39 00 00 00
 #
-name: STEP_REW
+name: Step_rew
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 3A 00 00 00
 #
-name: STEP_FF
+name: Step_ff
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 3B 00 00 00
 #
-name: DISK1
+name: Disk1
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 40 00 00 00
 #
-name: DISK2
+name: Disk2
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 41 00 00 00
 #
-name: DISK3
+name: Disk3
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 42 00 00 00
 #
-name: DISK4
+name: Disk4
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 43 00 00 00
 #
-name: DISK5
+name: Disk5
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 44 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 53 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 54 00 00 00
 #
-name: SUBTITTLE_ON_OFF
+name: Subtittle_on_off
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 62 00 00 00
 #
-name: SUBTITTLE_CHANGE
+name: Subtittle_change
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 63 00 00 00
 #
-name: AUDIO_CHANGE
+name: Audio_change
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 64 00 00 00
 #
-name: ANGLE_CHANGE
+name: Angle_change
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 65 00 00 00
 #
-name: CURSER_UP
+name: Curser_up
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 79 00 00 00
 #
-name: CURSER_DOWN
+name: Curser_down
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 7A 00 00 00
 #
-name: CURSER_LEFT
+name: Curser_left
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00
 command: 7B 00 00 00
 #
-name: CURSER_RIGHT
+name: Curser_right
 type: parsed
 protocol: NECext
 address: 1A 7A 00 00

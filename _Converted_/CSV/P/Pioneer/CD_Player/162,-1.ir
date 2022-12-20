@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0D 00 00 00
 #
-name: PGM
+name: Pgm
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0D 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0E 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0E 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0F 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0F 00 00 00
 #
-name: SKIP_I<<
+name: Skip_i<<
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 10 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 10 00 00 00
 #
-name: SKIP_>>I
+name: Skip_>>i
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 11 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 11 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 16 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1C 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1E 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1F 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 45 00 00 00
 #
-name: CHECK
+name: Check
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 49 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 4A 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 50 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 50 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 53 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 57 00 00 00
 #
-name: DISC_6
+name: Disc_6
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 5B 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 5D 00 00 00
 #
-name: HI-LITE_SCAN
+name: Hi-lite_scan
 type: parsed
 protocol: NECext
 address: A2 00 00 00

@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MODE_STRAIGHT_DECODE
+name: Mode_straight_decode
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 52 00 00 00
 #
-name: MODE_DOLBY_EX
+name: Mode_dolby_ex
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 53 00 00 00
 #
-name: MODE_MONO
+name: Mode_mono
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 54 00 00 00
 #
-name: SETUP_VIDEO
+name: Setup_video
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 87 00 00 00
 #
-name: INPUT_UNIVERSAL_PORT
+name: Input_universal_port
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 8A 00 00 00
 #
-name: INPUT_USB_(FRONT)
+name: Input_usb_(front)
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 9E 00 00 00
 #
-name: INPUT_USB_REAR
+name: Input_usb_rear
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 9F 00 00 00
 #
-name: MODE_LISTEN_MODEMOVI
+name: Mode_listen_modemovi
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D0 00 00 00
 #
-name: MODE_LISTEN_MODEGAME
+name: Mode_listen_modegame
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D2 00 00 00
 #
-name: HDMI_OUT_NO_ANALOG
+name: Hdmi_out_no_analog
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D3 00 00 00
 #
-name: HDMI_OUT_MAIN
+name: Hdmi_out_main
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D4 00 00 00
 #
-name: HDMI_OUT_SUB
+name: Hdmi_out_sub
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D5 00 00 00
 #
-name: INPUT_SIRIUS
+name: Input_sirius
 type: parsed
 protocol: NECext
 address: D2 AC 00 00

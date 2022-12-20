@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SCROLL_DOWN
+name: Scroll_down
 type: parsed
 protocol: NECext
 address: 01 0E 00 00

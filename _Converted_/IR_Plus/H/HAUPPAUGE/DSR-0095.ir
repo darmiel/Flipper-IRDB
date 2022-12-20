@@ -28,13 +28,13 @@ protocol: RC5
 address: 1F 00 00 00
 command: 54 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
 command: 4D 00 00 00
 #
-name: LIVE
+name: Live
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
@@ -52,7 +52,7 @@ protocol: RC5
 address: 1F 00 00 00
 command: 56 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
@@ -88,7 +88,7 @@ protocol: RC5
 address: 1F 00 00 00
 command: 55 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
@@ -112,13 +112,13 @@ protocol: RC5
 address: 1F 00 00 00
 command: 74 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
 command: 5F 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
@@ -142,13 +142,13 @@ protocol: RC5
 address: 1F 00 00 00
 command: 43 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
 command: 65 00 00 00
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
@@ -172,13 +172,13 @@ protocol: RC5
 address: 1F 00 00 00
 command: 46 00 00 00
 #
-name: CC
+name: Cc
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
 command: 4E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC5
 address: 1F 00 00 00
@@ -208,7 +208,7 @@ protocol: RC5
 address: 1F 00 00 00
 command: 40 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC5
 address: 1F 00 00 00

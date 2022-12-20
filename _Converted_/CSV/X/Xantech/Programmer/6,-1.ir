@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 1-OFF
+name: 1-off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 00 00 00 00
 #
-name: 0-OFF
+name: 0-off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 01 00 00 00
 #
-name: 2-OFF
+name: 2-off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 04 00 00 00
 #
-name: 1-ON
+name: 1-on
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 05 00 00 00
 #
-name: 3-OFF
+name: 3-off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 08 00 00 00
 #
-name: 2-ON
+name: 2-on
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 09 00 00 00
 #
-name: 4-OFF
+name: 4-off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0C 00 00 00
 #
-name: 3-ON
+name: 3-on
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0D 00 00 00
 #
-name: 5-OFF
+name: 5-off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 10 00 00 00
 #
-name: 4-ON
+name: 4-on
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 11 00 00 00
 #
-name: 0-ON
+name: 0-on
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 14 00 00 00
 #
-name: 7-ON
+name: 7-on
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 15 00 00 00
 #
-name: 6-OFF
+name: 6-off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 18 00 00 00
 #
-name: 5-ON
+name: 5-on
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 19 00 00 00
 #
-name: 7-OFF
+name: 7-off
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1C 00 00 00
 #
-name: 6-ON
+name: 6-on
 type: parsed
 protocol: NECext
 address: 06 00 00 00

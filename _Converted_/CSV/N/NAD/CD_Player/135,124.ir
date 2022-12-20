@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 01 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 02 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 03 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 04 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 05 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 06 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 07 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 08 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 0A 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
@@ -121,49 +121,49 @@ protocol: NECext
 address: 87 7C 00 00
 command: 16 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 17 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 41 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 42 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 43 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 44 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 45 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 48 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 87 7C 00 00
 command: 4D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 87 7C 00 00

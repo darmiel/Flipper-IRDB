@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 00 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 01 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 02 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 85 20 00 00
@@ -49,25 +49,25 @@ protocol: NECext
 address: 85 20 00 00
 command: 07 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 09 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 0A 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 0B 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 85 20 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 85 20 00 00
 command: 0F 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 85 20 00 00
@@ -115,79 +115,79 @@ protocol: NECext
 address: 85 20 00 00
 command: 17 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 1D 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 1E 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 40 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 41 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 42 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 45 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 46 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 47 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 4A 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 4B 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 4C 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 4D 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 85 20 00 00
@@ -199,73 +199,73 @@ protocol: NECext
 address: 85 20 00 00
 command: 4F 00 00 00
 #
-name: STEP_SLOW_<<
+name: Step_slow_<<
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 50 00 00 00
 #
-name: STEP_SLOW_>>
+name: Step_slow_>>
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 51 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 52 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 53 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 54 00 00 00
 #
-name: ENTER_SELECT
+name: Enter_select
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 55 00 00 00
 #
-name: SEARCH_MODE
+name: Search_mode
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 59 00 00 00
 #
-name: FL_DIMMER
+name: Fl_dimmer
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 5A 00 00 00
 #
-name: FUNCTION_MEMORY
+name: Function_memory
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 5B 00 00 00
 #
-name: LAST_MEMORY
+name: Last_memory
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 5C 00 00 00
 #
-name: CONDITION_MEMORY
+name: Condition_memory
 type: parsed
 protocol: NECext
 address: 85 20 00 00
 command: 5D 00 00 00
 #
-name: VIDEO_OFF
+name: Video_off
 type: parsed
 protocol: NECext
 address: 85 20 00 00

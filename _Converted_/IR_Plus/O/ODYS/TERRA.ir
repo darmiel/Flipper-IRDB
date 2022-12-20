@@ -10,13 +10,13 @@ protocol: NECext
 address: EF 10 00 00
 command: 3F C0 00 00
 #
-name: DVD/TV
+name: Dvd/tv
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: ED 12 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: EF 10 00 00
 command: 6F 90 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: EF 10 00 00
 command: AF 50 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -142,13 +142,13 @@ protocol: NECext
 address: EF 10 00 00
 command: 4F B0 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: F7 08 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -160,37 +160,37 @@ protocol: NECext
 address: EF 10 00 00
 command: F5 0A 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: 17 E8 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: 75 8A 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: B5 4A 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: 35 CA 00 00
 #
-name: Slow -
+name: Slow_-
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: 0D F2 00 00
 #
-name: Slow +
+name: Slow_+
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -202,13 +202,13 @@ protocol: NECext
 address: EF 10 00 00
 command: 0F F0 00 00
 #
-name: C/CH
+name: C/ch
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: B7 48 00 00
 #
-name: Top Menu
+name: Top_menu
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -238,25 +238,25 @@ protocol: NECext
 address: EF 10 00 00
 command: BF 40 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: 2F D0 00 00
 #
-name: Rep/A-B
+name: Rep/a-b
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: E7 18 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: EF 10 00 00
 command: CD 32 00 00
 #
-name: Auto/Track
+name: Auto/track
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -274,7 +274,7 @@ protocol: NECext
 address: EF 10 00 00
 command: 5F A0 00 00
 #
-name: R/L
+name: R/l
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -286,7 +286,7 @@ protocol: NECext
 address: EF 10 00 00
 command: 8F 70 00 00
 #
-name: 3D
+name: 3d
 type: parsed
 protocol: NECext
 address: EF 10 00 00
@@ -298,7 +298,7 @@ protocol: NECext
 address: EF 10 00 00
 command: 37 C8 00 00
 #
-name: Play/Back
+name: Play/back
 type: parsed
 protocol: NECext
 address: EF 10 00 00

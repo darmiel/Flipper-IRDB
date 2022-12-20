@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SRCH_MODE_PRESET
+name: Srch_mode_preset
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 00 00 00 00
 #
-name: HDRADIO:_PRES_MOD
+name: Hdradio:_pres_mod
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 00 00 00 00
 #
-name: SRCH_MODE_TUNING
+name: Srch_mode_tuning
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 01 00 00 00
 #
-name: HDRADIO:_MAN_MOD
+name: Hdradio:_man_mod
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 01 00 00 00
 #
-name: OPERATION_11
+name: Operation_11
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 02 00 00 00
 #
-name: SRCE:_MZ_PRESET_-
+name: Srce:_mz_preset_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 02 00 00 00
 #
-name: SRCE:_Z2_PRESET_-
+name: Srce:_z2_preset_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 03 00 00 00
 #
-name: Z2_OPERATION_11
+name: Z2_operation_11
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 03 00 00 00
 #
-name: Z2_OPERATION_11
+name: Z2_operation_11
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 03 00 00 00
 #
-name: SRCE:_Z3_PRESET_-
+name: Srce:_z3_preset_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 04 00 00 00
 #
-name: Z3_SOURCE:_OP_11
+name: Z3_source:_op_11
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 04 00 00 00
 #
-name: Z3_SOURCE:_OP_11
+name: Z3_source:_op_11
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 04 00 00 00
 #
-name: SRCE:_Z4_PRESET_-
+name: Srce:_z4_preset_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 05 00 00 00
 #
-name: Z4_SOURCE:_OP_11
+name: Z4_source:_op_11
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 05 00 00 00
 #
-name: Z4_SOURCE:_OP_11
+name: Z4_source:_op_11
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 05 00 00 00
 #
-name: OPERATION_12
+name: Operation_12
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 06 00 00 00
 #
-name: SRCE:_MZ_PRESET_+
+name: Srce:_mz_preset_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 06 00 00 00
 #
-name: SRCE:_Z2_PRESET_+
+name: Srce:_z2_preset_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 07 00 00 00
 #
-name: Z2_OPERATION_12
+name: Z2_operation_12
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 07 00 00 00
 #
-name: Z2_OPERATION_12
+name: Z2_operation_12
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 07 00 00 00
 #
-name: SRCE:_Z3_PRESET_+
+name: Srce:_z3_preset_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 08 00 00 00
 #
-name: Z3_SOURCE:_OP_12
+name: Z3_source:_op_12
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 08 00 00 00
 #
-name: Z3_SOURCE:_OP_12
+name: Z3_source:_op_12
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 08 00 00 00
 #
-name: SRCE:_Z4_PRESET_+
+name: Srce:_z4_preset_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 09 00 00 00
 #
-name: Z4_SOURCE:_OP_12
+name: Z4_source:_op_12
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 09 00 00 00
 #
-name: Z4_SOURCE:_OP_12
+name: Z4_source:_op_12
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -163,13 +163,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: 0A 00 00 00
 #
-name: SIRIUS_PRESET_A
+name: Sirius_preset_a
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0A 00 00 00
 #
-name: SIRIUS:_A
+name: Sirius:_a
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -181,19 +181,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: 0B 00 00 00
 #
-name: SIRIUS_PRESET_B
+name: Sirius_preset_b
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0B 00 00 00
 #
-name: SIRIUS:_B
+name: Sirius:_b
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0B 00 00 00
 #
-name: SIRIUS:_B
+name: Sirius:_b
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -205,25 +205,25 @@ protocol: NECext
 address: 7F 01 00 00
 command: 0C 00 00 00
 #
-name: SIRIUS_PRESET_C
+name: Sirius_preset_c
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0C 00 00 00
 #
-name: SIRIUS:_C
+name: Sirius:_c
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0C 00 00 00
 #
-name: SIRIUS:_C
+name: Sirius:_c
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0C 00 00 00
 #
-name: DOCK_BLUETOOTH_PAIR
+name: Dock_bluetooth_pair
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -235,49 +235,49 @@ protocol: NECext
 address: 7F 01 00 00
 command: 0D 00 00 00
 #
-name: SIRIUS_PRESET_D
+name: Sirius_preset_d
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0D 00 00 00
 #
-name: SIRIUS:_D
+name: Sirius:_d
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0D 00 00 00
 #
-name: SIRIUS:_D
+name: Sirius:_d
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0D 00 00 00
 #
-name: IPOD_UP
+name: Ipod_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: IPOD_CURSOR_UP
+name: Ipod_cursor_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: IPOD:_CURSOR_UP
+name: Ipod:_cursor_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: IPOD_MENU_UP
+name: Ipod_menu_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: DOCK_NAV_UP
+name: Dock_nav_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -289,7 +289,7 @@ protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: DOCK:_UP
+name: Dock:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -301,67 +301,67 @@ protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: SIRIUS_PRESET_E
+name: Sirius_preset_e
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: DOCK_MENU_UP
+name: Dock_menu_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: IPOD:_UP
+name: Ipod:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: SIRIUS:_E
+name: Sirius:_e
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: IPOD:_UP
+name: Ipod:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: SIRIUS:_E
+name: Sirius:_e
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0E 00 00 00
 #
-name: IPOD_MENU
+name: Ipod_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0F 00 00 00
 #
-name: IPOD:_MENU
+name: Ipod:_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0F 00 00 00
 #
-name: SEARCH_ALL_CH
+name: Search_all_ch
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0F 00 00 00
 #
-name: SIRIUS:ALL_CH_SEARCH
+name: Sirius:all_ch_search
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -373,61 +373,55 @@ protocol: NECext
 address: 7F 01 00 00
 command: 0F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0F 00 00 00
 #
-name: SIRIUS_MODE_ALL
+name: Sirius_mode_all
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0F 00 00 00
 #
-name: SIRIUS_ALL_CH_SRCH
+name: Sirius_all_ch_srch
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 0F 00 00 00
 #
-name: IPOD_MENU_LEFT
+name: Ipod_menu_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: IPOD_CURSOR_LEFT
+name: Ipod_cursor_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: IPOD:_CURSOR_LEFT
+name: Ipod:_cursor_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: SEARCH_CATEGORY
+name: Search_category
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: DOCK:_LEFT
+name: Dock:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: SIRIUS:CATEG._SEARCH
-type: parsed
-protocol: NECext
-address: 7F 01 00 00
-command: 10 00 00 00
-#
-name: Unknown
+name: Sirius:categ._search
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -439,79 +433,85 @@ protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: LEFT
+name: Unknown
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: SIRIUS_MODE_CATEGOR
+name: Left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: DOCK_MENU_LEFT
+name: Sirius_mode_categor
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: SIRIUS_CAT_SRCH
+name: Dock_menu_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: IPOD:_LEFT
+name: Sirius_cat_srch
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: IPOD:_LEFT
+name: Ipod:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 10 00 00 00
 #
-name: IPOD_ENTER
+name: Ipod:_left
+type: parsed
+protocol: NECext
+address: 7F 01 00 00
+command: 10 00 00 00
+#
+name: Ipod_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: IPOD_CURSOR_ENTER
+name: Ipod_cursor_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: IPOD:_CURSOR_ENTER
+name: Ipod:_cursor_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: DOCK_NAV_ENTER
+name: Dock_nav_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: SEARCH_PRESET
+name: Search_preset
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: DOCK:_ENTER
+name: Dock:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: SIRIUS:PRESET_SEARCH
+name: Sirius:preset_search
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -529,67 +529,67 @@ protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: IPOD:_ENTER
+name: Ipod:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: SIRIUS_MODE_PRESET
+name: Sirius_mode_preset
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: DOCK_MENU_ENTER
+name: Dock_menu_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: SIRIUS_PRESET_SRCH
+name: Sirius_preset_srch
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: IPOD:_ENTER
+name: Ipod:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 11 00 00 00
 #
-name: IPOD_MENU_RIGHT
+name: Ipod_menu_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: IPOD_CURSOR_RIGHT
+name: Ipod_cursor_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: IPOD:_CURSOR_RIGHT
+name: Ipod:_cursor_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: DOCK_NAV_RIGHT
+name: Dock_nav_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: DOCK:_RIGHT
+name: Dock:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -601,73 +601,73 @@ protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: DOCK_MENU_RIGHT
+name: Dock_menu_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: IPOD:_RIGHT
+name: Ipod:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: IPOD:_RIGHT
+name: Ipod:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: NET:_RIGHT
+name: Net:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 12 00 00 00
 #
-name: IPOD_BLUETOOTH_OFF
+name: Ipod_bluetooth_off
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 13 00 00 00
 #
-name: IPOD_DOWN
+name: Ipod_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: IPOD_CURSOR_DOWN
+name: Ipod_cursor_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: IPOD:_CURSOR_DOWN
+name: Ipod:_cursor_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: IPOD_MENU_DOWN
+name: Ipod_menu_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: DOCK_NAV_DOWN
+name: Dock_nav_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: DOCK:_DOWN
+name: Dock:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -679,43 +679,43 @@ protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: DOCK_MENU_DOWN
+name: Dock_menu_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: IPOD:_DOWN
+name: Ipod:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: IPOD:_DOWN
+name: Ipod:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 14 00 00 00
 #
-name: IPOD_DISPLAY
+name: Ipod_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 15 00 00 00
 #
-name: IPOD:_DISPLAY
+name: Ipod:_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 15 00 00 00
 #
-name: DOCK:_DISPLAY
+name: Dock:_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -727,55 +727,55 @@ protocol: NECext
 address: 7F 01 00 00
 command: 15 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 15 00 00 00
 #
-name: DOCK_DISPLAY
+name: Dock_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 15 00 00 00
 #
-name: IPOD_REW(SEARCH)
+name: Ipod_rew(search)
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: IPOD_REW
+name: Ipod_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: IPOD:_REWIND
+name: Ipod:_rewind
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: IPOD:_REW
+name: Ipod:_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: IPOD_REWIND
+name: Ipod_rewind
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: DOCK_REW
+name: Dock_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: DOCK:_REW
+name: Dock:_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -787,79 +787,79 @@ protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: IPOD:_SCAN_DOWN
+name: Ipod:_scan_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: IPOD_SEARCH-
+name: Ipod_search-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: DOCK_CONT_REW
+name: Dock_cont_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: IPOD:_REWIND
+name: Ipod:_rewind
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 17 00 00 00
 #
-name: IPOD_FF(SEARCH)
+name: Ipod_ff(search)
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: IPOD_FF
+name: Ipod_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: IPOD:_FAST_FORWARD
+name: Ipod:_fast_forward
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: IPOD:_FF
+name: Ipod:_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: IPOD_FAST_FORWARD
+name: Ipod_fast_forward
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: DOCK_FF
+name: Dock_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: DOCK_NAV_LEFT
+name: Dock_nav_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: DOCK:_FF
+name: Dock:_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -871,55 +871,55 @@ protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: IPOD:_SCAN_UP
+name: Ipod:_scan_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: IPOD_SEARCH_UP
+name: Ipod_search_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: DOCK_CONT_FF
+name: Dock_cont_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: IPOD:_FAST_FORWARD
+name: Ipod:_fast_forward
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 18 00 00 00
 #
-name: IPOD_PAUSE
+name: Ipod_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1A 00 00 00
 #
-name: IPOD:_PAUSE
+name: Ipod:_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1A 00 00 00
 #
-name: DOCK_PAUSE
+name: Dock_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1A 00 00 00
 #
-name: DOCK:_PAUSE
+name: Dock:_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -931,55 +931,55 @@ protocol: NECext
 address: 7F 01 00 00
 command: 1A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1A 00 00 00
 #
-name: DOCK_CONT_PAUSE
+name: Dock_cont_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1A 00 00 00
 #
-name: IPOD:_PAUSE
+name: Ipod:_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1A 00 00 00
 #
-name: IPOD_CHP/SKIP-
+name: Ipod_chp/skip-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: IPOD_SKIP_-
+name: Ipod_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: IPOD:_SKIP_-
+name: Ipod:_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: IPOD:_SKIP-
+name: Ipod:_skip-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: DOCK_SKIP_-
+name: Dock_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: DOCK:_SKIP-
+name: Dock:_skip-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -991,73 +991,73 @@ protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: PREV_TRACK
+name: Prev_track
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: IPOD:_SKIP_DOWN
+name: Ipod:_skip_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: IPOD_SKIP_BACK
+name: Ipod_skip_back
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: DOCK_CONT_SKIP_-
+name: Dock_cont_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: IPOD:_SKIP-
+name: Ipod:_skip-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: NET:_SKIP-
+name: Net:_skip-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1B 00 00 00
 #
-name: IPOD_CHP/SKIP+
+name: Ipod_chp/skip+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: IPOD_SKIP_+
+name: Ipod_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: IPOD:_SKIP_+
+name: Ipod:_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: IPOD:_SKIP+
+name: Ipod:_skip+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: DOCK_SKIP_+
+name: Dock_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: DOCK:_SKIP+
+name: Dock:_skip+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1069,61 +1069,61 @@ protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: NEXT_TRACK
+name: Next_track
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: IPOD:_SKIP_UP
+name: Ipod:_skip_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: IPOD_SKIP_UP
+name: Ipod_skip_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: DOCK_CONT_SKIP_+
+name: Dock_cont_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: IPOD:_SKIP+
+name: Ipod:_skip+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: NET:_SKIP+
+name: Net:_skip+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1C 00 00 00
 #
-name: IPOD_STOP
+name: Ipod_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1D 00 00 00
 #
-name: IPOD:_STOP
+name: Ipod:_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1D 00 00 00
 #
-name: DOCK_STOP
+name: Dock_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1D 00 00 00
 #
-name: DOCK:_STOP
+name: Dock:_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1135,49 +1135,49 @@ protocol: NECext
 address: 7F 01 00 00
 command: 1D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1D 00 00 00
 #
-name: DOCK_CONT_STOP
+name: Dock_cont_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1D 00 00 00
 #
-name: IPOD:_STOP
+name: Ipod:_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1D 00 00 00
 #
-name: NET:_STOP
+name: Net:_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1D 00 00 00
 #
-name: IPOD_PLAY
+name: Ipod_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1E 00 00 00
 #
-name: IPOD:_PLAY
+name: Ipod:_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1E 00 00 00
 #
-name: DOCK_PLAY
+name: Dock_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1E 00 00 00
 #
-name: DOCK:_PLAY
+name: Dock:_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1189,31 +1189,31 @@ protocol: NECext
 address: 7F 01 00 00
 command: 1E 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1E 00 00 00
 #
-name: DOCK_CONT_PLAY
+name: Dock_cont_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1E 00 00 00
 #
-name: IPOD:_PLAY
+name: Ipod:_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 1E 00 00 00
 #
-name: NET_1
+name: Net_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 21 00 00 00
 #
-name: NET:_1
+name: Net:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1225,37 +1225,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 21 00 00 00
 #
-name: NET/USB_1
+name: Net/usb_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 21 00 00 00
 #
-name: HD_RADIO:_1
+name: Hd_radio:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 21 00 00 00
 #
-name: NET:_1
+name: Net:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 21 00 00 00
 #
-name: HD_RADIO:_1
+name: Hd_radio:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 21 00 00 00
 #
-name: NET_2
+name: Net_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 22 00 00 00
 #
-name: NET:_2
+name: Net:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1267,37 +1267,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 22 00 00 00
 #
-name: NET/USB_2
+name: Net/usb_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 22 00 00 00
 #
-name: HD_RADIO:_2
+name: Hd_radio:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 22 00 00 00
 #
-name: NET:_2
+name: Net:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 22 00 00 00
 #
-name: HD_RADIO:_2
+name: Hd_radio:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 22 00 00 00
 #
-name: NET_3
+name: Net_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 23 00 00 00
 #
-name: NET:_3
+name: Net:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1309,37 +1309,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 23 00 00 00
 #
-name: NET/USB_3
+name: Net/usb_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 23 00 00 00
 #
-name: HD_RADIO:_3
+name: Hd_radio:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 23 00 00 00
 #
-name: NET:_3
+name: Net:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 23 00 00 00
 #
-name: HD_RADIO:_3
+name: Hd_radio:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 23 00 00 00
 #
-name: NET_4
+name: Net_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 24 00 00 00
 #
-name: NET:_4
+name: Net:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1351,37 +1351,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 24 00 00 00
 #
-name: NET/USB_4
+name: Net/usb_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 24 00 00 00
 #
-name: HD_RADIO:_4
+name: Hd_radio:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 24 00 00 00
 #
-name: NET:_4
+name: Net:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 24 00 00 00
 #
-name: HD_RADIO:_4
+name: Hd_radio:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 24 00 00 00
 #
-name: NET_5
+name: Net_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 25 00 00 00
 #
-name: NET:_5
+name: Net:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1393,37 +1393,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 25 00 00 00
 #
-name: NET/USB_5
+name: Net/usb_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 25 00 00 00
 #
-name: HD_RADIO:_5
+name: Hd_radio:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 25 00 00 00
 #
-name: NET:_5
+name: Net:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 25 00 00 00
 #
-name: HD_RADIO:_5
+name: Hd_radio:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 25 00 00 00
 #
-name: NET_6
+name: Net_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 26 00 00 00
 #
-name: NET:_6
+name: Net:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1435,37 +1435,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 26 00 00 00
 #
-name: NET/USB_6
+name: Net/usb_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 26 00 00 00
 #
-name: HD_RADIO:_6
+name: Hd_radio:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 26 00 00 00
 #
-name: NET:_6
+name: Net:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 26 00 00 00
 #
-name: HD_RADIO:_6
+name: Hd_radio:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 26 00 00 00
 #
-name: NET_7
+name: Net_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 27 00 00 00
 #
-name: NET:_7
+name: Net:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1477,37 +1477,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 27 00 00 00
 #
-name: NET/USB_7
+name: Net/usb_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 27 00 00 00
 #
-name: HD_RADIO:_7
+name: Hd_radio:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 27 00 00 00
 #
-name: NET:_7
+name: Net:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 27 00 00 00
 #
-name: HD_RADIO:_7
+name: Hd_radio:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 27 00 00 00
 #
-name: NET_8
+name: Net_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 28 00 00 00
 #
-name: NET:_8
+name: Net:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1519,25 +1519,25 @@ protocol: NECext
 address: 7F 01 00 00
 command: 28 00 00 00
 #
-name: NET/USB_8
+name: Net/usb_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 28 00 00 00
 #
-name: HD_RADIO:_8
+name: Hd_radio:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 28 00 00 00
 #
-name: NET:_8
+name: Net:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 28 00 00 00
 #
-name: HD_RADIO:_8
+name: Hd_radio:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1549,13 +1549,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: 29 00 00 00
 #
-name: HD_RADIO:_9
+name: Hd_radio:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 29 00 00 00
 #
-name: HD_RADIO:_9
+name: Hd_radio:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -1567,967 +1567,967 @@ protocol: NECext
 address: 7F 01 00 00
 command: 2A 00 00 00
 #
-name: HD_RADIO:_0
+name: Hd_radio:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2A 00 00 00
 #
-name: HD_RADIO:_0
+name: Hd_radio:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2A 00 00 00
 #
-name: NET_NUM_ENTER
+name: Net_num_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2C 00 00 00
 #
-name: NET:_ENTER
+name: Net:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2C 00 00 00
 #
-name: NET:_ENT
+name: Net:_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2C 00 00 00
 #
-name: ENT
+name: Ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2C 00 00 00
 #
-name: NET/USB_ENT
+name: Net/usb_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2C 00 00 00
 #
-name: HD_RADIO:_ENTER
+name: Hd_radio:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2C 00 00 00
 #
-name: NET_SETUP:_ENTER
+name: Net_setup:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2C 00 00 00
 #
-name: HD_RADIO:_ENTER
+name: Hd_radio:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2C 00 00 00
 #
-name: NET_TITLE
+name: Net_title
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2D 00 00 00
 #
-name: NET:_TITLE
+name: Net:_title
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2D 00 00 00
 #
-name: NET_CURSOR_UP
+name: Net_cursor_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2E 00 00 00
 #
-name: NET:_CURSOR_UP
+name: Net:_cursor_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2E 00 00 00
 #
-name: IPOD_MENU
+name: Ipod_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2E 00 00 00
 #
-name: NET/USB_NAV_UP
+name: Net/usb_nav_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2E 00 00 00
 #
-name: USB_MENU_UP
+name: Usb_menu_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2E 00 00 00
 #
-name: NET:_UP
+name: Net:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2E 00 00 00
 #
-name: NET:_UP
+name: Net:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2E 00 00 00
 #
-name: SETUP:_UP
+name: Setup:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2E 00 00 00
 #
-name: NET_MENU
+name: Net_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2F 00 00 00
 #
-name: NET:_MENU
+name: Net:_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2F 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2F 00 00 00
 #
-name: HD_RADIO:_MEMORY
+name: Hd_radio:_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2F 00 00 00
 #
-name: HD_RADIO:_MEMORY
+name: Hd_radio:_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 2F 00 00 00
 #
-name: NET_CURSOR_LEFT
+name: Net_cursor_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 30 00 00 00
 #
-name: NET:_CURSOR_LEFT
+name: Net:_cursor_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 30 00 00 00
 #
-name: NET/USB_NAV_LEFT
+name: Net/usb_nav_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 30 00 00 00
 #
-name: USB_MENU_LEFT
+name: Usb_menu_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 30 00 00 00
 #
-name: NET:_LEFT
+name: Net:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 30 00 00 00
 #
-name: NET:_LEFT
+name: Net:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 30 00 00 00
 #
-name: SETUP:_LEFT
+name: Setup:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 30 00 00 00
 #
-name: NET_CURSOR_ENTER
+name: Net_cursor_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 31 00 00 00
 #
-name: NET:_CURSOR_ENTER
+name: Net:_cursor_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 31 00 00 00
 #
-name: NAV_UP
+name: Nav_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 31 00 00 00
 #
-name: NET/USB_NAV_ENTER
+name: Net/usb_nav_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 31 00 00 00
 #
-name: USB_ENTER
+name: Usb_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 31 00 00 00
 #
-name: NET_SETUP:_ENTER
+name: Net_setup:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 31 00 00 00
 #
-name: NET:_ENTER
+name: Net:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 31 00 00 00
 #
-name: SETUP:_ENTER
+name: Setup:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 31 00 00 00
 #
-name: NET_CURSOR_RIGHT
+name: Net_cursor_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 32 00 00 00
 #
-name: NET:_CURSOR_RIGHT
+name: Net:_cursor_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 32 00 00 00
 #
-name: NAV_LEFT
+name: Nav_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 32 00 00 00
 #
-name: NET/USB_NAV_RIGHT
+name: Net/usb_nav_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 32 00 00 00
 #
-name: USB_MENU_RIGHT
+name: Usb_menu_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 32 00 00 00
 #
-name: NET:_RIGHT
+name: Net:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 32 00 00 00
 #
-name: SETUP:_RIGHT
+name: Setup:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 32 00 00 00
 #
-name: NET_MEM
+name: Net_mem
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 33 00 00 00
 #
-name: NET:_MEMORY
+name: Net:_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 33 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 33 00 00 00
 #
-name: NET/USB_MEMORY
+name: Net/usb_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 33 00 00 00
 #
-name: USB_RETURN
+name: Usb_return
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 33 00 00 00
 #
-name: HD_RAD_SETUP:_ENT
+name: Hd_rad_setup:_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 33 00 00 00
 #
-name: NET:_MEMORY
+name: Net:_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 33 00 00 00
 #
-name: HD_RAD_SETUP:_ENT
+name: Hd_rad_setup:_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 33 00 00 00
 #
-name: NET_CURSOR_DOWN
+name: Net_cursor_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 34 00 00 00
 #
-name: NET:_CURSOR_DOWN
+name: Net:_cursor_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 34 00 00 00
 #
-name: NAV_RIGHT
+name: Nav_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 34 00 00 00
 #
-name: NET/USB_NAV_DOWN
+name: Net/usb_nav_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 34 00 00 00
 #
-name: USB_MENU_DOWN
+name: Usb_menu_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 34 00 00 00
 #
-name: NET:_DOWN
+name: Net:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 34 00 00 00
 #
-name: NET:_DOWN
+name: Net:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 34 00 00 00
 #
-name: SETUP:_DOWN
+name: Setup:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 34 00 00 00
 #
-name: NET_DISPLAY
+name: Net_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 35 00 00 00
 #
-name: NET:_DISPLAY
+name: Net:_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 35 00 00 00
 #
-name: NAV_DOWN
+name: Nav_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 35 00 00 00
 #
-name: USB_DISPLAY
+name: Usb_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 35 00 00 00
 #
-name: NET_REC(PC/MCX)
+name: Net_rec(pc/mcx)
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 36 00 00 00
 #
-name: NET_INPUT:_PC/MCX
+name: Net_input:_pc/mcx
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 36 00 00 00
 #
-name: NET:_PC/MCX
+name: Net:_pc/mcx
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 36 00 00 00
 #
-name: NET:_REC
+name: Net:_rec
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 36 00 00 00
 #
-name: NET_REW_(RADIO)
+name: Net_rew_(radio)
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 37 00 00 00
 #
-name: NET_INPUT:_NET_RADIO
+name: Net_input:_net_radio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 37 00 00 00
 #
-name: NET:_IRADIO
+name: Net:_iradio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 37 00 00 00
 #
-name: NET:_REW
+name: Net:_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 37 00 00 00
 #
-name: NET_FF(USB)
+name: Net_ff(usb)
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 38 00 00 00
 #
-name: NET_INPUT:_USB
+name: Net_input:_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 38 00 00 00
 #
-name: NET:_FF
+name: Net:_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 38 00 00 00
 #
-name: NET:_USB
+name: Net:_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 38 00 00 00
 #
-name: NET_PAUSE
+name: Net_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3A 00 00 00
 #
-name: NET:_PAUSE
+name: Net:_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3A 00 00 00
 #
-name: NET:_PAUSE
+name: Net:_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3A 00 00 00
 #
-name: NET_SKIP_-
+name: Net_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3B 00 00 00
 #
-name: NET:_SKIP_-
+name: Net:_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3B 00 00 00
 #
-name: NET:_SKIP-
+name: Net:_skip-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3B 00 00 00
 #
-name: NET/USB_SKIP_-
+name: Net/usb_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3B 00 00 00
 #
-name: USB_SKIP_BACK
+name: Usb_skip_back
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3B 00 00 00
 #
-name: NET_SKIP_+
+name: Net_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3C 00 00 00
 #
-name: NET:_SKIP_+
+name: Net:_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3C 00 00 00
 #
-name: NET:_SKIP+
+name: Net:_skip+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3C 00 00 00
 #
-name: PROGRAM_SELECT_-
+name: Program_select_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3C 00 00 00
 #
-name: NET/USB_SKIP_+
+name: Net/usb_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3C 00 00 00
 #
-name: USB_SKIP_FORWARD
+name: Usb_skip_forward
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3C 00 00 00
 #
-name: NET_STOP
+name: Net_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3D 00 00 00
 #
-name: NET:_STOP
+name: Net:_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3D 00 00 00
 #
-name: PROGRAM_SELECT_+
+name: Program_select_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3D 00 00 00
 #
-name: NET/USB_STOP
+name: Net/usb_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3D 00 00 00
 #
-name: USB_STOP
+name: Usb_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3D 00 00 00
 #
-name: NET_PLAY
+name: Net_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3E 00 00 00
 #
-name: NET:_PLAY
+name: Net:_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3E 00 00 00
 #
-name: NET/USB_PLAY
+name: Net/usb_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3E 00 00 00
 #
-name: USB_PLAY
+name: Usb_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3E 00 00 00
 #
-name: NET:_PLAY
+name: Net:_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3E 00 00 00
 #
-name: INPUT_NET/USB
+name: Input_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3F 00 00 00
 #
-name: INPUT_USB-NET
+name: Input_usb-net
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3F 00 00 00
 #
-name: MZ_IN:_NET/USB
+name: Mz_in:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3F 00 00 00
 #
-name: Z2_IN:_NET/USB
+name: Z2_in:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3F 00 00 00
 #
-name: MZ:_NET/USB
+name: Mz:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3F 00 00 00
 #
-name: INP_NET/USB
+name: Inp_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3F 00 00 00
 #
-name: USB_INPUT
+name: Usb_input
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3F 00 00 00
 #
-name: MZ:_INP_NET/USB
+name: Mz:_inp_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 3F 00 00 00
 #
-name: Z2_IN_NET/USB
+name: Z2_in_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: ZONE2_INPUT_USB-NET
+name: Zone2_input_usb-net
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: Z3_IN:_NET/USB
+name: Z3_in:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: Z2:_NET/USB
+name: Z2:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: DOCK_SIMPL_REMOTE
+name: Dock_simpl_remote
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: INP_NET/USB
+name: Inp_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: DOCK_SIMPLE_REMOT
+name: Dock_simple_remot
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: Z2:_INP_NET/USB
+name: Z2:_inp_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: Z2_INP:_NET/USB
+name: Z2_inp:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: Z2_INP:_NET/USB
+name: Z2_inp:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 40 00 00 00
 #
-name: Z3_IN_NET/USB
+name: Z3_in_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 41 00 00 00
 #
-name: ZONE3_INPUT_USB-NET
+name: Zone3_input_usb-net
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 41 00 00 00
 #
-name: Z3:_NET/USB
+name: Z3:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 41 00 00 00
 #
-name: DOCK_MENU_BROWSE
+name: Dock_menu_browse
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 41 00 00 00
 #
-name: INP_NET/USB
+name: Inp_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 41 00 00 00
 #
-name: Z3:_INP_NET/USB
+name: Z3:_inp_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 41 00 00 00
 #
-name: Z3_INP:_NET/USB
+name: Z3_inp:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 41 00 00 00
 #
-name: Z3_INP:_NET/USB
+name: Z3_inp:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 41 00 00 00
 #
-name: DOCK_PAGE_UP
+name: Dock_page_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 42 00 00 00
 #
-name: IPOD:_PAGE_UP
+name: Ipod:_page_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 42 00 00 00
 #
-name: IPOD:_PAGE_UP
+name: Ipod:_page_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 42 00 00 00
 #
-name: DOCK_PAGE_DOWN
+name: Dock_page_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 43 00 00 00
 #
-name: IPOD:_PAGE_DOWN
+name: Ipod:_page_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 43 00 00 00
 #
-name: IPOD:_PAGE_DOWN
+name: Ipod:_page_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 43 00 00 00
 #
-name: NET_PAGE_UP
+name: Net_page_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 44 00 00 00
 #
-name: NET:_PAGE_UP
+name: Net:_page_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 44 00 00 00
 #
-name: NET:_PAGE_UP
+name: Net:_page_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 44 00 00 00
 #
-name: NET_PAGE_DOWN
+name: Net_page_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 45 00 00 00
 #
-name: NET:_PAGE_DOWN
+name: Net:_page_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 45 00 00 00
 #
-name: NET:_PAGE_DOWN
+name: Net:_page_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 45 00 00 00
 #
-name: NET_BOOK_MARK_ON
+name: Net_book_mark_on
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 46 00 00 00
 #
-name: NET:_BOOKMARK_ON
+name: Net:_bookmark_on
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 46 00 00 00
 #
-name: NET:_BOOKMARK_ON
+name: Net:_bookmark_on
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 46 00 00 00
 #
-name: NET_BOOK_MARK_OFF
+name: Net_book_mark_off
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 47 00 00 00
 #
-name: NET:_BOOKMARK_OFF
+name: Net:_bookmark_off
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 47 00 00 00
 #
-name: NET:_BOOKMARK_OFF
+name: Net:_bookmark_off
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 47 00 00 00
 #
-name: INPUT_RHAPSODY
+name: Input_rhapsody
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 48 00 00 00
 #
-name: INP_RHAPSODY
+name: Inp_rhapsody
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 48 00 00 00
 #
-name: MZ_INP:_RHAPSODY
+name: Mz_inp:_rhapsody
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 48 00 00 00
 #
-name: MZ_INP:_RHAPSODY
+name: Mz_inp:_rhapsody
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 48 00 00 00
 #
-name: INP_SIRIUS_INTERNET
+name: Inp_sirius_internet
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 49 00 00 00
 #
-name: Z4:_INP_NET/USB
+name: Z4:_inp_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 49 00 00 00
 #
-name: MZ_INP:_SIRIUS_INTER
+name: Mz_inp:_sirius_inter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 49 00 00 00
 #
-name: MZ_INP:_SIRIUS_INTER
+name: Mz_inp:_sirius_inter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 49 00 00 00
 #
-name: Z4_INP:_NET/USB
+name: Z4_inp:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 49 00 00 00
 #
-name: Z4_INP:_NET/USB
+name: Z4_inp:_net/usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 49 00 00 00
 #
-name: INPUT_DOCK
+name: Input_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4A 00 00 00
 #
-name: INP_DOCK
+name: Inp_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4A 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4A 00 00 00
 #
-name: DOCK_INPUT
+name: Dock_input
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2539,37 +2539,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 4A 00 00 00
 #
-name: MZ:_INP_DOCK
+name: Mz:_inp_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4A 00 00 00
 #
-name: MZ_INP:_DOCK
+name: Mz_inp:_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4A 00 00 00
 #
-name: MZ_INP:_DOCK
+name: Mz_inp:_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4A 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4B 00 00 00
 #
-name: INP_DOCK
+name: Inp_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4B 00 00 00
 #
-name: Z2:_DOCK
+name: Z2:_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2581,103 +2581,103 @@ protocol: NECext
 address: 7F 01 00 00
 command: 4B 00 00 00
 #
-name: Z2_INPUT_DOCK
+name: Z2_input_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4B 00 00 00
 #
-name: Z2:_INP_DOCK
+name: Z2:_inp_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4B 00 00 00
 #
-name: Z2_INP:_DOCK
+name: Z2_inp:_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4B 00 00 00
 #
-name: Z2_INP:_DOCK
+name: Z2_inp:_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4B 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4C 00 00 00
 #
-name: INP_DOCK
+name: Inp_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4C 00 00 00
 #
-name: Z3:_INP_DOCK
+name: Z3:_inp_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4C 00 00 00
 #
-name: Z3_INP:_DOCK
+name: Z3_inp:_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4C 00 00 00
 #
-name: Z3_INP:_DOCK
+name: Z3_inp:_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4C 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4D 00 00 00
 #
-name: Z4:_INP_DOCK
+name: Z4:_inp_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4D 00 00 00
 #
-name: Z4_INP:_DOCK
+name: Z4_inp:_dock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4D 00 00 00
 #
-name: DOCK_PAIRING
+name: Dock_pairing
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4E 00 00 00
 #
-name: DOCK_PAIRING_CANCL
+name: Dock_pairing_cancl
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4F 00 00 00
 #
-name: DOCK_PARING_CANCEL
+name: Dock_paring_cancel
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 4F 00 00 00
 #
-name: DOCK_CONNECT
+name: Dock_connect
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 50 00 00 00
 #
-name: DOCK_DISCONNECT
+name: Dock_disconnect
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2689,19 +2689,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: 51 00 00 00
 #
-name: SRCE:_MZ_1
+name: Srce:_mz_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 51 00 00 00
 #
-name: INPUT_PC
+name: Input_pc
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 52 00 00 00
 #
-name: INP_PC/MCX
+name: Inp_pc/mcx
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2713,31 +2713,31 @@ protocol: NECext
 address: 7F 01 00 00
 command: 52 00 00 00
 #
-name: SRCE:_MZ_2
+name: Srce:_mz_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 52 00 00 00
 #
-name: MZ_INP:_PC/MCX
+name: Mz_inp:_pc/mcx
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 52 00 00 00
 #
-name: MZ_INP:_PC/MCX
+name: Mz_inp:_pc/mcx
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 52 00 00 00
 #
-name: INPUT_NET_RADIO
+name: Input_net_radio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 53 00 00 00
 #
-name: INP_NET_RADIO
+name: Inp_net_radio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2749,37 +2749,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: 53 00 00 00
 #
-name: SRCE:_MZ_3
+name: Srce:_mz_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 53 00 00 00
 #
-name: MZ_INP:_NET_RADIO
+name: Mz_inp:_net_radio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 53 00 00 00
 #
-name: MZ_INP:_NET_RADIO
+name: Mz_inp:_net_radio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 53 00 00 00
 #
-name: Z2_SOURCE:_3
+name: Z2_source:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 53 00 00 00
 #
-name: INPUT_USB
+name: Input_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 54 00 00 00
 #
-name: INP_USB
+name: Inp_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2791,19 +2791,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: 54 00 00 00
 #
-name: SRCE:_MZ_4
+name: Srce:_mz_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 54 00 00 00
 #
-name: MZ_INP:_USB
+name: Mz_inp:_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 54 00 00 00
 #
-name: MZ_INP:_USB
+name: Mz_inp:_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2815,7 +2815,7 @@ protocol: NECext
 address: 7F 01 00 00
 command: 55 00 00 00
 #
-name: SOURCE:_CAT./BAND+
+name: Source:_cat./band+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2827,19 +2827,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: 55 00 00 00
 #
-name: MZ_OP-CAT_BAND_+
+name: Mz_op-cat_band_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 55 00 00 00
 #
-name: SRCE:_MZ_5
+name: Srce:_mz_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 55 00 00 00
 #
-name: Z2_SOURCE:_5
+name: Z2_source:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2851,7 +2851,7 @@ protocol: NECext
 address: 7F 01 00 00
 command: 56 00 00 00
 #
-name: Z2:SOURC:_CAT/BAND_+
+name: Z2:sourc:_cat/band_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2863,13 +2863,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: 56 00 00 00
 #
-name: Z2_OP-CAT_BAND_+
+name: Z2_op-cat_band_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 56 00 00 00
 #
-name: SRCE:_MZ_6
+name: Srce:_mz_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2881,13 +2881,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: 57 00 00 00
 #
-name: SRCE:_MZ_7
+name: Srce:_mz_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 57 00 00 00
 #
-name: Z2_SOURCE:_7
+name: Z2_source:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2899,7 +2899,7 @@ protocol: NECext
 address: 7F 01 00 00
 command: 58 00 00 00
 #
-name: SOURCE:_CAT./BAND-
+name: Source:_cat./band-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2911,13 +2911,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: 58 00 00 00
 #
-name: MZ_OP-CAT_BAND_-
+name: Mz_op-cat_band_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 58 00 00 00
 #
-name: SRCE:_MZ_8
+name: Srce:_mz_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2929,7 +2929,7 @@ protocol: NECext
 address: 7F 01 00 00
 command: 59 00 00 00
 #
-name: Z2:SOURC:_CAT/BAND_-
+name: Z2:sourc:_cat/band_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2941,13 +2941,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: 59 00 00 00
 #
-name: Z2_OP-CAT_BAND_-
+name: Z2_op-cat_band_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 59 00 00 00
 #
-name: SRCE:_MZ_9
+name: Srce:_mz_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2959,13 +2959,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: 5A 00 00 00
 #
-name: SRCE:_MZ_0
+name: Srce:_mz_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5A 00 00 00
 #
-name: SOURCE:_PRESET+
+name: Source:_preset+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2977,13 +2977,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: 5B 00 00 00
 #
-name: MZ_OP-PRESET_+
+name: Mz_op-preset_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5B 00 00 00
 #
-name: Z2:_SOURCE:PRESET_+
+name: Z2:_source:preset_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -2995,55 +2995,55 @@ protocol: NECext
 address: 7F 01 00 00
 command: 5C 00 00 00
 #
-name: Z2_OP-PRESET_+
+name: Z2_op-preset_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5C 00 00 00
 #
-name: TUNER:_MZ_ENTER
+name: Tuner:_mz_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5C 00 00 00
 #
-name: XM:_MZ_ENTER
+name: Xm:_mz_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5C 00 00 00
 #
-name: PARENTAL_LOCK
+name: Parental_lock
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5D 00 00 00
 #
-name: MODE_1
+name: Mode_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5D 00 00 00
 #
-name: TUNER:_MZ_BAND
+name: Tuner:_mz_band
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5D 00 00 00
 #
-name: XM:_MZ_TITLE
+name: Xm:_mz_title
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5D 00 00 00
 #
-name: MODE_2
+name: Mode_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5E 00 00 00
 #
-name: SOURCE:_PRESET-
+name: Source:_preset-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -3055,43 +3055,43 @@ protocol: NECext
 address: 7F 01 00 00
 command: 5E 00 00 00
 #
-name: MZ_OP-PRESET_-
+name: Mz_op-preset_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5E 00 00 00
 #
-name: DOCK:_MZ_MENU
+name: Dock:_mz_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5E 00 00 00
 #
-name: NETUSB:_MZ_MENU
+name: Netusb:_mz_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5E 00 00 00
 #
-name: TUNER:_MZ_SRCHM
+name: Tuner:_mz_srchm
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5E 00 00 00
 #
-name: XM:_MZ_SRCH_MODE
+name: Xm:_mz_srch_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5E 00 00 00
 #
-name: MODE_3
+name: Mode_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5F 00 00 00
 #
-name: Z2:_SOURCE:PRESET_-
+name: Z2:_source:preset_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -3103,25 +3103,25 @@ protocol: NECext
 address: 7F 01 00 00
 command: 5F 00 00 00
 #
-name: Z2_OP-PRESET_-
+name: Z2_op-preset_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5F 00 00 00
 #
-name: SRCE:_MZ_MEMORY
+name: Srce:_mz_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 5F 00 00 00
 #
-name: MODE_4
+name: Mode_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 60 00 00 00
 #
-name: SOURCE:_DISPLAY
+name: Source:_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -3133,25 +3133,25 @@ protocol: NECext
 address: 7F 01 00 00
 command: 60 00 00 00
 #
-name: MZ_SOURCE_DISPLAY
+name: Mz_source_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 60 00 00 00
 #
-name: SRCE:_MZ_DISPLAY
+name: Srce:_mz_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 60 00 00 00
 #
-name: SETUP_UP
+name: Setup_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 61 00 00 00
 #
-name: SOURCE:TUNING/CH+
+name: Source:tuning/ch+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -3163,31 +3163,31 @@ protocol: NECext
 address: 7F 01 00 00
 command: 61 00 00 00
 #
-name: MZ_OP-TUNING_+
+name: Mz_op-tuning_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 61 00 00 00
 #
-name: SRCE:_MZ_CURS_UP
+name: Srce:_mz_curs_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 61 00 00 00
 #
-name: SETUP:_UP
+name: Setup:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 61 00 00 00
 #
-name: SETUP_LEFT
+name: Setup_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 62 00 00 00
 #
-name: Z2:SOURCE:TUNING/CH+
+name: Z2:source:tuning/ch+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -3199,43 +3199,43 @@ protocol: NECext
 address: 7F 01 00 00
 command: 62 00 00 00
 #
-name: Z2_OP-TUNING_+
+name: Z2_op-tuning_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 62 00 00 00
 #
-name: SRCE:_MZ_CURS_LEFT
+name: Srce:_mz_curs_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 62 00 00 00
 #
-name: SETUP_ENTER
+name: Setup_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 63 00 00 00
 #
-name: SRCE:_MZ_CURS_ENTER
+name: Srce:_mz_curs_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 63 00 00 00
 #
-name: SETUP:_ENTER
+name: Setup:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 63 00 00 00
 #
-name: SETUP_RIGHT
+name: Setup_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 64 00 00 00
 #
-name: SOURCE:TUNING/CH-
+name: Source:tuning/ch-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -3247,31 +3247,31 @@ protocol: NECext
 address: 7F 01 00 00
 command: 64 00 00 00
 #
-name: MZ_OP-TUNING_-
+name: Mz_op-tuning_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 64 00 00 00
 #
-name: SRCE:_MZ_CURS_RIGHT
+name: Srce:_mz_curs_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 64 00 00 00
 #
-name: SETUP:_RIGHT
+name: Setup:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 64 00 00 00
 #
-name: SETUP_DOWN
+name: Setup_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 65 00 00 00
 #
-name: Z2:SOURCE:TUNING/CH-
+name: Z2:source:tuning/ch-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -3283,43 +3283,43 @@ protocol: NECext
 address: 7F 01 00 00
 command: 65 00 00 00
 #
-name: Z2_OP-TUNING_-
+name: Z2_op-tuning_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 65 00 00 00
 #
-name: SRCE:_MZ_CURS_DN
+name: Srce:_mz_curs_dn
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 65 00 00 00
 #
-name: SETUP:_DOWN
+name: Setup:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 65 00 00 00
 #
-name: SETUP:_LEFT
+name: Setup:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 65 00 00 00
 #
-name: NETUSB:_MZ_PC/MC
+name: Netusb:_mz_pc/mc
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 66 00 00 00
 #
-name: OPERATION_2
+name: Operation_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 67 00 00 00
 #
-name: SOURCE:_MEMORY
+name: Source:_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -3331,1771 +3331,1771 @@ protocol: NECext
 address: 7F 01 00 00
 command: 67 00 00 00
 #
-name: MZ_SOURCE_MEMORY
+name: Mz_source_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 67 00 00 00
 #
-name: DOCK:_MZ_PAUSE
+name: Dock:_mz_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 67 00 00 00
 #
-name: OPERATION_3
+name: Operation_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 68 00 00 00
 #
-name: DOCK:_MZ_PLAY
+name: Dock:_mz_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 68 00 00 00
 #
-name: NETUSB:_MZ_PLAY
+name: Netusb:_mz_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 68 00 00 00
 #
-name: OPERATION_4
+name: Operation_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 69 00 00 00
 #
-name: DOCK:_MZ_STOP
+name: Dock:_mz_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 69 00 00 00
 #
-name: NETUSB:_MZ_STOP
+name: Netusb:_mz_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 69 00 00 00
 #
-name: OPERATION_5
+name: Operation_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6A 00 00 00
 #
-name: DOCK:_MZ_REW
+name: Dock:_mz_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6A 00 00 00
 #
-name: NETUSB:_MZ_NRADIO
+name: Netusb:_mz_nradio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6A 00 00 00
 #
-name: OPERATION_6
+name: Operation_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6B 00 00 00
 #
-name: DOCK:_MZ_FF
+name: Dock:_mz_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6B 00 00 00
 #
-name: NETUSB:_MZ_USB
+name: Netusb:_mz_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6B 00 00 00
 #
-name: OPERATION_7
+name: Operation_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6C 00 00 00
 #
-name: DOCK:_MZ_SKIP_-
+name: Dock:_mz_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6C 00 00 00
 #
-name: HDRADIO:_MZ_PROG-
+name: Hdradio:_mz_prog-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6C 00 00 00
 #
-name: NETUSB:_MZ_SKIP_-
+name: Netusb:_mz_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6C 00 00 00
 #
-name: OPERATION_8
+name: Operation_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6D 00 00 00
 #
-name: DOCK:_MZ_SKIP_+
+name: Dock:_mz_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6D 00 00 00
 #
-name: HDRADIO:_MZPROG+
+name: Hdradio:_mzprog+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6D 00 00 00
 #
-name: NETUSB:_MZ_SKIP_+
+name: Netusb:_mz_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6D 00 00 00
 #
-name: OPERATION_9
+name: Operation_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 6E 00 00 00
 #
-name: SRCE:_Z2_1
+name: Srce:_z2_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 71 00 00 00
 #
-name: Z2_SOURCE:_1
+name: Z2_source:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 71 00 00 00
 #
-name: Z2_SOURCE:_1
+name: Z2_source:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 71 00 00 00
 #
-name: SRCE:_Z2_2
+name: Srce:_z2_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 72 00 00 00
 #
-name: Z2_SOURCE:_2
+name: Z2_source:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 72 00 00 00
 #
-name: Z2_SOURCE:_2
+name: Z2_source:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 72 00 00 00
 #
-name: SRCE:_Z2_3
+name: Srce:_z2_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 73 00 00 00
 #
-name: Z2_SOURCE:_3
+name: Z2_source:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 73 00 00 00
 #
-name: SRCE:_Z2_4
+name: Srce:_z2_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 74 00 00 00
 #
-name: Z2_SOURCE:_4
+name: Z2_source:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 74 00 00 00
 #
-name: Z2_SOURCE:_4
+name: Z2_source:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 74 00 00 00
 #
-name: SRCE:_Z2_5
+name: Srce:_z2_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 75 00 00 00
 #
-name: Z2_SOURCE:_5
+name: Z2_source:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 75 00 00 00
 #
-name: SRCE:_Z2_6
+name: Srce:_z2_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 76 00 00 00
 #
-name: Z2_SOURCE:_6
+name: Z2_source:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 76 00 00 00
 #
-name: Z2_SOURCE:_6
+name: Z2_source:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 76 00 00 00
 #
-name: SRCE:_Z2_7
+name: Srce:_z2_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 77 00 00 00
 #
-name: Z2_SOURCE:_7
+name: Z2_source:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 77 00 00 00
 #
-name: SRCE:_Z2_8
+name: Srce:_z2_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 78 00 00 00
 #
-name: Z2_SOURCE:_8
+name: Z2_source:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 78 00 00 00
 #
-name: Z2_SOURCE:_8
+name: Z2_source:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 78 00 00 00
 #
-name: SRCE:_Z2_9
+name: Srce:_z2_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 79 00 00 00
 #
-name: Z2_SOURCE:_9
+name: Z2_source:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 79 00 00 00
 #
-name: Z2_SOURCE:_9
+name: Z2_source:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 79 00 00 00
 #
-name: SRCE:_Z2_0
+name: Srce:_z2_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7A 00 00 00
 #
-name: Z2_SOURCE:_0
+name: Z2_source:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7A 00 00 00
 #
-name: Z2_SOURCE:_0
+name: Z2_source:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7A 00 00 00
 #
-name: TUNER:_Z2_ENTER
+name: Tuner:_z2_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7C 00 00 00
 #
-name: XM:_Z2_ENTER
+name: Xm:_z2_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7C 00 00 00
 #
-name: Z2_SOURCE:_ENTER
+name: Z2_source:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7C 00 00 00
 #
-name: Z2_SOURCE:_ENTER
+name: Z2_source:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7C 00 00 00
 #
-name: TUNER:_Z2_BAND
+name: Tuner:_z2_band
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7D 00 00 00
 #
-name: XM:_Z2_TITLE
+name: Xm:_z2_title
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7D 00 00 00
 #
-name: DOCK:_Z2_MENU
+name: Dock:_z2_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7E 00 00 00
 #
-name: NETUSB:_Z2_MENU
+name: Netusb:_z2_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7E 00 00 00
 #
-name: TUNER:_Z2_SRCHM
+name: Tuner:_z2_srchm
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7E 00 00 00
 #
-name: XM:_Z2_SRCH_MODE
+name: Xm:_z2_srch_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7E 00 00 00
 #
-name: SRCE:_Z2_MEMORY
+name: Srce:_z2_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 7F 00 00 00
 #
-name: SRCE:_Z2_DISPLAY
+name: Srce:_z2_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 80 00 00 00
 #
-name: SRCE:_Z2_CURS_UP
+name: Srce:_z2_curs_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 81 00 00 00
 #
-name: SRCE:_Z2_CURS_LEFT
+name: Srce:_z2_curs_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 82 00 00 00
 #
-name: Z3_SOURCE:_LEFT
+name: Z3_source:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 82 00 00 00
 #
-name: SRCE:_Z2_CURS_ENTER
+name: Srce:_z2_curs_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 83 00 00 00
 #
-name: SRCE:_Z2_CURS_RIGHT
+name: Srce:_z2_curs_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 84 00 00 00
 #
-name: SRCE:_Z2_CURS_DOWN
+name: Srce:_z2_curs_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 85 00 00 00
 #
-name: NETUSB:_Z2_PC/MC
+name: Netusb:_z2_pc/mc
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 86 00 00 00
 #
-name: DOCK:_Z2_PAUSE
+name: Dock:_z2_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 87 00 00 00
 #
-name: Z2_OPERATION_2
+name: Z2_operation_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 87 00 00 00
 #
-name: Z2_OPERATION_2
+name: Z2_operation_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 87 00 00 00
 #
-name: DOCK:_Z2_PLAY
+name: Dock:_z2_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 88 00 00 00
 #
-name: NETUSB:_Z2_PLAY
+name: Netusb:_z2_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 88 00 00 00
 #
-name: Z2_OPERATION_3
+name: Z2_operation_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 88 00 00 00
 #
-name: Z2_OPERATION_3
+name: Z2_operation_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 88 00 00 00
 #
-name: DOCK:_Z2_STOP
+name: Dock:_z2_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 89 00 00 00
 #
-name: NETUSB:_Z2_STOP
+name: Netusb:_z2_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 89 00 00 00
 #
-name: Z2_OPERATION_4
+name: Z2_operation_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 89 00 00 00
 #
-name: Z2_OPERATION_4
+name: Z2_operation_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 89 00 00 00
 #
-name: DOCK:_Z2_REW
+name: Dock:_z2_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8A 00 00 00
 #
-name: NETUSB:_Z2_NRADIO
+name: Netusb:_z2_nradio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8A 00 00 00
 #
-name: Z2_OPERATION_5
+name: Z2_operation_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8A 00 00 00
 #
-name: Z2_OPERATION_5
+name: Z2_operation_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8A 00 00 00
 #
-name: DOCK:_Z2_FF
+name: Dock:_z2_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8B 00 00 00
 #
-name: NETUSB:_Z2_USB
+name: Netusb:_z2_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8B 00 00 00
 #
-name: Z2_OPERATION_6
+name: Z2_operation_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8B 00 00 00
 #
-name: Z2_OPERATION_6
+name: Z2_operation_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8B 00 00 00
 #
-name: DOCK:_Z2_SKIP_-
+name: Dock:_z2_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8C 00 00 00
 #
-name: HDRADIO:_Z2_PROG_-
+name: Hdradio:_z2_prog_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8C 00 00 00
 #
-name: NETUSB:_Z2_SKIP_-
+name: Netusb:_z2_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8C 00 00 00
 #
-name: Z2_OPERATION_7
+name: Z2_operation_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8C 00 00 00
 #
-name: Z2_OPERATION_7
+name: Z2_operation_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8C 00 00 00
 #
-name: DOCK:_Z2_SKIP_+
+name: Dock:_z2_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8D 00 00 00
 #
-name: HDRADIO:_Z2_PROG+
+name: Hdradio:_z2_prog+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8D 00 00 00
 #
-name: NETUSB:_Z2_SKIP_+
+name: Netusb:_z2_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8D 00 00 00
 #
-name: Z2_OPERATION_8
+name: Z2_operation_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8D 00 00 00
 #
-name: Z2_OPERATION_8
+name: Z2_operation_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8D 00 00 00
 #
-name: Z2_OPERATION_9
+name: Z2_operation_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8E 00 00 00
 #
-name: Z2_OPERATION_9
+name: Z2_operation_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 8E 00 00 00
 #
-name: SRCE:_Z3_1
+name: Srce:_z3_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 91 00 00 00
 #
-name: Z3_SOURCE:_1
+name: Z3_source:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 91 00 00 00
 #
-name: Z3_SOURCE:_1
+name: Z3_source:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 91 00 00 00
 #
-name: SRCE:_Z3_2
+name: Srce:_z3_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 92 00 00 00
 #
-name: Z3_SOURCE:_2
+name: Z3_source:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 92 00 00 00
 #
-name: Z3_SOURCE:_2
+name: Z3_source:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 92 00 00 00
 #
-name: SRCE:_Z3_3
+name: Srce:_z3_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 93 00 00 00
 #
-name: Z3_SOURCE:_3
+name: Z3_source:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 93 00 00 00
 #
-name: Z3_SOURCE:_3
+name: Z3_source:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 93 00 00 00
 #
-name: SRCE:_Z3_4
+name: Srce:_z3_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 94 00 00 00
 #
-name: Z3_SOURCE:_4
+name: Z3_source:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 94 00 00 00
 #
-name: Z3_SOURCE:_4
+name: Z3_source:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 94 00 00 00
 #
-name: SRCE:_Z3_5
+name: Srce:_z3_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 95 00 00 00
 #
-name: Z3_SOURCE:_5
+name: Z3_source:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 95 00 00 00
 #
-name: Z3_SOURCE:_5
+name: Z3_source:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 95 00 00 00
 #
-name: SRCE:_Z3_6
+name: Srce:_z3_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 96 00 00 00
 #
-name: Z3_SOURCE:_6
+name: Z3_source:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 96 00 00 00
 #
-name: Z3_SOURCE:_6
+name: Z3_source:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 96 00 00 00
 #
-name: SRCE:_Z3_7
+name: Srce:_z3_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 97 00 00 00
 #
-name: Z3_SOURCE:_7
+name: Z3_source:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 97 00 00 00
 #
-name: Z3_SOURCE:_7
+name: Z3_source:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 97 00 00 00
 #
-name: SRCE:_Z3_8
+name: Srce:_z3_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 98 00 00 00
 #
-name: Z3_SOURCE:_8
+name: Z3_source:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 98 00 00 00
 #
-name: Z3_SOURCE:_8
+name: Z3_source:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 98 00 00 00
 #
-name: SRCE:_Z3_9
+name: Srce:_z3_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 99 00 00 00
 #
-name: Z3_SOURCE:_9
+name: Z3_source:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 99 00 00 00
 #
-name: Z3_SOURCE:_9
+name: Z3_source:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 99 00 00 00
 #
-name: SRCE:_Z3_0
+name: Srce:_z3_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9A 00 00 00
 #
-name: Z3_SOURCE:_0
+name: Z3_source:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9A 00 00 00
 #
-name: Z3_SOURCE:_0
+name: Z3_source:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9A 00 00 00
 #
-name: TUNER:_Z3_ENTER
+name: Tuner:_z3_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9C 00 00 00
 #
-name: XM:_Z3_ENTER
+name: Xm:_z3_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9C 00 00 00
 #
-name: Z3:_SOURCE_ENT
+name: Z3:_source_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9C 00 00 00
 #
-name: Z3_SOURCE:_ENTER
+name: Z3_source:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9C 00 00 00
 #
-name: Z3:_SOURCE_ENT
+name: Z3:_source_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9C 00 00 00
 #
-name: TUNER:_Z3_BAND
+name: Tuner:_z3_band
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9D 00 00 00
 #
-name: XM:_Z3_TITLE
+name: Xm:_z3_title
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9D 00 00 00
 #
-name: Z3_SOURCE:_MODE_1
+name: Z3_source:_mode_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9D 00 00 00
 #
-name: Z3_SOURCE:_MODE_1
+name: Z3_source:_mode_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9D 00 00 00
 #
-name: DOCK:_Z3_MENU
+name: Dock:_z3_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9E 00 00 00
 #
-name: NETUSB:_Z3_MENU
+name: Netusb:_z3_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9E 00 00 00
 #
-name: TUNER:_Z3_SRCHM
+name: Tuner:_z3_srchm
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9E 00 00 00
 #
-name: XM:_Z3_SRCH_MODE
+name: Xm:_z3_srch_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9E 00 00 00
 #
-name: Z3_SOURCE:_MODE_2
+name: Z3_source:_mode_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9E 00 00 00
 #
-name: Z3_SOURCE:_MODE_2
+name: Z3_source:_mode_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9E 00 00 00
 #
-name: SRCE:_Z3_MEMORY
+name: Srce:_z3_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9F 00 00 00
 #
-name: Z3_SOURCE:_MODE_3
+name: Z3_source:_mode_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9F 00 00 00
 #
-name: Z3_SOURCE:_MODE_3
+name: Z3_source:_mode_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: 9F 00 00 00
 #
-name: SRCE:_Z3_DISPLAY
+name: Srce:_z3_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A0 00 00 00
 #
-name: Z3_SOURCE:_MODE_4
+name: Z3_source:_mode_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A0 00 00 00
 #
-name: Z3_SOURCE:_MODE_4
+name: Z3_source:_mode_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A0 00 00 00
 #
-name: SRCE:_Z3_CURS_UP
+name: Srce:_z3_curs_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A1 00 00 00
 #
-name: Z3_SOURCE:_UP
+name: Z3_source:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A1 00 00 00
 #
-name: Z3_SOURCE:_UP
+name: Z3_source:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A1 00 00 00
 #
-name: SRCE:_Z3_CURS_LEFT
+name: Srce:_z3_curs_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A2 00 00 00
 #
-name: Z3_SOURCE:_LEFT
+name: Z3_source:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A2 00 00 00
 #
-name: SRCE:_Z3_CURS_ENTER
+name: Srce:_z3_curs_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A3 00 00 00
 #
-name: Z3_SOURCE:_ENTER
+name: Z3_source:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A3 00 00 00
 #
-name: SRCE:_Z3_CURS_RIGHT
+name: Srce:_z3_curs_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A4 00 00 00
 #
-name: Z3_SOURCE:_RIGHT
+name: Z3_source:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A4 00 00 00
 #
-name: Z3_SOURCE:_RIGHT
+name: Z3_source:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A4 00 00 00
 #
-name: SRCE:_Z3_CURS_DOWN
+name: Srce:_z3_curs_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A5 00 00 00
 #
-name: Z3_SOURCE:_DOWN
+name: Z3_source:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A5 00 00 00
 #
-name: Z3_SOURCE:_DOWN
+name: Z3_source:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A5 00 00 00
 #
-name: NETUSB:_Z3_PC/MC
+name: Netusb:_z3_pc/mc
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A6 00 00 00
 #
-name: DOCK:_Z3_PAUSE
+name: Dock:_z3_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A7 00 00 00
 #
-name: Z3_SOURCE:_OP_2
+name: Z3_source:_op_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A7 00 00 00
 #
-name: Z3_SOURCE:_OP_2
+name: Z3_source:_op_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A7 00 00 00
 #
-name: DOCK:_Z3_PLAY
+name: Dock:_z3_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A8 00 00 00
 #
-name: NETUSB:_Z3_PLAY
+name: Netusb:_z3_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A8 00 00 00
 #
-name: Z3_SOURCE:_OP_3
+name: Z3_source:_op_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A8 00 00 00
 #
-name: Z3_SOURCE:_OP_3
+name: Z3_source:_op_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A8 00 00 00
 #
-name: DOCK:_Z3_STOP
+name: Dock:_z3_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A9 00 00 00
 #
-name: NETUSB:_Z3_STOP
+name: Netusb:_z3_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A9 00 00 00
 #
-name: Z3_SOURCE:_OP_4
+name: Z3_source:_op_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A9 00 00 00
 #
-name: Z3_SOURCE:_OP_4
+name: Z3_source:_op_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: A9 00 00 00
 #
-name: DOCK:_Z3_REW
+name: Dock:_z3_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AA 00 00 00
 #
-name: NETUSB:_Z3_NRADIO
+name: Netusb:_z3_nradio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AA 00 00 00
 #
-name: Z3_SOURCE:_OP_5
+name: Z3_source:_op_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AA 00 00 00
 #
-name: Z3_SOURCE:_OP_5
+name: Z3_source:_op_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AA 00 00 00
 #
-name: DOCK:_Z3_FF
+name: Dock:_z3_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AB 00 00 00
 #
-name: NETUSB:_Z3_USB
+name: Netusb:_z3_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AB 00 00 00
 #
-name: Z3_SOURCE:_OP_6
+name: Z3_source:_op_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AB 00 00 00
 #
-name: Z3_SOURCE:_OP_6
+name: Z3_source:_op_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AB 00 00 00
 #
-name: DOCK:_Z3_SKIP_-
+name: Dock:_z3_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AC 00 00 00
 #
-name: HDRADIO:_Z3_PROG_-
+name: Hdradio:_z3_prog_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AC 00 00 00
 #
-name: NETUSB:_Z3_SKIP_-
+name: Netusb:_z3_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AC 00 00 00
 #
-name: Z3_SOURCE:_OP_7
+name: Z3_source:_op_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AC 00 00 00
 #
-name: Z3_SOURCE:_OP_7
+name: Z3_source:_op_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AC 00 00 00
 #
-name: DOCK:_Z3_SKIP_+
+name: Dock:_z3_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AD 00 00 00
 #
-name: HDRADIO:_Z3_PROG+
+name: Hdradio:_z3_prog+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AD 00 00 00
 #
-name: NETUSB:_Z3_SKIP_+
+name: Netusb:_z3_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AD 00 00 00
 #
-name: Z3_SOURCE:_OP_8
+name: Z3_source:_op_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AD 00 00 00
 #
-name: Z3_SOURCE:_OP_8
+name: Z3_source:_op_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AD 00 00 00
 #
-name: Z3_SOURCE:_OP_9
+name: Z3_source:_op_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AE 00 00 00
 #
-name: Z3_SOURCE:_OP_9
+name: Z3_source:_op_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: AE 00 00 00
 #
-name: SRCE:_Z4_1
+name: Srce:_z4_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B1 00 00 00
 #
-name: Z4_SOURCE:_1
+name: Z4_source:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B1 00 00 00
 #
-name: Z4_SOURCE:_1
+name: Z4_source:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B1 00 00 00
 #
-name: SRCE:_Z4_2
+name: Srce:_z4_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B2 00 00 00
 #
-name: Z4_SOURCE:_2
+name: Z4_source:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B2 00 00 00
 #
-name: Z4_SOURCE:_2
+name: Z4_source:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B2 00 00 00
 #
-name: SRCE:_Z4_3
+name: Srce:_z4_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B3 00 00 00
 #
-name: Z4_SOURCE:_3
+name: Z4_source:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B3 00 00 00
 #
-name: Z4_SOURCE:_3
+name: Z4_source:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B3 00 00 00
 #
-name: SRCE:_Z4_4
+name: Srce:_z4_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B4 00 00 00
 #
-name: Z4_SOURCE:_4
+name: Z4_source:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B4 00 00 00
 #
-name: Z4_SOURCE:_4
+name: Z4_source:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B4 00 00 00
 #
-name: SRCE:_Z4_5
+name: Srce:_z4_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B5 00 00 00
 #
-name: Z4_SOURCE:_5
+name: Z4_source:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B5 00 00 00
 #
-name: Z4_SOURCE:_5
+name: Z4_source:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B5 00 00 00
 #
-name: SRCE:_Z4_6
+name: Srce:_z4_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B6 00 00 00
 #
-name: Z4_SOURCE:_6
+name: Z4_source:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B6 00 00 00
 #
-name: Z4_SOURCE:_6
+name: Z4_source:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B6 00 00 00
 #
-name: SRCE:_Z4_7
+name: Srce:_z4_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B7 00 00 00
 #
-name: Z4_SOURCE:_7
+name: Z4_source:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B7 00 00 00
 #
-name: Z4_SOURCE:_7
+name: Z4_source:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B7 00 00 00
 #
-name: SRCE:_Z4_8
+name: Srce:_z4_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B8 00 00 00
 #
-name: Z4_SOURCE:_8
+name: Z4_source:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B8 00 00 00
 #
-name: Z4_SOURCE:_8
+name: Z4_source:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B8 00 00 00
 #
-name: SRCE:_Z4_9
+name: Srce:_z4_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B9 00 00 00
 #
-name: Z4_SOURCE:_9
+name: Z4_source:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B9 00 00 00
 #
-name: Z4_SOURCE:_9
+name: Z4_source:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: B9 00 00 00
 #
-name: SRCE:_Z4_0
+name: Srce:_z4_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BA 00 00 00
 #
-name: Z4_SOURCE:_0
+name: Z4_source:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BA 00 00 00
 #
-name: Z4_SOURCE:_0
+name: Z4_source:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BA 00 00 00
 #
-name: TUNER:_Z4_ENTER
+name: Tuner:_z4_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BC 00 00 00
 #
-name: XM:_Z4_ENTER
+name: Xm:_z4_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BC 00 00 00
 #
-name: Z4_SOURCE:_ENT
+name: Z4_source:_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BC 00 00 00
 #
-name: Z4:_SOURCE_ENT
+name: Z4:_source_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BC 00 00 00
 #
-name: Z4:_SOURCE_ENT
+name: Z4:_source_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BC 00 00 00
 #
-name: TUNER:_Z4_BAND
+name: Tuner:_z4_band
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BD 00 00 00
 #
-name: XM:_Z4_TITLE
+name: Xm:_z4_title
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BD 00 00 00
 #
-name: Z4_SOURCE:_MODE_1
+name: Z4_source:_mode_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BD 00 00 00
 #
-name: Z4_SOURCE:_MODE_1
+name: Z4_source:_mode_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BD 00 00 00
 #
-name: DOCK:_Z4_MENU
+name: Dock:_z4_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BE 00 00 00
 #
-name: NETUSB:_Z4_MENU
+name: Netusb:_z4_menu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BE 00 00 00
 #
-name: TUNER:_Z4_SRCHM
+name: Tuner:_z4_srchm
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BE 00 00 00
 #
-name: XM:_Z4_SRCH_MODE
+name: Xm:_z4_srch_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BE 00 00 00
 #
-name: Z4_SOURCE:_MODE_2
+name: Z4_source:_mode_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BE 00 00 00
 #
-name: Z4_SOURCE:_MODE_2
+name: Z4_source:_mode_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BE 00 00 00
 #
-name: SRCE:_Z4_MEMORY
+name: Srce:_z4_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BF 00 00 00
 #
-name: Z4_SOURCE:_MODE_3
+name: Z4_source:_mode_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BF 00 00 00
 #
-name: Z4_SOURCE:_MODE_3
+name: Z4_source:_mode_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: BF 00 00 00
 #
-name: SRCE:_Z4_DISPLAY
+name: Srce:_z4_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C0 00 00 00
 #
-name: Z4_SOURCE:_MODE_4
+name: Z4_source:_mode_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C0 00 00 00
 #
-name: Z4_SOURCE:_MODE_4
+name: Z4_source:_mode_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C0 00 00 00
 #
-name: SRCE:_Z4_CURS_UP
+name: Srce:_z4_curs_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C1 00 00 00
 #
-name: Z4_SOURCE:_UP
+name: Z4_source:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C1 00 00 00
 #
-name: Z4_SOURCE:_UP
+name: Z4_source:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C1 00 00 00
 #
-name: SRCE:_Z4_CURS_LEFT
+name: Srce:_z4_curs_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C2 00 00 00
 #
-name: Z4_SOURCE:_LEFT
+name: Z4_source:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C2 00 00 00
 #
-name: Z4_SOURCE:_LEFT
+name: Z4_source:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C2 00 00 00
 #
-name: SRCE:_Z4_CURS_ENTER
+name: Srce:_z4_curs_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C3 00 00 00
 #
-name: Z4_SOURCE:_ENTER
+name: Z4_source:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C3 00 00 00
 #
-name: Z4_SOURCE:_ENTER
+name: Z4_source:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C3 00 00 00
 #
-name: SRCE:_Z4_CURS_RIGHT
+name: Srce:_z4_curs_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C4 00 00 00
 #
-name: Z4_SOURCE:_RIGHT
+name: Z4_source:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C4 00 00 00
 #
-name: Z4_SOURCE:_RIGHT
+name: Z4_source:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C4 00 00 00
 #
-name: SRCE:_Z4_CURS_DOWN
+name: Srce:_z4_curs_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C5 00 00 00
 #
-name: Z4_SOURCE:_DOWN
+name: Z4_source:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C5 00 00 00
 #
-name: Z4_SOURCE:_DOWN
+name: Z4_source:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C5 00 00 00
 #
-name: NETUSB:_Z4_PC/MC
+name: Netusb:_z4_pc/mc
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C6 00 00 00
 #
-name: DOCK:_Z4_PAUSE
+name: Dock:_z4_pause
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C7 00 00 00
 #
-name: Z4_SOURCE:_OP_2
+name: Z4_source:_op_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C7 00 00 00
 #
-name: Z4_SOURCE:_OP_2
+name: Z4_source:_op_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C7 00 00 00
 #
-name: DOCK:_Z4_PLAY
+name: Dock:_z4_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C8 00 00 00
 #
-name: NETUSB:_Z4_PLAY
+name: Netusb:_z4_play
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C8 00 00 00
 #
-name: Z4_SOURCE:_OP_3
+name: Z4_source:_op_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C8 00 00 00
 #
-name: Z4_SOURCE:_OP_3
+name: Z4_source:_op_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C8 00 00 00
 #
-name: DOCK:_Z4_STOP
+name: Dock:_z4_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C9 00 00 00
 #
-name: NETUSB:_Z4_STOP
+name: Netusb:_z4_stop
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C9 00 00 00
 #
-name: Z4_SOURCE:_OP_4
+name: Z4_source:_op_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C9 00 00 00
 #
-name: Z4_SOURCE:_OP_4
+name: Z4_source:_op_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: C9 00 00 00
 #
-name: DOCK:_Z4_REW
+name: Dock:_z4_rew
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CA 00 00 00
 #
-name: NETUSB:_Z4_NRADIO
+name: Netusb:_z4_nradio
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CA 00 00 00
 #
-name: Z4_SOURCE:_OP_5
+name: Z4_source:_op_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CA 00 00 00
 #
-name: Z4_SOURCE:_OP_5
+name: Z4_source:_op_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CA 00 00 00
 #
-name: DOCK:_Z4_FF
+name: Dock:_z4_ff
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CB 00 00 00
 #
-name: NETUSB:_Z4_USB
+name: Netusb:_z4_usb
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CB 00 00 00
 #
-name: Z4_SOURCE:_OP_6
+name: Z4_source:_op_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CB 00 00 00
 #
-name: Z4_SOURCE:_OP_6
+name: Z4_source:_op_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CB 00 00 00
 #
-name: DOCK:_Z4_SKIP_-
+name: Dock:_z4_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CC 00 00 00
 #
-name: HDRADIO:_Z4_PROG_-
+name: Hdradio:_z4_prog_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CC 00 00 00
 #
-name: NETUSB:_Z4_SKIP_-
+name: Netusb:_z4_skip_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CC 00 00 00
 #
-name: Z4_SOURCE:_OP_7
+name: Z4_source:_op_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CC 00 00 00
 #
-name: Z4_SOURCE:_OP_7
+name: Z4_source:_op_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CC 00 00 00
 #
-name: DOCK:_Z4_SKIP_+
+name: Dock:_z4_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CD 00 00 00
 #
-name: HDRADIO:_Z4_PROG+
+name: Hdradio:_z4_prog+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CD 00 00 00
 #
-name: NETUSB:_Z4_SKIP_+
+name: Netusb:_z4_skip_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CD 00 00 00
 #
-name: Z4_SOURCE:_OP_8
+name: Z4_source:_op_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CD 00 00 00
 #
-name: Z4_SOURCE:_OP_8
+name: Z4_source:_op_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CD 00 00 00
 #
-name: Z4_SOURCE:_OP_9
+name: Z4_source:_op_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CE 00 00 00
 #
-name: Z4_SOURCE:_OP_9
+name: Z4_source:_op_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: CE 00 00 00
 #
-name: SIRIUS_0
+name: Sirius_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5107,13 +5107,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D1 00 00 00
 #
-name: SIRIUS_1
+name: Sirius_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D1 00 00 00
 #
-name: SIRIUS:_1
+name: Sirius:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5125,13 +5125,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D1 00 00 00
 #
-name: SIRIUS_NUM_1
+name: Sirius_num_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D1 00 00 00
 #
-name: SIRIUS:_1
+name: Sirius:_1
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5143,13 +5143,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D2 00 00 00
 #
-name: SIRIUS_2
+name: Sirius_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D2 00 00 00
 #
-name: SIRIUS:_2
+name: Sirius:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5161,13 +5161,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D2 00 00 00
 #
-name: SIRIUS_NUM_2
+name: Sirius_num_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D2 00 00 00
 #
-name: SIRIUS:_2
+name: Sirius:_2
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5179,13 +5179,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D3 00 00 00
 #
-name: SIRIUS_3
+name: Sirius_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D3 00 00 00
 #
-name: SIRIUS:_3
+name: Sirius:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5197,13 +5197,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D3 00 00 00
 #
-name: SIRIUS_NUM_3
+name: Sirius_num_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D3 00 00 00
 #
-name: SIRIUS:_3
+name: Sirius:_3
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5215,13 +5215,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D4 00 00 00
 #
-name: SIRIUS_4
+name: Sirius_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D4 00 00 00
 #
-name: SIRIUS:_4
+name: Sirius:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5233,13 +5233,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D4 00 00 00
 #
-name: SIRIUS_NUM_4
+name: Sirius_num_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D4 00 00 00
 #
-name: SIRIUS:_4
+name: Sirius:_4
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5251,13 +5251,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D5 00 00 00
 #
-name: SIRIUS_5
+name: Sirius_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D5 00 00 00
 #
-name: SIRIUS:_5
+name: Sirius:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5269,13 +5269,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D5 00 00 00
 #
-name: SIRIUS_NUM_5
+name: Sirius_num_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D5 00 00 00
 #
-name: SIRIUS:_5
+name: Sirius:_5
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5287,13 +5287,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D6 00 00 00
 #
-name: SIRIUS_6
+name: Sirius_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D6 00 00 00
 #
-name: SIRIUS:_6
+name: Sirius:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5305,13 +5305,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D6 00 00 00
 #
-name: SIRIUS_NUM_6
+name: Sirius_num_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D6 00 00 00
 #
-name: SIRIUS:_6
+name: Sirius:_6
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5323,13 +5323,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D7 00 00 00
 #
-name: SIRIUS_7
+name: Sirius_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D7 00 00 00
 #
-name: SIRIUS:_7
+name: Sirius:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5341,13 +5341,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D7 00 00 00
 #
-name: SIRIUS_NUM_7
+name: Sirius_num_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D7 00 00 00
 #
-name: SIRIUS:_7
+name: Sirius:_7
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5359,13 +5359,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D8 00 00 00
 #
-name: SIRIUS_8
+name: Sirius_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D8 00 00 00
 #
-name: SIRIUS:_8
+name: Sirius:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5377,13 +5377,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D8 00 00 00
 #
-name: SIRIUS_NUM_8
+name: Sirius_num_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D8 00 00 00
 #
-name: SIRIUS:_8
+name: Sirius:_8
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5395,13 +5395,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D9 00 00 00
 #
-name: SIRIUS_9
+name: Sirius_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D9 00 00 00
 #
-name: SIRIUS:_9
+name: Sirius:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5413,13 +5413,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: D9 00 00 00
 #
-name: SIRIUS_NUM_9
+name: Sirius_num_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: D9 00 00 00
 #
-name: SIRIUS:_9
+name: Sirius:_9
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5431,7 +5431,7 @@ protocol: NECext
 address: 7F 01 00 00
 command: DA 00 00 00
 #
-name: SIRIUS:_0
+name: Sirius:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5443,37 +5443,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: DA 00 00 00
 #
-name: SIRIUS_0
+name: Sirius_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DA 00 00 00
 #
-name: SIRIUS_NUM_0
+name: Sirius_num_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DA 00 00 00
 #
-name: SIRIUS:_0
+name: Sirius:_0
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DA 00 00 00
 #
-name: ENT
+name: Ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DC 00 00 00
 #
-name: SIRIUS_ENT_NO_INPUT
+name: Sirius_ent_no_input
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DC 00 00 00
 #
-name: SIRIUS:_ENTER
+name: Sirius:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5485,25 +5485,25 @@ protocol: NECext
 address: 7F 01 00 00
 command: DC 00 00 00
 #
-name: SIRIUS_ENT
+name: Sirius_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DC 00 00 00
 #
-name: SIRIUS_NUM_ENT
+name: Sirius_num_ent
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DC 00 00 00
 #
-name: SIRIUS_SEARCH_MODE
+name: Sirius_search_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DE 00 00 00
 #
-name: SIRIUS:SEARCH_MODE
+name: Sirius:search_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5515,19 +5515,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: DE 00 00 00
 #
-name: SIRIUS_SRCH_MODE
+name: Sirius_srch_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DE 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DF 00 00 00
 #
-name: SIRIUS_MEMORY
+name: Sirius_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5539,19 +5539,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: DF 00 00 00
 #
-name: SIRIUS:_MEMORY
+name: Sirius:_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DF 00 00 00
 #
-name: SIRIUS:_MEMORY
+name: Sirius:_memory
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: DF 00 00 00
 #
-name: SIRIUS_DISPLAY
+name: Sirius_display
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5563,19 +5563,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: E0 00 00 00
 #
-name: NAV_UP
+name: Nav_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E1 00 00 00
 #
-name: SIRIUS_PRESET_CH_UP
+name: Sirius_preset_ch_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E1 00 00 00
 #
-name: SIRIUS:CH/PRESET_UP
+name: Sirius:ch/preset_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5587,43 +5587,43 @@ protocol: NECext
 address: 7F 01 00 00
 command: E1 00 00 00
 #
-name: SIRIUS_CURSOR_UP
+name: Sirius_cursor_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E1 00 00 00
 #
-name: SIRIUS_CH/PR_NO_UP
+name: Sirius_ch/pr_no_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E1 00 00 00
 #
-name: SIRIUS:_UP
+name: Sirius:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E1 00 00 00
 #
-name: SIRIUS:_UP
+name: Sirius:_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E1 00 00 00
 #
-name: NAV_LEFT
+name: Nav_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E2 00 00 00
 #
-name: SIRIUS_CATEGORY_-
+name: Sirius_category_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E2 00 00 00
 #
-name: SIRIU:CAT/PST_GRP_DN
+name: Siriu:cat/pst_grp_dn
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5635,37 +5635,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: E2 00 00 00
 #
-name: SIRIUS_CURSOR_LEFT
+name: Sirius_cursor_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E2 00 00 00
 #
-name: SIRIUS_CAT/PR_GRP_DN
+name: Sirius_cat/pr_grp_dn
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E2 00 00 00
 #
-name: SIRIUS:_LEFT
+name: Sirius:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E2 00 00 00
 #
-name: SIRIUS:_LEFT
+name: Sirius:_left
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E2 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E3 00 00 00
 #
-name: SIRIUS_ENTER
+name: Sirius_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5677,37 +5677,37 @@ protocol: NECext
 address: 7F 01 00 00
 command: E3 00 00 00
 #
-name: SIRIUS_SETUP:_ENTER
+name: Sirius_setup:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E3 00 00 00
 #
-name: SIRIUS_SETUP:_ENTER
+name: Sirius_setup:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E3 00 00 00
 #
-name: SIRIUS:_ENTER
+name: Sirius:_enter
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E3 00 00 00
 #
-name: NAV_RIGHT
+name: Nav_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E4 00 00 00
 #
-name: SIRIUS_CATEGORY_+
+name: Sirius_category_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E4 00 00 00
 #
-name: SIRIU:CAT/PST_GRP_UP
+name: Siriu:cat/pst_grp_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5719,43 +5719,43 @@ protocol: NECext
 address: 7F 01 00 00
 command: E4 00 00 00
 #
-name: SIRIUS_CURSOR_RIGHT
+name: Sirius_cursor_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E4 00 00 00
 #
-name: SIRIUS_CAT/PR_GRP_UP
+name: Sirius_cat/pr_grp_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E4 00 00 00
 #
-name: SIRIUS:_RIGHT
+name: Sirius:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E4 00 00 00
 #
-name: SIRIUS:_RIGHT
+name: Sirius:_right
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E4 00 00 00
 #
-name: NAV_DOWN
+name: Nav_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E5 00 00 00
 #
-name: SIRIUS_PRESET_CH_DW
+name: Sirius_preset_ch_dw
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E5 00 00 00
 #
-name: SIRIUS:CH/PRESET_DWN
+name: Sirius:ch/preset_dwn
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5767,31 +5767,31 @@ protocol: NECext
 address: 7F 01 00 00
 command: E5 00 00 00
 #
-name: SIRIUS_CURSOR_DOWN
+name: Sirius_cursor_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E5 00 00 00
 #
-name: SIRIUS_CH/PR_NO_DN
+name: Sirius_ch/pr_no_dn
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E5 00 00 00
 #
-name: SIRIUS:_DOWN
+name: Sirius:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E5 00 00 00
 #
-name: SIRIUS:_DOWN
+name: Sirius:_down
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: E5 00 00 00
 #
-name: SIRIUS_INFO
+name: Sirius_info
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5809,19 +5809,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: F0 00 00 00
 #
-name: HDRADIO:_PRESET_A
+name: Hdradio:_preset_a
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F0 00 00 00
 #
-name: HD_RADIO:_A
+name: Hd_radio:_a
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F0 00 00 00
 #
-name: HD_RADIO:_A
+name: Hd_radio:_a
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5833,19 +5833,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: F1 00 00 00
 #
-name: HDRADIO:_PRESET_B
+name: Hdradio:_preset_b
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F1 00 00 00
 #
-name: HD_RADIO:_B
+name: Hd_radio:_b
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F1 00 00 00
 #
-name: HD_RADIO:_B
+name: Hd_radio:_b
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5857,19 +5857,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: F2 00 00 00
 #
-name: HDRADIO:_PRESET_C
+name: Hdradio:_preset_c
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F2 00 00 00
 #
-name: HD_RADIO:_C
+name: Hd_radio:_c
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F2 00 00 00
 #
-name: HD_RADIO:_C
+name: Hd_radio:_c
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5881,19 +5881,19 @@ protocol: NECext
 address: 7F 01 00 00
 command: F3 00 00 00
 #
-name: HDRADIO:_PRESET_D
+name: Hdradio:_preset_d
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F3 00 00 00
 #
-name: HD_RADIO:_D
+name: Hd_radio:_d
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F3 00 00 00
 #
-name: HD_RADIO:_D
+name: Hd_radio:_d
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -5905,91 +5905,91 @@ protocol: NECext
 address: 7F 01 00 00
 command: F4 00 00 00
 #
-name: HDRADIO:_PRESET_E
+name: Hdradio:_preset_e
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F4 00 00 00
 #
-name: HD_RADIO:_E
+name: Hd_radio:_e
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F4 00 00 00
 #
-name: HD_RADIO:_E
+name: Hd_radio:_e
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F4 00 00 00
 #
-name: INP_AM
+name: Inp_am
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F5 00 00 00
 #
-name: HDRADIO:_AM
+name: Hdradio:_am
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F5 00 00 00
 #
-name: INP_FM
+name: Inp_fm
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F6 00 00 00
 #
-name: HDRADIO:_FM
+name: Hdradio:_fm
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F6 00 00 00
 #
-name: AUTO_TUNE_-
+name: Auto_tune_-
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F7 00 00 00
 #
-name: HDRADIO:_AUTO_DN
+name: Hdradio:_auto_dn
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F7 00 00 00
 #
-name: AUTO_TUNE_+
+name: Auto_tune_+
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F8 00 00 00
 #
-name: HDRADIO:_AUTO_UP
+name: Hdradio:_auto_up
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: F8 00 00 00
 #
-name: DISPLAY_ON
+name: Display_on
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FB 00 00 00
 #
-name: DISPLAY_OFF
+name: Display_off
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FC 00 00 00
 #
-name: SRCH_MODE_PRESET
+name: Srch_mode_preset
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FD 00 00 00
 #
-name: TUNER:_SEARCH_PRESET
+name: Tuner:_search_preset
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -6001,31 +6001,31 @@ protocol: NECext
 address: 7F 01 00 00
 command: FD 00 00 00
 #
-name: TUNER_MODE_PRESET
+name: Tuner_mode_preset
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FD 00 00 00
 #
-name: TUNER_SRCH_MODE_PRES
+name: Tuner_srch_mode_pres
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FD 00 00 00
 #
-name: TUNER:_PRES_MODE
+name: Tuner:_pres_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FD 00 00 00
 #
-name: SRCH_MODE_TUNING
+name: Srch_mode_tuning
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FE 00 00 00
 #
-name: TUNER:_SEARCH_MANUAL
+name: Tuner:_search_manual
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -6037,25 +6037,25 @@ protocol: NECext
 address: 7F 01 00 00
 command: FE 00 00 00
 #
-name: TUNER_MODE_MANUAL
+name: Tuner_mode_manual
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FE 00 00 00
 #
-name: TUNER_SRCH_MODE_MANU
+name: Tuner_srch_mode_manu
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FE 00 00 00
 #
-name: TUNER:_MANL_MODE
+name: Tuner:_manl_mode
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FE 00 00 00
 #
-name: TUNER:_SEARCH_AUTO
+name: Tuner:_search_auto
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
@@ -6067,13 +6067,13 @@ protocol: NECext
 address: 7F 01 00 00
 command: FF 00 00 00
 #
-name: TUNER_MODE_AUTO
+name: Tuner_mode_auto
 type: parsed
 protocol: NECext
 address: 7F 01 00 00
 command: FF 00 00 00
 #
-name: TUNER_SRCH_MODE_AUTO
+name: Tuner_srch_mode_auto
 type: parsed
 protocol: NECext
 address: 7F 01 00 00

@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CC
+name: Cc
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 10 00 00 00
 #
-name: CLOSED_CAPTION
+name: Closed_caption
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 10 00 00 00
 #
-name: DISPLAY_MODE
+name: Display_mode
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 10 00 00 00
 #
-name: HEADPHONES
+name: Headphones
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 11 00 00 00
 #
-name: DVD_COMPONENT_INPUT
+name: Dvd_component_input
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 12 00 00 00
 #
-name: COMP
+name: Comp
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 17 00 00 00
 #
-name: STEADY_SOUND_ON/OFF
+name: Steady_sound_on/off
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 1F 00 00 00
 #
-name: EFFECT2
+name: Effect2
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 1F 00 00 00
 #
-name: SCREEN:_NORMAL
+name: Screen:_normal
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 31 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 31 00 00 00
 #
-name: SCREEN:_ZOOM/SUBTTL
+name: Screen:_zoom/subttl
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 32 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 32 00 00 00
 #
-name: HD_COMPONENT_INPUT
+name: Hd_component_input
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 36 00 00 00
 #
-name: SCREEN:_NORMAL/FULL
+name: Screen:_normal/full
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 3B 00 00 00
 #
-name: FULL_-_NORMAL
+name: Full_-_normal
 type: parsed
 protocol: NECext
 address: A4 00 00 00
@@ -97,265 +97,265 @@ protocol: NECext
 address: A4 00 00 00
 command: 3B 00 00 00
 #
-name: WIDE_MODE
+name: Wide_mode
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 3D 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 3D 00 00 00
 #
-name: WIDE
+name: Wide
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 3D 00 00 00
 #
-name: SCREEN:_WIDE_ZOOM
+name: Screen:_wide_zoom
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 42 00 00 00
 #
-name: WIDE_ZOOM
+name: Wide_zoom
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 42 00 00 00
 #
-name: VERTICAL_CENTERING
+name: Vertical_centering
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 44 00 00 00
 #
-name: SCREEN:_SUBTITLE16X9
+name: Screen:_subtitle16x9
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 45 00 00 00
 #
-name: RGB/YUV
+name: Rgb/yuv
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 48 00 00 00
 #
-name: YUV
+name: Yuv
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 48 00 00 00
 #
-name: COMP_2
+name: Comp_2
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 48 00 00 00
 #
-name: INPUT-YUV
+name: Input-yuv
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 48 00 00 00
 #
-name: VM
+name: Vm
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 4D 00 00 00
 #
-name: TRINITRON
+name: Trinitron
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 4F 00 00 00
 #
-name: NEXTVIEW
+name: Nextview
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 5B 00 00 00
 #
-name: PROGRAM_GUIDE
+name: Program_guide
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 5B 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 60 00 00 00
 #
-name: ACTIVE_<_>
+name: Active_<_>
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 63 00 00 00
 #
-name: ACTIVE
+name: Active
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 63 00 00 00
 #
-name: ACTIVE_CH
+name: Active_ch
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 63 00 00 00
 #
-name: ACTIVE_</>
+name: Active_</>
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 63 00 00 00
 #
-name: DISPLAY_SHOW
+name: Display_show
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 66 00 00 00
 #
-name: FULL_RESET
+name: Full_reset
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 6C 00 00 00
 #
-name: PIP_OFF
+name: Pip_off
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 6E 00 00 00
 #
-name: DEMO
+name: Demo
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 71 00 00 00
 #
-name: MULTI-PICTURE
+name: Multi-picture
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 74 00 00 00
 #
-name: MULTI-PIC
+name: Multi-pic
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 74 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 74 00 00 00
 #
-name: PIP_CHN_INDEX
+name: Pip_chn_index
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 74 00 00 00
 #
-name: PIP_MULTI
+name: Pip_multi
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 74 00 00 00
 #
-name: SPLIT_PICTURE
+name: Split_picture
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 77 00 00 00
 #
-name: PIP_SPLIT
+name: Pip_split
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 77 00 00 00
 #
-name: PIC_SPLIT
+name: Pic_split
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 77 00 00 00
 #
-name: TWIN_VIEW
+name: Twin_view
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 77 00 00 00
 #
-name: SPLIT_SCREEN
+name: Split_screen
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 77 00 00 00
 #
-name: PIP_SPLIT_SCREEN
+name: Pip_split_screen
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 77 00 00 00
 #
-name: PIP_ON/OFF
+name: Pip_on/off
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 77 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 77 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 7C 00 00 00
 #
-name: PIP_AUDIO
+name: Pip_audio
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 7C 00 00 00
 #
-name: AUDIO_SWAP
+name: Audio_swap
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 7C 00 00 00
 #
-name: PIP_AUDIO_MONITOR
+name: Pip_audio_monitor
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 7C 00 00 00
 #
-name: PIP_SOUND
+name: Pip_sound
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 7C 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 7D 00 00 00
 #
-name: DEGAUSS
+name: Degauss
 type: parsed
 protocol: NECext
 address: A4 00 00 00

@@ -13,7 +13,7 @@ protocol: NECext
 address: 47 00 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 47 00 00 00
@@ -31,13 +31,13 @@ protocol: NECext
 address: 47 00 00 00
 command: 09 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 0A 00 00 00
 #
-name: QV
+name: Qv
 type: parsed
 protocol: NECext
 address: 47 00 00 00
@@ -49,13 +49,13 @@ protocol: NECext
 address: 47 00 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 12 00 00 00
 #
-name: OFF-TIMER
+name: Off-timer
 type: parsed
 protocol: NECext
 address: 47 00 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 47 00 00 00
 command: 20 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 47 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 47 00 00 00
 command: 28 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 47 00 00 00
@@ -97,13 +97,13 @@ protocol: NECext
 address: 47 00 00 00
 command: 30 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 32 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 47 00 00 00
@@ -115,25 +115,25 @@ protocol: NECext
 address: 47 00 00 00
 command: 38 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 40 00 00 00
 #
-name: TURNRIGHT
+name: Turnright
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 41 00 00 00
 #
-name: TURNLEFT
+name: Turnleft
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 49 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 47 00 00 00

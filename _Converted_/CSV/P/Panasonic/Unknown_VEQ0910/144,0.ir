@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 00 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 02 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 03 00 00 00
 #
-name: PAUSE/STILL
+name: Pause/still
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 06 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 08 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0A 00 00 00
 #
-name: REV.PLAY
+name: Rev.play
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0B 00 00 00
 #
-name: STILL-ADV
+name: Still-adv
 type: parsed
 protocol: NECext
 address: 90 00 00 00
@@ -109,91 +109,91 @@ protocol: NECext
 address: 90 00 00 00
 command: 19 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 33 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 3B 00 00 00
 #
-name: VTR
+name: Vtr
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 3D 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 40 00 00 00
 #
-name: TIME-SEARCH
+name: Time-search
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 44 00 00 00
 #
-name: WRITE
+name: Write
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4B 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4C 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 53 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 54 00 00 00
 #
-name: REMAIN
+name: Remain
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 55 00 00 00
 #
-name: CLOCK/COUNTER
+name: Clock/counter
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 56 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 81 00 00 00
 #
-name: SEARCH+
+name: Search+
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 8E 00 00 00
 #
-name: SEARCH-
+name: Search-
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 8F 00 00 00
 #
-name: MONITOR
+name: Monitor
 type: parsed
 protocol: NECext
 address: 90 00 00 00

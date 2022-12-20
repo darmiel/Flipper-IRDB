@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 01 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 02 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 03 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 04 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 05 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 07 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 08 00 00 00
 #
-name: TUN_UP
+name: Tun_up
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 09 00 00 00
 #
-name: TUN_DOWN
+name: Tun_down
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 0A 00 00 00
 #
-name: SNOOZE
+name: Snooze
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 0B 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 0C 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 0D 00 00 00
 #
-name: REP_A_B
+name: Rep_a_b
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 13 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 14 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 86 53 00 00
@@ -157,139 +157,139 @@ protocol: NECext
 address: 86 53 00 00
 command: 1F 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 40 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 41 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 42 00 00 00
 #
-name: CD_FW
+name: Cd_fw
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 43 00 00 00
 #
-name: CD_REW
+name: Cd_rew
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 44 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 45 00 00 00
 #
-name: REP_ALL_PRG
+name: Rep_all_prg
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 46 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 47 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 48 00 00 00
 #
-name: WARP
+name: Warp
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 49 00 00 00
 #
-name: SPACE
+name: Space
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 4A 00 00 00
 #
-name: CHAIN
+name: Chain
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 4B 00 00 00
 #
-name: PAUSE_RECORD
+name: Pause_record
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 50 00 00 00
 #
-name: TAPE2_PLAY
+name: Tape2_play
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 51 00 00 00
 #
-name: TAPE2_BACKPLAY
+name: Tape2_backplay
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 52 00 00 00
 #
-name: TAPE2_FW
+name: Tape2_fw
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 53 00 00 00
 #
-name: TAPE2_REW
+name: Tape2_rew
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 54 00 00 00
 #
-name: TAPE2_STOP
+name: Tape2_stop
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 55 00 00 00
 #
-name: TAPE1_PLAY
+name: Tape1_play
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 58 00 00 00
 #
-name: TAPE1_BACKPLAY
+name: Tape1_backplay
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 59 00 00 00
 #
-name: TAPE1_FW
+name: Tape1_fw
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 5A 00 00 00
 #
-name: TAPE1_REW
+name: Tape1_rew
 type: parsed
 protocol: NECext
 address: 86 53 00 00
 command: 5B 00 00 00
 #
-name: TAPE1_STOP
+name: Tape1_stop
 type: parsed
 protocol: NECext
 address: 86 53 00 00

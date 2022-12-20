@@ -1,163 +1,163 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_0
+name: Cd_0
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 00 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 01 00 00 00
 #
-name: CD_2
+name: Cd_2
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 02 00 00 00
 #
-name: CD_3
+name: Cd_3
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 03 00 00 00
 #
-name: CD_4
+name: Cd_4
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 04 00 00 00
 #
-name: CD_5
+name: Cd_5
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 05 00 00 00
 #
-name: CD_6
+name: Cd_6
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 06 00 00 00
 #
-name: CD_7
+name: Cd_7
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 07 00 00 00
 #
-name: CD_8
+name: Cd_8
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 08 00 00 00
 #
-name: CD_9
+name: Cd_9
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 09 00 00 00
 #
-name: CD_REPEAT
+name: Cd_repeat
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1D 00 00 00
 #
-name: SKIP/SEARCH_>>
+name: Skip/search_>>
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 20 00 00 00
 #
-name: CD_NEXT_TRACK
+name: Cd_next_track
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 20 00 00 00
 #
-name: SKIP/SEARCH_<<
+name: Skip/search_<<
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 21 00 00 00
 #
-name: CD_PREVIOUS_TRACK
+name: Cd_previous_track
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 21 00 00 00
 #
-name: CD_PROGRAM
+name: Cd_program
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 29 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2D 00 00 00
 #
-name: CD_EJECT
+name: Cd_eject
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 30 00 00 00
 #
-name: CD_PAUSE
+name: Cd_pause
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 30 00 00 00
 #
-name: CD_SCAN_BACK
+name: Cd_scan_back
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 32 00 00 00
 #
-name: CD_SCAN_FORWARD
+name: Cd_scan_forward
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 35 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 36 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 36 00 00 00
 #
-name: CD_CLEAR
+name: Cd_clear
 type: parsed
 protocol: NECext
 address: 14 00 00 00

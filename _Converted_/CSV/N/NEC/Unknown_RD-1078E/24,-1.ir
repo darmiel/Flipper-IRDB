@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 00 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 03 00 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 04 00 00 00
 #
-name: STANDARD
+name: Standard
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 05 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 09 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 0A 00 00 00
 #
-name: CONTROL_UP
+name: Control_up
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 0C 00 00 00
 #
-name: CONTROL_DOWN
+name: Control_down
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 0D 00 00 00
 #
-name: POSITION_CALL
+name: Position_call
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 18 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -139,13 +139,13 @@ protocol: NECext
 address: 18 00 00 00
 command: 1A 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 1E 00 00 00
 #
-name: SYSTEM
+name: System
 type: parsed
 protocol: NECext
 address: 18 00 00 00

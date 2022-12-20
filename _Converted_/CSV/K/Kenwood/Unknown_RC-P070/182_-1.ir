@@ -55,139 +55,139 @@ protocol: NECext
 address: B6 00 00 00
 command: 09 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 0A 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 10 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 11 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 14 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: SKIP_BACK
+name: Skip_back
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: SKIP_FWD
+name: Skip_fwd
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: TIME_DISPLAY
+name: Time_display
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 18 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 19 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1A 00 00 00
 #
-name: CHECK
+name: Check
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1B 00 00 00
 #
-name: INDEX_BACK
+name: Index_back
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1C 00 00 00
 #
-name: INDEX_FWD
+name: Index_fwd
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1D 00 00 00
 #
-name: SPACE
+name: Space
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 42 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 43 00 00 00
 #
-name: TRACK
+name: Track
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 44 00 00 00
 #
-name: PGM
+name: Pgm
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 45 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 46 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 48 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 49 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 4A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -259,31 +259,31 @@ protocol: NECext
 address: B6 00 00 00
 command: 8A 00 00 00
 #
-name: DISPLAY_MODE
+name: Display_mode
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 8C 00 00 00
 #
-name: PEAK_SEARCH
+name: Peak_search
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 8D 00 00 00
 #
-name: DISC_FILE
+name: Disc_file
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 8F 00 00 00
 #
-name: ERASE
+name: Erase
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 90 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B6 00 00 00

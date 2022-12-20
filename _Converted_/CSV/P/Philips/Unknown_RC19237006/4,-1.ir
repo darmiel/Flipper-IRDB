@@ -61,163 +61,163 @@ protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: dim
+name: Dim
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 13 00 00 00
 #
-name: shuffle
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1C 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1D 00 00 00
 #
-name: ff-right
+name: Ff-right
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 20 00 00 00
 #
-name: ff-left
+name: Ff-left
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 21 00 00 00
 #
-name: scan
+name: Scan
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2A 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 30 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 31 00 00 00
 #
-name: repeat-ab
+name: Repeat-ab
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 3B 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 48 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4B 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4E 00 00 00
 #
-name: sound-mode
+name: Sound-mode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 50 00 00 00
 #
-name: menu-disc
+name: Menu-disc
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 54 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 58 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 59 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: menu-system
+name: Menu-system
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 82 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 83 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 85 00 00 00
 #
-name: t-c
+name: T-c
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: C8 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: F7 00 00 00
 #
-name: fts
+name: Fts
 type: parsed
 protocol: NECext
 address: 04 00 00 00

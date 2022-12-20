@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 01 00 00 00
 #
-name: spiral
+name: Spiral
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 02 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 03 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 05 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 06 00 00 00
 #
-name: auto
+name: Auto
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 0E 00 00 00
 #
-name: vac
+name: Vac
 type: parsed
 protocol: NECext
 address: 40 AF 00 00
 command: 12 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 40 AF 00 00

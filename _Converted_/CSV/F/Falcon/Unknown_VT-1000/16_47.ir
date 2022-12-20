@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: store
+name: Store
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 82 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 83 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 84 00 00 00
 #
-name: skew_up
+name: Skew_up
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 85 00 00 00
 #
-name: skew_down
+name: Skew_down
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 86 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 87 00 00 00
 #
-name: audio_down
+name: Audio_down
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 88 00 00 00
 #
-name: bw
+name: Bw
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 89 00 00 00
 #
-name: h/v
+name: H/v
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 8A 00 00 00
 #
-name: audio_up
+name: Audio_up
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 8B 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 9A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 9B 00 00 00
 #
-name: norm
+name: Norm
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 9C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 9D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 2F 00 00
 command: 9E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 10 2F 00 00

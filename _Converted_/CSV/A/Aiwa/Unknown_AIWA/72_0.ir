@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 00 00 00 00
 #
-name: am
+name: Am
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 01 00 00 00
 #
-name: t_up
+name: T_up
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 04 00 00 00
 #
-name: t_down
+name: T_down
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 05 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 07 00 00 00
 #
-name: v_down
+name: V_down
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 08 00 00 00
 #
-name: muting
+name: Muting
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 09 00 00 00
 #
-name: cdp_program
+name: Cdp_program
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0A 00 00 00
 #
-name: cdp_play
+name: Cdp_play
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0B 00 00 00
 #
-name: cdp_memory
+name: Cdp_memory
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0C 00 00 00
 #
-name: cdp_stop
+name: Cdp_stop
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0D 00 00 00
 #
-name: cdp_fskip
+name: Cdp_fskip
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0E 00 00 00
 #
-name: cdp_bskip
+name: Cdp_bskip
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0F 00 00 00
 #
-name: phono
+name: Phono
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 11 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 48 00 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -67,157 +67,157 @@ protocol: NECext
 address: 6E 00 00 00
 command: 0A 00 00 00
 #
-name: plus10
+name: Plus10
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0B 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0E 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 11 00 00 00
 #
-name: fmmode
+name: Fmmode
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 12 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 13 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 14 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 15 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 16 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 17 00 00 00
 #
-name: prgm
+name: Prgm
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 19 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1B 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1C 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1D 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1F 00 00 00
 #
-name: direction
+name: Direction
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 40 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 41 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 42 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 43 00 00 00
 #
-name: set
+name: Set
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 44 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 45 00 00 00
 #
-name: t_bass
+name: T_bass
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 47 00 00 00
 #
-name: bbe
+name: Bbe
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 48 00 00 00
 #
-name: geq
+name: Geq
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 49 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 4D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 6E 00 00 00

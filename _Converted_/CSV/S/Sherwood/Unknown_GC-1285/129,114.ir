@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 81 72 00 00
@@ -67,151 +67,151 @@ protocol: NECext
 address: 81 72 00 00
 command: 0D 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 10 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 11 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 12 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 13 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 18 00 00 00
 #
-name: skip_p
+name: Skip_p
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 19 00 00 00
 #
-name: skip_n
+name: Skip_n
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 1A 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 1C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 1D 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 1E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 1F 00 00 00
 #
-name: tun
+name: Tun
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 44 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 45 00 00 00
 #
-name: sel
+name: Sel
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 47 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 48 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 49 00 00 00
 #
-name: vid1
+name: Vid1
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 4A 00 00 00
 #
-name: dat
+name: Dat
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 4B 00 00 00
 #
-name: ph
+name: Ph
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 4C 00 00 00
 #
-name: vid2
+name: Vid2
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 4D 00 00 00
 #
-name: hall
+name: Hall
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 56 00 00 00
 #
-name: stereo
+name: Stereo
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 57 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 5A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 81 72 00 00
 command: 5E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 81 72 00 00

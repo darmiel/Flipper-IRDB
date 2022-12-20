@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 00 00 00 00
 #
-name: 1_VOL-
+name: 1_vol-
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 00 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 04 00 00 00
 #
-name: 1_TRACK_+
+name: 1_track_+
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 04 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 08 00 00 00
 #
-name: 1_PLAY/PAUSE
+name: 1_play/pause
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 08 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 0C 00 00 00
 #
-name: 1_TRACK_-
+name: 1_track_-
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 0C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 33 AA 00 00
 command: 17 00 00 00
 #
-name: 1_VOL+
+name: 1_vol+
 type: parsed
 protocol: NECext
 address: 33 AA 00 00

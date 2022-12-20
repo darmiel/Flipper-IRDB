@@ -73,61 +73,61 @@ protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: CURSOR_CENTER/OK
+name: Cursor_center/ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: UHR_(SYMBOL)
+name: Uhr_(symbol)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: POWER_(SYMBOL)
+name: Power_(symbol)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: MUTE_(SYMBOL)
+name: Mute_(symbol)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: CURSOR_VOL_+
+name: Cursor_vol_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: CURSOR_VOL_-
+name: Cursor_vol_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -139,13 +139,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: EIERUHR_(SYMBOL)
+name: Eieruhr_(symbol)
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2C 00 00 00
 #
-name: STEREO_(SYMBOL)
+name: Stereo_(symbol)
 type: parsed
 protocol: NECext
 address: 00 00 00 00

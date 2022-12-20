@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOPP
+name: Stopp
 type: parsed
 protocol: NECext
 address: 90 00 00 00
@@ -19,19 +19,19 @@ protocol: NECext
 address: 90 00 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 06 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 08 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 90 00 00 00
@@ -97,25 +97,25 @@ protocol: NECext
 address: 90 00 00 00
 command: 19 00 00 00
 #
-name: LJUD
+name: Ljud
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 33 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 3D 00 00 00
 #
-name: OOOO
+name: Oooo
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 54 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 90 00 00 00

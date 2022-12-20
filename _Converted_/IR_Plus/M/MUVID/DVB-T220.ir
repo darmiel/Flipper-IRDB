@@ -10,49 +10,49 @@ protocol: NECext
 address: FF 00 00 00
 command: BF 40 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 67 98 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 65 9A 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 9F 60 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 1D E2 00 00
 #
-name: INPUTNEXT
+name: Inputnext
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 7F 80 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 35 CA 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: A7 58 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 47 B8 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 87 78 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -88,7 +88,7 @@ protocol: NECext
 address: FF 00 00 00
 command: C7 38 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -100,25 +100,25 @@ protocol: NECext
 address: FF 00 00 00
 command: 37 C8 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: FD 02 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 27 D8 00 00
 #
-name: FORW
+name: Forw
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -178,7 +178,7 @@ protocol: NECext
 address: FF 00 00 00
 command: CF 30 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -190,7 +190,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 97 68 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: FF 00 00 00

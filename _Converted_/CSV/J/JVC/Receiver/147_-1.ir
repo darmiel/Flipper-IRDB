@@ -1,235 +1,235 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DAT_STOP_[]
+name: Dat_stop_[]
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 53 00 00 00
 #
-name: DAT_FF_>>
+name: Dat_ff_>>
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 56 00 00 00
 #
-name: DAT_FFWD_>>
+name: Dat_ffwd_>>
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 56 00 00 00
 #
-name: DAT_REW_<<
+name: Dat_rew_<<
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 57 00 00 00
 #
-name: DAT_PLAY_>
+name: Dat_play_>
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 5C 00 00 00
 #
-name: DAT_PAUSE/STILL_
+name: Dat_pause/still_
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 5D 00 00 00
 #
-name: DAT_PAUSE_
+name: Dat_pause_
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 5D 00 00 00
 #
-name: DAT_AUTO_SEARCH_<<
+name: Dat_auto_search_<<
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 68 00 00 00
 #
-name: DAT_SEARCH_<<
+name: Dat_search_<<
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 68 00 00 00
 #
-name: DAT_AUTO_SEARCH_>>
+name: Dat_auto_search_>>
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 69 00 00 00
 #
-name: DAT_SEARCH_>>
+name: Dat_search_>>
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 69 00 00 00
 #
-name: DAT_100
+name: Dat_100
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 70 00 00 00
 #
-name: DAT_0
+name: Dat_0
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 70 00 00 00
 #
-name: DAT_101
+name: Dat_101
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 71 00 00 00
 #
-name: DAT_1
+name: Dat_1
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 71 00 00 00
 #
-name: DAT_102
+name: Dat_102
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 72 00 00 00
 #
-name: DAT_2
+name: Dat_2
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 72 00 00 00
 #
-name: DAT_103
+name: Dat_103
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 73 00 00 00
 #
-name: DAT_3
+name: Dat_3
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 73 00 00 00
 #
-name: DAT_104
+name: Dat_104
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 74 00 00 00
 #
-name: DAT_4
+name: Dat_4
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 74 00 00 00
 #
-name: DAT_105
+name: Dat_105
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 75 00 00 00
 #
-name: DAT_5
+name: Dat_5
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 75 00 00 00
 #
-name: DAT_106
+name: Dat_106
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 76 00 00 00
 #
-name: DAT_6
+name: Dat_6
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 76 00 00 00
 #
-name: DAT_107/P
+name: Dat_107/p
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 77 00 00 00
 #
-name: DAT_7/P
+name: Dat_7/p
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 77 00 00 00
 #
-name: DAT_7
+name: Dat_7
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 77 00 00 00
 #
-name: DAT_108
+name: Dat_108
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 78 00 00 00
 #
-name: DAT_8
+name: Dat_8
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 78 00 00 00
 #
-name: DAT_109
+name: Dat_109
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 79 00 00 00
 #
-name: DAT_9
+name: Dat_9
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 79 00 00 00
 #
-name: DAT_1010
+name: Dat_1010
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 7E 00 00 00
 #
-name: DAT_10_CONTINUE
+name: Dat_10_continue
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 7E 00 00 00
 #
-name: DAT_10
+name: Dat_10
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 7E 00 00 00
 #
-name: DAT_10+10
+name: Dat_10+10
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 7F 00 00 00
 #
-name: DAT_+10
+name: Dat_+10
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 7F 00 00 00
 #
-name: DAT_REC/PLAY
+name: Dat_rec/play
 type: parsed
 protocol: NECext
 address: 93 00 00 00
 command: 8C 00 00 00
 #
-name: DAT_REC/PAUSE/STILL
+name: Dat_rec/pause/still
 type: parsed
 protocol: NECext
 address: 93 00 00 00

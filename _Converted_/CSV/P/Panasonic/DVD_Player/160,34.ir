@@ -1,199 +1,199 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 00 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 02 00 00 00
 #
-name: SLOW_SEARCH_<<
+name: Slow_search_<<
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 02 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 03 00 00 00
 #
-name: SLOW_SEARCH_>>
+name: Slow_search_>>
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 06 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 33 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 34 00 00 00
 #
-name: UP/ON
+name: Up/on
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 34 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 35 00 00 00
 #
-name: DOWN/OFF
+name: Down/off
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 35 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 36 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 36 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 37 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 37 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 47 00 00 00
 #
-name: A-B_REPEAT
+name: A-b_repeat
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 48 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 57 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: 80 00 00 00
 #
-name: DISC_MANAGER
+name: Disc_manager
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: A1 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: A4 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: AB 00 00 00
 #
-name: MARKER
+name: Marker
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: AC 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: AD 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: AE 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: B5 00 00 00
 #
-name: PLAY_MODE
+name: Play_mode
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: BB 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: C0 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: C4 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: C4 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: C6 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: A0 22 00 00
 command: C6 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: A0 22 00 00

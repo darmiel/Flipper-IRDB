@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_TOG
+name: Power_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 10 00 00 00
 #
-name: FM/XM:_0
+name: Fm/xm:_0
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 11 00 00 00
 #
-name: FM/XM:_1
+name: Fm/xm:_1
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 12 00 00 00
 #
-name: FM/XM:_2
+name: Fm/xm:_2
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 13 00 00 00
 #
-name: FM/XM:_3
+name: Fm/xm:_3
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 14 00 00 00
 #
-name: FM/XM:_4
+name: Fm/xm:_4
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 15 00 00 00
 #
-name: FM/XM:_5
+name: Fm/xm:_5
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 16 00 00 00
 #
-name: FM/XM:_6
+name: Fm/xm:_6
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 17 00 00 00
 #
-name: FM/XM:_7
+name: Fm/xm:_7
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 18 00 00 00
 #
-name: FM/XM:_8
+name: Fm/xm:_8
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -121,193 +121,193 @@ protocol: NECext
 address: 78 00 00 00
 command: 19 00 00 00
 #
-name: FM/XM:_9
+name: Fm/xm:_9
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 19 00 00 00
 #
-name: FM_UP
+name: Fm_up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1B 00 00 00
 #
-name: SUR_UPP
+name: Sur_upp
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1B 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1B 00 00 00
 #
-name: FM/XM:_PRESET_+
+name: Fm/xm:_preset_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1B 00 00 00
 #
-name: FM_DOWN
+name: Fm_down
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1C 00 00 00
 #
-name: SUR_NER
+name: Sur_ner
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1C 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1C 00 00 00
 #
-name: FM/XM:_PRESET_-
+name: Fm/xm:_preset_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1C 00 00 00
 #
-name: FM_A-E
+name: Fm_a-e
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1D 00 00 00
 #
-name: XM_CATEGORY_+
+name: Xm_category_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1D 00 00 00
 #
-name: FM/XM:_PG/CAT+
+name: Fm/xm:_pg/cat+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1E 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1F 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1F 00 00 00
 #
-name: CH_LEVEL
+name: Ch_level
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 48 00 00 00
 #
-name: LEVEL
+name: Level
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 48 00 00 00
 #
-name: LEVEL_TOG
+name: Level_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 48 00 00 00
 #
-name: DSP:_LEVEL_TOGGLE
+name: Dsp:_level_toggle
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 48 00 00 00
 #
-name: INPUT_AUX1
+name: Input_aux1
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 49 00 00 00
 #
-name: INPUT_VCR
+name: Input_vcr
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 49 00 00 00
 #
-name: INPUT_AUX_1
+name: Input_aux_1
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 49 00 00 00
 #
-name: INPUT:_AUX_1
+name: Input:_aux_1
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 49 00 00 00
 #
-name: INPUT_DVD
+name: Input_dvd
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4A 00 00 00
 #
-name: INPUT:_DVD
+name: Input:_dvd
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4A 00 00 00
 #
-name: INPUT_FM
+name: Input_fm
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4B 00 00 00
 #
-name: INPUT:_XM/FM
+name: Input:_xm/fm
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4B 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4F 00 00 00
 #
-name: SLEEP_TOG
+name: Sleep_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4F 00 00 00
 #
-name: SLEEP:_TOGGLE
+name: Sleep:_toggle
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -319,439 +319,439 @@ protocol: NECext
 address: 78 00 00 00
 command: 50 00 00 00
 #
-name: SUR_STEREO
+name: Sur_stereo
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 50 00 00 00
 #
-name: BEAM-STEREO
+name: Beam-stereo
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 50 00 00 00
 #
-name: STEREO/5_CH_STEREO
+name: Stereo/5_ch_stereo
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 50 00 00 00
 #
-name: DSP:_BMSTEREOTOG
+name: Dsp:_bmstereotog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 50 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5F 00 00 00
 #
-name: TEST_MODE
+name: Test_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5F 00 00 00
 #
-name: TEST_MODE_TOG
+name: Test_mode_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5F 00 00 00
 #
-name: TEST_(DOLBY)
+name: Test_(dolby)
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5F 00 00 00
 #
-name: TEST_TOGGLE
+name: Test_toggle
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5F 00 00 00
 #
-name: SEARCH_MODE_ALL_CH
+name: Search_mode_all_ch
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 67 00 00 00
 #
-name: FM/XM:_SRCHMD_ALL
+name: Fm/xm:_srchmd_all
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 67 00 00 00
 #
-name: SEARCH_MODE_PREST
+name: Search_mode_prest
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 68 00 00 00
 #
-name: FM/XM:_SRCHMPRES
+name: Fm/xm:_srchmpres
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 68 00 00 00
 #
-name: DEMO_1_ON
+name: Demo_1_on
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6B 00 00 00
 #
-name: DEMO_1_ON
+name: Demo_1_on
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6B 00 00 00
 #
-name: DEMO_1_OFF
+name: Demo_1_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6C 00 00 00
 #
-name: DEMO_1_OFF
+name: Demo_1_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6C 00 00 00
 #
-name: TRUBASS_MID
+name: Trubass_mid
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6D 00 00 00
 #
-name: DEMO_2_ON
+name: Demo_2_on
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6D 00 00 00
 #
-name: TRUBASS:_MID
+name: Trubass:_mid
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6D 00 00 00
 #
-name: DSP:_TBASS_ON_MID
+name: Dsp:_tbass_on_mid
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6D 00 00 00
 #
-name: TRUBASS_DEEP
+name: Trubass_deep
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6E 00 00 00
 #
-name: DEMO_2_OFF
+name: Demo_2_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6E 00 00 00
 #
-name: TRUBASS:_DEEP
+name: Trubass:_deep
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6E 00 00 00
 #
-name: DSP:_TBASS_ON_DEEP
+name: Dsp:_tbass_on_deep
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6E 00 00 00
 #
-name: TRUBASS_OFF
+name: Trubass_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6F 00 00 00
 #
-name: TRUBASS:_OFF
+name: Trubass:_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6F 00 00 00
 #
-name: DSP:_TBASS_OFF
+name: Dsp:_tbass_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 6F 00 00 00
 #
-name: PRESET_MEMORY_A
+name: Preset_memory_a
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 70 00 00 00
 #
-name: VOLUME_MEMORY_A
+name: Volume_memory_a
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 70 00 00 00
 #
-name: PRESET_RECALL_A
+name: Preset_recall_a
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 71 00 00 00
 #
-name: VOLUME_RECALL_A
+name: Volume_recall_a
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 71 00 00 00
 #
-name: PRESET_MEMORY_B
+name: Preset_memory_b
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 72 00 00 00
 #
-name: VOLUME_MEMORY_B
+name: Volume_memory_b
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 72 00 00 00
 #
-name: PRESET_RECALL_B
+name: Preset_recall_b
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 73 00 00 00
 #
-name: VOLUME_RECALL_B
+name: Volume_recall_b
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 73 00 00 00
 #
-name: PRESET_MEMORY_C
+name: Preset_memory_c
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 74 00 00 00
 #
-name: VOLUME_MEMORY_C
+name: Volume_memory_c
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 74 00 00 00
 #
-name: PRESET_RECALL_C
+name: Preset_recall_c
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 75 00 00 00
 #
-name: VOLUME_RECALL_C
+name: Volume_recall_c
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 75 00 00 00
 #
-name: MEMORY_SAVE_USER1
+name: Memory_save_user1
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 76 00 00 00
 #
-name: MEMORY_LOAD_USER1
+name: Memory_load_user1
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 77 00 00 00
 #
-name: MEMORY_SAVE_USER2
+name: Memory_save_user2
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 78 00 00 00
 #
-name: MEMORY_LOAD_USER2
+name: Memory_load_user2
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 79 00 00 00
 #
-name: MEMORY_SAVE_USER3
+name: Memory_save_user3
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7A 00 00 00
 #
-name: MEMORY_LOAD_USER3
+name: Memory_load_user3
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7B 00 00 00
 #
-name: TV_EQUAL_VOL_ON
+name: Tv_equal_vol_on
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7C 00 00 00
 #
-name: TV_MODE:_ON
+name: Tv_mode:_on
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7C 00 00 00
 #
-name: DSP:_TV_MODE_ON
+name: Dsp:_tv_mode_on
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7C 00 00 00
 #
-name: INPUT_XM
+name: Input_xm
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7D 00 00 00
 #
-name: INPUT:_XM
+name: Input:_xm
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7D 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 7F 00 00 00
 #
-name: VOL_MODE
+name: Vol_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8A 00 00 00
 #
-name: NIGHT_TOG
+name: Night_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8A 00 00 00
 #
-name: VOLUME_MODE
+name: Volume_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8A 00 00 00
 #
-name: DSP:_VOL_MODE_TOG
+name: Dsp:_vol_mode_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8A 00 00 00
 #
-name: TRUBASS_TOG
+name: Trubass_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8B 00 00 00
 #
-name: SRS_TRUBASS
+name: Srs_trubass
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8B 00 00 00
 #
-name: DSP:_TBASS_TOGG
+name: Dsp:_tbass_togg
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8B 00 00 00
 #
-name: INPUTMODE
+name: Inputmode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8D 00 00 00
 #
-name: INPUT_MODE:_TOGGLE
+name: Input_mode:_toggle
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8E 00 00 00
 #
-name: SET_MENU_UP
+name: Set_menu_up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8E 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8E 00 00 00
 #
-name: SET:_CURSOR_UP
+name: Set:_cursor_up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8E 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8F 00 00 00
 #
-name: SET_MENU_DOWN
+name: Set_menu_down
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8F 00 00 00
 #
-name: SET:_CURSOR_DOWN
+name: Set:_cursor_down
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8F 00 00 00
 #
-name: SUR_DECODE
+name: Sur_decode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 99 00 00 00
 #
-name: SURROUND_TOG
+name: Surround_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 99 00 00 00
 #
-name: DSP:_T_SURROUND
+name: Dsp:_t_surround
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -763,175 +763,175 @@ protocol: NECext
 address: 78 00 00 00
 command: 9B 00 00 00
 #
-name: SUR_OFF
+name: Sur_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9B 00 00 00
 #
-name: DSP_OFF
+name: Dsp_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9B 00 00 00
 #
-name: CINEMA_DSP:_OFF
+name: Cinema_dsp:_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9B 00 00 00
 #
-name: DSP:_CDSP_OFF
+name: Dsp:_cdsp_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9B 00 00 00
 #
-name: VOLUME_MUTE
+name: Volume_mute
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9C 00 00 00
 #
-name: MUTE_TOG
+name: Mute_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9C 00 00 00
 #
-name: NIGHT_MODE_OFF
+name: Night_mode_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9C 00 00 00
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: SET_MENU
+name: Set_menu
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: SET_MENU_TOG
+name: Set_menu_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: SET:_SET_MENU
+name: Set:_set_menu
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9E 00 00 00
 #
-name: SET_MENU_+
+name: Set_menu_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9E 00 00 00
 #
-name: SET_MENU_RIGHT
+name: Set_menu_right
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9E 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9E 00 00 00
 #
-name: SET:_CURSOR_RIGHT
+name: Set:_cursor_right
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9E 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9F 00 00 00
 #
-name: SUR_A-E
+name: Sur_a-e
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9F 00 00 00
 #
-name: SET_MENU_-
+name: Set_menu_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9F 00 00 00
 #
-name: SET_MENU_LEFT
+name: Set_menu_left
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9F 00 00 00
 #
-name: SET:_CURSOR_LEFT
+name: Set:_cursor_left
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9F 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A2 00 00 00
 #
-name: AUTO_SETUP
+name: Auto_setup
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A3 00 00 00
 #
-name: AUTO_INTELLIBEAM
+name: Auto_intellibeam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A3 00 00 00
 #
-name: INTELLIBEAM_START
+name: Intellibeam_start
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A3 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A3 00 00 00
 #
-name: SET:_IBM_START_TRIGG
+name: Set:_ibm_start_trigg
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -943,265 +943,265 @@ protocol: NECext
 address: 78 00 00 00
 command: A5 00 00 00
 #
-name: FM_PRESET/TUNE
+name: Fm_preset/tune
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A8 00 00 00
 #
-name: PRESET/TUNE_MODE
+name: Preset/tune_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A8 00 00 00
 #
-name: FM/XM:_PRES/TUNE
+name: Fm/xm:_pres/tune
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A8 00 00 00
 #
-name: TUNING-/PRESET-
+name: Tuning-/preset-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A9 00 00 00
 #
-name: FM/XM:_TUN/PRE-
+name: Fm/xm:_tun/pre-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A9 00 00 00
 #
-name: TUNING+/PRESET+
+name: Tuning+/preset+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AA 00 00 00
 #
-name: FM/XM:_TUN/PRE+
+name: Fm/xm:_tun/pre+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AA 00 00 00
 #
-name: PRESET_E_CATEGORY
+name: Preset_e_category
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AB 00 00 00
 #
-name: FM/XM:_PAGE_E
+name: Fm/xm:_page_e
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AB 00 00 00
 #
-name: PRESET_D_CATEGORY
+name: Preset_d_category
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AC 00 00 00
 #
-name: FM/XM:_PAGE_D
+name: Fm/xm:_page_d
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AC 00 00 00
 #
-name: PRESET_C_CATEGORY
+name: Preset_c_category
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AD 00 00 00
 #
-name: FM/XM:_PAGE_C
+name: Fm/xm:_page_c
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AD 00 00 00
 #
-name: PRESET_B_CATEGORY
+name: Preset_b_category
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AE 00 00 00
 #
-name: FM/XM:_PAGE_B
+name: Fm/xm:_page_b
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AE 00 00 00
 #
-name: PRESET_A_CATEGORY
+name: Preset_a_category
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AF 00 00 00
 #
-name: FM/XM:_PAGE_A
+name: Fm/xm:_page_a
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: AF 00 00 00
 #
-name: AUTO_SEARCH_-
+name: Auto_search_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B0 00 00 00
 #
-name: FM/XM:_AUTO_SRCH-
+name: Fm/xm:_auto_srch-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B0 00 00 00
 #
-name: AUTO_SEARCH_+
+name: Auto_search_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B1 00 00 00
 #
-name: FM/XM:_AUTO_SRCH+
+name: Fm/xm:_auto_srch+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B1 00 00 00
 #
-name: FM_MEMORY
+name: Fm_memory
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B2 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B2 00 00 00
 #
-name: FM/XM:_MEMORY
+name: Fm/xm:_memory
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B2 00 00 00
 #
-name: INPUT_FM
+name: Input_fm
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B6 00 00 00
 #
-name: INPUT:_FM
+name: Input:_fm
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B6 00 00 00
 #
-name: FM_SEARCH
+name: Fm_search
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B7 00 00 00
 #
-name: FM/XM:_SRCH_MODE
+name: Fm/xm:_srch_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B7 00 00 00
 #
-name: XM_DISPLAY
+name: Xm_display
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B8 00 00 00
 #
-name: FM/XM:_XM_DISPLAY
+name: Fm/xm:_xm_display
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: B8 00 00 00
 #
-name: XM_CATEGORY_-
+name: Xm_category_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: BB 00 00 00
 #
-name: FM/XM:_PG/CAT-
+name: Fm/xm:_pg/cat-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: BB 00 00 00
 #
-name: INPUT_AUX3
+name: Input_aux3
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: BC 00 00 00
 #
-name: INPUT_AUX_3
+name: Input_aux_3
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: BC 00 00 00
 #
-name: INPUT:_AUX_3
+name: Input:_aux_3
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: BC 00 00 00
 #
-name: XM_ENTER
+name: Xm_enter
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: BD 00 00 00
 #
-name: FM/XM:_XM_ENTER
+name: Fm/xm:_xm_enter
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: BD 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C0 00 00 00
 #
-name: SET_MENU_RETURN
+name: Set_menu_return
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C0 00 00 00
 #
-name: SET:_RETURN
+name: Set:_return
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C0 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C1 00 00 00
 #
-name: SET_MENU_SELECT
+name: Set_menu_select
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C1 00 00 00
 #
-name: SET_MENU_ENTER
+name: Set_menu_enter
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C1 00 00 00
 #
-name: SET:_ENTER
+name: Set:_enter
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -1213,25 +1213,25 @@ protocol: NECext
 address: 78 00 00 00
 command: C2 00 00 00
 #
-name: SUR_5BEAM
+name: Sur_5beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C2 00 00 00
 #
-name: BEAM-5BEAM
+name: Beam-5beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C2 00 00 00
 #
-name: 5_BEAM_MODE
+name: 5_beam_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C2 00 00 00
 #
-name: DSP:_BM_5_BEAM
+name: Dsp:_bm_5_beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -1243,25 +1243,25 @@ protocol: NECext
 address: 78 00 00 00
 command: C3 00 00 00
 #
-name: SUR_ST+3BEAM
+name: Sur_st+3beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C3 00 00 00
 #
-name: BEAM-ST+3BEAM
+name: Beam-st+3beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C3 00 00 00
 #
-name: ST+3_BEAM_MODE
+name: St+3_beam_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C3 00 00 00
 #
-name: DSP:_BM_ST+3_BEA
+name: Dsp:_bm_st+3_bea
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -1273,25 +1273,25 @@ protocol: NECext
 address: 78 00 00 00
 command: C4 00 00 00
 #
-name: SUR_3BEAM
+name: Sur_3beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C4 00 00 00
 #
-name: BEAM-3BEAM
+name: Beam-3beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C4 00 00 00
 #
-name: 3_BEAM_MODE
+name: 3_beam_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C4 00 00 00
 #
-name: DSP:_BM_3_BEAM
+name: Dsp:_bm_3_beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -1303,25 +1303,25 @@ protocol: NECext
 address: 78 00 00 00
 command: C5 00 00 00
 #
-name: SUR_MY_BEAM
+name: Sur_my_beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C5 00 00 00
 #
-name: BEAM-TARGET
+name: Beam-target
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C5 00 00 00
 #
-name: BEAM-MY_BEAM_AUTO
+name: Beam-my_beam_auto
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C5 00 00 00
 #
-name: DSP:_BM_MY_BEAM
+name: Dsp:_bm_my_beam
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -1333,43 +1333,43 @@ protocol: NECext
 address: 78 00 00 00
 command: C6 00 00 00
 #
-name: SUR_MY_SUR
+name: Sur_my_sur
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C6 00 00 00
 #
-name: DSP:_BM_MY_SURR.
+name: Dsp:_bm_my_surr.
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C6 00 00 00
 #
-name: ENHANCER
+name: Enhancer
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: CB 00 00 00
 #
-name: MUSIC_ENHANCER_TOGGL
+name: Music_enhancer_toggl
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: CB 00 00 00
 #
-name: DSP:_M_ENHAN_TOG
+name: Dsp:_m_enhan_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: CB 00 00 00
 #
-name: DSP:_T_MUSIC_ENHA
+name: Dsp:_t_music_enha
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: CB 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -1381,25 +1381,25 @@ protocol: NECext
 address: 78 00 00 00
 command: D9 00 00 00
 #
-name: SUR_MOVIE
+name: Sur_movie
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: D9 00 00 00
 #
-name: DSP_MOVIE_TOG
+name: Dsp_movie_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: D9 00 00 00
 #
-name: CINEMA_DSP_(MOVIE)_T
+name: Cinema_dsp_(movie)_t
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: D9 00 00 00
 #
-name: DSP:_T_CDSP_MOVIE
+name: Dsp:_t_cdsp_movie
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -1411,25 +1411,25 @@ protocol: NECext
 address: 78 00 00 00
 command: DA 00 00 00
 #
-name: SUR_MUSIC
+name: Sur_music
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DA 00 00 00
 #
-name: DSP_MUSIC_TOG
+name: Dsp_music_tog
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DA 00 00 00
 #
-name: CINEMA_DSP_(MUSIC)_T
+name: Cinema_dsp_(music)_t
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DA 00 00 00
 #
-name: DSP:_T_CDSP_MUSIC
+name: Dsp:_t_cdsp_music
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -1441,73 +1441,73 @@ protocol: NECext
 address: 78 00 00 00
 command: DB 00 00 00
 #
-name: SUR_SPORTS
+name: Sur_sports
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DB 00 00 00
 #
-name: CINEMA_DSP_(SPORTS)
+name: Cinema_dsp_(sports)
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DB 00 00 00
 #
-name: DSP:_CDSP_SPORTS
+name: Dsp:_cdsp_sports
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DB 00 00 00
 #
-name: INPUT_AUX2
+name: Input_aux2
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DE 00 00 00
 #
-name: INPUT_AUX
+name: Input_aux
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DE 00 00 00
 #
-name: INPUT_AUX_2
+name: Input_aux_2
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DE 00 00 00
 #
-name: INPUT:_AUX_2
+name: Input:_aux_2
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DE 00 00 00
 #
-name: INPUT_STB
+name: Input_stb
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DF 00 00 00
 #
-name: INPUT_TV
+name: Input_tv
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DF 00 00 00
 #
-name: INPUT_TV/STB
+name: Input_tv/stb
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DF 00 00 00
 #
-name: MUTE_20%
+name: Mute_20%
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DF 00 00 00
 #
-name: INPUT:_TV/STB
+name: Input:_tv/stb
 type: parsed
 protocol: NECext
 address: 78 00 00 00

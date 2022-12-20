@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 2235 4497 8967 8967 8967 2235 2235 4497 8967 260722
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 4497 4497 6732 8967 8967 2235 4497 4497 6732 80728
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 2235 6732 6732 8967 8967 2235 2235 6732 6732 80728
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8993 2235 2235 2235 6732 2235 2235 8993 8993 2235 2235 2235 6732 2235 2235 260722
 #
-name: POLARITY
+name: Polarity
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8993 2235 11228 2235 2235 8993 8993 2235 11228 2235 2235 260722
 #
-name: TUNE+
+name: Tune+
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 6732 2235 6732 8967 8967 2235 6732 2235 6732 80728
 #
-name: TUNE-
+name: Tune-
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 2235 2235 2235 2235 6732 8967 8967 2235 2235 2235 2235 2235 6732 80728
 #
-name: TUNER
+name: Tuner
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 2235 2235 11228 8967 8967 2235 2235 2235 11228 260722
 #
-name: CD
+name: Cd
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8993 2235 15699 8993
 #
-name: DIRECT
+name: Direct
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 2235 2235 2235 2235 2235 2235 2235 8967 8967 2235 2235 2235 2235 2235 2235 2235 2235 260722
 #
-name: FM/AM
+name: Fm/am
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8993 2235 6732 2235 2235 2235 2235 8993 8993 2235 6732 2235 2235 2235 2235 260722
 #
-name: TAPE
+name: Tape
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 6732 4497 4497 8967 8967 2235 6732 4497 4497 260722
 #
-name: AUX
+name: Aux
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 2235 2235 2235 4470 4470 8967 8967 2235 2235 2235 2235 4470 4470 260722
 #
-name: VIDEO
+name: Video
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 4497 6732 4497 8967 8967 2235 4497 6732 4497 260722
 #
-name: AUTO
+name: Auto
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
@@ -157,7 +157,7 @@ frequency: 38029
 duty_cycle: 0.330000
 data: 8967 2235 4470 2235 4470 2235 2235 8967 8967 2235 4470 2235 4470 2235 2235 260722
 #
-name: PRESET
+name: Preset
 type: raw
 frequency: 38029
 duty_cycle: 0.330000

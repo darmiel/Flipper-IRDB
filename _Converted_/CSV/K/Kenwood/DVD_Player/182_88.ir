@@ -61,37 +61,37 @@ protocol: NECext
 address: B6 58 00 00
 command: 09 00 00 00
 #
-name: PAGE/CHANNEL_-
+name: Page/channel_-
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 40 00 00 00
 #
-name: PAGE/CHANNEL_+
+name: Page/channel_+
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 41 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 42 00 00 00
 #
-name: OPTIONS/MENU
+name: Options/menu
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 43 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 44 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: B6 58 00 00
@@ -103,133 +103,133 @@ protocol: NECext
 address: B6 58 00 00
 command: 48 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 49 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 4A 00 00 00
 #
-name: OPENGLOBE
+name: Openglobe
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 4F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 50 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 51 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 52 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 53 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 54 00 00 00
 #
-name: DAY_+/PLAY
+name: Day_+/play
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 58 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 59 00 00 00
 #
-name: DAY_-/STOP
+name: Day_-/stop
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 5A 00 00 00
 #
-name: BACKSPACE/PG_DN_<<<
+name: Backspace/pg_dn_<<<
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 5B 00 00 00
 #
-name: SPACE/PAGE_UP_>>>
+name: Space/page_up_>>>
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 5C 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 5F 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 80 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: 81 00 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: C0 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: C1 00 00 00
 #
-name: MOVIES
+name: Movies
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: C2 00 00 00
 #
-name: PASS_THOUGH_/_FAV
+name: Pass_though_/_fav
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: C3 00 00 00
 #
-name: E-MAIL
+name: E-mail
 type: parsed
 protocol: NECext
 address: B6 58 00 00
 command: C5 00 00 00
 #
-name: WEB/LAST_CH.
+name: Web/last_ch.
 type: parsed
 protocol: NECext
 address: B6 58 00 00

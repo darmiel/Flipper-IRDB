@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AUDIO1
+name: Audio1
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 80 00 00 00
 #
-name: AUDIO2
+name: Audio2
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 81 00 00 00
 #
-name: AUDIO3
+name: Audio3
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 82 00 00 00
 #
-name: RF
+name: Rf
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 83 00 00 00
 #
-name: VIDEO1
+name: Video1
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 83 00 00 00
 #
-name: TOSLINK
+name: Toslink
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 84 00 00 00
 #
-name: VIDEO2
+name: Video2
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 84 00 00 00
 #
-name: COAX1
+name: Coax1
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 85 00 00 00
 #
-name: VIDEO3
+name: Video3
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 85 00 00 00
 #
-name: COAX2
+name: Coax2
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 86 00 00 00
 #
-name: VIDEO4
+name: Video4
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 86 00 00 00
 #
-name: STEREO-DIRECT
+name: Stereo-direct
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
@@ -79,79 +79,79 @@ protocol: NECext
 address: 03 F0 00 00
 command: 91 00 00 00
 #
-name: PROLOGIC
+name: Prologic
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 94 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 95 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 9C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C0 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C8 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: CB 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: CC 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: CF 00 00 00
 #
-name: 2CH
+name: 2ch
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: D0 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: D1 00 00 00
 #
-name: DIALOGNORMALIZATION
+name: Dialognormalization
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: D2 00 00 00
 #
-name: DYNAMIC_RANGE
+name: Dynamic_range
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: D3 00 00 00
 #
-name: RE-EQ
+name: Re-eq
 type: parsed
 protocol: NECext
 address: 03 F0 00 00

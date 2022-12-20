@@ -61,79 +61,79 @@ protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0D 00 00 00
 #
-name: p/c
+name: P/c
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: memo
+name: Memo
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: backto
+name: Backto
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 29 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -175,43 +175,43 @@ protocol: NECext
 address: 01 00 00 00
 command: 38 00 00 00
 #
-name: bash
+name: Bash
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3A 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3F 00 00 00
 #
-name: a-
+name: A-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 40 00 00 00
 #
-name: a+
+name: A+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 41 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 48 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -223,7 +223,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 4A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -253,31 +253,31 @@ protocol: NECext
 address: 01 00 00 00
 command: 6C 00 00 00
 #
-name: b+
+name: B+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 6E 00 00 00
 #
-name: b-
+name: B-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 6F 00 00 00
 #
-name: c+
+name: C+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 74 00 00 00
 #
-name: c-
+name: C-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 75 00 00 00
 #
-name: pr
+name: Pr
 type: parsed
 protocol: NECext
 address: 01 00 00 00

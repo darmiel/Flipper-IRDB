@@ -1,289 +1,289 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CT_018
+name: Ct_018
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: CT_019
+name: Ct_019
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: CT_020
+name: Ct_020
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: CT_021
+name: Ct_021
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: CT_022
+name: Ct_022
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: CT_023
+name: Ct_023
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: CT_024
+name: Ct_024
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: CT_025
+name: Ct_025
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: CT_026
+name: Ct_026
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: CT_029
+name: Ct_029
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0D 00 00 00
 #
-name: CT_011
+name: Ct_011
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0F 00 00 00
 #
-name: CT_002
+name: Ct_002
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 12 00 00 00
 #
-name: CT_003
+name: Ct_003
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 13 00 00 00
 #
-name: CT_001
+name: Ct_001
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 15 00 00 00
 #
-name: CT_004
+name: Ct_004
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1C 00 00 00
 #
-name: CT_033
+name: Ct_033
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1D 00 00 00
 #
-name: CT_010
+name: Ct_010
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: CT_017
+name: Ct_017
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: CT_027
+name: Ct_027
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 27 00 00 00
 #
-name: CT_038
+name: Ct_038
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 28 00 00 00
 #
-name: CT_028
+name: Ct_028
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2C 00 00 00
 #
-name: CT_037
+name: Ct_037
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 30 00 00 00
 #
-name: CT_032
+name: Ct_032
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 31 00 00 00
 #
-name: CT_005
+name: Ct_005
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 32 00 00 00
 #
-name: CT_008
+name: Ct_008
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 33 00 00 00
 #
-name: CT_009
+name: Ct_009
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 34 00 00 00
 #
-name: CT_034
+name: Ct_034
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 35 00 00 00
 #
-name: CT_081
+name: Ct_081
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 36 00 00 00
 #
-name: CT_006
+name: Ct_006
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: CT_007
+name: Ct_007
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 39 00 00 00
 #
-name: CT_042
+name: Ct_042
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3D 00 00 00
 #
-name: CT_041
+name: Ct_041
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3E 00 00 00
 #
-name: CT_040
+name: Ct_040
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: CT_043
+name: Ct_043
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 40 00 00 00
 #
-name: CT_044
+name: Ct_044
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 41 00 00 00
 #
-name: CT_045
+name: Ct_045
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 42 00 00 00
 #
-name: CT_046
+name: Ct_046
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 43 00 00 00
 #
-name: CT_047
+name: Ct_047
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 44 00 00 00
 #
-name: CT_035
+name: Ct_035
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4A 00 00 00
 #
-name: CT_031
+name: Ct_031
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4B 00 00 00
 #
-name: CT_030
+name: Ct_030
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4C 00 00 00
 #
-name: CT_039
+name: Ct_039
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 5F 00 00 00
 #
-name: CT_036
+name: Ct_036
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 6F 00 00 00
 #
-name: CT_014
+name: Ct_014
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 79 00 00 00
 #
-name: CT_015
+name: Ct_015
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 7A 00 00 00
 #
-name: CT_012
+name: Ct_012
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 7B 00 00 00
 #
-name: CT_013
+name: Ct_013
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 7C 00 00 00
 #
-name: CT_016
+name: Ct_016
 type: parsed
 protocol: NECext
 address: 11 00 00 00

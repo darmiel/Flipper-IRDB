@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CAPTURE
+name: Capture
 type: parsed
 protocol: NECext
 address: 86 3B 00 00

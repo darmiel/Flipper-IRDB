@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DUAL
+name: Dual
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 00 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 02 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 07 07 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0F 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -109,163 +109,163 @@ protocol: NECext
 address: 07 07 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 12 00 00 00
 #
-name: PRE-CH
+name: Pre-ch
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 13 00 00 00
 #
-name: S.MODE
+name: S.mode
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 14 00 00 00
 #
-name: STILL
+name: Still
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 15 00 00 00
 #
-name: P.SIZE
+name: P.size
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 16 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1A 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1B 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1F 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 20 00 00 00
 #
-name: PIP.POSITION
+name: Pip.position
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 22 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 23 00 00 00
 #
-name: PIP.SOURCE
+name: Pip.source
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 24 00 00 00
 #
-name: TTX/MIX
+name: Ttx/mix
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 2C 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 2D 00 00 00
 #
-name: PIP.chan+
+name: Pip.chan+
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 32 00 00 00
 #
-name: PIP.chan-
+name: Pip.chan-
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 33 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 58 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 60 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 61 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 62 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 65 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 68 00 00 00
 #
-name: CHLIST
+name: Chlist
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 6B 00 00 00
 #
-name: P.MODE
+name: P.mode
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 6C 00 00 00
 #
-name: SRS
+name: Srs
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 6E 00 00 00
 #
-name: E.SAVING
+name: E.saving
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 77 00 00 00
 #
-name: HDMI
+name: Hdmi
 type: parsed
 protocol: NECext
 address: 07 07 00 00

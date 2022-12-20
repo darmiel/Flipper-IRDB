@@ -1,397 +1,397 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE_T0
+name: Mute_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: MUTE_T1
+name: Mute_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: DISPLAY_T0
+name: Display_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: DISPLAY_T1
+name: Display_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: DISP_T0
+name: Disp_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: DISP_T1
+name: Disp_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: VOL+_T0
+name: Vol+_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: VOL+_T1
+name: Vol+_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: VOL-_T0
+name: Vol-_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: VOL-_T1
+name: Vol-_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: STANDBY_T0
+name: Standby_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: STANDBY_T1
+name: Standby_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: STDBY_T0
+name: Stdby_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: STDBY_T1
+name: Stdby_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: ENTER_T0
+name: Enter_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0D 00 00 00
 #
-name: ENTER_T1
+name: Enter_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0D 00 00 00
 #
-name: MENU_T0
+name: Menu_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0E 00 00 00
 #
-name: MENU_T1
+name: Menu_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0E 00 00 00
 #
-name: UP_T0
+name: Up_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: UP_T1
+name: Up_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: BAL_R_T0
+name: Bal_r_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: BAL_R_T1
+name: Bal_r_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: RIGHT_T0
+name: Right_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: RIGHT_T1
+name: Right_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: BALANCE_R_T0
+name: Balance_r_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: BALANCE_R_T1
+name: Balance_r_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: BAL_L_T0
+name: Bal_l_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: BAL_L_T1
+name: Bal_l_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: LEFT_T0
+name: Left_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: LEFT_T1
+name: Left_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: BALANCE_L_T0
+name: Balance_l_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: BALANCE_L_T1
+name: Balance_l_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: DOWN_T0
+name: Down_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: DOWN_T1
+name: Down_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: LINE4_T0
+name: Line4_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: LINE4_T1
+name: Line4_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: REG4_T0
+name: Reg4_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: REG4_T1
+name: Reg4_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: LINE3_T0
+name: Line3_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: LINE3_T1
+name: Line3_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: REG3_T0
+name: Reg3_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: REG3_T1
+name: Reg3_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: LINE2_T0
+name: Line2_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: LINE2_T1
+name: Line2_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: REG2_T0
+name: Reg2_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: REG2_T1
+name: Reg2_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: LINE1_T0
+name: Line1_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: LINE1_T1
+name: Line1_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: REG1_T0
+name: Reg1_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: REG1_T1
+name: Reg1_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: SRS_T0
+name: Srs_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: SRS_T1
+name: Srs_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: TAPE_T0
+name: Tape_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: TAPE_T1
+name: Tape_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: BAL2_T0
+name: Bal2_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 22 00 00 00
 #
-name: BAL2_T1
+name: Bal2_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 22 00 00 00
 #
-name: BAL1_T0
+name: Bal1_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 23 00 00 00
 #
-name: BAL1_T1
+name: Bal1_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 23 00 00 00
 #
-name: GAIN_T0
+name: Gain_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 28 00 00 00
 #
-name: GAIN_T1
+name: Gain_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 28 00 00 00
 #
-name: PHASE_T0
+name: Phase_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: PHASE_T1
+name: Phase_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: BAL3_T0
+name: Bal3_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: BAL3_T1
+name: Bal3_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: OUTPUT_T0
+name: Output_t0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2B 00 00 00
 #
-name: OUTPUT_T1
+name: Output_t1
 type: parsed
 protocol: NECext
 address: 07 00 00 00

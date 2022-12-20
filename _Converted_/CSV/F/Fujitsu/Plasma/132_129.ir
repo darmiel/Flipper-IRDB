@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: HIDDEN_2
+name: Hidden_2
 type: parsed
 protocol: NECext
 address: 84 81 00 00
 command: 00 00 00 00
 #
-name: HIDDEN_9
+name: Hidden_9
 type: parsed
 protocol: NECext
 address: 84 81 00 00
 command: 3E 00 00 00
 #
-name: HIDDEN_10
+name: Hidden_10
 type: parsed
 protocol: NECext
 address: 84 81 00 00
 command: 3F 00 00 00
 #
-name: HIDDEN_11
+name: Hidden_11
 type: parsed
 protocol: NECext
 address: 84 81 00 00
 command: 41 00 00 00
 #
-name: HIDDEN_13
+name: Hidden_13
 type: parsed
 protocol: NECext
 address: 84 81 00 00
 command: 42 00 00 00
 #
-name: HIDDEN_12
+name: Hidden_12
 type: parsed
 protocol: NECext
 address: 84 81 00 00
 command: 5B 00 00 00
 #
-name: HIDDEN_14
+name: Hidden_14
 type: parsed
 protocol: NECext
 address: 84 81 00 00

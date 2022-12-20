@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 82 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 83 00 00 00
 #
-name: A/B/C/D/E
+name: A/b/c/d/e
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 85 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 85 00 00 00
 #
-name: SCAN_-
+name: Scan_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SCAN_+
+name: Scan_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 97 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9A 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: STATUS
+name: Status
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A7 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B2 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B3 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B4 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B5 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B6 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B7 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 7C 00 00 00

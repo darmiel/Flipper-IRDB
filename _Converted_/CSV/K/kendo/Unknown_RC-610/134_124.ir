@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 01 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 02 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 03 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 04 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 05 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 06 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 07 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 08 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 09 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 0A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 0B 00 00 00
 #
-name: DISPLAYTOGGLE
+name: Displaytoggle
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 0C 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 0D 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 0E 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
@@ -151,19 +151,19 @@ protocol: NECext
 address: 86 7C 00 00
 command: 19 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 1A 00 00 00
 #
-name: CLOCK
+name: Clock
 type: parsed
 protocol: NECext
 address: 86 7C 00 00
 command: 1E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 86 7C 00 00

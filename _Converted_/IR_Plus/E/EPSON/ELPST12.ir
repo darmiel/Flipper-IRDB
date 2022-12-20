@@ -10,31 +10,31 @@ protocol: NECext
 address: AA C1 00 00
 command: F6 09 00 00
 #
-name: INPUT-A-B
+name: Input-a-b
 type: parsed
 protocol: NECext
 address: AA C1 00 00
 command: 46 B9 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: AA C1 00 00
 command: C6 39 00 00
 #
-name: COLOR-MODE
+name: Color-mode
 type: parsed
 protocol: NECext
 address: AA C1 00 00
 command: 0E F1 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: AA C1 00 00
 command: A6 59 00 00
 #
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: AA C1 00 00
@@ -46,7 +46,7 @@ protocol: NECext
 address: AA C1 00 00
 command: 36 C9 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: AA C1 00 00
@@ -58,7 +58,7 @@ protocol: NECext
 address: AA C1 00 00
 command: F2 0D 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: AA C1 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: AA C1 00 00
 command: 32 CD 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: AA C1 00 00
@@ -82,7 +82,7 @@ protocol: NECext
 address: AA C1 00 00
 command: 72 8D 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: AA C1 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: AA C1 00 00
 command: B2 4D 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: AA C1 00 00

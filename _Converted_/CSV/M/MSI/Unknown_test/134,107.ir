@@ -61,7 +61,7 @@ protocol: NECext
 address: 86 6B 00 00
 command: 09 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -79,67 +79,67 @@ protocol: NECext
 address: 86 6B 00 00
 command: 10 00 00 00
 #
-name: TShift
+name: Tshift
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 12 00 00 00
 #
-name: MTS
+name: Mts
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 14 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 16 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 17 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1B 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00

@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 02 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 03 00 00 00
 #
-name: skipnext
+name: Skipnext
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 04 00 00 00
 #
-name: skipprev
+name: Skipprev
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 05 00 00 00
 #
-name: searchnext
+name: Searchnext
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 06 00 00 00
 #
-name: searchprev
+name: Searchprev
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 07 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 0A 00 00 00
 #
-name: ab
+name: Ab
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 0B 00 00 00
 #
-name: intro
+name: Intro
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 0D 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 0E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 80 70 00 00
@@ -127,19 +127,19 @@ protocol: NECext
 address: 80 70 00 00
 command: 19 00 00 00
 #
-name: check
+name: Check
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 1B 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 1C 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 80 70 00 00
@@ -151,31 +151,31 @@ protocol: NECext
 address: 80 70 00 00
 command: 40 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 4C 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 4D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 56 00 00 00
 #
-name: off
+name: Off
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 57 00 00 00
 #
-name: tapesize
+name: Tapesize
 type: parsed
 protocol: NECext
 address: 80 70 00 00

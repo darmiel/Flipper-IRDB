@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: PG._DN.
+name: Pg._dn.
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: PG._UP
+name: Pg._up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -31,37 +31,37 @@ protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: FWD.
+name: Fwd.
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: SEARCH_BACK
+name: Search_back
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: SKIP-
+name: Skip-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: SEARCH_FWD.
+name: Search_fwd.
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: SKIP+
+name: Skip+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: PVR
+name: Pvr
 type: parsed
 protocol: NECext
 address: 01 00 00 00

@@ -55,31 +55,31 @@ frequency: 40639
 duty_cycle: 0.330000
 data: 1501 12107 763 3937
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 40639
 duty_cycle: 0.330000
 data: 1501 12082 763 12082
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 40639
 duty_cycle: 0.330000
 data: 1501 6939 763 12082
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 40639
 duty_cycle: 0.330000
 data: 1501 20325 763 6915
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 40639
 duty_cycle: 0.330000
 data: 1501 1476 763 12082
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 40639
 duty_cycle: 0.330000

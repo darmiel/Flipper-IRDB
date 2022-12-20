@@ -16,19 +16,19 @@ protocol: NECext
 address: F9 00 00 00
 command: 15 EA 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: A5 5A 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: A7 58 00 00
 #
-name: TV SYS
+name: Tv_sys
 type: parsed
 protocol: NECext
 address: F9 00 00 00
@@ -40,25 +40,25 @@ protocol: NECext
 address: F9 00 00 00
 command: 65 9A 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 97 68 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 4F B0 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 27 D8 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: F9 00 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: F9 00 00 00
 command: 1D E2 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: F9 00 00 00
@@ -82,37 +82,37 @@ protocol: NECext
 address: F9 00 00 00
 command: 0D F2 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 9F 60 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: BF 40 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 8F 70 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: D5 2A 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: AF 50 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: F9 00 00 00
@@ -184,97 +184,97 @@ protocol: NECext
 address: F9 00 00 00
 command: 77 88 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: ED 12 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 4D B2 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: F5 0A 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 37 C8 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 1F E0 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 3F C0 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 0F F0 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 2F D0 00 00
 #
-name: REPA-B
+name: Repa-b
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: CD 32 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: B5 4A 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 9D 62 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 5D A2 00 00
 #
-name: TIMESHIFT
+name: Timeshift
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 7F 80 00 00
 #
-name: COPY
+name: Copy
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: E5 1A 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: BD 42 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: F9 00 00 00

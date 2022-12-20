@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 41 00 00 00
 #
-name: DIRECTION_UP
+name: Direction_up
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 42 00 00 00
 #
-name: DIRECTION_DOWN
+name: Direction_down
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 43 00 00 00
 #
-name: DIRECTION_LEFT
+name: Direction_left
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 44 00 00 00
 #
-name: DIRECTION_RIGHT
+name: Direction_right
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 45 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 46 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 47 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 48 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 49 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 50 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 51 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 52 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 53 00 00 00
 #
-name: PICTURE_IN_PICTURE
+name: Picture_in_picture
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 54 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 55 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 56 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 57 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 58 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 83 33 00 00
@@ -175,25 +175,25 @@ protocol: NECext
 address: 83 33 00 00
 command: 69 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 70 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 71 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 83 33 00 00
 command: 72 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 83 33 00 00

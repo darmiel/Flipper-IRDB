@@ -3,7 +3,7 @@ Version: 1
 # 
 # AMI Jukebox
 #
-name: POWER
+name: Power
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -27,61 +27,61 @@ protocol: RC5
 address: 14 00 00 00
 command: 35 00 00 00
 # 
-name: Ch1_Vol_Up
+name: Ch1_vol_up
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 0B 00 00 00
 # 
-name: Ch1_Vol_Dn
+name: Ch1_vol_dn
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 28 00 00 00
 # 
-name: Ch2_Vol_Up
+name: Ch2_vol_up
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 11 00 00 00
 # 
-name: Ch2_Vol_Dn
+name: Ch2_vol_dn
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 23 00 00 00
 # 
-name: Ch3_Vol_Up
+name: Ch3_vol_up
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 10 00 00 00
 # 
-name: Ch3_Vol_Dn
+name: Ch3_vol_dn
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 22 00 00 00
 # 
-name: Ch4_Vol_Up
+name: Ch4_vol_up
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 3B 00 00 00
 # 
-name: Ch4_Vol_Dn
+name: Ch4_vol_dn
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 37 00 00 00
 # 
-name: AP_On
+name: Ap_on
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 2B 00 00 00
 # 
-name: AP_Off
+name: Ap_off
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -93,13 +93,13 @@ protocol: RC5
 address: 14 00 00 00
 command: 2C 00 00 00
 # 
-name: Vid_Sel
+name: Vid_sel
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 12 00 00 00
 # 
-name: Input_Sel
+name: Input_sel
 type: parsed
 protocol: RC5
 address: 14 00 00 00

@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OPEN1
+name: Open1
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 263 815 263 1762 263 815 263 1762 263 815 263 815 263 815 263 815 263 1762 263 815 263 11070
 #
-name: CLOSE1
+name: Close1
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 263 815 263 1762 263 815 263 815 263 1762 263 815 263 815 263 815 263 1762 263 815 263 11070
 #
-name: OPEN2
+name: Open2
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 263 815 263 1762 263 815 263 1762 263 1762 263 815 263 815 263 815 263 1762 263 815 263 10045
 #
-name: CLOSE2
+name: Close2
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 263 815 263 1762 263 815 263 815 263 815 263 1762 263 815 263 815 263 1762 263 815 263 11070
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 38029
 duty_cycle: 0.330000

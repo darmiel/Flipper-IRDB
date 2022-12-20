@@ -61,7 +61,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: TUNER-_INPUT1
+name: Tuner-_input1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: SRC_1_(TUNER)
+name: Src_1_(tuner)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: CD_INPUT2
+name: Cd_input2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: SRC_2_(CD)
+name: Src_2_(cd)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: TAPE-_INPUT3
+name: Tape-_input3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: 05 00 00 00
 command: 22 00 00 00
 #
-name: SRC_3_(TAPE_1)
+name: Src_3_(tape_1)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 22 00 00 00
 #
-name: VCR-_INPUT4
+name: Vcr-_input4
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -127,37 +127,37 @@ protocol: NECext
 address: 05 00 00 00
 command: 23 00 00 00
 #
-name: SRC_4_(VCR_1)
+name: Src_4_(vcr_1)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 23 00 00 00
 #
-name: LASER_-_INPUT5
+name: Laser_-_input5
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 24 00 00 00
 #
-name: SRC_5_(LASER_DISC)
+name: Src_5_(laser_disc)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 24 00 00 00
 #
-name: CABLE
+name: Cable
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 27 00 00 00
 #
-name: AUX_1-_INPUT6
+name: Aux_1-_input6
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -169,37 +169,37 @@ protocol: NECext
 address: 05 00 00 00
 command: 28 00 00 00
 #
-name: SRC_6_(AUX_1)
+name: Src_6_(aux_1)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 28 00 00 00
 #
-name: AUX_2-INPUT7
+name: Aux_2-input7
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: SRC_7_(AUX_2)
+name: Src_7_(aux_2)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: AUX_3-INPUT8
+name: Aux_3-input8
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2A 00 00 00
 #
-name: SRC_8_(AUX_3)
+name: Src_8_(aux_3)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2A 00 00 00
 #
-name: AUX4-INPUT9
+name: Aux4-input9
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -211,25 +211,25 @@ protocol: NECext
 address: 05 00 00 00
 command: 2B 00 00 00
 #
-name: SRC_9_(AUX_4)
+name: Src_9_(aux_4)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2B 00 00 00
 #
-name: AUX5-INPUT10
+name: Aux5-input10
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2C 00 00 00
 #
-name: SRC_10_(AUX_5)
+name: Src_10_(aux_5)
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2C 00 00 00
 #
-name: DBS
+name: Dbs
 type: parsed
 protocol: NECext
 address: 05 00 00 00

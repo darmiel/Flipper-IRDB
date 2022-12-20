@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO_A
+name: Video_a
 type: parsed
 protocol: NECext
 address: 1F 00 00 00
 command: D1 00 00 00
 #
-name: VIDEO_B
+name: Video_b
 type: parsed
 protocol: NECext
 address: 1F 00 00 00
 command: D2 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1F 00 00 00
 command: DA 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1F 00 00 00
 command: DD 00 00 00
 #
-name: AUX_B
+name: Aux_b
 type: parsed
 protocol: NECext
 address: 1F 00 00 00
 command: E0 00 00 00
 #
-name: COMPONENT
+name: Component
 type: parsed
 protocol: NECext
 address: 1F 00 00 00
 command: E1 00 00 00
 #
-name: AUX_A
+name: Aux_a
 type: parsed
 protocol: NECext
 address: 1F 00 00 00

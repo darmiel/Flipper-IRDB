@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 2F 00 00 00
 #
-name: MANUAL
+name: Manual
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -139,13 +139,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 39 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 00 00 00 00

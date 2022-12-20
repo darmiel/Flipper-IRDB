@@ -61,79 +61,79 @@ protocol: NECext
 address: A6 00 00 00
 command: 09 00 00 00
 #
-name: VOLRIGHT
+name: Volright
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 0A 00 00 00
 #
-name: VOLLEFT
+name: Volleft
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 0B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 1E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 42 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 43 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 44 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 45 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 46 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 4A 00 00 00
 #
-name: CHDWN
+name: Chdwn
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 4B 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 4F 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: A6 00 00 00
 command: 52 00 00 00
 #
-name: ENT
+name: Ent
 type: parsed
 protocol: NECext
 address: A6 00 00 00

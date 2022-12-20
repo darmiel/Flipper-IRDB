@@ -1,313 +1,313 @@
 Filetype: IR signals file
 Version: 1
 #
-name: tapePlay
+name: Tapeplay
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 00 00 00 00
 #
-name: tapeSearchBck
+name: Tapesearchbck
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 01 00 00 00
 #
-name: tapeSearchFwd
+name: Tapesearchfwd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 02 00 00 00
 #
-name: tapeStop
+name: Tapestop
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 03 00 00 00
 #
-name: tapeRecPause
+name: Taperecpause
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 04 00 00 00
 #
-name: tapeRecMute
+name: Taperecmute
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 05 00 00 00
 #
-name: tapeDeckAB
+name: Tapedeckab
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 06 00 00 00
 #
-name: tapeDirA
+name: Tapedira
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 07 00 00 00
 #
-name: cdPlay
+name: Cdplay
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 08 00 00 00
 #
-name: cdPauseStop
+name: Cdpausestop
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 09 00 00 00
 #
-name: cdSkipFwd
+name: Cdskipfwd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0A 00 00 00
 #
-name: cdSkipBck
+name: Cdskipbck
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0B 00 00 00
 #
-name: cdSearchFwd
+name: Cdsearchfwd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0C 00 00 00
 #
-name: cdSearchBck
+name: Cdsearchbck
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0D 00 00 00
 #
-name: phonoPlayCut
+name: Phonoplaycut
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0E 00 00 00
 #
-name: vcr1mon
+name: Vcr1mon
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0F 00 00 00
 #
-name: tunerPresetPlus
+name: Tunerpresetplus
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 10 00 00 00
 #
-name: tunerPresetMinus
+name: Tunerpresetminus
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 11 00 00 00
 #
-name: tunerABCDE
+name: Tunerabcde
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 12 00 00 00
 #
-name: vcr2
+name: Vcr2
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 13 00 00 00
 #
-name: phono
+name: Phono
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 14 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 15 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 16 00 00 00
 #
-name: ldtv
+name: Ldtv
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 17 00 00 00
 #
-name: tape1
+name: Tape1
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 18 00 00 00
 #
-name: masterUp
+name: Masterup
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1A 00 00 00
 #
-name: masterDn
+name: Masterdn
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1B 00 00 00
 #
-name: muting
+name: Muting
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1F 00 00 00
 #
-name: tapeDirB
+name: Tapedirb
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 40 00 00 00
 #
-name: cdDiskSkip
+name: Cddiskskip
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 4F 00 00 00
 #
-name: delayUp
+name: Delayup
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 52 00 00 00
 #
-name: delayDn
+name: Delaydn
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 53 00 00 00
 #
-name: effect
+name: Effect
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 56 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 57 00 00 00
 #
-name: eqOnFlat
+name: Eqonflat
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 5A 00 00 00
 #
-name: presetUp
+name: Presetup
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 5B 00 00 00
 #
-name: presetDown
+name: Presetdown
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 5C 00 00 00
 #
-name: RLup
+name: Rlup
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 5E 00 00 00
 #
-name: RLdn
+name: Rldn
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 5F 00 00 00
 #
-name: FELup
+name: Felup
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 80 00 00 00
 #
-name: FELdn
+name: Feldn
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 81 00 00 00
 #
-name: CLup
+name: Clup
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 82 00 00 00
 #
-name: CLdn
+name: Cldn
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 83 00 00 00
 #
-name: centerMode
+name: Centermode
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 84 00 00 00
 #
-name: test
+name: Test
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 85 00 00 00
 #
-name: prologic
+name: Prologic
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 88 00 00 00
 #
-name: enhanced
+name: Enhanced
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 89 00 00 00
 #
-name: cnctVideo
+name: Cnctvideo
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 8A 00 00 00
 #
-name: monoMovie
+name: Monomovie
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 8B 00 00 00
 #
-name: rock
+name: Rock
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 8C 00 00 00
 #
-name: hall
+name: Hall
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

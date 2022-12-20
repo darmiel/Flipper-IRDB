@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: EQ_SLOPE
+name: Eq_slope
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 0D 00 00 00
 #
-name: EQ_CHANNEL
+name: Eq_channel
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 0F 00 00 00
 #
-name: EQ_BAND
+name: Eq_band
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 20 00 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 2C 00 00 00
 #
-name: EQ_FLAT
+name: Eq_flat
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 3F 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 4A 00 00 00
 #
-name: REAR_VOL_+
+name: Rear_vol_+
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 4E 00 00 00
 #
-name: REAR_VOL_-
+name: Rear_vol_-
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 4F 00 00 00
 #
-name: CENTER_VOL_+
+name: Center_vol_+
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 54 00 00 00
 #
-name: CENTER_VOL_-
+name: Center_vol_-
 type: parsed
 protocol: NECext
 address: 12 00 00 00
 command: 55 00 00 00
 #
-name: PRESET_/_USER
+name: Preset_/_user
 type: parsed
 protocol: NECext
 address: 12 00 00 00

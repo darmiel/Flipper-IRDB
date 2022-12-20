@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_DISC_+/A
+name: Cd_disc_+/a
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1E 00 00 00
 #
-name: CD_DISC_B/-
+name: Cd_disc_b/-
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1F 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 3F 00 00 00
 #
-name: CD_INPUT
+name: Cd_input
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT_-_CD
+name: Input_-_cd
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT:_CD
+name: Input:_cd
 type: parsed
 protocol: NECext
 address: 14 00 00 00

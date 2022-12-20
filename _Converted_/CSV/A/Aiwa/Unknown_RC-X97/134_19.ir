@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: off
+name: Off
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 0F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 10 00 00 00
 #
-name: disc_tune+
+name: Disc_tune+
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 11 00 00 00
 #
-name: disc_tune-
+name: Disc_tune-
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 12 00 00 00
 #
-name: radio_band
+name: Radio_band
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 13 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 14 00 00 00
 #
-name: ff_next
+name: Ff_next
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 16 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 17 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 86 13 00 00
 command: 1B 00 00 00
 #
-name: preset_scan
+name: Preset_scan
 type: parsed
 protocol: NECext
 address: 86 13 00 00

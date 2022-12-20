@@ -10,37 +10,37 @@ frequency: 38000
 duty_cycle: 0.33
 data: 994 786 1889 1676 1883 1681 996 788 1883 802 1000 770 970 811 995 786 970 818 990 1676 971
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 968 811 978 804 977 811 1906 1690 959 786 1890 1681 1883 786 971 1701 998 790 995 787 971
 #
-name: EXIT
+name: Exit
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 970 812 1908 1662 1879 1682 995 786 1883 806 971 1676 1899 803 976 1687 950 824 999
 #
-name: SETUP
+name: Setup
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 974 805 996 786 971 813 1881 1680 972 847 1848 798 994 1670 972 818 1876 1680 998 786 996
 #
-name: TVRAD
+name: Tvrad
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 985 795 1882 1682 1884 1681 971 811 1885 792 988 1678 974 808 1882 1683 1881
 #
-name: INFO
+name: Info
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 994 786 970 839 969 786 1883 1681 998 784 1883 790 996 1677 1884 797 963 1702 1883
 #
-name: GUIDE
+name: Guide
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -70,7 +70,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 968 813 1889 1681 1883 1683 999 783 1881 811 969 1678 1884 1687 995 808 957 789 992
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -82,7 +82,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 994 785 1899 1671 1884 1674 971 815 1887 787 991 812 970 1678 995 839 1834 1684 965
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -94,7 +94,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 968 810 993 789 995 788 1882 1685 961 813 1882 793 992 811 968 1670 970 814 968 830 1875
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -106,7 +106,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 979 804 993 806 972 788 1882 1680 971 837 1899 778 948 1700 1881 814 969 813 970 811 952
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -118,7 +118,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 947 823 1882 1680 1885 1677 974 815 1876 799 966 1697 1885 814 945 820 961 1704 1001
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -130,13 +130,13 @@ frequency: 38000
 duty_cycle: 0.33
 data: 992 812 970 812 945 837 1859 1682 968 838 1859 819 967 1683 993 809 1857 816 944 844 938
 #
-name: LIST
+name: List
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 968 837 1858 1678 1889 1680 968 838 1858 816 972 1675 995 811 1858 823 937 1704 993
 #
-name: RECALL
+name: Recall
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -196,7 +196,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 992 812 1858 1682 1885 1678 990 824 1852 816 975 807 944 1702 1903 1662 994 813 944
 #
-name: PVR
+name: Pvr
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -208,7 +208,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 969 836 955 834 944 821 1876 1680 995 813 1858 799 971 813 969 1675 985 837 1854 814 949
 #
-name: OPT
+name: Opt
 type: raw
 frequency: 38000
 duty_cycle: 0.33

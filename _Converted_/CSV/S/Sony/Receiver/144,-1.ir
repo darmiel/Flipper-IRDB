@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SND_F._CINEMA_STUDIO
+name: Snd_f._cinema_studio
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 26 00 00 00
 #
-name: 2_CH_SOUND
+name: 2_ch_sound
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 41 00 00 00
 #
-name: SOUND_FIELD_2CH
+name: Sound_field_2ch
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 41 00 00 00
 #
-name: 2_CHANNEL
+name: 2_channel
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 41 00 00 00
 #
-name: AFD
+name: Afd
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 47 00 00 00
 #
-name: SOUND_FIELD_A.F.D.
+name: Sound_field_a.f.d.
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 47 00 00 00
 #
-name: AUTO_FORMAT_DECODE
+name: Auto_format_decode
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 47 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4A 00 00 00
 #
-name: EQ/TONE
+name: Eq/tone
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4C 00 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4C 00 00 00
 #
-name: BASS_BOOST
+name: Bass_boost
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4D 00 00 00
 #
-name: REAR_LEVEL_+
+name: Rear_level_+
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4E 00 00 00
 #
-name: REAR_+
+name: Rear_+
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4E 00 00 00
 #
-name: REAR_LEVEL_-
+name: Rear_level_-
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4F 00 00 00
 #
-name: REAR_-
+name: Rear_-
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 4F 00 00 00
 #
-name: CENTER_LEVEL_+
+name: Center_level_+
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 54 00 00 00
 #
-name: CENTER_+
+name: Center_+
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 54 00 00 00
 #
-name: CENTER_LEVEL_-
+name: Center_level_-
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 55 00 00 00
 #
-name: CENTER_-
+name: Center_-
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 55 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 6E 00 00 00
 #
-name: SOUND_FIELD_MODE
+name: Sound_field_mode
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 6E 00 00 00
 #
-name: MENU_<
+name: Menu_<
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 72 00 00 00
 #
-name: MENU_>
+name: Menu_>
 type: parsed
 protocol: NECext
 address: 90 00 00 00
@@ -151,37 +151,37 @@ protocol: NECext
 address: 90 00 00 00
 command: 75 00 00 00
 #
-name: CURSOR_MODE
+name: Cursor_mode
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 77 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 77 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 78 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 79 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 7A 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 90 00 00 00

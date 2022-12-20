@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: PAGE_-
+name: Page_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: SKIP_B
+name: Skip_b
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: SKIP_F
+name: Skip_f
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: PVR
+name: Pvr
 type: parsed
 protocol: NECext
 address: 01 00 00 00

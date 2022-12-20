@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: VTR_RECORD
+name: Vtr_record
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: PL
+name: Pl
 type: parsed
 protocol: NECext
 address: 61 00 00 00

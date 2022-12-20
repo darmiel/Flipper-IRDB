@@ -1,493 +1,493 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: DISPLAY_B
+name: Display_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: DISPLAY_A
+name: Display_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: POWER_B
+name: Power_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: POWER_A
+name: Power_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 02 00 00 00
 #
-name: CD_B
+name: Cd_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 02 00 00 00
 #
-name: CD_A
+name: Cd_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 02 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 03 00 00 00
 #
-name: TUNER_B
+name: Tuner_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 03 00 00 00
 #
-name: TUNER_A
+name: Tuner_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 03 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: VIDEO_B
+name: Video_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: VIDEO_1_A
+name: Video_1_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: VIDEO_1_B
+name: Video_1_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: PHONO_B
+name: Phono_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: PHONO_A
+name: Phono_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: AUX_1
+name: Aux_1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: AUX_1_B
+name: Aux_1_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: AUX_1_A
+name: Aux_1_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: AUX_2
+name: Aux_2
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: AUX_2_B
+name: Aux_2_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: AUX_2_A
+name: Aux_2_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: MONITOR_A
+name: Monitor_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: MONITOR_B
+name: Monitor_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: GAIN_A
+name: Gain_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: GAIN_B
+name: Gain_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: VOL_UP_B
+name: Vol_up_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+_A
+name: Vol+_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+_B
+name: Vol+_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: BAL_L
+name: Bal_l
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: BAL_L_B
+name: Bal_l_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: BALANCE_LEFT_A
+name: Balance_left_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: BALANCE_LEFT_B
+name: Balance_left_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: BAL_R
+name: Bal_r
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 13 00 00 00
 #
-name: BAL_R_B
+name: Bal_r_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 13 00 00 00
 #
-name: BALANCE_RIGHT_A
+name: Balance_right_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 13 00 00 00
 #
-name: BALANCE_RIGHT_B
+name: Balance_right_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 13 00 00 00
 #
-name: VOL_DN
+name: Vol_dn
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: VOL_DN_B
+name: Vol_dn_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: VOL-_A
+name: Vol-_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: VOL-_B
+name: Vol-_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: BAL/SE
+name: Bal/se
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 17 00 00 00
 #
-name: BAL/SE_B
+name: Bal/se_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 17 00 00 00
 #
-name: BAL/SE_A
+name: Bal/se_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 17 00 00 00
 #
-name: HOURS
+name: Hours
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: HOURS_B
+name: Hours_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: HOURS_A
+name: Hours_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: PROC
+name: Proc
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: PROC_B
+name: Proc_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: PROC_A
+name: Proc_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: INVERT
+name: Invert
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: INVERT_B
+name: Invert_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: INVERT_A
+name: Invert_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: MUTE_B
+name: Mute_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: MUTE_A
+name: Mute_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: MONO_B
+name: Mono_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: STEREO/MONO_A
+name: Stereo/mono_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: STEREO/MONO_B
+name: Stereo/mono_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: POWER_OFF_A
+name: Power_off_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: POWER_OFF_B
+name: Power_off_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: POWER_ON_A
+name: Power_on_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: POWER_ON_B
+name: Power_on_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: MUTE_OFF_A
+name: Mute_off_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 22 00 00 00
 #
-name: MUTE_OFF_B
+name: Mute_off_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 22 00 00 00
 #
-name: MUTE_ON_A
+name: Mute_on_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 23 00 00 00
 #
-name: MUTE_ON_B
+name: Mute_on_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 23 00 00 00
 #
-name: MONIT_OFF_A
+name: Monit_off_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 24 00 00 00
 #
-name: MONIT_OFF_B
+name: Monit_off_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 24 00 00 00
 #
-name: MONITOR_ON_A
+name: Monitor_on_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 25 00 00 00
 #
-name: MONITOR_ON_B
+name: Monitor_on_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 25 00 00 00
 #
-name: LO_GAIN_A
+name: Lo_gain_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 28 00 00 00
 #
-name: LO_GAIN_B
+name: Lo_gain_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 28 00 00 00
 #
-name: MED_GAIN_A
+name: Med_gain_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: MED_GAIN_B
+name: Med_gain_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: HI_GAIN_A
+name: Hi_gain_a
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: HI_GAIN_B
+name: Hi_gain_b
 type: parsed
 protocol: NECext
 address: 07 00 00 00

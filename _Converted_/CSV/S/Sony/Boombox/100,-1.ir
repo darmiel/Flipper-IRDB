@@ -67,61 +67,61 @@ protocol: NECext
 address: 64 00 00 00
 command: 0D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 1C 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 30 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 32 00 00 00
 #
-name: LOOP
+name: Loop
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 34 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 39 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 6F 00 00 00
 #
-name: TUNE_+
+name: Tune_+
 type: parsed
 protocol: NECext
 address: 64 00 00 00
 command: 73 00 00 00
 #
-name: TUNE_-
+name: Tune_-
 type: parsed
 protocol: NECext
 address: 64 00 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ZOOM_2
+name: Zoom_2
 type: parsed
 protocol: NECext
 address: 84 86 00 00

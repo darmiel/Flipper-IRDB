@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0F 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1B 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1F 00 00 00
 #
-name: INPUT:_VCR
+name: Input:_vcr
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 49 00 00 00
 #
-name: INPUT:_DVD/CD
+name: Input:_dvd/cd
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4A 00 00 00
 #
-name: INPUT:_TUNER
+name: Input:_tuner
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 50 00 00 00
 #
-name: YPAO_-_TEST
+name: Ypao_-_test
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 88 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 78 00 00 00
 command: 90 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -127,13 +127,13 @@ protocol: NECext
 address: 78 00 00 00
 command: 9A 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -145,43 +145,43 @@ protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: YPAO_-_START
+name: Ypao_-_start
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A3 00 00 00
 #
-name: YPAO_-_ON/OFF
+name: Ypao_-_on/off
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: A4 00 00 00
 #
-name: DSP_-_MOVIE
+name: Dsp_-_movie
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: D9 00 00 00
 #
-name: DSP_-_MUSIC
+name: Dsp_-_music
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DA 00 00 00
 #
-name: DSP_-_SPORTS
+name: Dsp_-_sports
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DB 00 00 00
 #
-name: DSP_-_GAME
+name: Dsp_-_game
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DC 00 00 00
 #
-name: INPUT:_VIDEO
+name: Input:_video
 type: parsed
 protocol: NECext
 address: 78 00 00 00

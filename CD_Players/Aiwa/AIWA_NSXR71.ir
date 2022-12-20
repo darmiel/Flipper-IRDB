@@ -4,19 +4,19 @@ Version: 1
 # Aiwa NSX-R71 CD Player
 # No MUTE button
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 00 00 00 00
 # 
-name: VOL_up
+name: Vol_up
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 4D 00 00 00
 # 
-name: VOL_down
+name: Vol_down
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
@@ -40,13 +40,13 @@ protocol: NEC42
 address: 6E 00 00 00
 command: 41 00 00 00
 # 
-name: FVD
+name: Fvd
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 42 00 00 00
 # 
-name: BVD
+name: Bvd
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
@@ -64,7 +64,7 @@ protocol: NEC42
 address: 6E 00 00 00
 command: 85 00 00 00
 # 
-name: GEQ
+name: Geq
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
@@ -82,7 +82,7 @@ protocol: NEC42
 address: 6E 00 00 00
 command: 73 00 00 00
 # 
-name: FUNCTION
+name: Function
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00

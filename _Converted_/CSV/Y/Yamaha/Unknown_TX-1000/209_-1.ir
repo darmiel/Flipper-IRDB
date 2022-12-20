@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: P1t8P9t16P17t24
+name: P1t8p9t16p17t24
 type: parsed
 protocol: NECext
 address: D1 00 00 00
 command: 0D 00 00 00
 #
-name: P1P9P17
+name: P1p9p17
 type: parsed
 protocol: NECext
 address: D1 00 00 00
 command: 0E 00 00 00
 #
-name: P2P10P18
+name: P2p10p18
 type: parsed
 protocol: NECext
 address: D1 00 00 00
 command: 0F 00 00 00
 #
-name: P3P11P19
+name: P3p11p19
 type: parsed
 protocol: NECext
 address: D1 00 00 00
 command: 10 00 00 00
 #
-name: P4P12P20
+name: P4p12p20
 type: parsed
 protocol: NECext
 address: D1 00 00 00
 command: 11 00 00 00
 #
-name: P5P13P21
+name: P5p13p21
 type: parsed
 protocol: NECext
 address: D1 00 00 00
 command: 12 00 00 00
 #
-name: P6P14P22
+name: P6p14p22
 type: parsed
 protocol: NECext
 address: D1 00 00 00
 command: 13 00 00 00
 #
-name: P7P15P23
+name: P7p15p23
 type: parsed
 protocol: NECext
 address: D1 00 00 00
 command: 14 00 00 00
 #
-name: P8P16P24
+name: P8p16p24
 type: parsed
 protocol: NECext
 address: D1 00 00 00

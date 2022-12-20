@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_DISC
+name: Cd_disc
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 8F 00 00 00
 #
-name: CD_DISC_SCAN
+name: Cd_disc_scan
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: 93 00 00 00
 #
-name: CD_<<
+name: Cd_<<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C1 00 00 00
 #
-name: CD_<
+name: Cd_<
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C2 00 00 00
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C5 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C6 00 00 00
 #
-name: CD_>>
+name: Cd_>>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C7 00 00 00
 #
-name: CD_>
+name: Cd_>
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: C8 00 00 00
 #
-name: CD_PAUSE_
+name: Cd_pause_
 type: parsed
 protocol: NECext
 address: 67 00 00 00
 command: CB 00 00 00
 #
-name: CD_RANDOM
+name: Cd_random
 type: parsed
 protocol: NECext
 address: 67 00 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CSP-LIR-USB
+name: Csp-lir-usb
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
@@ -13,241 +13,241 @@ frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 834 834 834 834 834 834 834 834 1667 834 83818
 #
-name: Master_Toggle
+name: Master_toggle
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 834 834 834 834 834 834 1667 1667 84625
 #
-name: Master_Raise
+name: Master_raise
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 834 834 834 834 1667 834 834 834 83818
 #
-name: Master_Lower
+name: Master_lower
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 834 834 834 834 1667 1667 834 834 84625
 #
-name: Load_1_Toggle
+name: Load_1_toggle
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 834 834 1667 1667 1667 834 83818
 #
-name: Load_1_Raise
+name: Load_1_raise
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 834 834 834 834 1667 834 834 1667 84625
 #
-name: Load_1_Lower
+name: Load_1_lower
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 834 834 834 834 1667 834 834 834 834 834 83818
 #
-name: Load_2_Toggle
+name: Load_2_toggle
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 1667 1667 834 834 834 834 84625
 #
-name: Load_2_Raise
+name: Load_2_raise
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 1667 1667 834 834 1667 834 83818
 #
-name: Load_2_Lower
+name: Load_2_lower
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 1667 1667 1667 1667 84625
 #
-name: Load_3_Toggle
+name: Load_3_toggle
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 1667 1667 1667 834 834 834 83818
 #
-name: Load_3_Raise
+name: Load_3_raise
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 834 834 1667 834 834 1667 834 834 84625
 #
-name: Load_3_Lower
+name: Load_3_lower
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 1667 834 834 1667 1667 834 83818
 #
-name: Load_1_Day_Setting_Open_Loop
+name: Load_1_day_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 1667 834 834 834 834 1667 84625
 #
-name: Load_1_Night_Setting_Open_Loop
+name: Load_1_night_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1667 1667 834 834 834 834 1667 1667 1667 834 834 1667 834 834 834 834 834 834 834 83818
 #
-name: Load_1_Min_Setting_Open_Loop
+name: Load_1_min_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 1667 834 834 834 834 834 834 84625
 #
-name: Load_2_Day_Setting_Open_Loop
+name: Load_2_day_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 1667 834 834 834 834 1667 834 83844
 #
-name: Load_2_Night_Setting_Open_Loop
+name: Load_2_night_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 1667 834 834 1667 1667 84625
 #
-name: Load_2_Min_Setting_Open_Loop
+name: Load_2_min_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 1667 834 834 1667 834 834 834 83818
 #
-name: Load_3_Day_Setting_Open_Loop
+name: Load_3_day_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 1667 1667 1667 834 834 84625
 #
-name: Load_3_Night_Setting_Open_Loop
+name: Load_3_night_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 1667 1667 1667 1667 834 83818
 #
-name: Load_3_Min_Setting_Open_Loop
+name: Load_3_min_setting_open_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 1667 1667 834 834 1667 84625
 #
-name: Master_Day_Setting_Closed_Loop
+name: Master_day_setting_closed_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 1667 1667 834 834 834 834 834 83818
 #
-name: Master_Night_Setting_Closed_Loop
+name: Master_night_setting_closed_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 834 834 1667 834 834 834 834 84625
 #
-name: Master_Min_Setting_Closed_Loop
+name: Master_min_setting_closed_loop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 834 834 1667 834 834 1667 834 83818
 #
-name: Set_Entry_Scene_None
+name: Set_entry_scene_none
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 834 834 1667 1667 834 834 834 83818
 #
-name: Set_Entry_Scene_1
+name: Set_entry_scene_1
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 834 834 1667 1667 1667 84625
 #
-name: Set_Entry_Scene_6
+name: Set_entry_scene_6
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 834 834 834 834 1667 834 834 84625
 #
-name: Set_Entry_Scene_7
+name: Set_entry_scene_7
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 834 834 834 834 1667 1667 834 83818
 #
-name: Set_Exit_Scene_Off
+name: Set_exit_scene_off
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 834 834 834 834 834 834 1667 84625
 #
-name: Set_Exit_Scene_8
+name: Set_exit_scene_8
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 1667 1667 834 834 834 834 834 834 834 834 834 83818
 #
-name: Scene_Recall_On
+name: Scene_recall_on
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 834 834 834 834 834 834 834 834 84625
 #
-name: Scene_Recall_Off
+name: Scene_recall_off
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 834 834 834 834 834 834 1667 834 83818
 #
-name: Scene_Recall_1
+name: Scene_recall_1
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 834 834 834 834 1667 1667 84625
 #
-name: Scene_Recall_2
+name: Scene_recall_2
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 834 834 834 834 1667 834 834 834 83818
 #
-name: Scene_Recall_3
+name: Scene_recall_3
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 834 834 1667 1667 834 834 84625
 #
-name: Scene_Recall_4
+name: Scene_recall_4
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 834 834 1667 1667 1667 834 83818
 #
-name: Scene_Recall_5
+name: Scene_recall_5
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 834 834 1667 834 834 1667 84625
 #
-name: Scene_Recall_6
+name: Scene_recall_6
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 834 834 1667 834 834 834 834 834 83818
 #
-name: Scene_Recall_7
+name: Scene_recall_7
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 1667 1667 834 834 834 834 84625
 #
-name: Scene_Recall_8
+name: Scene_recall_8
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
@@ -259,7 +259,7 @@ frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 1667 1667 834 834 1667 1667 1667 1667 1667 84625
 #
-name: InfinetEX_Acquire
+name: Infinetex_acquire
 type: raw
 frequency: 38381
 duty_cycle: 0.330000

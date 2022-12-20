@@ -10,43 +10,43 @@ protocol: NECext
 address: CA C2 00 00
 command: 7F 80 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: F3 0C 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 7B 84 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: E7 18 00 00
 #
-name: TV-VIDEO
+name: Tv-video
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: E7 18 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 67 98 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 6F 90 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -106,7 +106,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 13 EC 00 00
 #
-name: REMAIN
+name: Remain
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 0B F4 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -148,49 +148,49 @@ protocol: NECext
 address: CA C2 00 00
 command: 37 C8 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 8F 70 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 93 6C 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 9B 64 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 9F 60 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 33 CC 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 3B C4 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 23 DC 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -208,7 +208,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 4F B0 00 00
 #
-name: SUPER5.1
+name: Super5.1
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -220,7 +220,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 5B A4 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -232,7 +232,7 @@ protocol: NECext
 address: CA C2 00 00
 command: 47 B8 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: CA C2 00 00
@@ -244,97 +244,97 @@ protocol: NECext
 address: CA C2 00 00
 command: 57 A8 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 0F F0 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: DB 24 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: E9 16 00 00
 #
-name: ASC
+name: Asc
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 69 96 00 00
 #
-name: TEST-TONE
+name: Test-tone
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: D3 2C 00 00
 #
-name: EZ-VIEW
+name: Ez-view
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 1F E0 00 00
 #
-name: PLII-MODE
+name: Plii-mode
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: DF 20 00 00
 #
-name: PLII-EFFECT
+name: Plii-effect
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: CF 30 00 00
 #
-name: SOUND-EDIT
+name: Sound-edit
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: D7 28 00 00
 #
-name: STEP
+name: Step
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 43 BC 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 99 66 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 53 AC 00 00
 #
-name: LOGO
+name: Logo
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: E3 1C 00 00
 #
-name: HDMI-AUDIO
+name: Hdmi-audio
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: F1 0E 00 00
 #
-name: SD-HD
+name: Sd-hd
 type: parsed
 protocol: NECext
 address: CA C2 00 00
 command: 65 9A 00 00
 #
-name: TUNER-MEMORY
+name: Tuner-memory
 type: parsed
 protocol: NECext
 address: CA C2 00 00

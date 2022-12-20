@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV_VCR
+name: Tv_vcr
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 02 00 00 00
 #
-name: A.REP
+name: A.rep
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 03 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 14 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 15 00 00 00
 #
-name: P/S_N.C
+name: P/s_n.c
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 16 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 18 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 19 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1A 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 20 00 00 00
 #
-name: A.TRK
+name: A.trk
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 21 00 00 00
 #
-name: TRACKING__Up
+name: Tracking__up
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2C 00 00 00
 #
-name: TRACKING_Down
+name: Tracking_down
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2D 00 00 00
 #
-name: SYSTEM
+name: System
 type: parsed
 protocol: NECext
 address: 05 05 00 00

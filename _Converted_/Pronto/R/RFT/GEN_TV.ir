@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_O
+name: Power_o
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 896 896 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 896 896 1791 896 896 89858
 #
-name: POWER_E
+name: Power_e
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 896 896 1791 896 896 896 896 896 896 896 896 896 896 896 896 896 896 1791 896 896 1791 896 896 89858
 #
-name: FOTO_O
+name: Foto_o
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 1791 1791 896 896 896 896 896 896 896 896 1791 1791 1791 1791 1791 896 896 896 88963
 #
-name: FOTO_E
+name: Foto_e
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 1791 1791 1791 896 896 896 88963
 #
-name: ZOOM_O
+name: Zoom_o
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 1791 1791 896 896 896 896 896 896 896 896 1791 1791 1791 896 896 1791 896 896 89858
 #
-name: ZOOM_E
+name: Zoom_e
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 1791 896 896 1791 896 896 89858
 #
-name: ?_O
+name: ?_o
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 1791 1791 896 896 896 896 896 896 896 896 1791 1791 1791 896 896 1791 1791 896 88963
 #
-name: ?_E
+name: ?_e
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 1791 896 896 1791 1791 896 88963
 #
-name: AZUL_O
+name: Azul_o
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 1791 1791 896 896 896 896 896 896 896 896 1791 1791 1791 896 896 896 896 1791 89858
 #
-name: AZUL_E
+name: Azul_e
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 1791 896 896 896 896 896 896 896 896 896 896 896 896 1791 1791 1791 896 896 896 896 1791 89858
 #
-name: CH1_O
+name: Ch1_o
 type: raw
 frequency: 35734
 duty_cycle: 0.330000

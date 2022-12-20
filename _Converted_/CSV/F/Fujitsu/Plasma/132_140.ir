@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 10 00 00 00
 #
-name: VOL_+
+name: Vol_+
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 10 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 11 00 00 00
 #
-name: VOL_--
+name: Vol_--
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 11 00 00 00
 #
-name: VOL_-
+name: Vol_-
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 11 00 00 00
 #
-name: VOLUME_DN
+name: Volume_dn
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 11 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 84 8C 00 00

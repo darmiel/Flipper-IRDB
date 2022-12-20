@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 03 00 00 00
 #
-name: RGB
+name: Rgb
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 04 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 08 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 14 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 17 00 00 00
 #
-name: R-CLICK
+name: R-click
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 25 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 46 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 47 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 48 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 49 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 4C 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5C 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5E 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5F 00 00 00
 #
-name: MAGNIFY_+
+name: Magnify_+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 89 00 00 00
 #
-name: MAGNIFY_-
+name: Magnify_-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8A 00 00 00
 #
-name: KEYSTONE_+
+name: Keystone_+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8B 00 00 00
 #
-name: KEYSTONE_-
+name: Keystone_-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8C 00 00 00
 #
-name: S_VIDEO
+name: S_video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00

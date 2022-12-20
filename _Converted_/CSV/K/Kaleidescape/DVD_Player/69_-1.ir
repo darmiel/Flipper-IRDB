@@ -1,433 +1,433 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PAUSE_TOGGLE
+name: Pause_toggle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 00 00 00 00
 #
-name: DIGIT_1
+name: Digit_1
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 01 00 00 00
 #
-name: DIGIT_2
+name: Digit_2
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 02 00 00 00
 #
-name: DIGIT_3
+name: Digit_3
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 03 00 00 00
 #
-name: DIGIT_4
+name: Digit_4
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 04 00 00 00
 #
-name: DIGIT_5
+name: Digit_5
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 05 00 00 00
 #
-name: DIGIT_6
+name: Digit_6
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 06 00 00 00
 #
-name: DIGIT_7
+name: Digit_7
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 07 00 00 00
 #
-name: DIGIT_8
+name: Digit_8
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 08 00 00 00
 #
-name: DIGIT_9
+name: Digit_9
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 09 00 00 00
 #
-name: DIGIT_0
+name: Digit_0
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 0A 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 12 00 00 00
 #
-name: SCAN_FORWARD
+name: Scan_forward
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 13 00 00 00
 #
-name: STOP_OR_CANCEL
+name: Stop_or_cancel
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 14 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 15 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 16 00 00 00
 #
-name: SCAN_REVERSE
+name: Scan_reverse
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 19 00 00 00
 #
-name: DVD_TOP_MENU
+name: Dvd_top_menu
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 20 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 21 00 00 00
 #
-name: DVD_RESUME
+name: Dvd_resume
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 22 00 00 00
 #
-name: PAGE_UP_OR_PREVIOUS
+name: Page_up_or_previous
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 23 00 00 00
 #
-name: PAGE_DOWN_OR_NEXT
+name: Page_down_or_next
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 24 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 27 00 00 00
 #
-name: NEXT_ANGLE
+name: Next_angle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 29 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 2F 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 4D 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 51 00 00 00
 #
-name: MUSIC_REPEAT_ON
+name: Music_repeat_on
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 60 00 00 00
 #
-name: MUSIC_REPEAT_OFF
+name: Music_repeat_off
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 61 00 00 00
 #
-name: MUSIC_REPEAT_TOGGLE
+name: Music_repeat_toggle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 62 00 00 00
 #
-name: GO_MUSIC_LIST
+name: Go_music_list
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 63 00 00 00
 #
-name: GO_ALBUM_COVERS
+name: Go_album_covers
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 64 00 00 00
 #
-name: GO_MUSIC_COLLECTIONS
+name: Go_music_collections
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 65 00 00 00
 #
-name: GO_NOW_PLAYING
+name: Go_now_playing
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 66 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 80 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 81 00 00 00
 #
-name: DVD_OR_KALEIDESCAPE
+name: Dvd_or_kaleidescape
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: 84 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A0 00 00 00
 #
-name: SHUFFLE_COVER_ART
+name: Shuffle_cover_art
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A1 00 00 00
 #
-name: SHOW_DETAILS
+name: Show_details
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A2 00 00 00
 #
-name: PARENTAL_SAFE_LVL
+name: Parental_safe_lvl
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A4 00 00 00
 #
-name: PARENTAL_DEFAULT_LVL
+name: Parental_default_lvl
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A5 00 00 00
 #
-name: SET_FAV_SCENE_START
+name: Set_fav_scene_start
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A6 00 00 00
 #
-name: SET_FAV_SCENE_END
+name: Set_fav_scene_end
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A7 00 00 00
 #
-name: GO_MOVIE_COVER_ART
+name: Go_movie_cover_art
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A8 00 00 00
 #
-name: GO_MOVIE_LIST
+name: Go_movie_list
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: A9 00 00 00
 #
-name: GO_MOVIE_COLLECTIONS
+name: Go_movie_collections
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: AA 00 00 00
 #
-name: GO_SYSTEM_STATUS
+name: Go_system_status
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: AB 00 00 00
 #
-name: GO_PARENTAL_CONTROL
+name: Go_parental_control
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: AC 00 00 00
 #
-name: INTERMISSION_TOGGLE
+name: Intermission_toggle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: AD 00 00 00
 #
-name: INTERMISSION_ON
+name: Intermission_on
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: AE 00 00 00
 #
-name: INTERMISSION_OFF
+name: Intermission_off
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: AF 00 00 00
 #
-name: GO_SCREEN_SAVER
+name: Go_screen_saver
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B1 00 00 00
 #
-name: STOP_SCREEN_SAVER
+name: Stop_screen_saver
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B2 00 00 00
 #
-name: SHOW_DEMO
+name: Show_demo
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B3 00 00 00
 #
-name: SHOW_DEMO_LOOP
+name: Show_demo_loop
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B4 00 00 00
 #
-name: PAUSE_ON
+name: Pause_on
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B5 00 00 00
 #
-name: PAUSE_OFF
+name: Pause_off
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B6 00 00 00
 #
-name: DISPLAY_OFF
+name: Display_off
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B7 00 00 00
 #
-name: K_MENU_ON
+name: K_menu_on
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B8 00 00 00
 #
-name: K_MENU_OFF
+name: K_menu_off
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: B9 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: BA 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: BB 00 00 00
 #
-name: DISPLAY_TOGGLE
+name: Display_toggle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: BC 00 00 00
 #
-name: MUSIC_RANDOM_ON
+name: Music_random_on
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: BD 00 00 00
 #
-name: MUSIC_RANDOM_OFF
+name: Music_random_off
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: BE 00 00 00
 #
-name: MUSIC_RANDOM_TOGGLE
+name: Music_random_toggle
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: BF 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: CB 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: DE 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: F3 00 00 00
 #
-name: POWER_STANDBY
+name: Power_standby
 type: parsed
 protocol: NECext
 address: 45 00 00 00
 command: F4 00 00 00
 #
-name: K_MENU_TOGGLE
+name: K_menu_toggle
 type: parsed
 protocol: NECext
 address: 45 00 00 00

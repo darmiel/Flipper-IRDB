@@ -61,13 +61,13 @@ protocol: NECext
 address: B6 00 00 00
 command: 09 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 0A 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -85,61 +85,61 @@ protocol: NECext
 address: B6 00 00 00
 command: 13 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 14 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 15 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 16 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 17 00 00 00
 #
-name: TIME_DISP.
+name: Time_disp.
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 18 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 19 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1A 00 00 00
 #
-name: CHECK
+name: Check
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1B 00 00 00
 #
-name: P.MODE
+name: P.mode
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 1F 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: B6 00 00 00
@@ -151,37 +151,37 @@ protocol: NECext
 address: B6 00 00 00
 command: 50 00 00 00
 #
-name: DISC_SELECTOR-1
+name: Disc_selector-1
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 51 00 00 00
 #
-name: DISC_SELECTOR-2
+name: Disc_selector-2
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 52 00 00 00
 #
-name: DISC_SELECTOR-3
+name: Disc_selector-3
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 53 00 00 00
 #
-name: DISC_SELECTOR-4
+name: Disc_selector-4
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 54 00 00 00
 #
-name: DISC_SELECTOR-5
+name: Disc_selector-5
 type: parsed
 protocol: NECext
 address: B6 00 00 00
 command: 55 00 00 00
 #
-name: DISC_SELECTOR-6
+name: Disc_selector-6
 type: parsed
 protocol: NECext
 address: B6 00 00 00

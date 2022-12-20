@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MAIN_POWER_ON_D
+name: Main_power_on_d
 type: parsed
 protocol: NECext
 address: E8 1A 00 00
 command: 2A 00 00 00
 #
-name: MAIN_POWER_ON_C
+name: Main_power_on_c
 type: parsed
 protocol: NECext
 address: E8 1A 00 00
 command: 54 00 00 00
 #
-name: MAIN_POWER_OFF_C
+name: Main_power_off_c
 type: parsed
 protocol: NECext
 address: E8 1A 00 00
 command: 55 00 00 00
 #
-name: MAIN_POWER_OFF_D
+name: Main_power_off_d
 type: parsed
 protocol: NECext
 address: E8 1A 00 00

@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 00 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 01 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 02 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 03 00 00 00
 #
-name: DISPLAY_INFO/_SELECT
+name: Display_info/_select
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 04 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 05 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 06 00 00 00
 #
-name: QUICK_MENU_-TRIANGLE
+name: Quick_menu_-triangle
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 07 00 00 00
 #
-name: QUIT_-CIRCLE
+name: Quit_-circle
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 08 00 00 00
 #
-name: MENU_DVD_-SQUARE
+name: Menu_dvd_-square
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 09 00 00 00
 #
-name: OK_-CROSS
+name: Ok_-cross
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 0A 00 00 00
 #
-name: L1_-SLIP_<
+name: L1_-slip_<
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 0B 00 00 00
 #
-name: L2_-REW
+name: L2_-rew
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 0C 00 00 00
 #
-name: R1_-SKIP_>
+name: R1_-skip_>
 type: parsed
 protocol: NECext
 address: 43 A4 00 00
 command: 0D 00 00 00
 #
-name: R2_-FFW
+name: R2_-ffw
 type: parsed
 protocol: NECext
 address: 43 A4 00 00

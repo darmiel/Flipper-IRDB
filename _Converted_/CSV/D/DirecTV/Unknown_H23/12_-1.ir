@@ -55,19 +55,19 @@ protocol: NECext
 address: 0C 00 00 00
 command: 09 00 00 00
 #
-name: chanUp
+name: Chanup
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0D 00 00 00
 #
-name: chanDown
+name: Chandown
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0E 00 00 00
 #
-name: prev
+name: Prev
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
@@ -79,139 +79,139 @@ protocol: NECext
 address: 0C 00 00 00
 command: 11 00 00 00
 #
-name: dash
+name: Dash
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 12 00 00 00
 #
-name: enter
+name: Enter
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 13 00 00 00
 #
-name: menu
+name: Menu
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 20 00 00 00
 #
-name: up
+name: Up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 21 00 00 00
 #
-name: down
+name: Down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 22 00 00 00
 #
-name: left
+name: Left
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 23 00 00 00
 #
-name: right
+name: Right
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 24 00 00 00
 #
-name: select
+name: Select
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 25 00 00 00
 #
-name: exit
+name: Exit
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 26 00 00 00
 #
-name: back
+name: Back
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 27 00 00 00
 #
-name: guide
+name: Guide
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 28 00 00 00
 #
-name: active
+name: Active
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 29 00 00 00
 #
-name: list
+name: List
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2A 00 00 00
 #
-name: info
+name: Info
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2E 00 00 00
 #
-name: red
+name: Red
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 41 00 00 00
 #
-name: yellow
+name: Yellow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 42 00 00 00
 #
-name: green
+name: Green
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 43 00 00 00
 #
-name: blue
+name: Blue
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 44 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 59 00 00 00
 #
-name: volUp
+name: Volup
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 59 00 00 00
 #
-name: volDown
+name: Voldown
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 59 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 80 00 00 00
 #
-name: off
+name: Off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

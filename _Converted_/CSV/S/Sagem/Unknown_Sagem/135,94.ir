@@ -67,37 +67,37 @@ protocol: NECext
 address: 87 5E 00 00
 command: 0A 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 0B 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 0C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 0D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 0F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 87 5E 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
@@ -127,61 +127,61 @@ protocol: NECext
 address: 87 5E 00 00
 command: 14 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 15 00 00 00
 #
-name: Red_A
+name: Red_a
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 16 00 00 00
 #
-name: Green_B
+name: Green_b
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 17 00 00 00
 #
-name: Yellow_C
+name: Yellow_c
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 18 00 00 00
 #
-name: Blue_D
+name: Blue_d
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 19 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 1A 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 1B 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 1C 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 1D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
@@ -217,13 +217,13 @@ protocol: NECext
 address: 87 5E 00 00
 command: 25 00 00 00
 #
-name: RightArr
+name: Rightarr
 type: parsed
 protocol: NECext
 address: 87 5E 00 00
 command: 26 00 00 00
 #
-name: LeftArr
+name: Leftarr
 type: parsed
 protocol: NECext
 address: 87 5E 00 00

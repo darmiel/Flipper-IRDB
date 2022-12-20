@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 41 00 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 41 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 0A 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 41 00 00 00
@@ -79,73 +79,73 @@ protocol: NECext
 address: 41 00 00 00
 command: 0C 00 00 00
 #
-name: auto
+name: Auto
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 0E 00 00 00
 #
-name: pscan
+name: Pscan
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 15 00 00 00
 #
-name: tuneup
+name: Tuneup
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 16 00 00 00
 #
-name: tunedn
+name: Tunedn
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 17 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 18 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 1A 00 00 00
 #
-name: am_fm
+name: Am_fm
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 1B 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 1C 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 1D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 41 00 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 41 00 00 00

@@ -61,103 +61,103 @@ protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: shift_-/--
+name: Shift_-/--
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0D 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: shift_ch-
+name: Shift_ch-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: shift_vol+
+name: Shift_vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1A 00 00 00
 #
-name: shift_vol-
+name: Shift_vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: shift_ch+
+name: Shift_ch+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1E 00 00 00
 #
-name: shift_ch-
+name: Shift_ch-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1F 00 00 00
 #
-name: shift_eight
+name: Shift_eight
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 2B 00 00 00
 #
-name: shift_nine
+name: Shift_nine
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 38 00 00 00
 #
-name: shift_seven
+name: Shift_seven
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3F 00 00 00
 #
-name: shift_mute
+name: Shift_mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00

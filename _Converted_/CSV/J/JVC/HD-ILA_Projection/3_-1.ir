@@ -1,163 +1,163 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SLEEP_TIMER
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0A 00 00 00
 #
-name: VIDEO_STATUS
+name: Video_status
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: CLOSE_CAPTION
+name: Close_caption
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0E 00 00 00
 #
-name: INPUT_1
+name: Input_1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 11 00 00 00
 #
-name: INPUT_2
+name: Input_2
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 12 00 00 00
 #
-name: INPUT_3
+name: Input_3
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 14 00 00 00
 #
-name: INPUT3
+name: Input3
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 14 00 00 00
 #
-name: DIGITAL_IN
+name: Digital_in
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: POWER_(TOGGLE)
+name: Power_(toggle)
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1A 00 00 00
 #
-name: INPUT_4
+name: Input_4
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: INPUT4
+name: Input4
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1D 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1F 00 00 00
 #
-name: VOL_DN
+name: Vol_dn
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1F 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -223,61 +223,61 @@ protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 42 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7A 00 00 00
 #
-name: MULTISCREEN_FREEZE
+name: Multiscreen_freeze
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 80 00 00 00
 #
-name: MULTISCREEN_INDEX
+name: Multiscreen_index
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 82 00 00 00
 #
-name: MULTISCREEN_SWAP
+name: Multiscreen_swap
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 89 00 00 00
 #
-name: MULTILSCREEN_TWIN
+name: Multilscreen_twin
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 8B 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 93 00 00 00
 #
-name: ASPECT_RATIO
+name: Aspect_ratio
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 93 00 00 00
 #
-name: THEATRE_PRO
+name: Theatre_pro
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: D5 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 03 00 00 00

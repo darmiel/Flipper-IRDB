@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 03 00 00 00
 #
-name: PAGE_DOWN
+name: Page_down
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: PAGE_-
+name: Page_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: PAGE_--
+name: Page_--
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: PAGE_DN
+name: Page_dn
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -37,19 +37,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: PAGE_UP
+name: Page_up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: PAGE_+
+name: Page_+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -61,241 +61,241 @@ protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: REVERSE
+name: Reverse
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: RR
+name: Rr
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: BACK_/_REW
+name: Back_/_rew
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 31 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: FFWD
+name: Ffwd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: SKIP_FWD
+name: Skip_fwd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: FWD_/_FFWD
+name: Fwd_/_ffwd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: DISH
+name: Dish
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: DISH_HOME
+name: Dish_home
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: DISH_BUTTON
+name: Dish_button
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: DISH_BUTON
+name: Dish_buton
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: SKIP_BACK
+name: Skip_back
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: BACKUP
+name: Backup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 36 00 00 00
 #
-name: SKIP_FORWARD
+name: Skip_forward
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: SKIP
+name: Skip
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: SKIP_FWD
+name: Skip_fwd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: PVR
+name: Pvr
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 39 00 00 00
 #
-name: RECORDED_EVENTS
+name: Recorded_events
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 39 00 00 00
 #
-name: DVR
+name: Dvr
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 39 00 00 00
 #
-name: GO
+name: Go
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 39 00 00 00
 #
-name: DISH_ON_DEMAND
+name: Dish_on_demand
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 39 00 00 00
 #
-name: DVR_/_DISH_ON_DEA
+name: Dvr_/_dish_on_dea
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 39 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3A 00 00 00
 #
-name: PIP_ON/SIZE
+name: Pip_on/size
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3A 00 00 00
 #
-name: POSITION
+name: Position
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3B 00 00 00
 #
-name: PIP_POSITION
+name: Pip_position
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3B 00 00 00
 #
-name: SWAP
+name: Swap
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3D 00 00 00
 #
-name: PIP_SWAP
+name: Pip_swap
 type: parsed
 protocol: NECext
 address: 01 00 00 00

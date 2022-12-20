@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0B 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 10 00 00 00
 #
-name: VOL_^
+name: Vol_^
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 12 00 00 00
 #
-name: RGB_1/2
+name: Rgb_1/2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 13 00 00 00
 #
-name: VOL_V
+name: Vol_v
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 17 00 00 00
 #
-name: VIDEO_1/2
+name: Video_1/2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 20 00 00 00
 #
-name: CHANGE_V
+name: Change_v
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 32 00 00 00
 #
-name: CHANGE_H
+name: Change_h
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 39 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 40 00 00 00
 #
-name: MENU_^
+name: Menu_^
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 4E 00 00 00
 #
-name: MENU_V
+name: Menu_v
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 53 00 00 00
 #
-name: MENU_>
+name: Menu_>
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 5C 00 00 00
 #
-name: MENU_<
+name: Menu_<
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 5D 00 00 00
 #
-name: BLUE_BACK
+name: Blue_back
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 6B 00 00 00
 #
-name: ZOOM_TELE
+name: Zoom_tele
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 70 00 00 00
 #
-name: ZOOM_WIDE
+name: Zoom_wide
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 71 00 00 00
 #
-name: FOCUS_FAR
+name: Focus_far
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 72 00 00 00
 #
-name: FOCUS_NEAR
+name: Focus_near
 type: parsed
 protocol: NECext
 address: 50 00 00 00

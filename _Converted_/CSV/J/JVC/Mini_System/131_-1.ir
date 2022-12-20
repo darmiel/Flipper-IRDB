@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DECK_B_STOP
+name: Deck_b_stop
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 03 00 00 00
 #
-name: DECK_B_FFWD
+name: Deck_b_ffwd
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 06 00 00 00
 #
-name: DECK_B_REW
+name: Deck_b_rew
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 07 00 00 00
 #
-name: DECK_B<
+name: Deck_b<
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 0E 00 00 00
 #
-name: DECK_B>
+name: Deck_b>
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 0F 00 00 00
 #
-name: DECK_A_STOP
+name: Deck_a_stop
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 53 00 00 00
 #
-name: DECK_A_FFWD
+name: Deck_a_ffwd
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 56 00 00 00
 #
-name: DECK_A_REW
+name: Deck_a_rew
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 57 00 00 00
 #
-name: TAPE_DECK_A<
+name: Tape_deck_a<
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 5E 00 00 00
 #
-name: TAPE_DECK_A>
+name: Tape_deck_a>
 type: parsed
 protocol: NECext
 address: 83 00 00 00
 command: 5F 00 00 00
 #
-name: DECK_B_RECORD
+name: Deck_b_record
 type: parsed
 protocol: NECext
 address: 83 00 00 00

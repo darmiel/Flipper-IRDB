@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ...REW
+name: ...rew
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 06 00 00 00
 #
-name: ...FWD
+name: ...fwd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 07 00 00 00
 #
-name: ...DISC
+name: ...disc
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 08 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 0A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: B8 00 00 00
 command: 80 00 00 00
 #
-name: TUNER/CD_1
+name: Tuner/cd_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
@@ -97,205 +97,205 @@ protocol: NECext
 address: B8 00 00 00
 command: 89 00 00 00
 #
-name: ......DOWN
+name: ......down
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8C 00 00 00
 #
-name: TUNER_BAND
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 8F 00 00 00
 #
-name: .......TUNER
+name: .......tuner
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 91 00 00 00
 #
-name: SELECT_CD
+name: Select_cd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 92 00 00 00
 #
-name: .......VIDEO_2
+name: .......video_2
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 93 00 00 00
 #
-name: .......TAPE_A
+name: .......tape_a
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 94 00 00 00
 #
-name: .......TAPE_B
+name: .......tape_b
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 95 00 00 00
 #
-name: .......VIDEO_1
+name: .......video_1
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 96 00 00 00
 #
-name: ......UP
+name: ......up
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 99 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9D 00 00 00
 #
-name: ......DIRECT
+name: ......direct
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C6 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C7 00 00 00
 #
-name: ...STOP
+name: ...stop
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: C9 00 00 00
 #
-name: CD_PLAY/PAUSE
+name: Cd_play/pause
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CB 00 00 00
 #
-name: ...SEARCH_REW
+name: ...search_rew
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CE 00 00 00
 #
-name: ...SEARCH_FWD
+name: ...search_fwd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: CF 00 00 00
 #
-name: -------REV_PLAY
+name: -------rev_play
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D0 00 00 00
 #
-name: TAPE_A_FWD_PLAY
+name: Tape_a_fwd_play
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D1 00 00 00
 #
-name: -------REWIND
+name: -------rewind
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D2 00 00 00
 #
-name: -------FFWD
+name: -------ffwd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D3 00 00 00
 #
-name: -------PAUSE
+name: -------pause
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D4 00 00 00
 #
-name: -------STOP
+name: -------stop
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D5 00 00 00
 #
-name: -------RECORD
+name: -------record
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D6 00 00 00
 #
-name: .......REV_PLAY
+name: .......rev_play
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D8 00 00 00
 #
-name: TAPE_B_FWD_PLAY
+name: Tape_b_fwd_play
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: D9 00 00 00
 #
-name: .......REWIND
+name: .......rewind
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DA 00 00 00
 #
-name: .......FFWD
+name: .......ffwd
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DB 00 00 00
 #
-name: .......PAUSE
+name: .......pause
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DC 00 00 00
 #
-name: .......STOP
+name: .......stop
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: DD 00 00 00
 #
-name: .......RECORD
+name: .......record
 type: parsed
 protocol: NECext
 address: B8 00 00 00

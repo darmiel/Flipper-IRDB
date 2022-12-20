@@ -67,115 +67,115 @@ protocol: NECext
 address: 40 00 00 00
 command: 0B 00 00 00
 #
-name: expand
+name: Expand
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 14 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 15 00 00 00
 #
-name: call
+name: Call
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 16 00 00 00
 #
-name: txt_tv
+name: Txt_tv
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: constrast
+name: Constrast
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 18 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1F 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 48 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 49 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4A 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4B 00 00 00
 #
-name: squash
+name: Squash
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 53 00 00 00
 #
-name: question
+name: Question
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 54 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 00 00 00

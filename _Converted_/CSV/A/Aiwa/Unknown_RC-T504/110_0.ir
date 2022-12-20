@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -67,121 +67,121 @@ protocol: NECext
 address: 6E 00 00 00
 command: 0A 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0B 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0E 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 11 00 00 00
 #
-name: mono
+name: Mono
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 12 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 15 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 17 00 00 00
 #
-name: prgm
+name: Prgm
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 19 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1C 00 00 00
 #
-name: function
+name: Function
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1E 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 40 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 41 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 42 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 43 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 44 00 00 00
 #
-name: t-bass
+name: T-bass
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 47 00 00 00
 #
-name: geq
+name: Geq
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 49 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 4D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 4E 00 00 00
 #
-name: karaoke
+name: Karaoke
 type: parsed
 protocol: NECext
 address: 6E 00 00 00

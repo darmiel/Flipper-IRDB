@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 01 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 02 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 03 00 00 00
 #
-name: S-VIDEO
+name: S-video
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 04 00 00 00
 #
-name: RGB
+name: Rgb
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 05 00 00 00
 #
-name: YCRCB
+name: Ycrcb
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 06 00 00 00
 #
-name: PASS-T
+name: Pass-t
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 07 00 00 00
 #
-name: PASS-TX
+name: Pass-tx
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -55,79 +55,79 @@ protocol: NECext
 address: 1B 00 00 00
 command: 09 00 00 00
 #
-name: ANAMORPHIC
+name: Anamorphic
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0B 00 00 00
 #
-name: BRIGHTNESS
+name: Brightness
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0C 00 00 00
 #
-name: CONTRAST
+name: Contrast
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0D 00 00 00
 #
-name: COLOR
+name: Color
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0E 00 00 00
 #
-name: TINT
+name: Tint
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0F 00 00 00
 #
-name: DETAIL
+name: Detail
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 10 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 11 00 00 00
 #
-name: PROFILE
+name: Profile
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 12 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 13 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 14 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 15 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 16 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

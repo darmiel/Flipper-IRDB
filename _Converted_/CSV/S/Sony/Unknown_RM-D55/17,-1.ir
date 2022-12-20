@@ -55,19 +55,19 @@ protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: check
+name: Check
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0F 00 00 00
 #
-name: pgm
+name: Pgm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -85,91 +85,91 @@ protocol: NECext
 address: 11 00 00 00
 command: 27 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 28 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2C 00 00 00
 #
-name: fback
+name: Fback
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 30 00 00 00
 #
-name: ffor
+name: Ffor
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 32 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 33 00 00 00
 #
-name: for
+name: For
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 34 00 00 00
 #
-name: shuffle
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 39 00 00 00
 #
-name: disc1
+name: Disc1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 40 00 00 00
 #
-name: disc2
+name: Disc2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 41 00 00 00
 #
-name: disc3
+name: Disc3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 42 00 00 00
 #
-name: disc4
+name: Disc4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 43 00 00 00
 #
-name: disc5
+name: Disc5
 type: parsed
 protocol: NECext
 address: 11 00 00 00

@@ -10,13 +10,13 @@ protocol: NECext
 address: 0E 01 00 00
 command: 00 FF 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 0E 01 00 00
 command: 4A B5 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0E 01 00 00
@@ -28,25 +28,25 @@ protocol: NECext
 address: 0E 01 00 00
 command: 7C 83 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0E 01 00 00
 command: 1C E3 00 00
 #
-name: DOLBY VOL+
+name: Dolby_vol+
 type: parsed
 protocol: NECext
 address: 0E 01 00 00
 command: 0A F5 00 00
 #
-name: SURROUND MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: 4E 41 00 00
 command: EA 15 00 00
 #
-name: ROOM SIZE
+name: Room_size
 type: parsed
 protocol: NECext
 address: 0E 01 00 00

@@ -61,103 +61,103 @@ protocol: NECext
 address: 20 E0 00 00
 command: 09 00 00 00
 #
-name: BOX_OFFICE
+name: Box_office
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 14 00 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 17 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 20 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 21 00 00 00
 #
-name: AUSTAR
+name: Austar
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 38 00 00 00
 #
-name: ACTIVE
+name: Active
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 54 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 58 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 59 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 5A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 5B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 5C 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 6D 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 6E 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 70 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: 83 00 00 00
 #
-name: TV_GUIDE
+name: Tv_guide
 type: parsed
 protocol: NECext
 address: 20 E0 00 00
 command: CC 00 00 00
 #
-name: I-MODE
+name: I-mode
 type: parsed
 protocol: NECext
 address: 20 E0 00 00

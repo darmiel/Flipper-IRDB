@@ -25,7 +25,7 @@ protocol: NECext
 address: 02 FF 00 00
 command: 07 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 02 FF 00 00
 command: 0B 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 02 FF 00 00
 command: 0F 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 10 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
@@ -91,109 +91,109 @@ protocol: NECext
 address: 02 FF 00 00
 command: 12 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 14 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 15 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 16 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 17 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 1A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 1B 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 1C 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 1D 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 1E 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 1F 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 44 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 48 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 49 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 50 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 51 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 54 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 02 FF 00 00
 command: 55 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 02 FF 00 00

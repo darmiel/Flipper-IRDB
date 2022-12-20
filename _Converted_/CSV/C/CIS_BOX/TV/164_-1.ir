@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 3B 00 00 00
 #
-name: WIDE_MODE
+name: Wide_mode
 type: parsed
 protocol: NECext
 address: A4 00 00 00
 command: 3D 00 00 00
 #
-name: WIDE_ZOOM
+name: Wide_zoom
 type: parsed
 protocol: NECext
 address: A4 00 00 00

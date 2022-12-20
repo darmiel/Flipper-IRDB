@@ -121,7 +121,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -157,13 +157,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: STATUS
+name: Status
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: TV_GUIDE_+_UP
+name: Tv_guide_+_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -199,13 +199,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -217,13 +217,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: TV_GUIDE_+_DOWN
+name: Tv_guide_+_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -235,7 +235,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -247,7 +247,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: A/CH
+name: A/ch
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -259,7 +259,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 22 00 00 00
 #
-name: ALT._AUDIO
+name: Alt._audio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -271,7 +271,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -283,7 +283,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 26 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -295,7 +295,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -319,19 +319,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: TV_GUIDE_+_SETUP
+name: Tv_guide_+_setup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -343,7 +343,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 2F 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -355,7 +355,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -367,7 +367,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: EXT._INPUT
+name: Ext._input
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -379,7 +379,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 38 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -391,7 +391,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: DTV_FREEZE
+name: Dtv_freeze
 type: parsed
 protocol: NECext
 address: 00 00 00 00

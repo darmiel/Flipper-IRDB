@@ -2,35 +2,35 @@ Filetype: IR signals file
 Version: 1
 #
 # SLEEP [raw] {11010000-100110}
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 26 00 00 00
 #
 # POWER [raw] {11110001-001100}
-name: POWER
+name: Power
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 0C 00 00 00
 #
 # BAND [raw] {11010001-111111}
-name: BAND
+name: Band
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 3F 00 00 00
 #
 # DISPLAY [raw] {11110001-001111}
-name: DISPLAY
+name: Display
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 0F 00 00 00
 #
 # F_DIRECT [raw] {11010001-001011}
-name: F_DIRECT
+name: F_direct
 type: parsed
 protocol: RC5
 address: 11 00 00 00
@@ -100,7 +100,7 @@ address: 11 00 00 00
 command: 09 00 00 00
 #
 # FM_MODE [raw] {11010001-100101}
-name: FM_MODE
+name: Fm_mode
 type: parsed
 protocol: RC5
 address: 11 00 00 00
@@ -114,48 +114,48 @@ address: 11 00 00 00
 command: 00 00 00 00
 #
 # IF_BAND [raw] {11110001-101000}
-name: IF_BAND
+name: If_band
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 28 00 00 00
 #
-name: TUNE-
+name: Tune-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 1776 1776 1776 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 89666 888 888 1776 1776 1776 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 262644
 #
 # TUNE+ [raw] {11110001-011110}
-name: TUNE+
+name: Tune+
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 1E 00 00 00
 #
 # PRESET- [raw] {11010001-100001}
-name: PRESET-
+name: Preset-
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 21 00 00 00
 #
 # MEMO [raw] {11110001-101001}
-name: MEMO
+name: Memo
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 29 00 00 00
 #
 # PRESET+ [raw] {11010001-100000}
-name: PRESET+
+name: Preset+
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 20 00 00 00
 #
 # P_SCAN [raw] {11110001-101011}
-name: P_SCAN
+name: P_scan
 type: parsed
 protocol: RC5
 address: 11 00 00 00

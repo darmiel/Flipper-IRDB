@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD-R
+name: Cd-r
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 3F 00 00 00
 #
-name: RECORDER_1
+name: Recorder_1
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 3F 00 00 00
 #
-name: CDR
+name: Cdr
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 3F 00 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 3F 00 00 00
 #
-name: CD-R_(RECORDER_1)
+name: Cd-r_(recorder_1)
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 3F 00 00 00
 #
-name: CDR/MD
+name: Cdr/md
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 3F 00 00 00
 #
-name: CDR_INPUT
+name: Cdr_input
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT_-_CD-R
+name: Input_-_cd-r
 type: parsed
 protocol: NECext
 address: 1A 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT:_CD-R
+name: Input:_cd-r
 type: parsed
 protocol: NECext
 address: 1A 00 00 00

@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT_ADJUST
+name: Input_adjust
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 00 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 01 00 00 00
 #
-name: MENU_UP
+name: Menu_up
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 01 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 01 00 00 00
 #
-name: DN
+name: Dn
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 02 00 00 00
 #
-name: MENU_DOWN
+name: Menu_down
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 02 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 02 00 00 00
 #
-name: SVID_2
+name: Svid_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 04 00 00 00
 #
-name: S-VIDEO_2
+name: S-video_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 04 00 00 00
 #
-name: SVIDEO_2
+name: Svideo_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 04 00 00 00
 #
-name: INPUT_S-VIDEO_2
+name: Input_s-video_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 04 00 00 00
 #
-name: LFT
+name: Lft
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 05 00 00 00
 #
-name: MENU_LEFT
+name: Menu_left
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 05 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 05 00 00 00
 #
-name: PAN
+name: Pan
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 07 00 00 00
 #
-name: CURTAIN
+name: Curtain
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 08 00 00 00
 #
-name: VIDE_2
+name: Vide_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0A 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0A 00 00 00
 #
-name: INPUT_VIDEO_2
+name: Input_video_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0B 00 00 00
 #
-name: MENU_SELECT_/_ENTE
+name: Menu_select_/_ente
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0B 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0B 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0C 00 00 00
 #
-name: OUTPUT_SETUP
+name: Output_setup
 type: parsed
 protocol: NECext
 address: 84 20 00 00
@@ -151,13 +151,13 @@ protocol: NECext
 address: 84 20 00 00
 command: 0F 00 00 00
 #
-name: SDI
+name: Sdi
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 10 00 00 00
 #
-name: INPUT_SDI
+name: Input_sdi
 type: parsed
 protocol: NECext
 address: 84 20 00 00
@@ -169,67 +169,67 @@ protocol: NECext
 address: 84 20 00 00
 command: 11 00 00 00
 #
-name: TEST_PATTERN_RIGHT
+name: Test_pattern_right
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 11 00 00 00
 #
-name: TEST_PATTERN_>
+name: Test_pattern_>
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 11 00 00 00
 #
-name: CONFIG
+name: Config
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 12 00 00 00
 #
-name: CONFIGURATION
+name: Configuration
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 12 00 00 00
 #
-name: RT
+name: Rt
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 13 00 00 00
 #
-name: MENU_RIGHT
+name: Menu_right
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 13 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 13 00 00 00
 #
-name: COMP_2
+name: Comp_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 14 00 00 00
 #
-name: COMP_2
+name: Comp_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 14 00 00 00
 #
-name: COMPONENT_2
+name: Component_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 14 00 00 00
 #
-name: INPUT_COMPONENT_2
+name: Input_component_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
@@ -259,7 +259,7 @@ protocol: NECext
 address: 84 20 00 00
 command: 19 00 00 00
 #
-name: PICTURE_CONTROL
+name: Picture_control
 type: parsed
 protocol: NECext
 address: 84 20 00 00
@@ -271,13 +271,13 @@ protocol: NECext
 address: 84 20 00 00
 command: 1B 00 00 00
 #
-name: TEST_PATTERN_LEFT
+name: Test_pattern_left
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 1B 00 00 00
 #
-name: TEST_PATTERN_<
+name: Test_pattern_<
 type: parsed
 protocol: NECext
 address: 84 20 00 00
@@ -301,43 +301,43 @@ protocol: NECext
 address: 84 20 00 00
 command: 1F 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 40 00 00 00
 #
-name: TEST_PATTERNS
+name: Test_patterns
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 41 00 00 00
 #
-name: TEST_PATTERN_ON/OFF
+name: Test_pattern_on/off
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 41 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 42 00 00 00
 #
-name: POWER_(ON)
+name: Power_(on)
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 42 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 43 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 84 20 00 00
@@ -349,7 +349,7 @@ protocol: NECext
 address: 84 20 00 00
 command: 45 00 00 00
 #
-name: LBX
+name: Lbx
 type: parsed
 protocol: NECext
 address: 84 20 00 00
@@ -361,205 +361,205 @@ protocol: NECext
 address: 84 20 00 00
 command: 47 00 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 48 00 00 00
 #
-name: PASSTHRU
+name: Passthru
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 49 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4A 00 00 00
 #
-name: INPUT_VIDEO_1
+name: Input_video_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4A 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4B 00 00 00
 #
-name: AUTO_INPUT
+name: Auto_input
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4B 00 00 00
 #
-name: INPUT_AUTO
+name: Input_auto
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4B 00 00 00
 #
-name: DVI
+name: Dvi
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4C 00 00 00
 #
-name: SVID_1
+name: Svid_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4E 00 00 00
 #
-name: S-VIDEO_1
+name: S-video_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4E 00 00 00
 #
-name: SVIDEO_1
+name: Svideo_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4E 00 00 00
 #
-name: INPUT_S-VIDEO_1
+name: Input_s-video_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4E 00 00 00
 #
-name: COMP_1
+name: Comp_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4F 00 00 00
 #
-name: COMPONENT_1
+name: Component_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4F 00 00 00
 #
-name: INPUT_COMPONENT_1
+name: Input_component_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4F 00 00 00
 #
-name: DISPLAY_PROFILES
+name: Display_profiles
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 50 00 00 00
 #
-name: DISPLAY_PROPERTIES
+name: Display_properties
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 50 00 00 00
 #
-name: VIEWING_MODES
+name: Viewing_modes
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 51 00 00 00
 #
-name: INPUT_ASPECT_RATIO
+name: Input_aspect_ratio
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 52 00 00 00
 #
-name: TEST_PATTERN_ON/OFF
+name: Test_pattern_on/off
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 52 00 00 00
 #
-name: BORDER
+name: Border
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 53 00 00 00
 #
-name: CROP
+name: Crop
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 54 00 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 55 00 00 00
 #
-name: HDMI_1
+name: Hdmi_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 56 00 00 00
 #
-name: INPUT_HDMI_1
+name: Input_hdmi_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 56 00 00 00
 #
-name: HDMI_2
+name: Hdmi_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 57 00 00 00
 #
-name: INPUT_HDMI_2
+name: Input_hdmi_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 57 00 00 00
 #
-name: HDMI_3
+name: Hdmi_3
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 58 00 00 00
 #
-name: INPUT_HDMI_3
+name: Input_hdmi_3
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 58 00 00 00
 #
-name: HDMI_4
+name: Hdmi_4
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 59 00 00 00
 #
-name: INPUT_HDMI_4
+name: Input_hdmi_4
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 59 00 00 00
 #
-name: RGBHV
+name: Rgbhv
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 5A 00 00 00
 #
-name: INPUT_RGBHV
+name: Input_rgbhv
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 5A 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 84 20 00 00

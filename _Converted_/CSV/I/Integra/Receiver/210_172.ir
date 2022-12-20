@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 08 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 09 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
@@ -85,289 +85,289 @@ protocol: NECext
 address: D2 AC 00 00
 command: 18 00 00 00
 #
-name: SEARCH-ENTER
+name: Search-enter
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 19 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 1A 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 1B 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 1C 00 00 00
 #
-name: MODE:_STRAIGHT_DECOD
+name: Mode:_straight_decod
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 52 00 00 00
 #
-name: MODE:_TV_LOGIC
+name: Mode:_tv_logic
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 52 00 00 00
 #
-name: MODE_STRAIGHT_DECODE
+name: Mode_straight_decode
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 52 00 00 00
 #
-name: STRAIGHT_DECODE
+name: Straight_decode
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 52 00 00 00
 #
-name: MODE:_DOLBY_EX
+name: Mode:_dolby_ex
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 53 00 00 00
 #
-name: MODE_DOLBY_EX
+name: Mode_dolby_ex
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 53 00 00 00
 #
-name: DOLBY_-_WRAP_AROUND
+name: Dolby_-_wrap_around
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 53 00 00 00
 #
-name: DOLBY_EX
+name: Dolby_ex
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 53 00 00 00
 #
-name: DOLLBY_EX
+name: Dollby_ex
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 53 00 00 00
 #
-name: MODE:_MONO
+name: Mode:_mono
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 54 00 00 00
 #
-name: MODE_MONO
+name: Mode_mono
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 54 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 54 00 00 00
 #
-name: VIDEO_ADJUST
+name: Video_adjust
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 87 00 00 00
 #
-name: SETUP_VIDEO
+name: Setup_video
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 87 00 00 00
 #
-name: UNIVERSAL_PORT
+name: Universal_port
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 8A 00 00 00
 #
-name: INPUT_UNIVERSAL_PORT
+name: Input_universal_port
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 8A 00 00 00
 #
-name: RESOLUTION
+name: Resolution
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 9D 00 00 00
 #
-name: RESOLUTION:_TOGGLE
+name: Resolution:_toggle
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 9D 00 00 00
 #
-name: RESOLUTION_SCROLL
+name: Resolution_scroll
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 9D 00 00 00
 #
-name: INPUT_USB_(FRONT)
+name: Input_usb_(front)
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 9E 00 00 00
 #
-name: INPUT_USB_REAR
+name: Input_usb_rear
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: 9F 00 00 00
 #
-name: LISTEN_MODE_TV
+name: Listen_mode_tv
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D0 00 00 00
 #
-name: MODE_LISTEN_MODEMOVI
+name: Mode_listen_modemovi
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D0 00 00 00
 #
-name: LM_MOVIE/TV
+name: Lm_movie/tv
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D0 00 00 00
 #
-name: LISTEN:_MOVIE/TV
+name: Listen:_movie/tv
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D0 00 00 00
 #
-name: LISTEN_MODE_MUSIC
+name: Listen_mode_music
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D1 00 00 00
 #
-name: LM_MUSIC
+name: Lm_music
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D1 00 00 00
 #
-name: LISTEN:_MUSIC
+name: Listen:_music
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D1 00 00 00
 #
-name: LISTEN_MODE_GAME
+name: Listen_mode_game
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D2 00 00 00
 #
-name: MODE_LISTEN_MODEGAME
+name: Mode_listen_modegame
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D2 00 00 00
 #
-name: LM_GAME
+name: Lm_game
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D2 00 00 00
 #
-name: LISTEN:_GAME
+name: Listen:_game
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D2 00 00 00
 #
-name: HDMI_OUT_NO_ANALOG
+name: Hdmi_out_no_analog
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D3 00 00 00
 #
-name: HDMI_OUT_NO
+name: Hdmi_out_no
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D3 00 00 00
 #
-name: HDMI_OUT_MAIN
+name: Hdmi_out_main
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D4 00 00 00
 #
-name: HDMI_OUT_YES
+name: Hdmi_out_yes
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D4 00 00 00
 #
-name: HDMI_OUT_SUB
+name: Hdmi_out_sub
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: D5 00 00 00
 #
-name: XM
+name: Xm
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: DA 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: DA 00 00 00
 #
-name: INPUT:_XM
+name: Input:_xm
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: DA 00 00 00
 #
-name: SIRIUS
+name: Sirius
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: DB 00 00 00
 #
-name: INPUT_SIRIUS
+name: Input_sirius
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: DB 00 00 00
 #
-name: INPUT:_SIRIUS
+name: Input:_sirius
 type: parsed
 protocol: NECext
 address: D2 AC 00 00
 command: DB 00 00 00
 #
-name: AUDYSSEY_TOGGLE
+name: Audyssey_toggle
 type: parsed
 protocol: NECext
 address: D2 AC 00 00

@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MAIN/SAP
+name: Main/sap
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 00 00 00 00
 #
-name: SLEEP/TIMER
+name: Sleep/timer
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: RETURN+
+name: Return+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: ANT/CABLE
+name: Ant/cable
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0B 00 00 00
 #
-name: AV_STATUS/RESET
+name: Av_status/reset
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: VIDEO_STATUS
+name: Video_status
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: THEATER/AV_STATUS
+name: Theater/av_status
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: CLOSED_CAPTION
+name: Closed_caption
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0E 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: TV_TV/VIDEO
+name: Tv_tv/video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: TV_POWER
+name: Tv_power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: TV_CH/HYPER_SCAN-
+name: Tv_ch/hyper_scan-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: TV_CHANNEL_-
+name: Tv_channel_-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: TV_CH/HYPER_SCAN+
+name: Tv_ch/hyper_scan+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: TV_CHANNEL_+
+name: Tv_channel_+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOLUME+
+name: Volume+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1F 00 00 00
 #
-name: VOLUME-
+name: Volume-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -157,7 +157,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 20 00 00 00
 #
-name: TV_0/AUX
+name: Tv_0/aux
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 21 00 00 00
 #
-name: TV_1
+name: Tv_1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -181,7 +181,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 22 00 00 00
 #
-name: TV_2
+name: Tv_2
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 23 00 00 00
 #
-name: TV_3
+name: Tv_3
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -205,7 +205,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 24 00 00 00
 #
-name: TV_4
+name: Tv_4
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -217,7 +217,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 25 00 00 00
 #
-name: TV_5
+name: Tv_5
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -229,7 +229,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 26 00 00 00
 #
-name: TV_6
+name: Tv_6
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -241,7 +241,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 27 00 00 00
 #
-name: TV_7
+name: Tv_7
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -253,7 +253,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 28 00 00 00
 #
-name: TV_8/DAILY_(M-F)
+name: Tv_8/daily_(m-f)
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -265,19 +265,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: TV_9/WEEKLY
+name: Tv_9/weekly
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: RECALL_CHOICE
+name: Recall_choice
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 3C 00 00 00
 #
-name: HYPER_SURROUND
+name: Hyper_surround
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -295,25 +295,25 @@ protocol: NECext
 address: 03 00 00 00
 command: 4D 00 00 00
 #
-name: FUNCTION_+
+name: Function_+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5A 00 00 00
 #
-name: MENU_>
+name: Menu_>
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5A 00 00 00
 #
-name: FUNCTION_-
+name: Function_-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5B 00 00 00
 #
-name: MENU_<
+name: Menu_<
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -325,115 +325,115 @@ protocol: NECext
 address: 03 00 00 00
 command: 77 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7A 00 00 00
 #
-name: FUNCTION_FORWARD_V
+name: Function_forward_v
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7B 00 00 00
 #
-name: MENU_V
+name: Menu_v
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7B 00 00 00
 #
-name: FUNCTION_V
+name: Function_v
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7B 00 00 00
 #
-name: FUNCTION_BACK_^
+name: Function_back_^
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7C 00 00 00
 #
-name: MENU_^
+name: Menu_^
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7C 00 00 00
 #
-name: FUNCTION_^
+name: Function_^
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7C 00 00 00
 #
-name: PIP_FREEZE
+name: Pip_freeze
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 80 00 00 00
 #
-name: PIP_ON/OFF
+name: Pip_on/off
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 85 00 00 00
 #
-name: PIP_MOVE
+name: Pip_move
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 86 00 00 00
 #
-name: PIP_POSITION
+name: Pip_position
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 86 00 00 00
 #
-name: PIP_SWAP
+name: Pip_swap
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 89 00 00 00
 #
-name: PIP_SOURCE
+name: Pip_source
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: B2 00 00 00
 #
-name: PIP_CHANNEL_+
+name: Pip_channel_+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: BE 00 00 00
 #
-name: PIP_CHANNEL_-
+name: Pip_channel_-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: BF 00 00 00
 #
-name: PIP_SIZE
+name: Pip_size
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: D6 00 00 00
 #
-name: C1/C2
+name: C1/c2
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: DA 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: E3 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 03 00 00 00

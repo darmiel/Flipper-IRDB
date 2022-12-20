@@ -13,79 +13,79 @@ protocol: NECext
 address: 30 00 00 00
 command: 02 00 00 00
 #
-name: PIP_SOURCE
+name: Pip_source
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 06 00 00 00
 #
-name: PIP_SIZE
+name: Pip_size
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 07 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 08 00 00 00
 #
-name: PIP_POSITION
+name: Pip_position
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 09 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 0A 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 0E 00 00 00
 #
-name: RATIO
+name: Ratio
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 18 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 20 00 00 00
 #
-name: AUTO_TRACKING
+name: Auto_tracking
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 28 00 00 00
 #
-name: BLANK
+name: Blank
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 2A 00 00 00
 #
-name: ZOOM_+
+name: Zoom_+
 type: parsed
 protocol: NECext
 address: 30 00 00 00
 command: 2C 00 00 00
 #
-name: ZOOM-
+name: Zoom-
 type: parsed
 protocol: NECext
 address: 30 00 00 00

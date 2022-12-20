@@ -61,67 +61,67 @@ protocol: NECext
 address: 14 00 00 00
 command: 09 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0B 00 00 00
 #
-name: STAND_BY
+name: Stand_by
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 0C 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1C 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 1D 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 20 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 21 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 29 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2B 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2D 00 00 00
 #
-name: FAST
+name: Fast
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 2F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 14 00 00 00
@@ -139,19 +139,19 @@ protocol: NECext
 address: 14 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 14 00 00 00
 command: 36 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 14 00 00 00

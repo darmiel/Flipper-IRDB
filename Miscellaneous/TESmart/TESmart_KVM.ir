@@ -4,49 +4,49 @@ Version: 1
 # TESmart KVM Switch
 # https://www.tesmart.com/
 # 
-name: Cycle Displays
+name: Cycle_displays
 type: parsed
 protocol: NEC
 address: 17 00 00 00
 command: 45 00 00 00
 # 
-name: Display Mode 2
+name: Display_mode_2
 type: parsed
 protocol: NEC
 address: 17 00 00 00
 command: 47 00 00 00
 # 
-name: PC 1
+name: Pc_1
 type: parsed
 protocol: NEC
 address: 17 00 00 00
 command: 44 00 00 00
 # 
-name: PC 2
+name: Pc_2
 type: parsed
 protocol: NEC
 address: 17 00 00 00
 command: 43 00 00 00
 # 
-name: PC 3
+name: Pc_3
 type: parsed
 protocol: NEC
 address: 17 00 00 00
 command: 07 00 00 00
 # 
-name: PC 4
+name: Pc_4
 type: parsed
 protocol: NEC
 address: 17 00 00 00
 command: 09 00 00 00
 # 
-name: PC 5
+name: Pc_5
 type: parsed
 protocol: NEC
 address: 17 00 00 00
 command: 16 00 00 00
 # 
-name: Previous Display
+name: Previous_display
 type: parsed
 protocol: NEC
 address: 17 00 00 00

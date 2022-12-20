@@ -1,163 +1,163 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 10 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 11 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 12 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 13 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 14 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 16 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 17 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 18 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 19 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 1A 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 1B 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 1C 00 00 00
 #
-name: add
+name: Add
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 1D 00 00 00
 #
-name: shuffle
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 1E 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 1F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 40 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 41 00 00 00
 #
-name: bright
+name: Bright
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 42 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 43 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 44 00 00 00
 #
-name: user1
+name: User1
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 45 00 00 00
 #
-name: user2
+name: User2
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 46 00 00 00
 #
-name: user3
+name: User3
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 47 00 00 00
 #
-name: user4
+name: User4
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 48 00 00 00
 #
-name: user5
+name: User5
 type: parsed
 protocol: NECext
 address: 6F 00 00 00
 command: 49 00 00 00
 #
-name: user6
+name: User6
 type: parsed
 protocol: NECext
 address: 6F 00 00 00

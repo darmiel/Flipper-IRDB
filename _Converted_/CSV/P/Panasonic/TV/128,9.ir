@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: 87 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: 88 00 00 00
 #
-name: APPS
+name: Apps
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: 8F 00 00 00
 #
-name: VIERA_CAST_/_INTERNET
+name: Viera_cast_/_internet
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: 93 00 00 00
 #
-name: MENU_HOME
+name: Menu_home
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: 95 00 00 00
 #
-name: MENU_SUB_/_OPTION
+name: Menu_sub_/_option
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: A7 00 00 00
 #
-name: SD_CARD_/_USB_/_MEDIA_PLAYER
+name: Sd_card_/_usb_/_media_player
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: AB 00 00 00
 #
-name: FAVORITE_CHANNEL
+name: Favorite_channel
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: AE 00 00 00
 #
-name: VIERA_LINK
+name: Viera_link
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: B1 00 00 00
 #
-name: IPOD
+name: Ipod
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: B4 00 00 00
 #
-name: 3D
+name: 3d
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: B7 00 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: B8 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: C1 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: C0 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: C2 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: C3 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: C4 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: C5 00 00 00
 #
-name: INPUT_ANTENNA_A
+name: Input_antenna_a
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: CD 00 00 00
 #
-name: INPUT_ANTENNA_B
+name: Input_antenna_b
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: CE 00 00 00
 #
-name: SD_RECORD
+name: Sd_record
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: D5 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: DC 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 80 09 00 00
 command: DD 00 00 00
 #
-name: NETFLIX
+name: Netflix
 type: parsed
 protocol: NECext
 address: 80 09 00 00

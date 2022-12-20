@@ -61,133 +61,133 @@ protocol: NECext
 address: 6E 00 00 00
 command: 0A 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0B 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 0E 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 11 00 00 00
 #
-name: mode_tuner
+name: Mode_tuner
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 12 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 15 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 16 00 00 00
 #
-name: cd_edit/remain
+name: Cd_edit/remain
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 17 00 00 00
 #
-name: prgm
+name: Prgm
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 19 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1C 00 00 00
 #
-name: function
+name: Function
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1E 00 00 00
 #
-name: preset
+name: Preset
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 40 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 41 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 42 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 43 00 00 00
 #
-name: set
+name: Set
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 44 00 00 00
 #
-name: set
+name: Set
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 45 00 00 00
 #
-name: geq
+name: Geq
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 49 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 4D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 4E 00 00 00
 #
-name: vocal_fader
+name: Vocal_fader
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 50 00 00 00
 #
-name: phrase_repeat
+name: Phrase_repeat
 type: parsed
 protocol: NECext
 address: 6E 00 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 00 00 00 00
 #
-name: CROSS
+name: Cross
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 07 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 03 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 03 00 00 00
 command: 0F 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 10 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -109,193 +109,193 @@ protocol: NECext
 address: 03 00 00 00
 command: 12 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 14 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 15 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 16 00 00 00
 #
-name: FINE_UP
+name: Fine_up
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: FINE_DOWN
+name: Fine_down
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: MTS
+name: Mts
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: CC
+name: Cc
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1F 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 20 00 00 00
 #
-name: ZZ
+name: Zz
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 40 00 00 00
 #
-name: DOT
+name: Dot
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 41 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 42 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 43 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 44 00 00 00
 #
-name: TIMESHIFT
+name: Timeshift
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 45 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 46 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 46 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 47 00 00 00
 #
-name: SNAPSHOT
+name: Snapshot
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 48 00 00 00
 #
-name: BOSS_KEY
+name: Boss_key
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 49 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4A 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4C 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4D 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 4F 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 50 00 00 00
 #
-name: SQUARES
+name: Squares
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 51 00 00 00
 #
-name: CH_SURF
+name: Ch_surf
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -307,31 +307,31 @@ protocol: NECext
 address: 03 00 00 00
 command: 53 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 54 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 55 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 56 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 57 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 03 00 00 00

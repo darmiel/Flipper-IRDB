@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PRESET_SCENES_1
+name: Preset_scenes_1
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 808 808 808 808 808 808 808 808 808 808 808 808 1641 808 808 808 808 808 808 808 808 1641 1641 85303
 #
-name: PRESET_SCENES_2
+name: Preset_scenes_2
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1641 1641 834 834 834 834 834 834 1641 834 834 834 834 834 834 834 834 1641 834 834 834 84573
 #
-name: PRESET_SCENES_3
+name: Preset_scenes_3
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 808 808 808 808 808 808 808 808 808 808 808 808 1667 808 808 808 808 808 808 1667 1667 808 808 85485
 #
-name: PRESET_SCENES_4
+name: Preset_scenes_4
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 1641 1641 834 834 834 834 834 834 1641 834 834 834 834 834 834 1641 1641 1641 834 84469
 #
-name: UP
+name: Up
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 834 834 834 834 834 834 834 834 1641 1641 1641 834 834 834 834 834 834 1641 834 84651
 #
-name: DOWN
+name: Down
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 808 808 1641 1641 808 808 808 808 808 808 1641 1641 1641 808 808 808 808 1641 1641 85303
 #
-name: OFF
+name: Off
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 808 808 808 808 808 808 808 808 808 808 808 808 1641 808 808 808 808 808 808 808 808 808 808 808 808 85303
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38381
 duty_cycle: 0.330000

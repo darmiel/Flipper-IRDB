@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: delay.T+
+name: Delay.t+
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 01 00 00 00
 #
-name: Dolby_Digital
+name: Dolby_digital
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 03 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 04 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 05 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 06 00 00 00
 #
-name: T_Tone
+name: T_tone
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 07 00 00 00
 #
-name: surround
+name: Surround
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 09 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 0A 00 00 00
 #
-name: CH.Trim
+name: Ch.trim
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 0C 00 00 00
 #
-name: SPK_on_Off
+name: Spk_on_off
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
@@ -79,19 +79,19 @@ protocol: NECext
 address: A0 A0 00 00
 command: 0E 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 0F 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 11 00 00 00
 #
-name: SPK_Setting
+name: Spk_setting
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
@@ -103,13 +103,13 @@ protocol: NECext
 address: A0 A0 00 00
 command: 13 00 00 00
 #
-name: bass_mgt
+name: Bass_mgt
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 14 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
@@ -121,19 +121,19 @@ protocol: NECext
 address: A0 A0 00 00
 command: 16 00 00 00
 #
-name: X_2Ch
+name: X_2ch
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 17 00 00 00
 #
-name: delay.T-
+name: Delay.t-
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 19 00 00 00
 #
-name: Pro_Logic
+name: Pro_logic
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
@@ -157,19 +157,19 @@ protocol: NECext
 address: A0 A0 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 1F 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: A0 A0 00 00
 command: 60 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A0 A0 00 00

@@ -16,19 +16,19 @@ protocol: NEC
 address: 02 00 00 00
 command: F6 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 6A 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: AA 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NEC
 address: 02 00 00 00
@@ -58,19 +58,19 @@ protocol: NEC
 address: 02 00 00 00
 command: BE 00 00 00
 # 
-name: Zoom_Out
+name: Zoom_out
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: E3 00 00 00
 # 
-name: Zoom_In
+name: Zoom_in
 type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: A3 00 00 00
 # 
-name: Far_End_Control
+name: Far_end_control
 type: parsed
 protocol: NEC
 address: 02 00 00 00

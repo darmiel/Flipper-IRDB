@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIEW_TV
+name: View_tv
 type: parsed
 protocol: NECext
 address: 08 00 00 00
 command: 16 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 08 00 00 00

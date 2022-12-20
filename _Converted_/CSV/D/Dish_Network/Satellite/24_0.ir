@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 00 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 0B 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 12 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 14 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 15 00 00 00
 #
-name: BROWSE
+name: Browse
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 18 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 1B 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 1F 00 00 00
 #
-name: PAGE_+
+name: Page_+
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 22 00 00 00
 #
-name: PAGE_-
+name: Page_-
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 23 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 2C 00 00 00
 #
-name: DISH
+name: Dish
 type: parsed
 protocol: NECext
 address: 18 00 00 00

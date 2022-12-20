@@ -1,235 +1,235 @@
 Filetype: IR signals file
 Version: 1
 #
-name: REM:_INPUT_ADJUST
+name: Rem:_input_adjust
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 00 00 00 00
 #
-name: NAV:_UP
+name: Nav:_up
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 01 00 00 00
 #
-name: NAV:_DOWN
+name: Nav:_down
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 02 00 00 00
 #
-name: INPUT:_S-VIDEO_2
+name: Input:_s-video_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 04 00 00 00
 #
-name: NAV:_LEFT
+name: Nav:_left
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 05 00 00 00
 #
-name: REM:_PAN
+name: Rem:_pan
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 07 00 00 00
 #
-name: REM:_CURTAIN
+name: Rem:_curtain
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 08 00 00 00
 #
-name: INPUT:_VIDEO_2
+name: Input:_video_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0A 00 00 00
 #
-name: NAV:_ENTER
+name: Nav:_enter
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0B 00 00 00
 #
-name: REM:_ZOOM
+name: Rem:_zoom
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0C 00 00 00
 #
-name: REM:_OUTPUT_SETUP
+name: Rem:_output_setup
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 0E 00 00 00
 #
-name: INPUT:_SDI
+name: Input:_sdi
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 10 00 00 00
 #
-name: TEST:_NEXT
+name: Test:_next
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 11 00 00 00
 #
-name: REM:_CONFIGURATION
+name: Rem:_configuration
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 12 00 00 00
 #
-name: NAV:_RIGHT
+name: Nav:_right
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 13 00 00 00
 #
-name: INPUT:_COMPONENT_2
+name: Input:_component_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 14 00 00 00
 #
-name: REM:_PIC_CONTROL
+name: Rem:_pic_control
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 1A 00 00 00
 #
-name: TEST:_PREVIOUS
+name: Test:_previous
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 1B 00 00 00
 #
-name: REM:_INFORMATION
+name: Rem:_information
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 40 00 00 00
 #
-name: NAV:_MENU
+name: Nav:_menu
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 43 00 00 00
 #
-name: NAV:_EXIT
+name: Nav:_exit
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 44 00 00 00
 #
-name: REM:_4:3
+name: Rem:_4:3
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 45 00 00 00
 #
-name: REM:_16:9
+name: Rem:_16:9
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 47 00 00 00
 #
-name: INPUT:_VIDEO_1
+name: Input:_video_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4A 00 00 00
 #
-name: INPUT:_AUTO
+name: Input:_auto
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4B 00 00 00
 #
-name: INPUT:_S-VIDEO_1
+name: Input:_s-video_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4E 00 00 00
 #
-name: INPUT:_COMPONENT_1
+name: Input:_component_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 4F 00 00 00
 #
-name: REM:_DISP_PROFILES
+name: Rem:_disp_profiles
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 50 00 00 00
 #
-name: REM:_VIEW_MODES
+name: Rem:_view_modes
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 51 00 00 00
 #
-name: REM:_INPUT_AR
+name: Rem:_input_ar
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 52 00 00 00
 #
-name: TEST:_ON/OFF
+name: Test:_on/off
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 52 00 00 00
 #
-name: REM:_BORDER
+name: Rem:_border
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 53 00 00 00
 #
-name: REM:_CROP
+name: Rem:_crop
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 54 00 00 00
 #
-name: REM:_ASPECT
+name: Rem:_aspect
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 55 00 00 00
 #
-name: INPUT:_HDMI_1
+name: Input:_hdmi_1
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 56 00 00 00
 #
-name: INPUT:_HDMI_2
+name: Input:_hdmi_2
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 57 00 00 00
 #
-name: INPUT:_HDMI_3
+name: Input:_hdmi_3
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 58 00 00 00
 #
-name: INPUT:_HDMI_4
+name: Input:_hdmi_4
 type: parsed
 protocol: NECext
 address: 84 20 00 00
 command: 59 00 00 00
 #
-name: INPUT:_RGBHV
+name: Input:_rgbhv
 type: parsed
 protocol: NECext
 address: 84 20 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # iDual JEDI Lighting LED Light
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 FE 00 00
@@ -27,25 +27,25 @@ protocol: NECext
 address: 02 FE 00 00
 command: 10 EF 00 00
 # 
-name: Cold_White
+name: Cold_white
 type: parsed
 protocol: NECext
 address: 02 FE 00 00
 command: 03 FC 00 00
 # 
-name: Neutral_White
+name: Neutral_white
 type: parsed
 protocol: NECext
 address: 02 FE 00 00
 command: 0A F5 00 00
 # 
-name: Warm_White
+name: Warm_white
 type: parsed
 protocol: NECext
 address: 02 FE 00 00
 command: 16 E9 00 00
 # 
-name: Cozy_White
+name: Cozy_white
 type: parsed
 protocol: NECext
 address: 02 FE 00 00
@@ -69,7 +69,7 @@ protocol: NECext
 address: 02 FE 00 00
 command: 17 E8 00 00
 # 
-name: Night_Light
+name: Night_light
 type: parsed
 protocol: NECext
 address: 02 FE 00 00
@@ -81,7 +81,7 @@ protocol: NECext
 address: 02 FE 00 00
 command: 13 EC 00 00
 # 
-name: Pastel_Colours
+name: Pastel_colours
 type: parsed
 protocol: NECext
 address: 02 FE 00 00
@@ -147,13 +147,13 @@ protocol: NECext
 address: 02 FE 00 00
 command: 15 EA 00 00
 # 
-name: Vivid_Shift
+name: Vivid_shift
 type: parsed
 protocol: NECext
 address: 02 FE 00 00
 command: 1A E5 00 00
 # 
-name: Pastel_Shift
+name: Pastel_shift
 type: parsed
 protocol: NECext
 address: 02 FE 00 00

@@ -97,13 +97,13 @@ protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: PP
+name: Pp
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: Nul_SP
+name: Nul_sp
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -157,7 +157,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 2F 00 00 00
 #
-name: TV/TX
+name: Tv/tx
 type: parsed
 protocol: NECext
 address: 07 00 00 00

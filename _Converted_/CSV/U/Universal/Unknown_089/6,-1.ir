@@ -61,61 +61,61 @@ protocol: NECext
 address: 06 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 15 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 18 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 19 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1A 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1E 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 2C 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 34 00 00 00
 #
-name: ChnDn
+name: Chndn
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -127,25 +127,25 @@ protocol: NECext
 address: 06 00 00 00
 command: 39 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 3F 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 64 00 00 00
 #
-name: AB
+name: Ab
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 70 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 06 00 00 00

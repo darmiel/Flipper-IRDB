@@ -10,13 +10,13 @@ protocol: NECext
 address: 05 05 00 00
 command: CF 30 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: AF 50 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -28,7 +28,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 2F D0 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -40,7 +40,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 47 B8 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -52,7 +52,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 87 78 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 07 F8 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: 05 05 00 00
 command: FB 04 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 6F 90 00 00
 #
-name: FAVORITE
+name: Favorite
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -148,67 +148,67 @@ protocol: NECext
 address: 05 05 00 00
 command: FF 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1B E4 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 93 6C 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: D3 2C 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 13 EC 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 33 CC 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 73 8C 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: B3 4C 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: F7 08 00 00
 #
-name: SLWFWD
+name: Slwfwd
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: E3 1C 00 00
 #
-name: LANGUAGE
+name: Language
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 77 88 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -226,73 +226,73 @@ protocol: NECext
 address: 05 05 00 00
 command: D7 28 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 0F F0 00 00
 #
-name: FILTER
+name: Filter
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 5B A4 00 00
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 53 AC 00 00
 #
-name: QUICKFIND
+name: Quickfind
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: DB 24 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 8F 70 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 6B 94 00 00
 #
-name: TELETEXT
+name: Teletext
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: AB 54 00 00
 #
-name: TIMESHIFT
+name: Timeshift
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: F3 0C 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 27 D8 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 3B C4 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: C7 38 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 05 05 00 00

@@ -9,63 +9,63 @@ address: 12 00 00 00
 command: 2F 00 00 00
 #
 # DECK_A-1 [raw] {11010010-101100}
-name: DECK_A-1
+name: Deck_a-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2C 00 00 00
 #
 # DECK_B-1 [raw] {11110010-101110}
-name: DECK_B-1
+name: Deck_b-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2E 00 00 00
 #
 # CONT-1 [raw] {11010010-100100}
-name: CONT-1
+name: Cont-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 24 00 00 00
 #
 # R_MODE-1 [raw] {11110010-011101}
-name: R_MODE-1
+name: R_mode-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 1D 00 00 00
 #
 # UP_ARROW-1 [raw] {11010010-010000}
-name: UP_ARROW-1
+name: Up_arrow-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 10 00 00 00
 #
 # DN_ARROW-1 [raw] {11110010-010001}
-name: DN_ARROW-1
+name: Dn_arrow-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 11 00 00 00
 #
 # MEMO-1 [raw] {11010010-101001}
-name: MEMO-1
+name: Memo-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 29 00 00 00
 #
 # AMS-1 [raw] {11110010-101011}
-name: AMS-1
+name: Ams-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2B 00 00 00
 #
 # COUNTER-1 [raw] {11010010-001111}
-name: COUNTER-1
+name: Counter-1
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -212,63 +212,63 @@ address: 12 00 00 00
 command: 2F 00 00 00
 #
 # DECK_A-2 [raw] {11110010-101100}
-name: DECK_A-2
+name: Deck_a-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2C 00 00 00
 #
 # DECK_B-2 [raw] {11010010-101110}
-name: DECK_B-2
+name: Deck_b-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2E 00 00 00
 #
 # CONT-2 [raw] {11110010-100100}
-name: CONT-2
+name: Cont-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 24 00 00 00
 #
 # R_MODE-2 [raw] {11010010-011101}
-name: R_MODE-2
+name: R_mode-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 1D 00 00 00
 #
 # UP_ARROW-2 [raw] {11110010-010000}
-name: UP_ARROW-2
+name: Up_arrow-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 10 00 00 00
 #
 # DN_ARROW-2 [raw] {11010010-010001}
-name: DN_ARROW-2
+name: Dn_arrow-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 11 00 00 00
 #
 # MEMO-2 [raw] {11110010-101001}
-name: MEMO-2
+name: Memo-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 29 00 00 00
 #
 # AMS-2 [raw] {11010010-101011}
-name: AMS-2
+name: Ams-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 2B 00 00 00
 #
 # COUNTER-2 [raw] {11110010-001111}
-name: COUNTER-2
+name: Counter-2
 type: parsed
 protocol: RC5
 address: 12 00 00 00

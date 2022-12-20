@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 02 00 00 00
 #
-name: SKIP_BACK
+name: Skip_back
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 04 00 00 00
 #
-name: SEARCH_BACK
+name: Search_back
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 05 00 00 00
 #
-name: SEARCH_FWD
+name: Search_fwd
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 06 00 00 00
 #
-name: SKIP_FWD
+name: Skip_fwd
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 07 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 08 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0A 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0B 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0D 00 00 00
 #
-name: SPACE
+name: Space
 type: parsed
 protocol: NECext
 address: 79 00 00 00
@@ -133,61 +133,61 @@ protocol: NECext
 address: 79 00 00 00
 command: 19 00 00 00
 #
-name: PLUS10
+name: Plus10
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1B 00 00 00
 #
-name: OUTPUT_MINUS
+name: Output_minus
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1C 00 00 00
 #
-name: OUTPUT_PLUS
+name: Output_plus
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1D 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 55 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 56 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 57 00 00 00
 #
-name: SYNCHRO
+name: Synchro
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 58 00 00 00
 #
-name: PEAK
+name: Peak
 type: parsed
 protocol: NECext
 address: 79 00 00 00

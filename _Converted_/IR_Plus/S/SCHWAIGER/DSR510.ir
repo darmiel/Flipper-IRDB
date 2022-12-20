@@ -70,7 +70,7 @@ protocol: NECext
 address: F0 0F 00 00
 command: 15 EA 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: F0 0F 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: F0 0F 00 00
 command: 87 78 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: F0 0F 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: F0 0F 00 00
 command: 4F B0 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: F0 0F 00 00

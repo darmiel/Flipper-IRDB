@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 03 01 00 00
 command: 10 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 03 01 00 00

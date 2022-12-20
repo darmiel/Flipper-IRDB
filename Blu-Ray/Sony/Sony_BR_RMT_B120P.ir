@@ -3,19 +3,19 @@ Version: 1
 #
 # Sony BDP-S185 / RMT-B120P Blu-ray Player
 #
-name: Open_Close
+name: Open_close
 type: parsed
 protocol: SIRC20
 address: 5A 1C 00 00
 command: 16 00 00 00
 # 
-name: TV_Input
+name: Tv_input
 type: parsed
 protocol: SIRC
 address: 01 00 00 00
 command: 25 00 00 00
 # 
-name: TV_Power
+name: Tv_power
 type: parsed
 protocol: SIRC
 address: 01 00 00 00
@@ -171,13 +171,13 @@ protocol: SIRC20
 address: 5A 1C 00 00
 command: 3D 00 00 00
 # 
-name: Top_Menu
+name: Top_menu
 type: parsed
 protocol: SIRC20
 address: 5A 1C 00 00
 command: 2C 00 00 00
 #
-name: Popup_Menu
+name: Popup_menu
 type: parsed
 protocol: SIRC20
 address: 5A 1C 00 00
@@ -213,7 +213,7 @@ protocol: SIRC20
 address: 5A 1C 00 00
 command: 19 00 00 00
 # 
-name: FastForward
+name: Fastforward
 type: parsed
 protocol: SIRC20
 address: 5A 1C 00 00

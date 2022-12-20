@@ -1,271 +1,271 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 01 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 02 00 00 00
 #
-name: VOL_-
+name: Vol_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 03 00 00 00
 #
-name: VOL_+
+name: Vol_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 03 00 00 00
 #
-name: INPUT_-_AM
+name: Input_-_am
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 05 00 00 00
 #
-name: INP_-_AMFM
+name: Inp_-_amfm
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 06 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 06 00 00 00
 #
-name: IPOD
+name: Ipod
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 07 00 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 08 00 00 00
 #
-name: FRONT_HDMI
+name: Front_hdmi
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 09 00 00 00
 #
-name: FRONT_AV
+name: Front_av
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0A 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0D 00 00 00
 #
-name: INP_-_TV
+name: Inp_-_tv
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0E 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0E 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0E 00 00 00
 #
-name: INP_-_AUX
+name: Inp_-_aux
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0F 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 0F 00 00 00
 #
-name: IN_2
+name: In_2
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 12 00 00 00
 #
-name: IN_3
+name: In_3
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 13 00 00 00
 #
-name: LAST_CHANNEL
+name: Last_channel
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 14 00 00 00
 #
-name: INP_-_CBL
+name: Inp_-_cbl
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 15 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 15 00 00 00
 #
-name: CABLE
+name: Cable
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 15 00 00 00
 #
-name: CBL/SAT
+name: Cbl/sat
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 15 00 00 00
 #
-name: IN_4
+name: In_4
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 15 00 00 00
 #
-name: CHAP/TRK_-
+name: Chap/trk_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 18 00 00 00
 #
-name: CH_-
+name: Ch_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 18 00 00 00
 #
-name: CHAP/TRK_+
+name: Chap/trk_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 19 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 19 00 00 00
 #
-name: CH_+
+name: Ch_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 19 00 00 00
 #
-name: TRANS_-_STOP
+name: Trans_-_stop
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 1A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 1A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 1A 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 20 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 20 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 25 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 25 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 28 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 28 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 30 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 30 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
@@ -391,415 +391,415 @@ protocol: NECext
 address: BA 4B 00 00
 command: 49 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 4C 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 4C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 4C 00 00 00
 #
-name: MUTE_ALL
+name: Mute_all
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 4D 00 00 00
 #
-name: IN_5
+name: In_5
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 52 00 00 00
 #
-name: INP_-_CDDVD
+name: Inp_-_cddvd
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 53 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 53 00 00 00
 #
-name: CD/DVD
+name: Cd/dvd
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 53 00 00 00
 #
-name: TRANS_-_PLAY
+name: Trans_-_play
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 55 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 55 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 55 00 00 00
 #
-name: TRANS_-_PAUSE
+name: Trans_-_pause
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 56 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 56 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 56 00 00 00
 #
-name: TRANS_-_SEEK_<<
+name: Trans_-_seek_<<
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 57 00 00 00
 #
-name: SEEK_-
+name: Seek_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 57 00 00 00
 #
-name: SEEK/SCAN_<<
+name: Seek/scan_<<
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 57 00 00 00
 #
-name: REV
+name: Rev
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 57 00 00 00
 #
-name: TRANS_-_SEEK_>>
+name: Trans_-_seek_>>
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 58 00 00 00
 #
-name: SEEK_+
+name: Seek_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 58 00 00 00
 #
-name: SEEK/SCAN_>>
+name: Seek/scan_>>
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 58 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 58 00 00 00
 #
-name: INPUT_-_FM
+name: Input_-_fm
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 59 00 00 00
 #
-name: REPLAY
+name: Replay
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 59 00 00 00
 #
-name: SKIP
+name: Skip
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 5A 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 5C 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 5D 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 60 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 60 00 00 00
 #
-name: CD_#
+name: Cd_#
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 63 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 64 00 00 00
 #
-name: ENCORE
+name: Encore
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 65 00 00 00
 #
-name: UMUSIC
+name: Umusic
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 66 00 00 00
 #
-name: WHOLE_CD
+name: Whole_cd
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 67 00 00 00
 #
-name: PG_DN
+name: Pg_dn
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 68 00 00 00
 #
-name: RATING_-
+name: Rating_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 68 00 00 00
 #
-name: PAGE_-
+name: Page_-
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 68 00 00 00
 #
-name: PG_UP
+name: Pg_up
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 69 00 00 00
 #
-name: RATING_+
+name: Rating_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 69 00 00 00
 #
-name: PAGE_+
+name: Page_+
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 69 00 00 00
 #
-name: SYSTEM
+name: System
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 70 00 00 00
 #
-name: SYSTEM
+name: System
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 70 00 00 00
 #
-name: SETTINGS
+name: Settings
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 80 00 00 00
 #
-name: MORE
+name: More
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 80 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 8C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 8C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 90 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 90 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 90 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 9D 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 9D 00 00 00
 #
-name: PLAYLIST
+name: Playlist
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: 9F 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: A0 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: A0 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: B0 00 00 00
 #
-name: LIBRARY
+name: Library
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: B0 00 00 00
 #
-name: STORED
+name: Stored
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: B3 00 00 00
 #
-name: IN_1
+name: In_1
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: B3 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: C0 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: C0 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: CC 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: CC 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: D0 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: D3 00 00 00
 #
-name: ASPECT_RATIO
+name: Aspect_ratio
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: DC 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: E0 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: E0 00 00 00
 #
-name: NET_1
+name: Net_1
 type: parsed
 protocol: NECext
 address: BA 4B 00 00
 command: F5 00 00 00
 #
-name: NET_2
+name: Net_2
 type: parsed
 protocol: NECext
 address: BA 4B 00 00

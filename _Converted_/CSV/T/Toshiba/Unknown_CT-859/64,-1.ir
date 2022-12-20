@@ -61,73 +61,73 @@ protocol: NECext
 address: 40 00 00 00
 command: 09 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0C 00 00 00
 #
-name: tv/video
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 12 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 15 00 00 00
 #
-name: ch_rtn
+name: Ch_rtn
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1F 00 00 00
 #
-name: cap/text
+name: Cap/text
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -139,25 +139,25 @@ protocol: NECext
 address: 40 00 00 00
 command: 63 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 80 00 00 00
 #
-name: set+
+name: Set+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 82 00 00 00
 #
-name: set-
+name: Set-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 83 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 40 00 00 00

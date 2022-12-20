@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT_VIDEO_1
+name: Input_video_1
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2A 00 00 00
 #
-name: INPUT_VIDEO_2
+name: Input_video_2
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2B 00 00 00
 #
-name: INPUT_RGB
+name: Input_rgb
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2C 00 00 00
 #
-name: PWR_ON
+name: Pwr_on
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2E 00 00 00
 #
-name: PWR_OFF
+name: Pwr_off
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 2F 00 00 00
 #
-name: SELECT+
+name: Select+
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 31 00 00 00
 #
-name: SELECT_-
+name: Select_-
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 32 00 00 00
 #
-name: FOCUS_IN
+name: Focus_in
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 41 00 00 00
 #
-name: FOCUS_OUT
+name: Focus_out
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 42 00 00 00
 #
-name: ZOOM_IN
+name: Zoom_in
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 54 00 00 00
 #
-name: ZOOM_OUT
+name: Zoom_out
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 55 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 56 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 59 00 00 00
 #
-name: INPUT_S_VIDEO
+name: Input_s_video
 type: parsed
 protocol: NECext
 address: 54 00 00 00
 command: 5F 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 54 00 00 00

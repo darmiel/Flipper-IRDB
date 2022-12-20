@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 05 01 00 00

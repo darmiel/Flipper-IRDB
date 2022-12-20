@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TCP
+name: Tcp
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 00 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 01 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -25,19 +25,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 06 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: PRGM
+name: Prgm
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -79,19 +79,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: FC
+name: Fc
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -121,19 +121,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: PCPM
+name: Pcpm
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00

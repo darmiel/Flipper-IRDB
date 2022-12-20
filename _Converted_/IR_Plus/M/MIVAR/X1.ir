@@ -76,7 +76,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 261 4716 261 7243 261 4716 261 4716 261 4716 261 7243 261 4716 261 7243 261 4716 261 4716 261 7243
 #
-name: L1-L2
+name: L1-l2
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -100,7 +100,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 261 4716 261 7243 261 4716 261 4716 261 4716 261 7243 261 4716 261 7243 261 7243 261 4716 261 7243
 #
-name: V-M
+name: V-m
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -130,7 +130,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 261 4716 261 4716 261 4716 261 4716 261 4716 261 4716 261 7243 261 4716 261 4716 261 7243 261 4716
 #
-name: P/C
+name: P/c
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -154,13 +154,13 @@ frequency: 38000
 duty_cycle: 0.33
 data: 261 4716 261 4716 261 4716 261 4716 261 4716 261 4716 261 7243 261 4716 261 7243 261 4716 261 7243
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 261 4716 261 7243 261 4716 261 4716 261 4716 261 4716 261 7243 261 4716 261 4716 261 7243 261 7243
 #
-name: TV-TVD
+name: Tv-tvd
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -178,7 +178,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 261 4716 261 4716 261 4716 261 4716 261 4716 261 4716 261 4716 261 7243 261 7243 261 4716 261 4716
 #
-name: AV
+name: Av
 type: raw
 frequency: 38000
 duty_cycle: 0.33

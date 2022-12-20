@@ -3,13 +3,13 @@ Version: 1
 # 
 # JXD 021 AOC Monitor
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 12 ED 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
@@ -141,13 +141,13 @@ protocol: NECext
 address: 00 7F 00 00
 command: 14 EB 00 00
 # 
-name: Fast_Forward
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 00 7F 00 00
 command: 1D E2 00 00
 # 
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 00 7F 00 00

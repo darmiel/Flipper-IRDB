@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 00 00 00 00
 #
-name: PRESET_>
+name: Preset_>
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 00 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 01 00 00 00
 #
-name: PRESET_<
+name: Preset_<
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 01 00 00 00
 #
-name: OUTPUT_LEVEL_^
+name: Output_level_^
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 02 00 00 00
 #
-name: OUTPUT_LEVEL_V
+name: Output_level_v
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 04 00 00 00
 #
-name: FM_MUTE
+name: Fm_mute
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 05 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: D2 25 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: D2 25 00 00
 command: 0F 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 10 00 00 00
 #
-name: PRESET_SCAN
+name: Preset_scan
 type: parsed
 protocol: NECext
 address: D2 25 00 00
@@ -151,91 +151,91 @@ protocol: NECext
 address: D2 25 00 00
 command: 1C 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 1E 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 40 00 00 00
 #
-name: TIMER_PRESET_+
+name: Timer_preset_+
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 40 00 00 00
 #
-name: TIMER_PRESET_-
+name: Timer_preset_-
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 41 00 00 00
 #
-name: TUNING_+
+name: Tuning_+
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 42 00 00 00
 #
-name: TUNING_-
+name: Tuning_-
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 43 00 00 00
 #
-name: ANTENNA
+name: Antenna
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 45 00 00 00
 #
-name: RF_MODE
+name: Rf_mode
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 46 00 00 00
 #
-name: IF_BAND
+name: If_band
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 47 00 00 00
 #
-name: HI-BLEND
+name: Hi-blend
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 48 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 49 00 00 00
 #
-name: GROUP
+name: Group
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 4C 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 4D 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: D2 25 00 00
 command: 4E 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: D2 25 00 00
@@ -337,7 +337,7 @@ protocol: NECext
 address: D2 25 00 00
 command: 5F 00 00 00
 #
-name: ADJUST
+name: Adjust
 type: parsed
 protocol: NECext
 address: D2 25 00 00

@@ -7,25 +7,25 @@ protocol: NECext
 address: CA B1 00 00
 command: 1F 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: CA B1 00 00
 command: 40 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: CA B1 00 00
 command: 41 00 00 00
 #
-name: ZOOMOUT
+name: Zoomout
 type: parsed
 protocol: NECext
 address: CA B1 00 00
 command: 42 00 00 00
 #
-name: ZOOMIN
+name: Zoomin
 type: parsed
 protocol: NECext
 address: CA B1 00 00

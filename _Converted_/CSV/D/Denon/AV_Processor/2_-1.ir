@@ -1,163 +1,163 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SURR_PUREDIRECT
+name: Surr_puredirect
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 6A 00 00 00
 #
-name: ZONE_2
+name: Zone_2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 79 00 00 00
 #
-name: POWER_ON_ZN_2
+name: Power_on_zn_2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 7B 00 00 00
 #
-name: POWER_OFF_ZN_2
+name: Power_off_zn_2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 7C 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C3 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C4 00 00 00
 #
-name: IPOD
+name: Ipod
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C4 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C5 00 00 00
 #
-name: DBS
+name: Dbs
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C8 00 00 00
 #
-name: CABLE_TV
+name: Cable_tv
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C9 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C9 00 00 00
 #
-name: VDP
+name: Vdp
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CA 00 00 00
 #
-name: MUSIC_SERVER
+name: Music_server
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CC 00 00 00
 #
-name: VIDEO_AUX
+name: Video_aux
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CC 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CD 00 00 00
 #
-name: VCR_2
+name: Vcr_2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CE 00 00 00
 #
-name: TAPE_1
+name: Tape_1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D2 00 00 00
 #
-name: RIGHT_ARROW
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: DD 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: DF 00 00 00
 #
-name: SELECT/ENTER
+name: Select/enter
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E0 00 00 00
 #
-name: POWER_ON_MAIN
+name: Power_on_main
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E1 00 00 00
 #
-name: POWER_OFF_MAIN
+name: Power_off_main
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E2 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E3 00 00 00
 #
-name: SURR_STANDARD
+name: Surr_standard
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: E4 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F0 00 00 00
 #
-name: VOL+_MAIN
+name: Vol+_main
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F1 00 00 00
 #
-name: VOL-_MAIN
+name: Vol-_main
 type: parsed
 protocol: NECext
 address: 02 00 00 00

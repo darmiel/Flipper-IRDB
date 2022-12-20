@@ -3,49 +3,49 @@ Version: 1
 # 
 # Canton Smart Soundbar 10
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 1E E1 00 00
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 1D E2 00 00
 # 
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 02 FD 00 00
 # 
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 05 FA 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 18 E7 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 0A F5 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 04 FB 00 00
 # 
-name: PLAY_MODE
+name: Play_mode
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
@@ -57,7 +57,7 @@ protocol: NECext
 address: 00 FB 00 00
 command: 07 F8 00 00
 # 
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
@@ -81,25 +81,25 @@ protocol: NECext
 address: 00 FB 00 00
 command: 12 ED 00 00
 # 
-name: FAST_REWIND
+name: Fast_rewind
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 0C F3 00 00
 # 
-name: PLAY_PAUSE
+name: Play_pause
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 1C E3 00 00
 # 
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 00 FB 00 00
 command: 0D F2 00 00
 # 
-name: BLUETOOTH
+name: Bluetooth
 type: parsed
 protocol: NECext
 address: 00 FB 00 00

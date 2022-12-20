@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 03 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 06 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -37,31 +37,31 @@ protocol: NECext
 address: 43 00 00 00
 command: 0D 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 13 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 14 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 15 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 29 00 00 00
 #
-name: SP/LP
+name: Sp/lp
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 36 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 43 00 00 00
 command: 38 00 00 00
 #
-name: OK/START
+name: Ok/start
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -187,37 +187,37 @@ protocol: NECext
 address: 43 00 00 00
 command: 3D 00 00 00
 #
-name: VHS
+name: Vhs
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 43 00 00 00
 #
-name: DV
+name: Dv
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: 44 00 00 00
 #
-name: jog_cc
+name: Jog_cc
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: AF 00 00 00
 #
-name: l_shuttle
+name: L_shuttle
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B7 00 00 00
 #
-name: r_shuttle
+name: R_shuttle
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: B8 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 43 00 00 00
@@ -259,25 +259,25 @@ protocol: NECext
 address: 43 00 00 00
 command: CB 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: CC 00 00 00
 #
-name: R.A.EDIT
+name: R.a.edit
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: DD 00 00 00
 #
-name: IN/OUT
+name: In/out
 type: parsed
 protocol: NECext
 address: 43 00 00 00
 command: DE 00 00 00
 #
-name: jog_cw
+name: Jog_cw
 type: parsed
 protocol: NECext
 address: 43 00 00 00

@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 01 00 00 00
 #
-name: REAR
+name: Rear
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 02 00 00 00
 #
-name: CNTR
+name: Cntr
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 06 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 07 00 00 00
 #
-name: DOWN_ARROW
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0C 00 00 00
 #
-name: RIGHT_ARROW
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0D 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0E 00 00 00
 #
-name: LEFT_ARROW
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0F 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 10 00 00 00
 #
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 11 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 12 00 00 00
 #
-name: PRE-AMP_POWER
+name: Pre-amp_power
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 13 00 00 00
 #
-name: BAL
+name: Bal
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
@@ -91,13 +91,13 @@ protocol: NECext
 address: 1C 00 00 00
 command: 33 00 00 00
 #
-name: ST
+name: St
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 35 00 00 00
 #
-name: PL
+name: Pl
 type: parsed
 protocol: NECext
 address: 1C 00 00 00

@@ -3,13 +3,13 @@ Version: 1
 # 
 # EGLO LED Lights
 #
-name: ON
+name: On
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 03 FC 00 00
 # 
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 00 EF 00 00

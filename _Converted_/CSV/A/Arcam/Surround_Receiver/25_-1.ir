@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER_+_A
+name: Tuner_+_a
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: TUNER_+_B
+name: Tuner_+_b
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: TUNER_-_A
+name: Tuner_-_a
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 21 00 00 00
 #
-name: TUNER_-_B
+name: Tuner_-_b
 type: parsed
 protocol: NECext
 address: 19 00 00 00

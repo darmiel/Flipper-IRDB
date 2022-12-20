@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 03 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 04 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 05 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 06 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 07 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 09 00 00 00
 #
-name: preset-
+name: Preset-
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 12 00 00 00
 #
-name: preset+
+name: Preset+
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 13 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 16 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 1E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
@@ -133,151 +133,151 @@ protocol: NECext
 address: 2C 2C 00 00
 command: 4B 00 00 00
 #
-name: pmode
+name: Pmode
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 4D 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 4E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 4F 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 59 00 00 00
 #
-name: rds
+name: Rds
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 60 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: 9A 00 00 00
 #
-name: listen-mode
+name: Listen-mode
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A1 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A3 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A4 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A5 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A6 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A7 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A8 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: A9 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: AA 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: AC 00 00 00
 #
-name: a-b
+name: A-b
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: AD 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: AE 00 00 00
 #
-name: top-menu
+name: Top-menu
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: AF 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: B0 00 00 00
 #
-name: slow-
+name: Slow-
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: B1 00 00 00
 #
-name: slow+
+name: Slow+
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: B2 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: B3 00 00 00
 #
-name: marker
+name: Marker
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00
 command: B4 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 2C 2C 00 00

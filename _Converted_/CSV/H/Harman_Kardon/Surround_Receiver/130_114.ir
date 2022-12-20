@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AC-3
+name: Ac-3
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 50 00 00 00
 #
-name: RF
+name: Rf
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 55 00 00 00
 #
-name: OPTICAL
+name: Optical
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 56 00 00 00
 #
-name: COAX
+name: Coax
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 57 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5C 00 00 00
 #
-name: CH._SELECT
+name: Ch._select
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 80 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 81 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 82 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 83 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8A 00 00 00
 #
-name: SPEAKER_+
+name: Speaker_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8E 00 00 00
 #
-name: SPEAKER_-
+name: Speaker_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8F 00 00 00
 #
-name: HALL
+name: Hall
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 90 00 00 00
 #
-name: MATRIX
+name: Matrix
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 93 00 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 95 00 00 00
 #
-name: NIGHT
+name: Night
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 96 00 00 00
 #
-name: STEREO/BYPASS
+name: Stereo/bypass
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9B 00 00 00
 #
-name: 3_CHAN._STEREO
+name: 3_chan._stereo
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9D 00 00 00
 #
-name: PRO-LOGIC
+name: Pro-logic
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9F 00 00 00
 #
-name: TUNER_PRESET_+
+name: Tuner_preset_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: TUNER_PRESET_-
+name: Tuner_preset_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: MULTI
+name: Multi
 type: parsed
 protocol: NECext
 address: 82 72 00 00

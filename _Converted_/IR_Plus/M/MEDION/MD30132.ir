@@ -10,13 +10,13 @@ protocol: NECext
 address: BD 42 00 00
 command: 7F 80 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 4F B0 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: BD 42 00 00
@@ -82,7 +82,7 @@ protocol: NECext
 address: BD 42 00 00
 command: 07 F8 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: BD 42 00 00
@@ -100,7 +100,7 @@ protocol: NECext
 address: BD 42 00 00
 command: BD 42 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: BD 42 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: BD 42 00 00
 command: 2F D0 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: BD 42 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: BD 42 00 00
 command: CF 30 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: BD 42 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: BD 42 00 00
 command: 8F 70 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: BD 42 00 00
@@ -148,127 +148,127 @@ protocol: NECext
 address: BD 42 00 00
 command: 0F F0 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 0F F0 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: DF 20 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 27 D8 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: CD 32 00 00
 #
-name: PIP POS
+name: Pip_pos
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: ED 12 00 00
 #
-name: PIP-
+name: Pip-
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 37 C8 00 00
 #
-name: PIP+
+name: Pip+
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 17 E8 00 00
 #
-name: PIPSIZE
+name: Pipsize
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 6D 92 00 00
 #
-name: RESET(LONG)
+name: Reset(long)
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: B7 48 00 00
 #
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: AF 50 00 00
 #
-name: CLOCK
+name: Clock
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: AD 52 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 9F 60 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 8D 72 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: C7 38 00 00
 #
-name: AVPC
+name: Avpc
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 7D 82 00 00
 #
-name: FORMAT
+name: Format
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 77 88 00 00
 #
-name: SCART2
+name: Scart2
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 6F 90 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 5F A0 00 00
 #
-name: AUDIO2
+name: Audio2
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 4D B2 00 00
 #
-name: ???F2
+name: ???f2
 type: parsed
 protocol: NECext
 address: BD 42 00 00
 command: 9D 62 00 00
 #
-name: ???F4
+name: ???f4
 type: parsed
 protocol: NECext
 address: BD 42 00 00

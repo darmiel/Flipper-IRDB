@@ -1,337 +1,337 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BK128_POWER_OFF
+name: Bk128_power_off
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 01 00 00 00
 #
-name: BK128_POWER_ON
+name: Bk128_power_on
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 02 00 00 00
 #
-name: BK128_MUTE
+name: Bk128_mute
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 03 00 00 00
 #
-name: BK128_INPUT_1
+name: Bk128_input_1
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 05 00 00 00
 #
-name: BK128_INPUT_3
+name: Bk128_input_3
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 06 00 00 00
 #
-name: BK128_INPUT_8
+name: Bk128_input_8
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 07 00 00 00
 #
-name: BK128_INPUT_2
+name: Bk128_input_2
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 09 00 00 00
 #
-name: BK128_INPUT_7
+name: Bk128_input_7
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 0B 00 00 00
 #
-name: BK128_INPUT_4
+name: Bk128_input_4
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 0D 00 00 00
 #
-name: BK128_TUNER_1
+name: Bk128_tuner_1
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 0E 00 00 00
 #
-name: BK128_INPUT_5
+name: Bk128_input_5
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 0F 00 00 00
 #
-name: BK128_STATION-
+name: Bk128_station-
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 17 00 00 00
 #
-name: BK128_STATION+
+name: Bk128_station+
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 18 00 00 00
 #
-name: BK128_TUNE-
+name: Bk128_tune-
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 1B 00 00 00
 #
-name: BK128_TUNE+
+name: Bk128_tune+
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 1C 00 00 00
 #
-name: BK128_LEFT
+name: Bk128_left
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 1F 00 00 00
 #
-name: BK128_RIGHT
+name: Bk128_right
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 20 00 00 00
 #
-name: BK128_VOLUME-
+name: Bk128_volume-
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 23 00 00 00
 #
-name: BK128_VOLUME+
+name: Bk128_volume+
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 24 00 00 00
 #
-name: BK128_NUMBER_+10
+name: Bk128_number_+10
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 29 00 00 00
 #
-name: BK128_EQ
+name: Bk128_eq
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 2A 00 00 00
 #
-name: BK128_DOWN
+name: Bk128_down
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 2D 00 00 00
 #
-name: BK128_UP
+name: Bk128_up
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 2E 00 00 00
 #
-name: BK128_ENTER
+name: Bk128_enter
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 30 00 00 00
 #
-name: BK128_NUMBER_1
+name: Bk128_number_1
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 31 00 00 00
 #
-name: BK128_NUMBER_2
+name: Bk128_number_2
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 32 00 00 00
 #
-name: BK128_NUMBER_3
+name: Bk128_number_3
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 33 00 00 00
 #
-name: BK128_NUMBER_4
+name: Bk128_number_4
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 35 00 00 00
 #
-name: BK128_NUMBER_5
+name: Bk128_number_5
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 36 00 00 00
 #
-name: BK128_NUMBER_6
+name: Bk128_number_6
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 37 00 00 00
 #
-name: BK128_NUMBER_7
+name: Bk128_number_7
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 39 00 00 00
 #
-name: BK128_NUMBER_8
+name: Bk128_number_8
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 3A 00 00 00
 #
-name: BK128_NUMBER_9
+name: Bk128_number_9
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 3B 00 00 00
 #
-name: BK128_NUMBER_0
+name: Bk128_number_0
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 3E 00 00 00
 #
-name: BK128_SAVE
+name: Bk128_save
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 40 00 00 00
 #
-name: BK128_TUNER_3
+name: Bk128_tuner_3
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 44 00 00 00
 #
-name: BK128_INPUT_6
+name: Bk128_input_6
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 4A 00 00 00
 #
-name: BK128_PRESET+
+name: Bk128_preset+
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 4B 00 00 00
 #
-name: BK128_D-IN
+name: Bk128_d-in
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 5A 00 00 00
 #
-name: BK128_BASS-
+name: Bk128_bass-
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 65 00 00 00
 #
-name: BK128_SOURCE+
+name: Bk128_source+
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 66 00 00 00
 #
-name: BK128_INPUT_9
+name: Bk128_input_9
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 6E 00 00 00
 #
-name: BK128_AM
+name: Bk128_am
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 76 00 00 00
 #
-name: BK128_TREBLE-
+name: Bk128_treble-
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 79 00 00 00
 #
-name: BK128_VIDEO-
+name: Bk128_video-
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 7A 00 00 00
 #
-name: BK128_EXIT
+name: Bk128_exit
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 7D 00 00 00
 #
-name: BK128_TUNER_2
+name: Bk128_tuner_2
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 84 00 00 00
 #
-name: BK128_FM
+name: Bk128_fm
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: 8E 00 00 00
 #
-name: BK128_SOURCE-
+name: Bk128_source-
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: A6 00 00 00
 #
-name: BK128_SLEEP
+name: Bk128_sleep
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: B3 00 00 00
 #
-name: BK128_PRESET-
+name: Bk128_preset-
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: C6 00 00 00
 #
-name: BK128_LOUDNESS
+name: Bk128_loudness
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: CF 00 00 00
 #
-name: BK128_AUTO_LEVEL
+name: Bk128_auto_level
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: E4 00 00 00
 #
-name: BK128_BASS+
+name: Bk128_bass+
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: E5 00 00 00
 #
-name: BK128_TREBLE+
+name: Bk128_treble+
 type: parsed
 protocol: NECext
 address: F2 D0 00 00
 command: F9 00 00 00
 #
-name: BK128_VIDEO+
+name: Bk128_video+
 type: parsed
 protocol: NECext
 address: F2 D0 00 00

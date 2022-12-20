@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: wallright
+name: Wallright
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: wallleft
+name: Wallleft
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -31,55 +31,55 @@ protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: maze
+name: Maze
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: awaylight
+name: Awaylight
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: turnright
+name: Turnright
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: turnleft
+name: Turnleft
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: seeklight
+name: Seeklight
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: foreward
+name: Foreward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: forewardright
+name: Forewardright
 type: parsed
 protocol: NECext
 address: 00 00 00 00

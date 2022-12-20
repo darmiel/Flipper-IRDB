@@ -4,7 +4,7 @@ Version: 1
 # artika Europa 21 in Chrome LED Lighting
 # Model #CL-ERR-HD2
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 EF 00 00
@@ -40,7 +40,7 @@ protocol: NECext
 address: 01 EF 00 00
 command: 0A F5 00 00
 # 
-name: Night_Light
+name: Night_light
 type: parsed
 protocol: NECext
 address: 01 EF 00 00
@@ -64,13 +64,13 @@ protocol: NECext
 address: 01 EF 00 00
 command: 0B F4 00 00
 # 
-name: Preset_Warm
+name: Preset_warm
 type: parsed
 protocol: NECext
 address: 01 EF 00 00
 command: 40 BF 00 00
 # 
-name: Preset_Cool
+name: Preset_cool
 type: parsed
 protocol: NECext
 address: 01 EF 00 00

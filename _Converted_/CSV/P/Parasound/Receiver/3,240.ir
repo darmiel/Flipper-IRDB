@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AUDIO_1
+name: Audio_1
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 80 00 00 00
 #
-name: AUDIO_2
+name: Audio_2
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 81 00 00 00
 #
-name: AUDIO_3
+name: Audio_3
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 82 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 83 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 84 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 85 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 86 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 87 00 00 00
 #
-name: VIDEO_4
+name: Video_4
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 88 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 89 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 8A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 8D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 8E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 8F 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 91 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 92 00 00 00
 #
-name: DIGITAL
+name: Digital
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 93 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
@@ -121,133 +121,133 @@ protocol: NECext
 address: 03 F0 00 00
 command: 97 00 00 00
 #
-name: AUDIO_1
+name: Audio_1
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 98 00 00 00
 #
-name: AUDIO_2
+name: Audio_2
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 99 00 00 00
 #
-name: AUDIO3
+name: Audio3
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 9A 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 9B 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 9C 00 00 00
 #
-name: VIDEO_3
+name: Video_3
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 9D 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 9E 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: 9F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C0 00 00 00
 #
-name: TRIM
+name: Trim
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C1 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C2 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C3 00 00 00
 #
-name: TUNE_+
+name: Tune_+
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C4 00 00 00
 #
-name: TUNE_-
+name: Tune_-
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C5 00 00 00
 #
-name: INPUT_LEVEL_+
+name: Input_level_+
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C6 00 00 00
 #
-name: INPUT_LEVEL_-
+name: Input_level_-
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C7 00 00 00
 #
-name: MANUAL
+name: Manual
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C8 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: C9 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: CB 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: CC 00 00 00
 #
-name: CAL
+name: Cal
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: CD 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
@@ -259,25 +259,25 @@ protocol: NECext
 address: 03 F0 00 00
 command: D2 00 00 00
 #
-name: DYN
+name: Dyn
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: D3 00 00 00
 #
-name: TONE
+name: Tone
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: D4 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 03 F0 00 00
 command: D6 00 00 00
 #
-name: RE-EQ
+name: Re-eq
 type: parsed
 protocol: NECext
 address: 03 F0 00 00

@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 1A F1 00 00
 command: 26 00 00 00
 #
-name: BTN_TRIGGER
+name: Btn_trigger
 type: parsed
 protocol: NECext
 address: 1A F1 00 00
 command: 2D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1A F1 00 00
 command: 38 00 00 00
 #
-name: BTN_SELECT
+name: Btn_select
 type: parsed
 protocol: NECext
 address: 1A F1 00 00
 command: 39 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 1A F1 00 00
 command: 3A 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 1A F1 00 00
 command: 3B 00 00 00
 #
-name: BTN_LEFT
+name: Btn_left
 type: parsed
 protocol: NECext
 address: 1A F1 00 00
 command: 3E 00 00 00
 #
-name: BTN_RIGHT
+name: Btn_right
 type: parsed
 protocol: NECext
 address: 1A F1 00 00
 command: 3F 00 00 00
 #
-name: BTN_EXTRA
+name: Btn_extra
 type: parsed
 protocol: NECext
 address: 1A F1 00 00

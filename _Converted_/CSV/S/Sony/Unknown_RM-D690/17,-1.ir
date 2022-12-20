@@ -67,13 +67,13 @@ protocol: NECext
 address: 11 00 00 00
 command: 10 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 12 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -85,19 +85,19 @@ protocol: NECext
 address: 11 00 00 00
 command: 16 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 16 00 00 00
 #
-name: continue
+name: Continue
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1C 00 00 00
 #
-name: pgm
+name: Pgm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -157,79 +157,79 @@ protocol: NECext
 address: 11 00 00 00
 command: 28 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2C 00 00 00
 #
-name: ams_rew
+name: Ams_rew
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 30 00 00 00
 #
-name: ams_fwd
+name: Ams_fwd
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 30 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 32 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 32 00 00 00
 #
-name: shuffle
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 34 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 34 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: fwd_slow
+name: Fwd_slow
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: autospc
+name: Autospc
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4E 00 00 00
 #
-name: fader
+name: Fader
 type: parsed
 protocol: NECext
 address: 11 00 00 00

@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 00 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 03 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
@@ -37,55 +37,55 @@ protocol: NECext
 address: 83 7A 00 00
 command: 05 00 00 00
 #
-name: ADD/DEL
+name: Add/del
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 06 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 08 00 00 00
 #
-name: MUTE/RESET
+name: Mute/reset
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 09 00 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 0B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 0C 00 00 00
 #
-name: SAP
+name: Sap
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 0D 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 0E 00 00 00
 #
-name: X_0/AM/PM
+name: X_0/am/pm
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
@@ -145,25 +145,25 @@ protocol: NECext
 address: 83 7A 00 00
 command: 19 00 00 00
 #
-name: Q.REV
+name: Q.rev
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 1A 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 1B 00 00 00
 #
-name: CLK/TIM
+name: Clk/tim
 type: parsed
 protocol: NECext
 address: 83 7A 00 00
 command: 1C 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: 83 7A 00 00

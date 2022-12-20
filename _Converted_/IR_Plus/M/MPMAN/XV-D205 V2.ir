@@ -16,13 +16,13 @@ protocol: NECext
 address: FF 00 00 00
 command: EF 10 00 00
 #
-name: DVD/TV
+name: Dvd/tv
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: C5 3A 00 00
 #
-name: 3D
+name: 3d
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -94,13 +94,13 @@ protocol: NECext
 address: FF 00 00 00
 command: AF 50 00 00
 #
-name: C/CH
+name: C/ch
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: FF 00 00 00
 #
-name: Top Menu
+name: Top_menu
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FF 00 00 00
 command: BD 42 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -154,13 +154,13 @@ protocol: NECext
 address: FF 00 00 00
 command: C7 38 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D7 28 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -178,19 +178,19 @@ protocol: NECext
 address: FF 00 00 00
 command: 7D 82 00 00
 #
-name: Rep/A-B
+name: Rep/a-b
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: Auto/Track
+name: Auto/track
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 4D B2 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -202,19 +202,19 @@ protocol: NECext
 address: FF 00 00 00
 command: F5 0A 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 17 E8 00 00
 #
-name: Slow -
+name: Slow_-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 65 9A 00 00
 #
-name: Slow +
+name: Slow_+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -226,19 +226,19 @@ protocol: NECext
 address: FF 00 00 00
 command: BF 40 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 57 A8 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: A7 58 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -256,13 +256,13 @@ protocol: NECext
 address: FF 00 00 00
 command: 5F A0 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 1F E0 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: FF 00 00 00

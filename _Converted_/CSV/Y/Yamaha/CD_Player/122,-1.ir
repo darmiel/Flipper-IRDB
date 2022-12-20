@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 08 00 00 00
 #
-name: STOP/PAUSE
+name: Stop/pause
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 09 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 09 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 09 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0A 00 00 00
 #
-name: TRACK_UP
+name: Track_up
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0A 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0B 00 00 00
 #
-name: TRACK_DOWN
+name: Track_down
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0B 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0C 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0D 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0D 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 10 00 00 00
 #
-name: DISC_-
+name: Disc_-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 11 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 4F 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

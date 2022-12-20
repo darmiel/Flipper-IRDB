@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 00 00 00 00
 #
-name: MIC_A
+name: Mic_a
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 04 00 00 00
 #
-name: MIC_B
+name: Mic_b
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 05 00 00 00
 #
-name: TREB
+name: Treb
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 07 00 00 00
 #
-name: AUX_A
+name: Aux_a
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 08 00 00 00
 #
-name: AUX_B
+name: Aux_b
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 09 00 00 00
 #
-name: AUX_C
+name: Aux_c
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: BASS
+name: Bass
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0B 00 00 00
 #
-name: AMP_1
+name: Amp_1
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0C 00 00 00
 #
-name: AMP_2
+name: Amp_2
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0D 00 00 00
 #
-name: AMP_3
+name: Amp_3
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0E 00 00 00
 #
-name: AUX_D
+name: Aux_d
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 0F 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -97,19 +97,19 @@ protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: ENT
+name: Ent
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 18 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 19 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 01 00 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: VOL
+name: Vol
 type: parsed
 protocol: NECext
 address: 01 00 00 00

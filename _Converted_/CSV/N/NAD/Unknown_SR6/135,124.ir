@@ -1,367 +1,367 @@
 Filetype: IR signals file
 Version: 1
 #
-name: cd-play
+name: Cd-play
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 01 00 00 00
 #
-name: cd-stop
+name: Cd-stop
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 02 00 00 00
 #
-name: cd-scan-rev
+name: Cd-scan-rev
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 04 00 00 00
 #
-name: cd-prev
+name: Cd-prev
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 05 00 00 00
 #
-name: cd-next
+name: Cd-next
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 06 00 00 00
 #
-name: cd-scan-fwd
+name: Cd-scan-fwd
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 07 00 00 00
 #
-name: disp-info
+name: Disp-info
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 08 00 00 00
 #
-name: cd-disp-info
+name: Cd-disp-info
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 08 00 00 00
 #
-name: rpt
+name: Rpt
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 0A 00 00 00
 #
-name: cd-rpt
+name: Cd-rpt
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 0A 00 00 00
 #
-name: cd-1
+name: Cd-1
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 0C 00 00 00
 #
-name: cd-2
+name: Cd-2
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 0D 00 00 00
 #
-name: cd-3
+name: Cd-3
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 0E 00 00 00
 #
-name: cd-4
+name: Cd-4
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 0F 00 00 00
 #
-name: cd-5
+name: Cd-5
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 10 00 00 00
 #
-name: cd-6
+name: Cd-6
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 11 00 00 00
 #
-name: cd-7
+name: Cd-7
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 12 00 00 00
 #
-name: cd-8
+name: Cd-8
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 13 00 00 00
 #
-name: cd-9
+name: Cd-9
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 15 00 00 00
 #
-name: cd-0
+name: Cd-0
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 16 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 25 00 00 00
 #
-name: tuner-disp-info
+name: Tuner-disp-info
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 26 00 00 00
 #
-name: tuner-blend
+name: Tuner-blend
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 35 00 00 00
 #
-name: tuner-fm-MUTE
+name: Tuner-fm-mute
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 37 00 00 00
 #
-name: cd-eject
+name: Cd-eject
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 48 00 00 00
 #
-name: cd-pause
+name: Cd-pause
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 4A 00 00 00
 #
-name: cd-10
+name: Cd-10
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 4C 00 00 00
 #
-name: cd-+10
+name: Cd-+10
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 4D 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 85 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 88 00 00 00
 #
-name: disc
+name: Disc
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 89 00 00 00
 #
-name: tuner-1
+name: Tuner-1
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 8A 00 00 00
 #
-name: tuner-5
+name: Tuner-5
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 8B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 8C 00 00 00
 #
-name: tape-mon
+name: Tape-mon
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 8D 00 00 00
 #
-name: tuner-2
+name: Tuner-2
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 8E 00 00 00
 #
-name: tuner-6
+name: Tuner-6
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 8F 00 00 00
 #
-name: tape2
+name: Tape2
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 91 00 00 00
 #
-name: tuner-3
+name: Tuner-3
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 92 00 00 00
 #
-name: tuner-7
+name: Tuner-7
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 93 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 94 00 00 00
 #
-name: tuner-4
+name: Tuner-4
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 96 00 00 00
 #
-name: tuner-8
+name: Tuner-8
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 97 00 00 00
 #
-name: tuner-9
+name: Tuner-9
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 98 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: C0 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: C1 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: C2 00 00 00
 #
-name: tuner-enter
+name: Tuner-enter
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: C5 00 00 00
 #
-name: tuner-0
+name: Tuner-0
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: C7 00 00 00
 #
-name: off
+name: Off
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: C8 00 00 00
 #
-name: spk-a
+name: Spk-a
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: CE 00 00 00
 #
-name: spk-b
+name: Spk-b
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: CF 00 00 00
 #
-name: tuner-preset-down
+name: Tuner-preset-down
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D1 00 00 00
 #
-name: tuner-preset-up
+name: Tuner-preset-up
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D2 00 00 00
 #
-name: tuner-tune-left
+name: Tuner-tune-left
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D3 00 00 00
 #
-name: tuner-tune-right
+name: Tuner-tune-right
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D4 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: DD 00 00 00
 #
-name: tuner-am-fm-dab
+name: Tuner-am-fm-dab
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: DD 00 00 00
 #
-name: tuner-10
+name: Tuner-10
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: F2 00 00 00
 #
-name: tuner-+10
+name: Tuner-+10
 type: parsed
 protocol: NECext
 address: 87 7C 00 00

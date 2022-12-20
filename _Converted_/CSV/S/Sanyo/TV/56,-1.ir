@@ -61,79 +61,79 @@ protocol: NECext
 address: 38 00 00 00
 command: 09 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0A 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0B 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0F 00 00 00
 #
-name: CAPTION
+name: Caption
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 12 00 00 00
 #
-name: INPUT_SOURCE
+name: Input_source
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 13 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 17 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 18 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 19 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 38 00 00 00

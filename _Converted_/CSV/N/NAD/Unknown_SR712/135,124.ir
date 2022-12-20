@@ -1,229 +1,229 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD-Pause
+name: Cd-pause
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 01 00 00 00
 #
-name: CD-Play
+name: Cd-play
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 01 00 00 00
 #
-name: CD-Stop
+name: Cd-stop
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 02 00 00 00
 #
-name: CD-Previous
+name: Cd-previous
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 05 00 00 00
 #
-name: CD-Next
+name: Cd-next
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 06 00 00 00
 #
-name: CD-Disc
+name: Cd-disc
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 17 00 00 00
 #
-name: Tuner-Bank
+name: Tuner-bank
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 24 00 00 00
 #
-name: TapeA-Stop
+name: Tapea-stop
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 52 00 00 00
 #
-name: TapeA-Play
+name: Tapea-play
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 53 00 00 00
 #
-name: TapeA-Rev
+name: Tapea-rev
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 54 00 00 00
 #
-name: TapeA-Record
+name: Tapea-record
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 55 00 00 00
 #
-name: TapeA-FastForward
+name: Tapea-fastforward
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 56 00 00 00
 #
-name: TapeA-Rewind
+name: Tapea-rewind
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 57 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 80 00 00 00
 #
-name: Input-TunerFM
+name: Input-tunerfm
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 81 00 00 00
 #
-name: Input-TunerAM
+name: Input-tuneram
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 82 00 00 00
 #
-name: Input-CD
+name: Input-cd
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 85 00 00 00
 #
-name: Tuner-SearchDown
+name: Tuner-searchdown
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 86 00 00 00
 #
-name: Tuner-SearchUp
+name: Tuner-searchup
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 87 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 88 00 00 00
 #
-name: Input-Phono
+name: Input-phono
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 89 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 8C 00 00 00
 #
-name: Input-Tape1
+name: Input-tape1
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 8D 00 00 00
 #
-name: Input-Tape2
+name: Input-tape2
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 91 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 94 00 00 00
 #
-name: TapeB-Record
+name: Tapeb-record
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9A 00 00 00
 #
-name: Input-Aux
+name: Input-aux
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9B 00 00 00
 #
-name: TapeB-Play
+name: Tapeb-play
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9C 00 00 00
 #
-name: TapeB-FastForward
+name: Tapeb-fastforward
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9D 00 00 00
 #
-name: TapeB-Rewind
+name: Tapeb-rewind
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9E 00 00 00
 #
-name: TapeB-Stop
+name: Tapeb-stop
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 9F 00 00 00
 #
-name: Input-VCR1
+name: Input-vcr1
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: C0 00 00 00
 #
-name: Input-LD
+name: Input-ld
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: C2 00 00 00
 #
-name: Tuner-PresetDown
+name: Tuner-presetdown
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D1 00 00 00
 #
-name: Tuner-PresetUp
+name: Tuner-presetup
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D2 00 00 00
 #
-name: Tuner-TuneDown
+name: Tuner-tunedown
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D3 00 00 00
 #
-name: Tuner-TuneUp
+name: Tuner-tuneup
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: D4 00 00 00
 #
-name: TapeB-Rev
+name: Tapeb-rev
 type: parsed
 protocol: NECext
 address: 87 7C 00 00

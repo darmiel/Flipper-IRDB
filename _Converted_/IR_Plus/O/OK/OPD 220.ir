@@ -10,19 +10,19 @@ protocol: NECext
 address: FE 01 00 00
 command: 3F C0 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: C5 3A 00 00
 #
-name: DVD/TV
+name: Dvd/tv
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: BF 40 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FE 01 00 00
@@ -34,7 +34,7 @@ protocol: NECext
 address: FE 01 00 00
 command: EF 10 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FE 01 00 00
@@ -46,7 +46,7 @@ protocol: NECext
 address: FE 01 00 00
 command: C7 38 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FE 01 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: FE 01 00 00
 command: F7 08 00 00
 #
-name: Top Menu
+name: Top_menu
 type: parsed
 protocol: NECext
 address: FE 01 00 00
@@ -148,13 +148,13 @@ protocol: NECext
 address: FE 01 00 00
 command: B7 48 00 00
 #
-name: C/CH
+name: C/ch
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: F5 0A 00 00
 #
-name: Rep/A-B
+name: Rep/a-b
 type: parsed
 protocol: NECext
 address: FE 01 00 00
@@ -172,37 +172,37 @@ protocol: NECext
 address: FE 01 00 00
 command: 97 68 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 07 F8 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: D7 28 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 47 B8 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: 27 D8 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: FE 01 00 00
 command: DF 20 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: FE 01 00 00

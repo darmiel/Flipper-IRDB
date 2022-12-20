@@ -67,91 +67,91 @@ protocol: NECext
 address: 2A 00 00 00
 command: 0A 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 0C 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 0D 00 00 00
 #
-name: PLAY_PAUSE
+name: Play_pause
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 10 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 12 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 13 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 14 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 15 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 16 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 17 00 00 00
 #
-name: SCAN_FF_>>
+name: Scan_ff_>>
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 18 00 00 00
 #
-name: SCAN_REW_<<
+name: Scan_rew_<<
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 19 00 00 00
 #
-name: SKIP_FF_>
+name: Skip_ff_>
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 1A 00 00 00
 #
-name: SKIP_REV_<
+name: Skip_rev_<
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 1B 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 2A 00 00 00
 command: 1C 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 2A 00 00 00

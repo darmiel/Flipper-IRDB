@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 06 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 08 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 15 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 19 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1A 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1D 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1F 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 22 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -79,25 +79,25 @@ protocol: NECext
 address: 05 00 00 00
 command: 2A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2C 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 39 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -175,97 +175,97 @@ protocol: NECext
 address: 05 00 00 00
 command: 3C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 56 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 57 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 58 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 59 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 9A 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: CE 00 00 00
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: D6 00 00 00
 #
-name: NUMERIC_STAR
+name: Numeric_star
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: D7 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: DA 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: E7 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: F4 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: F4 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: F6 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: F8 00 00 00
 #
-name: IMAGES
+name: Images
 type: parsed
 protocol: NECext
 address: 05 00 00 00

@@ -61,139 +61,139 @@ protocol: NECext
 address: 0A 00 00 00
 command: 09 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0D 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 21 00 00 00
 #
-name: REDO
+name: Redo
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 22 00 00 00
 #
-name: AB
+name: Ab
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 23 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 29 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 2F 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 38 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 3C 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 4F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 52 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 53 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 57 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 6B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 6C 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 6D 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 6E 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 0A 00 00 00

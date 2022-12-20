@@ -3,7 +3,7 @@ Version: 1
 # 
 # LG SJ4
 #
-name: POWER
+name: Power
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -15,19 +15,19 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: 8A 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 17 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 16 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -39,67 +39,67 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: 4F 00 00 00
 # 
-name: Skip_Forward
+name: Skip_forward
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 07 00 00 00
 # 
-name: Skip_Back
+name: Skip_back
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 06 00 00 00
 # 
-name: Woofer_Up
+name: Woofer_up
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: CA 00 00 00
 # 
-name: Woofer_Down
+name: Woofer_down
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: C9 00 00 00
 # 
-name: Night_mode_On
+name: Night_mode_on
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 9C 00 00 00
 # 
-name: Night_mode_Off
+name: Night_mode_off
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 9B 00 00 00
 # 
-name: Autopower_On
+name: Autopower_on
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: C7 00 00 00
 # 
-name: Autopower_Off
+name: Autopower_off
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: C8 00 00 00
 # 
-name: Cinema_Mode
+name: Cinema_mode
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 90 00 00 00
 # 
-name: Standard_Mode
+name: Standard_mode
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 36 00 00 00
 # 
-name: ASC_Mode
+name: Asc_mode
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00

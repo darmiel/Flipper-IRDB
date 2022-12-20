@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
@@ -67,103 +67,103 @@ protocol: NECext
 address: 7F 00 00 00
 command: 0A 00 00 00
 #
-name: CH
+name: Ch
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 0C 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 0D 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 0E 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 10 00 00 00
 #
-name: COUNTER_DISPLAY
+name: Counter_display
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 10 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 11 00 00 00
 #
-name: F.FWD_>>_/_>>
+name: F.fwd_>>_/_>>
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 11 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 12 00 00 00
 #
-name: REW_<<_/_<<
+name: Rew_<<_/_<<
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 12 00 00 00
 #
-name: RECORD_/_OTR
+name: Record_/_otr
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 14 00 00 00
 #
-name: -REC/QTR-
+name: -rec/qtr-
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 14 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 15 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 15 00 00 00
 #
-name: PAUSE/STILL
+name: Pause/still
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE/STILL_
+name: Pause/still_
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 17 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 1A 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
@@ -175,223 +175,223 @@ protocol: NECext
 address: 7F 00 00 00
 command: 1B 00 00 00
 #
-name: T-REC
+name: T-rec
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 1E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 1F 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 1F 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 40 00 00 00
 #
-name: CHANNEL_UP_^
+name: Channel_up_^
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 40 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 41 00 00 00
 #
-name: CHANNEL_DOWN_V
+name: Channel_down_v
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 41 00 00 00
 #
-name: ZERO_RETURN
+name: Zero_return
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 45 00 00 00
 #
-name: TRACKING_+
+name: Tracking_+
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 46 00 00 00
 #
-name: TRACKING_-
+name: Tracking_-
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 47 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 48 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 4C 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 4C 00 00 00
 #
-name: INDEX_SEARCH
+name: Index_search
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 4D 00 00 00
 #
-name: T._SPEED
+name: T._speed
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 50 00 00 00
 #
-name: TAPE_SPEED
+name: Tape_speed
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 50 00 00 00
 #
-name: COUNTER_MEMORY
+name: Counter_memory
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 51 00 00 00
 #
-name: COUNTER_CLOCK
+name: Counter_clock
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 56 00 00 00
 #
-name: A-TR
+name: A-tr
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 5C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 81 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 83 00 00 00
 #
-name: CURSOR_>
+name: Cursor_>
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 83 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 84 00 00 00
 #
-name: CURSOR_<
+name: Cursor_<
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 84 00 00 00
 #
-name: SEARCH/INDEX_>>
+name: Search/index_>>
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 85 00 00 00
 #
-name: VARIABLE_SEARCH_>>
+name: Variable_search_>>
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 85 00 00 00
 #
-name: SEARCH/INDEX_<<
+name: Search/index_<<
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 86 00 00 00
 #
-name: VARIABLE_SEARCH_<<
+name: Variable_search_<<
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 86 00 00 00
 #
-name: INDEX_MARK
+name: Index_mark
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 87 00 00 00
 #
-name: INDEX_ERASE
+name: Index_erase
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 88 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 8D 00 00 00
 #
-name: CURSOR_^
+name: Cursor_^
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 8D 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 8E 00 00 00
 #
-name: CURSOR_V
+name: Cursor_v
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 8E 00 00 00
 #
-name: SUMMER_TIME
+name: Summer_time
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 90 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 7F 00 00 00
 command: 9F 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 7F 00 00 00

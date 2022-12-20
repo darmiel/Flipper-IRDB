@@ -64,7 +64,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 6F 90 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -82,7 +82,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: AF 50 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -94,13 +94,13 @@ protocol: NECext
 address: 7F 80 00 00
 command: 77 88 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
 command: 97 68 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 67 98 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 27 D8 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: C7 38 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: A7 58 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 7F 80 00 00

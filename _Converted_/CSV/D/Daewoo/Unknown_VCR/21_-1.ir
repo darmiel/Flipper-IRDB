@@ -61,145 +61,145 @@ protocol: NECext
 address: 15 00 00 00
 command: 09 00 00 00
 #
-name: fi
+name: Fi
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0A 00 00 00
 #
-name: stop
+name: Stop
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0D 00 00 00
 #
-name: play
+name: Play
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0E 00 00 00
 #
-name: ffwd
+name: Ffwd
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0F 00 00 00
 #
-name: rew
+name: Rew
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 10 00 00 00
 #
-name: pause
+name: Pause
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 11 00 00 00
 #
-name: rec
+name: Rec
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 12 00 00 00
 #
-name: frame
+name: Frame
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 15 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 16 00 00 00
 #
-name: pr+
+name: Pr+
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 17 00 00 00
 #
-name: pr-
+name: Pr-
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 18 00 00 00
 #
-name: A.SEL
+name: A.sel
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 1A 00 00 00
 #
-name: SP/LP
+name: Sp/lp
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 1B 00 00 00
 #
-name: T.R
+name: T.r
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 1C 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 1D 00 00 00
 #
-name: PAL/SEC
+name: Pal/sec
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 1F 00 00 00
 #
-name: eject
+name: Eject
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 21 00 00 00
 #
-name: menu
+name: Menu
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 22 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 29 00 00 00
 #
-name: left
+name: Left
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 31 00 00 00
 #
-name: index+
+name: Index+
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 33 00 00 00
 #
-name: right
+name: Right
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 35 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 15 00 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 15 00 00 00
 command: 37 00 00 00
 #
-name: index-
+name: Index-
 type: parsed
 protocol: NECext
 address: 15 00 00 00

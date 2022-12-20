@@ -1,289 +1,289 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 02 00 00 00
 #
-name: ACTIVE_HYPER-BASS
+name: Active_hyper-bass
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 04 00 00 00
 #
-name: TUNER/BAND
+name: Tuner/band
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 0B 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 0D 00 00 00
 #
-name: (SHIFT)ENTER
+name: (shift)enter
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 11 00 00 00
 #
-name: (SHIFT)AUTO_PRESET
+name: (shift)auto_preset
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 13 00 00 00
 #
-name: CD_UNKNOWN
+name: Cd_unknown
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 14 00 00 00
 #
-name: PRESET_TUNING
+name: Preset_tuning
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 15 00 00 00
 #
-name: (SHIFT)DISPLAY
+name: (shift)display
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 1C 00 00 00
 #
-name: (SHIFT)MODE
+name: (shift)mode
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 1F 00 00 00
 #
-name: CD_1
+name: Cd_1
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 21 00 00 00
 #
-name: CD_2
+name: Cd_2
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 22 00 00 00
 #
-name: CD_3
+name: Cd_3
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 23 00 00 00
 #
-name: CD_4
+name: Cd_4
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 24 00 00 00
 #
-name: CD_5
+name: Cd_5
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 25 00 00 00
 #
-name: CD_6
+name: Cd_6
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 26 00 00 00
 #
-name: CD_7
+name: Cd_7
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 27 00 00 00
 #
-name: CD_8
+name: Cd_8
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 28 00 00 00
 #
-name: CD_9
+name: Cd_9
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 29 00 00 00
 #
-name: CD_10
+name: Cd_10
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 2A 00 00 00
 #
-name: CD_+10
+name: Cd_+10
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 2E 00 00 00
 #
-name: (SHIFT)TIMER
+name: (shift)timer
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 30 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 32 00 00 00
 #
-name: (SHIFT)CLOCK
+name: (shift)clock
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 33 00 00 00
 #
-name: (SHIFT)TIMER_ON/OFF
+name: (shift)timer_on/off
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 36 00 00 00
 #
-name: CD_SRCH_>>(UP)
+name: Cd_srch_>>(up)
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3D 00 00 00
 #
-name: CD_SRCH_<<(DOWN)
+name: Cd_srch_<<(down)
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3E 00 00 00
 #
-name: TAPE_STOP_[]
+name: Tape_stop_[]
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 41 00 00 00
 #
-name: TAPE_MUSIC_SCAN_>>
+name: Tape_music_scan_>>
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 44 00 00 00
 #
-name: TAPE_MUSIC_SCAN_<<
+name: Tape_music_scan_<<
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 45 00 00 00
 #
-name: TAPE_REC/PAUSE
+name: Tape_rec/pause
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 4B 00 00 00
 #
-name: TAPE_PLAY_>
+name: Tape_play_>
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 4C 00 00 00
 #
-name: TAPE_REV_PLAY_<
+name: Tape_rev_play_<
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 4D 00 00 00
 #
-name: (SHIFT)SYNCHRO_REC
+name: (shift)synchro_rec
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 56 00 00 00
 #
-name: CD_PLAY/PAUSE_>/
+name: Cd_play/pause_>/
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 70 00 00 00
 #
-name: CD_STOP/CLEAR_[]
+name: Cd_stop/clear_[]
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 71 00 00 00
 #
-name: (SHIFT)PROGRAM
+name: (shift)program
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 74 00 00 00
 #
-name: (SHIFT)EDIT
+name: (shift)edit
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 75 00 00 00
 #
-name: (SHIFT)INTRO
+name: (shift)intro
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 76 00 00 00
 #
-name: (SHIFT)RANDOM
+name: (shift)random
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 77 00 00 00
 #
-name: (SHIFT)REPEAT
+name: (shift)repeat
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 78 00 00 00
 #
-name: CD_DOOR
+name: Cd_door
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 7B 00 00 00
 #
-name: BASS_+
+name: Bass_+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 87 00 00 00
 #
-name: BASS_-
+name: Bass_-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 88 00 00 00
 #
-name: TREBLE_+
+name: Treble_+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 89 00 00 00
 #
-name: TREBLE_-
+name: Treble_-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00

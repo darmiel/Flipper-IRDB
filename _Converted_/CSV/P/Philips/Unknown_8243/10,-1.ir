@@ -61,91 +61,91 @@ protocol: NECext
 address: 0A 00 00 00
 command: 09 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0C 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 0F 00 00 00
 #
-name: TV/SAT
+name: Tv/sat
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 28 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 2F 00 00 00
 #
-name: SOUNDOFF
+name: Soundoff
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 46 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 4F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 50 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 51 00 00 00
 #
-name: SERV
+name: Serv
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 52 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 53 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 55 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 56 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 57 00 00 00
 #
-name: FRONT
+name: Front
 type: parsed
 protocol: NECext
 address: 0A 00 00 00
 command: 61 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0A 00 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
@@ -13,49 +13,49 @@ protocol: NECext
 address: C0 3F 00 00
 command: 03 00 00 00
 #
-name: Mode_(Tuner)
+name: Mode_(tuner)
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 18 00 00 00
 #
-name: Stereo/Mono_(Tuner)
+name: Stereo/mono_(tuner)
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 19 00 00 00
 #
-name: Speaker_A/B
+name: Speaker_a/b
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 1A 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 1B 00 00 00
 #
-name: Skip/Scan_up_(Tuner)
+name: Skip/scan_up_(tuner)
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 1D 00 00 00
 #
-name: Skip/Scan_down_(Tuner)
+name: Skip/scan_down_(tuner)
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 1E 00 00 00
 #
-name: BD/DVD
+name: Bd/dvd
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
@@ -79,37 +79,37 @@ protocol: NECext
 address: C0 3F 00 00
 command: 42 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 52 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 58 00 00 00
 #
-name: AM/TUNER
+name: Am/tuner
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 59 00 00 00
 #
-name: MP3/AUX
+name: Mp3/aux
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 5C 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: C0 3F 00 00
 command: 5D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: C0 3F 00 00

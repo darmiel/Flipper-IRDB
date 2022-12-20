@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SET_UP
+name: Set_up
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 83 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 84 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 87 00 00 00
 #
-name: PANORAMA_NORMAL(1)
+name: Panorama_normal(1)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 89 00 00 00
 #
-name: PANORAMA_WIDE(2)
+name: Panorama_wide(2)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8A 00 00 00
 #
-name: PANORAMA_BINAURAL(3)
+name: Panorama_binaural(3)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8B 00 00 00
 #
-name: BANK
+name: Bank
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8C 00 00 00
 #
-name: AMBIENCE_SMALL(4)
+name: Ambience_small(4)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8D 00 00 00
 #
-name: AMBIENCE_MEDIUM(5)
+name: Ambience_medium(5)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8E 00 00 00
 #
-name: AMBIENCE_LARGE(6)
+name: Ambience_large(6)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 8F 00 00 00
 #
-name: PARAM
+name: Param
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 90 00 00 00
 #
-name: REVERB_SMALL(7)
+name: Reverb_small(7)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 91 00 00 00
 #
-name: REVERB_MEDIUM(8)
+name: Reverb_medium(8)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 92 00 00 00
 #
-name: REVERB_LARGE(9)
+name: Reverb_large(9)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
@@ -91,19 +91,19 @@ protocol: NECext
 address: 1C 00 00 00
 command: 94 00 00 00
 #
-name: SRND_TV(10)
+name: Srnd_tv(10)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 95 00 00 00
 #
-name: SRND_MUSIC(11)
+name: Srnd_music(11)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 96 00 00 00
 #
-name: SRND_FULL(12)
+name: Srnd_full(12)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
@@ -115,103 +115,103 @@ protocol: NECext
 address: 1C 00 00 00
 command: 98 00 00 00
 #
-name: SRND_MONO(13)
+name: Srnd_mono(13)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 99 00 00 00
 #
-name: SRND_PRO-LOGIC(14)
+name: Srnd_pro-logic(14)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 9A 00 00 00
 #
-name: SRND_THX_CINEMA(15)
+name: Srnd_thx_cinema(15)
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 9B 00 00 00
 #
-name: BALANCE_^
+name: Balance_^
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 9E 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A0 00 00 00
 #
-name: BALANCE_<
+name: Balance_<
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A1 00 00 00
 #
-name: BALANCE_>
+name: Balance_>
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A3 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A4 00 00 00
 #
-name: BALANCE_V
+name: Balance_v
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A6 00 00 00
 #
-name: EFFECTS_V
+name: Effects_v
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: A9 00 00 00
 #
-name: EFFECTS_^
+name: Effects_^
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AA 00 00 00
 #
-name: EFX_MUTE
+name: Efx_mute
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AB 00 00 00
 #
-name: MAIN_MUTE
+name: Main_mute
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AC 00 00 00
 #
-name: INPUT_1
+name: Input_1
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AD 00 00 00
 #
-name: INPUT_2
+name: Input_2
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AE 00 00 00
 #
-name: INPUT_3
+name: Input_3
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: AF 00 00 00
 #
-name: INPUT_4
+name: Input_4
 type: parsed
 protocol: NECext
 address: 1C 00 00 00

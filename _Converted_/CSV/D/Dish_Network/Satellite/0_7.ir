@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 00 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 00 07 00 00
 command: 04 00 00 00
 #
-name: 2_-_ABC
+name: 2_-_abc
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 00 07 00 00
 command: 05 00 00 00
 #
-name: 3_-_DEF
+name: 3_-_def
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 00 07 00 00
 command: 06 00 00 00
 #
-name: 4_-_GHI
+name: 4_-_ghi
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 00 07 00 00
 command: 08 00 00 00
 #
-name: 5_-_JKL
+name: 5_-_jkl
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 00 07 00 00
 command: 09 00 00 00
 #
-name: 6_-_MNO
+name: 6_-_mno
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -85,13 +85,13 @@ protocol: NECext
 address: 00 07 00 00
 command: 0A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 0B 00 00 00
 #
-name: 7_-_PQRS
+name: 7_-_pqrs
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 00 07 00 00
 command: 0C 00 00 00
 #
-name: 8_-_TUV
+name: 8_-_tuv
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 00 07 00 00
 command: 0D 00 00 00
 #
-name: 9_-_WXYZ
+name: 9_-_wxyz
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -127,19 +127,19 @@ protocol: NECext
 address: 00 07 00 00
 command: 0E 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 10 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 10 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -151,103 +151,103 @@ protocol: NECext
 address: 00 07 00 00
 command: 11 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 12 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 14 00 00 00
 #
-name: VIEW
+name: View
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 16 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 17 00 00 00
 #
-name: CURSOR_RIGHT(BROWSE)
+name: Cursor_right(browse)
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 18 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 18 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 1A 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 1A 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 1B 00 00 00
 #
-name: CURSOR_LEFT_(THEME)
+name: Cursor_left_(theme)
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 1C 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 1C 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 1E 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 1E 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 1F 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 20 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 20 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 07 00 00
@@ -259,25 +259,25 @@ protocol: NECext
 address: 00 07 00 00
 command: 25 00 00 00
 #
-name: *_FORMAT
+name: *_format
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 25 00 00 00
 #
-name: #_-_SEARCH
+name: #_-_search
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 26 00 00 00
 #
-name: #_SEARCH
+name: #_search
 type: parsed
 protocol: NECext
 address: 00 07 00 00
 command: 26 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 00 07 00 00

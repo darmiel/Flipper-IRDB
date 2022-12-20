@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 10 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 11 00 00 00
 #
-name: ABCDE
+name: Abcde
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 12 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1F 00 00 00
 #
-name: BANK_A
+name: Bank_a
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E0 00 00 00
 #
-name: BANK_B
+name: Bank_b
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E1 00 00 00
 #
-name: BANK_C
+name: Bank_c
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E2 00 00 00
 #
-name: BANK_D
+name: Bank_d
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E3 00 00 00
 #
-name: BANK_E
+name: Bank_e
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E4 00 00 00
 #
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E5 00 00 00
 #
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E6 00 00 00
 #
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E7 00 00 00
 #
-name: PRESET_4
+name: Preset_4
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E8 00 00 00
 #
-name: PRESET_5
+name: Preset_5
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: E9 00 00 00
 #
-name: PRESET_6
+name: Preset_6
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: EA 00 00 00
 #
-name: PRESET_7
+name: Preset_7
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: EB 00 00 00
 #
-name: PRESET_8
+name: Preset_8
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

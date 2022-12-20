@@ -13,7 +13,7 @@ protocol: SIRC
 address: 0B 00 00 00
 command: 16 00 00 00
 # 
-name: Choix son
+name: Choix_son
 type: parsed
 protocol: SIRC
 address: 0B 00 00 00
@@ -25,7 +25,7 @@ protocol: SIRC15
 address: A4 00 00 00
 command: 3D 00 00 00
 # 
-name: Compt_Duree rest
+name: Compt_duree_rest
 type: parsed
 protocol: SIRC
 address: 0B 00 00 00
@@ -61,7 +61,7 @@ protocol: SIRC
 address: 0B 00 00 00
 command: 5A 00 00 00
 # 
-name: SP_LP
+name: Sp_lp
 type: parsed
 protocol: SIRC
 address: 0B 00 00 00
@@ -73,7 +73,7 @@ protocol: SIRC
 address: 0B 00 00 00
 command: 63 00 00 00
 # 
-name: TV_Magn
+name: Tv_magn
 type: parsed
 protocol: SIRC
 address: 0B 00 00 00
@@ -145,7 +145,7 @@ protocol: SIRC
 address: 0B 00 00 00
 command: 0A 00 00 00
 # 
-name: Input choice
+name: Input_choice
 type: parsed
 protocol: SIRC
 address: 0B 00 00 00
@@ -163,19 +163,19 @@ protocol: SIRC
 address: 01 00 00 00
 command: 12 00 00 00
 # 
-name: CH-
+name: Ch-
 type: parsed
 protocol: SIRC
 address: 0B 00 00 00
 command: 11 00 00 00
 # 
-name: CH+
+name: Ch+
 type: parsed
 protocol: SIRC
 address: 0B 00 00 00
 command: 10 00 00 00
 # 
-name: REC
+name: Rec
 type: parsed
 protocol: SIRC
 address: 0B 00 00 00
@@ -193,7 +193,7 @@ protocol: SIRC
 address: 0B 00 00 00
 command: 4D 00 00 00
 # 
-name: Smart access
+name: Smart_access
 type: parsed
 protocol: SIRC15
 address: BA 00 00 00
@@ -205,25 +205,25 @@ protocol: SIRC15
 address: BA 00 00 00
 command: 0E 00 00 00
 # 
-name: Down_Stop
+name: Down_stop
 type: parsed
 protocol: SIRC15
 address: BA 00 00 00
 command: 0F 00 00 00
 # 
-name: Left_Rwd
+name: Left_rwd
 type: parsed
 protocol: SIRC15
 address: BA 00 00 00
 command: 10 00 00 00
 # 
-name: Right_Fwd
+name: Right_fwd
 type: parsed
 protocol: SIRC15
 address: BA 00 00 00
 command: 11 00 00 00
 # 
-name: OK_Play
+name: Ok_play
 type: parsed
 protocol: SIRC15
 address: BA 00 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SEARCH_MODE
+name: Search_mode
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -13,49 +13,49 @@ protocol: NECext
 address: 04 00 00 00
 command: 9E 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 9F 00 00 00
 #
-name: PICTURE_ADJUST
+name: Picture_adjust
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: A0 00 00 00
 #
-name: PICT._ADJUST
+name: Pict._adjust
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: A0 00 00 00
 #
-name: PICADJ
+name: Picadj
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: A0 00 00 00
 #
-name: PIC_ADJ
+name: Pic_adj
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: A0 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: A1 00 00 00
 #
-name: PURE_DIRECT_MEMORY
+name: Pure_direct_memory
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: A2 00 00 00
 #
-name: P.D._MEMORY
+name: P.d._memory
 type: parsed
 protocol: NECext
 address: 04 00 00 00

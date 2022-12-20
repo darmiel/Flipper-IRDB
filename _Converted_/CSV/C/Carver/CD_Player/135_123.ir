@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SKIP_FWD_>>
+name: Skip_fwd_>>
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 80 00 00 00
 #
-name: SKIP_REV_<<
+name: Skip_rev_<<
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 81 00 00 00
 #
-name: PAUSE/STOP
+name: Pause/stop
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 81 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 83 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 84 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 84 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 85 00 00 00
 #
-name: SKIP_-
+name: Skip_-
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 85 00 00 00
 #
-name: SKIP_+
+name: Skip_+
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 86 00 00 00
 #
-name: DISC_SKIP_+
+name: Disc_skip_+
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 87 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 87 00 00 00
 #
-name: DISC_SKIP_-
+name: Disc_skip_-
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 88 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 88 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 89 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 89 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 8A 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 8A 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 8B 00 00 00
 #
-name: SCAN_FWD_>>
+name: Scan_fwd_>>
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 87 7B 00 00
 command: 8C 00 00 00
 #
-name: SCAN_REV_<<
+name: Scan_rev_<<
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 87 7B 00 00
 command: 8D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 87 7B 00 00
 command: 8E 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
@@ -241,7 +241,7 @@ protocol: NECext
 address: 87 7B 00 00
 command: 97 00 00 00
 #
-name: CONTINUE
+name: Continue
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
@@ -265,97 +265,97 @@ protocol: NECext
 address: 87 7B 00 00
 command: 9A 00 00 00
 #
-name: SOFT_EQ
+name: Soft_eq
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 9A 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 9B 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 9C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 9C 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 9D 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 9E 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 9F 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: 9F 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: C9 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: CA 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: CB 00 00 00
 #
-name: LEVEL_FILE
+name: Level_file
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: CC 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: CD 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: CE 00 00 00
 #
-name: FADER
+name: Fader
 type: parsed
 protocol: NECext
 address: 87 7B 00 00
 command: DB 00 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: 87 7B 00 00

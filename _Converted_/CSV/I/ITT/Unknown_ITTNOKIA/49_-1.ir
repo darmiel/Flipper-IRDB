@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 01 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 02 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -67,49 +67,49 @@ protocol: NECext
 address: 31 00 00 00
 command: 0F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 12 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 14 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 15 00 00 00
 #
-name: AUTOREWIND
+name: Autorewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 16 00 00 00
 #
-name: SLOW_MOTION
+name: Slow_motion
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -127,187 +127,187 @@ protocol: NECext
 address: 31 00 00 00
 command: 1D 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1E 00 00 00
 #
-name: TRACK
+name: Track
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1F 00 00 00
 #
-name: COUNTER_MEM
+name: Counter_mem
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 43 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 44 00 00 00
 #
-name: TAPEREMAIN
+name: Taperemain
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 45 00 00 00
 #
-name: PROGRAM_CHECK
+name: Program_check
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 46 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 47 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 48 00 00 00
 #
-name: AUDIO_DUBBING
+name: Audio_dubbing
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 49 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4A 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4C 00 00 00
 #
-name: VPS
+name: Vps
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4F 00 00 00
 #
-name: MARK_INDEX
+name: Mark_index
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 54 00 00 00
 #
-name: SP/LP
+name: Sp/lp
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 5E 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 80 00 00 00
 #
-name: TX_STOP
+name: Tx_stop
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 90 00 00 00
 #
-name: EXP
+name: Exp
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 91 00 00 00
 #
-name: REVEAL
+name: Reveal
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 92 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 93 00 00 00
 #
-name: CUR_R
+name: Cur_r
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 94 00 00 00
 #
-name: CUR_L
+name: Cur_l
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 95 00 00 00
 #
-name: CUR_DN
+name: Cur_dn
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 96 00 00 00
 #
-name: CUR_UP
+name: Cur_up
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 97 00 00 00
 #
-name: VPT
+name: Vpt
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 9A 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 9B 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 9C 00 00 00
 #
-name: CODE_LIST
+name: Code_list
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 9D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: CA 00 00 00
 #
-name: TITLE_REC
+name: Title_rec
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: DC 00 00 00
 #
-name: SETCLK?
+name: Setclk?
 type: parsed
 protocol: NECext
 address: 31 00 00 00

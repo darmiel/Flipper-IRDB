@@ -1,493 +1,493 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TAPE1_REC
+name: Tape1_rec
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 14 00 00 00
 #
-name: TAPE1_PLAY_>
+name: Tape1_play_>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 15 00 00 00
 #
-name: TAPE1_PAUSE_
+name: Tape1_pause_
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 16 00 00 00
 #
-name: TAPE1_STOP_[]
+name: Tape1_stop_[]
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 17 00 00 00
 #
-name: [1]_TUNER_1-9
+name: [1]_tuner_1-9
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 18 00 00 00
 #
-name: [1]_TUNER_2-10
+name: [1]_tuner_2-10
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 19 00 00 00
 #
-name: [1]_TUNER_3-11
+name: [1]_tuner_3-11
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1A 00 00 00
 #
-name: [1]_TUNER_4-12
+name: [1]_tuner_4-12
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1B 00 00 00
 #
-name: [1]_TUNER_5-13
+name: [1]_tuner_5-13
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1C 00 00 00
 #
-name: [1]_TUNER_6-14
+name: [1]_tuner_6-14
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1D 00 00 00
 #
-name: [1]_TUNER_7-15
+name: [1]_tuner_7-15
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1E 00 00 00
 #
-name: [1]_TUNER_8-16
+name: [1]_tuner_8-16
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 1F 00 00 00
 #
-name: [1]_POWER
+name: [1]_power
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 40 00 00 00
 #
-name: [1]_MUTE
+name: [1]_mute
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 41 00 00 00
 #
-name: [1]_VOLUME_^
+name: [1]_volume_^
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 42 00 00 00
 #
-name: [1]_VOLUME_V
+name: [1]_volume_v
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 43 00 00 00
 #
-name: [1]_PHONO
+name: [1]_phono
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 44 00 00 00
 #
-name: [1]_CD
+name: [1]_cd
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 45 00 00 00
 #
-name: [1]_TUNER
+name: [1]_tuner
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 46 00 00 00
 #
-name: [1]_AUX1
+name: [1]_aux1
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 47 00 00 00
 #
-name: [1]_AUX2
+name: [1]_aux2
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 48 00 00 00
 #
-name: [1]_TAPE1
+name: [1]_tape1
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 49 00 00 00
 #
-name: [1]_TAPE2
+name: [1]_tape2
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 4A 00 00 00
 #
-name: [1]_CD_SCAN_>>
+name: [1]_cd_scan_>>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 4C 00 00 00
 #
-name: [1]_CD_SCAN_<<
+name: [1]_cd_scan_<<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 4D 00 00 00
 #
-name: [1]_CD_SKIP_>
+name: [1]_cd_skip_>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 4E 00 00 00
 #
-name: [1]_CD_SKIP_<
+name: [1]_cd_skip_<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 4F 00 00 00
 #
-name: [1]_CD_PLAY_>
+name: [1]_cd_play_>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 50 00 00 00
 #
-name: [1]_CD_PAUSE_
+name: [1]_cd_pause_
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 51 00 00 00
 #
-name: [1]_CD_STOP_[]
+name: [1]_cd_stop_[]
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 52 00 00 00
 #
-name: TAPE1_FFWD_>>
+name: Tape1_ffwd_>>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 54 00 00 00
 #
-name: TAPE1_REW_<<
+name: Tape1_rew_<<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 55 00 00 00
 #
-name: TAPE1_CUE
+name: Tape1_cue
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 56 00 00 00
 #
-name: TAPE1_R.PLAY_<
+name: Tape1_r.play_<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 58 00 00 00
 #
-name: TAPE1_AZIMUTH_>
+name: Tape1_azimuth_>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 59 00 00 00
 #
-name: TAPE1_AZIMUTH_<
+name: Tape1_azimuth_<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 5A 00 00 00
 #
-name: [1]_TUNER_SHIFT
+name: [1]_tuner_shift
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 5B 00 00 00
 #
-name: [1]_TUNER_FM
+name: [1]_tuner_fm
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 5C 00 00 00
 #
-name: [1]_TUNER_AM
+name: [1]_tuner_am
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 5D 00 00 00
 #
-name: [1]_TUNER_SEEK_^
+name: [1]_tuner_seek_^
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 5E 00 00 00
 #
-name: [1]_TUNER_SEEK_V
+name: [1]_tuner_seek_v
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 5F 00 00 00
 #
-name: TAPE2_REC
+name: Tape2_rec
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 94 00 00 00
 #
-name: TAPE2_PLAY_>
+name: Tape2_play_>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 95 00 00 00
 #
-name: TAPE2_PAUSE_
+name: Tape2_pause_
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 96 00 00 00
 #
-name: TAPE2_STOP_[]
+name: Tape2_stop_[]
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 97 00 00 00
 #
-name: [2]_TUNER_1-9
+name: [2]_tuner_1-9
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 98 00 00 00
 #
-name: [2]_TUNER_2-10
+name: [2]_tuner_2-10
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 99 00 00 00
 #
-name: [2]_TUNER_3-11
+name: [2]_tuner_3-11
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 9A 00 00 00
 #
-name: [2]_TUNER_4-12
+name: [2]_tuner_4-12
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 9B 00 00 00
 #
-name: [2]_TUNER_5-13
+name: [2]_tuner_5-13
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 9C 00 00 00
 #
-name: [2]_TUNER_6-14
+name: [2]_tuner_6-14
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 9D 00 00 00
 #
-name: [2]_TUNER_7-15
+name: [2]_tuner_7-15
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 9E 00 00 00
 #
-name: [2]_TUNER_8-16
+name: [2]_tuner_8-16
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 9F 00 00 00
 #
-name: [2]_POWER
+name: [2]_power
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C0 00 00 00
 #
-name: [2]_MUTE
+name: [2]_mute
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C1 00 00 00
 #
-name: [2]_VOLUME_^
+name: [2]_volume_^
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C2 00 00 00
 #
-name: [2]_VOLUME_V
+name: [2]_volume_v
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C3 00 00 00
 #
-name: [2]_PHONO
+name: [2]_phono
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C4 00 00 00
 #
-name: [2]_CD
+name: [2]_cd
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C5 00 00 00
 #
-name: [2]_TUNER
+name: [2]_tuner
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C6 00 00 00
 #
-name: [2]_AUX1
+name: [2]_aux1
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C7 00 00 00
 #
-name: [2]_AUX2
+name: [2]_aux2
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C8 00 00 00
 #
-name: [2]_TAPE1
+name: [2]_tape1
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: C9 00 00 00
 #
-name: [2]_TAPE2
+name: [2]_tape2
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: CA 00 00 00
 #
-name: [2]_CD_SCAN_>>
+name: [2]_cd_scan_>>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: CC 00 00 00
 #
-name: [2]_CD_SCAN_<<
+name: [2]_cd_scan_<<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: CD 00 00 00
 #
-name: [2]_CD_SKIP_>
+name: [2]_cd_skip_>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: CE 00 00 00
 #
-name: [2]_CD_SKIP_<
+name: [2]_cd_skip_<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: CF 00 00 00
 #
-name: [2]_CD_PLAY_>
+name: [2]_cd_play_>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: D0 00 00 00
 #
-name: [2]_CD_PAUSE_
+name: [2]_cd_pause_
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: D1 00 00 00
 #
-name: [2]_CD_STOP_[]
+name: [2]_cd_stop_[]
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: D2 00 00 00
 #
-name: TAPE2_FFWD_>>
+name: Tape2_ffwd_>>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: D4 00 00 00
 #
-name: TAPE2_REW_<<
+name: Tape2_rew_<<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: D5 00 00 00
 #
-name: TAPE2_CUE
+name: Tape2_cue
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: D6 00 00 00
 #
-name: TAPE2_R.PLAY_<
+name: Tape2_r.play_<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: D8 00 00 00
 #
-name: TAPE2_AZIMUTH_>
+name: Tape2_azimuth_>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: D9 00 00 00
 #
-name: TAPE2_AZIMUTH_<
+name: Tape2_azimuth_<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: DA 00 00 00
 #
-name: [2]_TUNER_SHIFT
+name: [2]_tuner_shift
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: DB 00 00 00
 #
-name: [2]_TUNER_FM
+name: [2]_tuner_fm
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: DC 00 00 00
 #
-name: [2]_TUNER_AM
+name: [2]_tuner_am
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: DD 00 00 00
 #
-name: [2]_TUNER_SEEK_^
+name: [2]_tuner_seek_^
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: DE 00 00 00
 #
-name: [2]_TUNER_SEEK_V
+name: [2]_tuner_seek_v
 type: parsed
 protocol: NECext
 address: 57 00 00 00

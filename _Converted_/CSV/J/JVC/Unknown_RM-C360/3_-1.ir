@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: off_timer
+name: Off_timer
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 03 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: return+
+name: Return+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: tv/video
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 13 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: muting
+name: Muting
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -121,55 +121,55 @@ protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5A 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 5B 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 73 00 00 00
 #
-name: picture_mode
+name: Picture_mode
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 79 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7B 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 7C 00 00 00
 #
-name: colour
+name: Colour
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 92 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 9D 00 00 00
 #
-name: sound
+name: Sound
 type: parsed
 protocol: NECext
 address: 03 00 00 00

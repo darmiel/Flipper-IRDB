@@ -16,43 +16,43 @@ protocol: NECext
 address: 6E 61 00 00
 command: 04 FB 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 52 AD 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 32 CD 00 00
 #
-name: COMPONENT
+name: Component
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 8A 75 00 00
 #
-name: HDMI1
+name: Hdmi1
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 2A D5 00 00
 #
-name: HDMI2
+name: Hdmi2
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: CA 35 00 00
 #
-name: HDMI3
+name: Hdmi3
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 4A B5 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: 6E 61 00 00
 command: C2 3D 00 00
 #
-name: IPOD
+name: Ipod
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: 6E 61 00 00
 command: 42 BD 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
@@ -88,7 +88,7 @@ protocol: NECext
 address: 6E 61 00 00
 command: 02 FD 00 00
 #
-name: BRIDGE
+name: Bridge
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
@@ -100,7 +100,7 @@ protocol: NECext
 address: 6E 61 00 00
 command: 7C 83 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: 6E 61 00 00
 command: C4 3B 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
@@ -172,55 +172,55 @@ protocol: NECext
 address: 6E 61 00 00
 command: 44 BB 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: E2 1D 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 62 9D 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 0A F5 00 00
 #
-name: OPTIONS
+name: Options
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 22 DD 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 84 7B 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: FC 03 00 00
 #
-name: POPUP
+name: Popup
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: BC 43 00 00
 #
-name: TUNER PRS+
+name: Tuner_prs+
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 0C F3 00 00
 #
-name: TUNER PRS-
+name: Tuner_prs-
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
@@ -268,49 +268,49 @@ protocol: NECext
 address: 6E 61 00 00
 command: 2C D3 00 00
 #
-name: MENU TOP
+name: Menu_top
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 3C C3 00 00
 #
-name: FIND
+name: Find
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 72 8D 00 00
 #
-name: REPEAT A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 12 ED 00 00
 #
-name: MODE SCROLL
+name: Mode_scroll
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 0A F5 00 00
 #
-name: TUNER-
+name: Tuner-
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 7C 83 00 00
 #
-name: MENU SETUP
+name: Menu_setup
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: A2 5D 00 00
 #
-name: TUNER+
+name: Tuner+
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: C2 3D 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
@@ -322,43 +322,43 @@ protocol: NECext
 address: 6E 61 00 00
 command: 34 CB 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: F4 0B 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: B4 4B 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 0C F3 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: DC 23 00 00
 #
-name: BOOKMARK
+name: Bookmark
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 5C A3 00 00
 #
-name: THUMBNAIL
+name: Thumbnail
 type: parsed
 protocol: NECext
 address: 6E 61 00 00
 command: 9C 63 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 6E 61 00 00

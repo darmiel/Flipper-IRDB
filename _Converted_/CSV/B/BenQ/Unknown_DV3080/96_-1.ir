@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
@@ -61,169 +61,169 @@ protocol: NECext
 address: 60 00 00 00
 command: 0C 00 00 00
 #
-name: dualdigit
+name: Dualdigit
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0D 00 00 00
 #
-name: zap
+name: Zap
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: freeze
+name: Freeze
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 11 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 12 00 00 00
 #
-name: aspectratio
+name: Aspectratio
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 13 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 15 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 42 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 43 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 48 00 00 00
 #
-name: tt_index
+name: Tt_index
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 4C 00 00 00
 #
-name: tt_subpage
+name: Tt_subpage
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 4D 00 00 00
 #
-name: tt_info
+name: Tt_info
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 4E 00 00 00
 #
-name: teletext_display
+name: Teletext_display
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 4F 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 51 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 52 00 00 00
 #
-name: audiomode
+name: Audiomode
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 53 00 00 00
 #
-name: backlight
+name: Backlight
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 54 00 00 00
 #
-name: usersituation
+name: Usersituation
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 55 00 00 00
 #
-name: sound
+name: Sound
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 56 00 00 00
 #
-name: sleeptimer
+name: Sleeptimer
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 58 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 60 00 00 00

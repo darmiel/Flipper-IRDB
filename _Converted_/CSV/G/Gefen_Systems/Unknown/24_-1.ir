@@ -31,7 +31,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 05 00 00 00
 #
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 11 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -205,7 +205,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 1A 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -223,7 +223,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 1C 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -241,7 +241,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 1E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -259,7 +259,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 20 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -271,7 +271,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 21 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -289,7 +289,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 23 00 00 00
 #
-name: ^_(UP)
+name: ^_(up)
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -313,7 +313,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 26 00 00 00
 #
-name: <_(LEFT)
+name: <_(left)
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -331,7 +331,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 28 00 00 00
 #
-name: >_(RIGHT)
+name: >_(right)
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -343,7 +343,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 29 00 00 00
 #
-name: END
+name: End
 type: parsed
 protocol: NECext
 address: 18 00 00 00
@@ -361,7 +361,7 @@ protocol: NECext
 address: 18 00 00 00
 command: 2B 00 00 00
 #
-name: V_(DOWN)
+name: V_(down)
 type: parsed
 protocol: NECext
 address: 18 00 00 00

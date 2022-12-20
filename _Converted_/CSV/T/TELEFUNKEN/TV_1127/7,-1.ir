@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DIGIT_1
+name: Digit_1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: DIGIT_4
+name: Digit_4
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: DIGIT_7
+name: Digit_7
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 05 00 00 00
 #
-name: DIGIT_2
+name: Digit_2
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: DIGIT_5
+name: Digit_5
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: DIGIT_8
+name: Digit_8
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: DIGIT_0
+name: Digit_0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0E 00 00 00
 #
-name: DIGIT_3
+name: Digit_3
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: DIGIT_6
+name: Digit_6
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: DIGIT_9
+name: Digit_9
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1D 00 00 00
 #
-name: STD_VALUES
+name: Std_values
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 38 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 39 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 07 00 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNEL_-_PREVIOUS
+name: Channel_-_previous
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 0E 00 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: 26 00 00 00
@@ -73,61 +73,61 @@ protocol: NECext
 address: 26 00 00 00
 command: 19 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 1A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 1C 00 00 00
 #
-name: CHANNEL_-_UP
+name: Channel_-_up
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNEL_-_DOWN
+name: Channel_-_down
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 1E 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 1F 00 00 00
 #
-name: VOL-_MUTE
+name: Vol-_mute
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 20 00 00 00
 #
-name: VOL-_DOWN
+name: Vol-_down
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 21 00 00 00
 #
-name: VOL-_UP
+name: Vol-_up
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 22 00 00 00
 #
-name: FORMAT
+name: Format
 type: parsed
 protocol: NECext
 address: 26 00 00 00
 command: 24 00 00 00
 #
-name: BUY
+name: Buy
 type: parsed
 protocol: NECext
 address: 26 00 00 00

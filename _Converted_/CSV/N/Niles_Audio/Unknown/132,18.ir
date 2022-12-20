@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SPKR_2
+name: Spkr_2
 type: parsed
 protocol: NECext
 address: 84 12 00 00
 command: C6 00 00 00
 #
-name: SPKR_1
+name: Spkr_1
 type: parsed
 protocol: NECext
 address: 84 12 00 00
 command: C7 00 00 00
 #
-name: SPKR_4
+name: Spkr_4
 type: parsed
 protocol: NECext
 address: 84 12 00 00
 command: CA 00 00 00
 #
-name: SPKR_3
+name: Spkr_3
 type: parsed
 protocol: NECext
 address: 84 12 00 00
 command: CB 00 00 00
 #
-name: SPKR_6
+name: Spkr_6
 type: parsed
 protocol: NECext
 address: 84 12 00 00
 command: CE 00 00 00
 #
-name: SPKR_5
+name: Spkr_5
 type: parsed
 protocol: NECext
 address: 84 12 00 00
 command: CF 00 00 00
 #
-name: ALL_OFF
+name: All_off
 type: parsed
 protocol: NECext
 address: 84 12 00 00
 command: D6 00 00 00
 #
-name: ALL_ON
+name: All_on
 type: parsed
 protocol: NECext
 address: 84 12 00 00

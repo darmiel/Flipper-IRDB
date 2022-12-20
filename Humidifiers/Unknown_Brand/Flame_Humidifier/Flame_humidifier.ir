@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: On/Off
+name: On/off
 type: parsed
 protocol: NECext
 address: 4C 4D 00 00
 command: 47 B8 00 00
 # 
-name: Fire_On
+name: Fire_on
 type: parsed
 protocol: NECext
 address: 4C 4D 00 00
 command: 45 BA 00 00
 # 
-name: Light_On
+name: Light_on
 type: parsed
 protocol: NECext
 address: 4C 4D 00 00
 command: 16 E9 00 00
 # 
-name: Light_Mode
+name: Light_mode
 type: parsed
 protocol: NECext
 address: 4C 4D 00 00

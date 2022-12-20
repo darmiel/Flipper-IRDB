@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 01 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 02 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 03 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 06 00 00 00
 #
-name: SURROUND_-
+name: Surround_-
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 0A 00 00 00
 #
-name: SURROUND_+
+name: Surround_+
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 0B 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 0D 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 0E 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 0F 00 00 00
 #
-name: SKIP_FWD_>>
+name: Skip_fwd_>>
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 19 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 1A 00 00 00
 #
-name: SPEAKER_STEREO
+name: Speaker_stereo
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 4B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 4C 00 00 00
 #
-name: MUTE_ALL
+name: Mute_all
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 4D 00 00 00
 #
-name: SPEAKER_SURROUND
+name: Speaker_surround
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 4E 00 00 00
 #
-name: SPEAKER_STEREO/CNTR
+name: Speaker_stereo/cntr
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 4F 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 52 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 53 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 55 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 56 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: BA 55 00 00
 command: 5C 00 00 00
 #
-name: NEXT_DISC
+name: Next_disc
 type: parsed
 protocol: NECext
 address: BA 55 00 00

@@ -61,91 +61,91 @@ protocol: NECext
 address: 04 10 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 0A 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 0B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 0C 00 00 00
 #
-name: H/V
+name: H/v
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 0D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 0F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 12 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 14 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 15 00 00 00
 #
-name: TUN+
+name: Tun+
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 16 00 00 00
 #
-name: LNB
+name: Lnb
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 17 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 18 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 19 00 00 00
 #
-name: LT
+name: Lt
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 1A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 04 10 00 00
 command: 1D 00 00 00
 #
-name: TUN-
+name: Tun-
 type: parsed
 protocol: NECext
 address: 04 10 00 00

@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: On_Off
+name: On_off
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 00 FF 00 00
 # 
-name: Volume_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 19 E6 00 00
 # 
-name: Volume_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
@@ -25,31 +25,31 @@ protocol: NECext
 address: 78 0E 00 00
 command: 18 E7 00 00
 # 
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 08 F7 00 00
 # 
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 10 EF 00 00
 # 
-name: BT
+name: Bt
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 0C F3 00 00
 # 
-name: OPT
+name: Opt
 type: parsed
 protocol: NECext
 address: 78 0E 00 00
 command: 0D F2 00 00
 # 
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 78 0E 00 00

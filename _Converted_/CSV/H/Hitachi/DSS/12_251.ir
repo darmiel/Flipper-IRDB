@@ -1,289 +1,289 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DSS2_CH_^
+name: Dss2_ch_^
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 02 00 00 00
 #
-name: DSS2_CH_V
+name: Dss2_ch_v
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 03 00 00 00
 #
-name: DSS2_0_(&!/)
+name: Dss2_0_(&!/)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 04 00 00 00
 #
-name: DSS2_1_(ABC)
+name: Dss2_1_(abc)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 05 00 00 00
 #
-name: DSS2_2_(DEF)
+name: Dss2_2_(def)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 06 00 00 00
 #
-name: DSS2_3_(GHI)
+name: Dss2_3_(ghi)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 07 00 00 00
 #
-name: DSS2_4_(JKL)
+name: Dss2_4_(jkl)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 08 00 00 00
 #
-name: DSS2_5_(MNO)
+name: Dss2_5_(mno)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 09 00 00 00
 #
-name: DSS2_6_(PQR)
+name: Dss2_6_(pqr)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 0A 00 00 00
 #
-name: DSS2_7_(STU)
+name: Dss2_7_(stu)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 0B 00 00 00
 #
-name: DSS2_8_(VWX)
+name: Dss2_8_(vwx)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 0C 00 00 00
 #
-name: DSS2_9_(YZ)
+name: Dss2_9_(yz)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 0D 00 00 00
 #
-name: ACTION
+name: Action
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 0E 00 00 00
 #
-name: DSS2_EXIT
+name: Dss2_exit
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 0F 00 00 00
 #
-name: DSS2_V
+name: Dss2_v
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 10 00 00 00
 #
-name: DSS2_FAV
+name: Dss2_fav
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 11 00 00 00
 #
-name: DSS2_GUIDE
+name: Dss2_guide
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 12 00 00 00
 #
-name: DSS2_INFO
+name: Dss2_info
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 13 00 00 00
 #
-name: DSS2_<
+name: Dss2_<
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 14 00 00 00
 #
-name: DSS2_POWER
+name: Dss2_power
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 15 00 00 00
 #
-name: DSS2_LAST_CH
+name: Dss2_last_ch
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 16 00 00 00
 #
-name: DSS2_>
+name: Dss2_>
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 17 00 00 00
 #
-name: DSS2_SELECT
+name: Dss2_select
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 18 00 00 00
 #
-name: DSS2_^
+name: Dss2_^
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 19 00 00 00
 #
-name: DSS2_SVCS
+name: Dss2_svcs
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 69 00 00 00
 #
-name: DSS2_TRIANGLE
+name: Dss2_triangle
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 6A 00 00 00
 #
-name: DSS2_CIRCLE
+name: Dss2_circle
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 6B 00 00 00
 #
-name: DSS2_SQUARE
+name: Dss2_square
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 6C 00 00 00
 #
-name: DSS2_MOVIES
+name: Dss2_movies
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 6D 00 00 00
 #
-name: DSS2_SPORTS
+name: Dss2_sports
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 6E 00 00 00
 #
-name: DSS2_NEWS
+name: Dss2_news
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 6F 00 00 00
 #
-name: DSS2_MENU
+name: Dss2_menu
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 70 00 00 00
 #
-name: DSS2_ALPHA
+name: Dss2_alpha
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 75 00 00 00
 #
-name: DSS2_SCHED
+name: Dss2_sched
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 76 00 00 00
 #
-name: DSS2_QT1
+name: Dss2_qt1
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 77 00 00 00
 #
-name: DSS2_QT2
+name: Dss2_qt2
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 78 00 00 00
 #
-name: DSS2_QT3
+name: Dss2_qt3
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 79 00 00 00
 #
-name: DSS2_QT4
+name: Dss2_qt4
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 7A 00 00 00
 #
-name: DSS2_QT5
+name: Dss2_qt5
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 7B 00 00 00
 #
-name: DSS2_QT6
+name: Dss2_qt6
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 7C 00 00 00
 #
-name: DSS2_QT7
+name: Dss2_qt7
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 7D 00 00 00
 #
-name: DSS2_QT8
+name: Dss2_qt8
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 7E 00 00 00
 #
-name: DSS2_QT9
+name: Dss2_qt9
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 7F 00 00 00
 #
-name: DSS1_INPUT
+name: Dss1_input
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 81 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 82 00 00 00
 #
-name: DSS1_CH_^
+name: Dss1_ch_^
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 82 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 83 00 00 00
 #
-name: DSS1_CH_V
+name: Dss1_ch_v
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -295,7 +295,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 84 00 00 00
 #
-name: DSS1_0_(*!/)
+name: Dss1_0_(*!/)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -307,7 +307,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 85 00 00 00
 #
-name: DSS1_1_(ABC)
+name: Dss1_1_(abc)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -319,7 +319,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 86 00 00 00
 #
-name: DSS1_2_(DEF)
+name: Dss1_2_(def)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -331,7 +331,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 87 00 00 00
 #
-name: DSS1_3_(GHI)
+name: Dss1_3_(ghi)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -343,7 +343,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 88 00 00 00
 #
-name: DSS1_4_(JKL)
+name: Dss1_4_(jkl)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -355,7 +355,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 89 00 00 00
 #
-name: DSS1_5_(MNO)
+name: Dss1_5_(mno)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -367,7 +367,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 8A 00 00 00
 #
-name: DSS1_6_(PQR)
+name: Dss1_6_(pqr)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -379,7 +379,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 8B 00 00 00
 #
-name: DSS1_7_(STU)
+name: Dss1_7_(stu)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -391,7 +391,7 @@ protocol: NECext
 address: 0C FB 00 00
 command: 8C 00 00 00
 #
-name: DSS1_8_(VWX)
+name: Dss1_8_(vwx)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -403,253 +403,253 @@ protocol: NECext
 address: 0C FB 00 00
 command: 8D 00 00 00
 #
-name: DSS1_9_(YZ)
+name: Dss1_9_(yz)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 8D 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 8F 00 00 00
 #
-name: DSS1_EXIT
+name: Dss1_exit
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 8F 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 90 00 00 00
 #
-name: DSS1_V
+name: Dss1_v
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 90 00 00 00
 #
-name: FAV_(LIST)
+name: Fav_(list)
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 91 00 00 00
 #
-name: DSS1_FAV
+name: Dss1_fav
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 91 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 92 00 00 00
 #
-name: DSS1_GUIDE
+name: Dss1_guide
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 92 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 93 00 00 00
 #
-name: DSS1_INFO
+name: Dss1_info
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 93 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 94 00 00 00
 #
-name: DSS1_<
+name: Dss1_<
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 94 00 00 00
 #
-name: DSS1_POWER
+name: Dss1_power
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 95 00 00 00
 #
-name: LAST_CHAN
+name: Last_chan
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 96 00 00 00
 #
-name: DSS1_LAST_CH
+name: Dss1_last_ch
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 96 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 97 00 00 00
 #
-name: DSS1_>
+name: Dss1_>
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 97 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 98 00 00 00
 #
-name: DSS1_SELECT
+name: Dss1_select
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 98 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 99 00 00 00
 #
-name: DSS1_^
+name: Dss1_^
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 99 00 00 00
 #
-name: DSS1_SVCS
+name: Dss1_svcs
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: E9 00 00 00
 #
-name: DSS1_TRIANGLE
+name: Dss1_triangle
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: EA 00 00 00
 #
-name: DSS1_CIRCLE
+name: Dss1_circle
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: EB 00 00 00
 #
-name: DSS1_SQUARE
+name: Dss1_square
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: EC 00 00 00
 #
-name: DSS1_MOVIES
+name: Dss1_movies
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: ED 00 00 00
 #
-name: DSS1_SPORTS
+name: Dss1_sports
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: EE 00 00 00
 #
-name: DSS1_NEWS
+name: Dss1_news
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: EF 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: F0 00 00 00
 #
-name: DSS1_MENU
+name: Dss1_menu
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: F0 00 00 00
 #
-name: DSS1_ALPHA
+name: Dss1_alpha
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: F5 00 00 00
 #
-name: DSS1_SCHED
+name: Dss1_sched
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: F6 00 00 00
 #
-name: DSS1_QT1
+name: Dss1_qt1
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: F7 00 00 00
 #
-name: DSS1_QT2
+name: Dss1_qt2
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: F8 00 00 00
 #
-name: DSS1_QT3
+name: Dss1_qt3
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: F9 00 00 00
 #
-name: DSS1_QT4
+name: Dss1_qt4
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: FA 00 00 00
 #
-name: DSS1_QT5
+name: Dss1_qt5
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: FB 00 00 00
 #
-name: DSS1_QT6
+name: Dss1_qt6
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: FC 00 00 00
 #
-name: DSS1_QT7
+name: Dss1_qt7
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: FD 00 00 00
 #
-name: DSS1_QT8
+name: Dss1_qt8
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: FE 00 00 00
 #
-name: DSS1_QT9
+name: Dss1_qt9
 type: parsed
 protocol: NECext
 address: 0C FB 00 00

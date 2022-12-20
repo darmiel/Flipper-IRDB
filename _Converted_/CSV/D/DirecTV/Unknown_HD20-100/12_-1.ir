@@ -55,19 +55,19 @@ protocol: NECext
 address: 0C 00 00 00
 command: 09 00 00 00
 #
-name: ch+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0D 00 00 00
 #
-name: ch-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 0E 00 00 00
 #
-name: last
+name: Last
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
@@ -79,79 +79,79 @@ protocol: NECext
 address: 0C 00 00 00
 command: 11 00 00 00
 #
-name: dash
+name: Dash
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 12 00 00 00
 #
-name: up
+name: Up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 21 00 00 00
 #
-name: down
+name: Down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 22 00 00 00
 #
-name: left
+name: Left
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 23 00 00 00
 #
-name: right
+name: Right
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 24 00 00 00
 #
-name: select
+name: Select
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 25 00 00 00
 #
-name: exit
+name: Exit
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 26 00 00 00
 #
-name: back
+name: Back
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 27 00 00 00
 #
-name: guide
+name: Guide
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 28 00 00 00
 #
-name: action
+name: Action
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 29 00 00 00
 #
-name: list
+name: List
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2A 00 00 00
 #
-name: info
+name: Info
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 2E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 00 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 02 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 06 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 08 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0A 00 00 00
 #
-name: STILL
+name: Still
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 0C 00 00 00
 #
-name: VTR/TV
+name: Vtr/tv
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 36 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: 3D 00 00 00
 #
-name: TRACKING_PLUS
+name: Tracking_plus
 type: parsed
 protocol: NECext
 address: 90 00 00 00
 command: B1 00 00 00
 #
-name: TRACKING_MINUS
+name: Tracking_minus
 type: parsed
 protocol: NECext
 address: 90 00 00 00

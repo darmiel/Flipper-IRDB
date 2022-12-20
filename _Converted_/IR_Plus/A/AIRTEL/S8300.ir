@@ -16,37 +16,37 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1434 468 288 288 288 468 1968 468 288 468 288 348 288 676 1109 676 676
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1280 475 291 291 291 475 1982 475 291 475 291 291 291 632 1280 632 291 291 291
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1448 460 285 285 285 460 2405 460 285 285 285 671 285 341 285 341 285 285 671
 #
-name: BACK
+name: Back
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1252 460 294 294 294 460 1975 460 294 460 294 339 294 652 294 460 1252 652 294
 #
-name: EXIT
+name: Exit
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1404 471 294 294 294 471 2405 471 294 294 294 666 666 294 294 294 294 344 294
 #
-name: INFO
+name: Info
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1404 475 287 287 287 475 2416 475 287 287 287 658 287 658 658 475 287 658 287
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -58,7 +58,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1418 472 288 288 288 472 2390 472 288 288 288 687 288 288 288 347 288 472 687
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -70,7 +70,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1420 484 286 286 286 484 2378 484 286 286 286 654 286 286 286 344 286 484 286 484 286
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -82,7 +82,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1406 472 288 288 288 472 2415 472 288 288 288 653 288 288 288 288 288 472 288 653 288
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -94,43 +94,43 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1405 483 292 292 292 483 2376 483 292 292 292 640 292 346 292 346 292 483 292 292 292
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1392 481 294 294 294 481 1969 481 294 481 294 294 294 683 683 481 683 294 294
 #
-name: REW
+name: Rew
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1445 469 298 298 298 469 1983 469 298 469 298 298 298 672 672 469 298 469 298 298 298
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1429 486 288 288 288 486 2388 486 288 288 288 670 670 486 288 670 670
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1407 472 296 296 296 472 2374 472 296 296 296 666 666 666 1127
 #
-name: FWD
+name: Fwd
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1414 476 288 348 288 476 2416 476 288 288 288 685 685 476 288 476 685
 #
-name: REC
+name: Rec
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1428 477 284 284 284 477 2401 477 284 343 284 653 653 653 284 343 284 653 284
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -214,7 +214,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1418 474 291 291 291 474 2387 474 291 347 291 641 1214 474 291 291 291
 #
-name: FAV
+name: Fav
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -226,25 +226,25 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1415 476 289 289 289 476 2183 476 289 289 289 638 2183
 #
-name: HELP
+name: Help
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1441 474 287 287 287 474 1984 474 287 474 287 287 287 643 287 643 287 643 287 287 287 474 287
 #
-name: ITV
+name: Itv
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1409 476 292 292 292 476 2390 476 292 292 292 673 673 292 673 673 292
 #
-name: MOVIES
+name: Movies
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1416 472 298 298 298 472 1969 472 298 472 298 298 298 670 670 298 670 472 298
 #
-name: PVR
+name: Pvr
 type: raw
 frequency: 38000
 duty_cycle: 0.33

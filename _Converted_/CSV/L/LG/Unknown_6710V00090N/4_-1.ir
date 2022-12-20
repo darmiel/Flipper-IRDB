@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHPLUS
+name: Chplus
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 00 00 00 00
 #
-name: CHMINUS
+name: Chminus
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 02 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: MTS
+name: Mts
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0A 00 00 00
 #
-name: TVVIDEO
+name: Tvvideo
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0B 00 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -121,55 +121,55 @@ protocol: NECext
 address: 04 00 00 00
 command: 19 00 00 00
 #
-name: REVIEW
+name: Review
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1A 00 00 00
 #
-name: FCR
+name: Fcr
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 1E 00 00 00
 #
-name: CAPTION
+name: Caption
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 39 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 43 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 44 00 00 00
 #
-name: APC
+name: Apc
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4D 00 00 00
 #
-name: AUTOPRG
+name: Autoprg
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 54 00 00 00
 #
-name: MEMORYERASE
+name: Memoryerase
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 55 00 00 00
 #
-name: EYEASTERISK
+name: Eyeasterisk
 type: parsed
 protocol: NECext
 address: 04 00 00 00

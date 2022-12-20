@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SPEAKERS_2-3-5
+name: Speakers_2-3-5
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 00 00 00 00
 #
-name: MUTE_ZONE_#1
+name: Mute_zone_#1
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 01 00 00 00
 #
-name: VOL-_ZONE_#1
+name: Vol-_zone_#1
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: BA 88 00 00
 command: 02 00 00 00
 #
-name: VOL+_ZONE_#1
+name: Vol+_zone_#1
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -37,13 +37,13 @@ protocol: NECext
 address: BA 88 00 00
 command: 03 00 00 00
 #
-name: FM/AM_ZONE_#1
+name: Fm/am_zone_#1
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 06 00 00 00
 #
-name: SURROUND_-
+name: Surround_-
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: BA 88 00 00
 command: 0A 00 00 00
 #
-name: SURROUND_+
+name: Surround_+
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -67,31 +67,31 @@ protocol: NECext
 address: BA 88 00 00
 command: 0B 00 00 00
 #
-name: VCR_INPUT
+name: Vcr_input
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 0D 00 00 00
 #
-name: TV_INPUT
+name: Tv_input
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 0E 00 00 00
 #
-name: AUX_INPUT_ZONE_#1
+name: Aux_input_zone_#1
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 0F 00 00 00
 #
-name: DVD_STOP
+name: Dvd_stop
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 1A 00 00 00
 #
-name: DVD_CURSOR_DOWN
+name: Dvd_cursor_down
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -103,139 +103,139 @@ protocol: NECext
 address: BA 88 00 00
 command: 20 00 00 00
 #
-name: FM/AM_ZONE_#2
+name: Fm/am_zone_#2
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 20 00 00 00
 #
-name: DVD_EXIT
+name: Dvd_exit
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 30 00 00 00
 #
-name: DVD_0
+name: Dvd_0
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 40 00 00 00
 #
-name: DVD_1
+name: Dvd_1
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 41 00 00 00
 #
-name: FM_PRESET_1
+name: Fm_preset_1
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 41 00 00 00
 #
-name: DVD_2
+name: Dvd_2
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 42 00 00 00
 #
-name: FM_PRESET_2
+name: Fm_preset_2
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 42 00 00 00
 #
-name: DVD_3
+name: Dvd_3
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 43 00 00 00
 #
-name: FM_PRESET_3
+name: Fm_preset_3
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 43 00 00 00
 #
-name: DVD_4
+name: Dvd_4
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 44 00 00 00
 #
-name: FM_PRESET_4
+name: Fm_preset_4
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 44 00 00 00
 #
-name: DVD_5
+name: Dvd_5
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 45 00 00 00
 #
-name: DVD_6
+name: Dvd_6
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 46 00 00 00
 #
-name: DVD_7
+name: Dvd_7
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 47 00 00 00
 #
-name: DVD_8
+name: Dvd_8
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 48 00 00 00
 #
-name: DVD_9
+name: Dvd_9
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 49 00 00 00
 #
-name: ON_/OFF
+name: On_/off
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 4C 00 00 00
 #
-name: MUTE_ALL_ZONE_#1&2
+name: Mute_all_zone_#1&2
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 4D 00 00 00
 #
-name: CD/DVD
+name: Cd/dvd
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 53 00 00 00
 #
-name: DVD_PLAY
+name: Dvd_play
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 55 00 00 00
 #
-name: DVD_PAUSE
+name: Dvd_pause
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 56 00 00 00
 #
-name: DVD_SKIP_<<
+name: Dvd_skip_<<
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 57 00 00 00
 #
-name: DVD_SKIP_>>
+name: Dvd_skip_>>
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -247,13 +247,13 @@ protocol: NECext
 address: BA 88 00 00
 command: 58 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 5C 00 00 00
 #
-name: DVD_CURSOR_RIGHT
+name: Dvd_cursor_right
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -265,25 +265,25 @@ protocol: NECext
 address: BA 88 00 00
 command: 60 00 00 00
 #
-name: SETTINGS
+name: Settings
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 80 00 00 00
 #
-name: DVD_MENU
+name: Dvd_menu
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 90 00 00 00
 #
-name: DVD_REPEAT
+name: Dvd_repeat
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: 9D 00 00 00
 #
-name: DVD_CURSOR_LEFT
+name: Dvd_cursor_left
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -295,7 +295,7 @@ protocol: NECext
 address: BA 88 00 00
 command: A0 00 00 00
 #
-name: DVD_CURSOR_UP
+name: Dvd_cursor_up
 type: parsed
 protocol: NECext
 address: BA 88 00 00
@@ -307,13 +307,13 @@ protocol: NECext
 address: BA 88 00 00
 command: C0 00 00 00
 #
-name: DVD_GUIDE
+name: Dvd_guide
 type: parsed
 protocol: NECext
 address: BA 88 00 00
 command: D0 00 00 00
 #
-name: DVD_ENTER
+name: Dvd_enter
 type: parsed
 protocol: NECext
 address: BA 88 00 00

@@ -9,19 +9,19 @@ protocol: NEC
 address: 20 00 00 00
 command: 41 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 51 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 56 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NEC
 address: 20 00 00 00

@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 0E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 0F 00 00 00
 #
-name: STANDBY_(POWER)
+name: Standby_(power)
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 10 00 00 00
 #
-name: LITE_SHOW
+name: Lite_show
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 11 00 00 00
 #
-name: NEXT_^
+name: Next_^
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 12 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 17 00 00 00
 #
-name: FREEZE_ESC
+name: Freeze_esc
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 18 00 00 00
 #
-name: MENU_EDIT
+name: Menu_edit
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 19 00 00 00
 #
-name: MIC_>
+name: Mic_>
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 1B 00 00 00
 #
-name: MUTE_<
+name: Mute_<
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 1D 00 00 00
 #
-name: SELECT_ENTER
+name: Select_enter
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 1E 00 00 00
 #
-name: PREV_V
+name: Prev_v
 type: parsed
 protocol: NECext
 address: 02 01 00 00

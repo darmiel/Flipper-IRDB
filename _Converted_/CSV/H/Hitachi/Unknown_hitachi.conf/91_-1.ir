@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: pow
+name: Pow
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 00 00 00 00
 #
-name: vl+
+name: Vl+
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 01 00 00 00
 #
-name: vl-
+name: Vl-
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 02 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 07 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 08 00 00 00
 #
-name: tape_select
+name: Tape_select
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 09 00 00 00
 #
-name: ply
+name: Ply
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 12 00 00 00
 #
-name: stp
+name: Stp
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 13 00 00 00
 #
-name: faf
+name: Faf
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 14 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 15 00 00 00
 #
-name: mnu
+name: Mnu
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 16 00 00 00
 #
-name: rst
+name: Rst
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 17 00 00 00
 #
-name: ant
+name: Ant
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 18 00 00 00
 #
-name: srt
+name: Srt
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 19 00 00 00
 #
-name: slt
+name: Slt
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1A 00 00 00
 #
-name: rgt
+name: Rgt
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1B 00 00 00
 #
-name: lft
+name: Lft
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1C 00 00 00
 #
-name: tape_stop
+name: Tape_stop
 type: parsed
 protocol: NECext
 address: 5B 00 00 00
 command: 1D 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 5B 00 00 00

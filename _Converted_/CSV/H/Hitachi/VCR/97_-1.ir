@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 00 00 00 00
 #
-name: VCR_PROGRAM
+name: Vcr_program
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 00 00 00 00
 #
-name: VCR1_S.Q.P.
+name: Vcr1_s.q.p.
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 00 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: VTR_RECORD
+name: Vtr_record
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: VCR1_RECORD
+name: Vcr1_record
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: VCR1_REC
+name: Vcr1_rec
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: VCR_REC
+name: Vcr_rec
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: VCR1_REC-PLAY
+name: Vcr1_rec-play
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: VTR1_RECORD
+name: Vtr1_record
 type: parsed
 protocol: NECext
 address: 61 00 00 00
 command: 14 00 00 00
 #
-name: PL
+name: Pl
 type: parsed
 protocol: NECext
 address: 61 00 00 00

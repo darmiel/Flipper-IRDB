@@ -61,13 +61,13 @@ protocol: NECext
 address: 21 A0 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
@@ -79,133 +79,133 @@ protocol: NECext
 address: 21 A0 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 11 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 20 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 21 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 38 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 54 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 58 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 59 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 5A 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 5B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 5C 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 6D 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 6E 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 6F 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 70 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 81 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 83 00 00 00
 #
-name: FOXTEL
+name: Foxtel
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: 8E 00 00 00
 #
-name: TV_GUIDE
+name: Tv_guide
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: CC 00 00 00
 #
-name: BOX_OFFICE
+name: Box_office
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: D5 00 00 00
 #
-name: PLANNER
+name: Planner
 type: parsed
 protocol: NECext
 address: 21 A0 00 00
 command: F4 00 00 00
 #
-name: ACTIVE
+name: Active
 type: parsed
 protocol: NECext
 address: 21 A0 00 00

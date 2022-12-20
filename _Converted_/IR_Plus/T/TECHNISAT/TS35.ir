@@ -10,13 +10,13 @@ protocol: RC5
 address: 12 00 00 00
 command: 8D 00 00 00
 #
-name: EXT
+name: Ext
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: B8 00 00 00
 #
-name: AB
+name: Ab
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -46,7 +46,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 83 00 00 00
 #
-name: TV/RADIO
+name: Tv/radio
 type: parsed
 protocol: RC5
 address: 02 00 00 00
@@ -100,7 +100,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 80 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: RC5
 address: 02 00 00 00
@@ -112,7 +112,7 @@ protocol: RC5
 address: 12 00 00 00
 command: A0 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: RC5
 address: 02 00 00 00
@@ -124,7 +124,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 91 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: RC5
 address: 02 00 00 00
@@ -136,7 +136,7 @@ protocol: RC5
 address: 12 00 00 00
 command: 90 00 00 00
 #
-name: SFI
+name: Sfi
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -148,7 +148,7 @@ protocol: RC5
 address: 12 00 00 00
 command: A1 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: RC5
 address: 12 00 00 00
@@ -178,25 +178,25 @@ protocol: RC5
 address: 02 00 00 00
 command: AE 00 00 00
 #
-name: ARROW
+name: Arrow
 type: parsed
 protocol: RC5
 address: 02 00 00 00
 command: B6 00 00 00
 #
-name: TXT
+name: Txt
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: BC 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: A9 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: RC5
 address: 12 00 00 00

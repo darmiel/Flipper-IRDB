@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: GROUP_1-8/9-16/17-24
+name: Group_1-8/9-16/17-24
 type: parsed
 protocol: NECext
 address: D1 00 00 00

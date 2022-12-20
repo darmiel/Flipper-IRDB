@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 01 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 02 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 0B 00 00 00
 #
-name: AUTOPRESET
+name: Autopreset
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
@@ -91,109 +91,109 @@ protocol: NECext
 address: 9F 00 00 00
 command: 2A 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 2E 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 32 00 00 00
 #
-name: CDNEXT
+name: Cdnext
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3D 00 00 00
 #
-name: CDPREV
+name: Cdprev
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 3E 00 00 00
 #
-name: TAPESTOP
+name: Tapestop
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 41 00 00 00
 #
-name: TAPENEXT
+name: Tapenext
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 44 00 00 00
 #
-name: TAPEPREV
+name: Tapeprev
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 45 00 00 00
 #
-name: TAPEREC
+name: Taperec
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 4B 00 00 00
 #
-name: TAPERIGHT
+name: Taperight
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 4C 00 00 00
 #
-name: TAPELEFT
+name: Tapeleft
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 4D 00 00 00
 #
-name: CDPLAY
+name: Cdplay
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 70 00 00 00
 #
-name: CDSTOP
+name: Cdstop
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 71 00 00 00
 #
-name: CDDOOR
+name: Cddoor
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 7B 00 00 00
 #
-name: BASSUP
+name: Bassup
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 87 00 00 00
 #
-name: BASSDOWN
+name: Bassdown
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 88 00 00 00
 #
-name: TREBLEUP
+name: Trebleup
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 89 00 00 00
 #
-name: TREBLEDOWN
+name: Trebledown
 type: parsed
 protocol: NECext
 address: 9F 00 00 00
 command: 8A 00 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 9F 00 00 00

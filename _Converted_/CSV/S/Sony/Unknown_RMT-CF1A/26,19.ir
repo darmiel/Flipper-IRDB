@@ -61,79 +61,79 @@ protocol: NECext
 address: 1A 13 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 15 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 30 00 00 00
 #
-name: preset+
+name: Preset+
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 3D 00 00 00
 #
-name: preset-
+name: Preset-
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 3E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 48 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 49 00 00 00
 #
-name: bright
+name: Bright
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 4B 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 60 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 6F 00 00 00
 #
-name: hd-scan
+name: Hd-scan
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 70 00 00 00
 #
-name: scan
+name: Scan
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 71 00 00 00
 #
-name: tune+
+name: Tune+
 type: parsed
 protocol: NECext
 address: 1A 13 00 00
 command: 73 00 00 00
 #
-name: tune-
+name: Tune-
 type: parsed
 protocol: NECext
 address: 1A 13 00 00

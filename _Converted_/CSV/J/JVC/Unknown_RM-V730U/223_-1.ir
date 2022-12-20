@@ -13,61 +13,61 @@ protocol: NECext
 address: DF 00 00 00
 command: A1 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A2 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A3 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A4 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A5 00 00 00
 #
-name: FFWBack
+name: Ffwback
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A5 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A6 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A7 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A8 00 00 00
 #
-name: Start/Stop
+name: Start/stop
 type: parsed
 protocol: NECext
 address: DF 00 00 00
 command: A9 00 00 00
 #
-name: FFWFront
+name: Ffwfront
 type: parsed
 protocol: NECext
 address: DF 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: DF 00 00 00
 command: AC 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: DF 00 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VISUAL_I/O
+name: Visual_i/o
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -19,37 +19,37 @@ protocol: NECext
 address: 0B 00 00 00
 command: 2F 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 42 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 43 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 4D 00 00 00
 #
-name: ENTER/OK
+name: Enter/ok
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 51 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 61 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 0B 00 00 00

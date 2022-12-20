@@ -7,13 +7,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: cdtv
+name: Cdtv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -25,13 +25,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -43,13 +43,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0A 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 21 00 00 00
 #
-name: genlock
+name: Genlock
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -115,25 +115,25 @@ protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 31 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 32 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -145,19 +145,19 @@ protocol: NECext
 address: 00 00 00 00
 command: 39 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: b_button
+name: B_button
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 40 00 00 00
 #
-name: a_button
+name: A_button
 type: parsed
 protocol: NECext
 address: 00 00 00 00

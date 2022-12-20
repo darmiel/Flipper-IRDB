@@ -3,13 +3,13 @@ Version: 1
 # 
 # Dasinko LED Light Bulb
 # 
-name: LED_Off
+name: Led_off
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 47 00 00 00
 # 
-name: LED_On
+name: Led_on
 type: parsed
 protocol: NEC
 address: 00 00 00 00

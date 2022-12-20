@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

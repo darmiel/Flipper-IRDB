@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SURROUND_CINEMA
+name: Surround_cinema
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 95 00 00 00
 #
-name: SURR_CINEMA_MAIN
+name: Surr_cinema_main
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 95 00 00 00
 #
-name: SURR_MUSIC_MAIN
+name: Surr_music_main
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 96 00 00 00
 #
-name: SURR_GAME_MAIN
+name: Surr_game_main
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 97 00 00 00
 #
-name: NIGHT
+name: Night
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 98 00 00 00
 #
-name: ROOM_EQ
+name: Room_eq
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 9D 00 00 00
 #
-name: EQUALIZER
+name: Equalizer
 type: parsed
 protocol: NECext
 address: 04 00 00 00

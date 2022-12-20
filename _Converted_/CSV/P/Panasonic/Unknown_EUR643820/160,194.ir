@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_CLEAR
+name: Cd_clear
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 80 00 00 00
 #
-name: CD_REPEAT
+name: Cd_repeat
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 81 00 00 00
 #
-name: CD_RANDOM
+name: Cd_random
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 82 00 00 00
 #
-name: CD_PREV
+name: Cd_prev
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 84 00 00 00
 #
-name: CD_NEXT
+name: Cd_next
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 85 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 87 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 8B 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 8D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 8F 00 00 00
 #
-name: TAPE_STOP
+name: Tape_stop
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A0 00 00 00
 #
-name: TAPE_REWIND
+name: Tape_rewind
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A2 00 00 00
 #
-name: TAPE_FORWARD
+name: Tape_forward
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A3 00 00 00
 #
-name: TAPE_RECORD
+name: Tape_record
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A4 00 00 00
 #
-name: TAPE_PLAY_REWIND
+name: Tape_play_rewind
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A5 00 00 00
 #
-name: TAPE_PLAY_FORWARD
+name: Tape_play_forward
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A6 00 00 00
 #
-name: TAPE_DECK
+name: Tape_deck
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AD 00 00 00
 #
-name: TAPE_REV_MODE
+name: Tape_rev_mode
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AE 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B0 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B1 00 00 00
 #
-name: TUNER_BAND
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B8 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BC 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BF 00 00 00
 #
-name: TUNER_PRESET_TUNE_UP
+name: Tuner_preset_tune_up
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E7 00 00 00
 #
-name: TUNER_PRESET_TUNE_DOWN
+name: Tuner_preset_tune_down
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E8 00 00 00
 #
-name: TUNER_TUNING_UP
+name: Tuner_tuning_up
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E9 00 00 00
 #
-name: TUNER_TUNING_DOWN
+name: Tuner_tuning_down
 type: parsed
 protocol: NECext
 address: A0 C2 00 00

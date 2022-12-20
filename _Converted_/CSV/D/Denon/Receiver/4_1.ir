@@ -1,1165 +1,1165 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 02 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 03 00 00 00
 #
-name: 12V_TRIGGER_1_ON
+name: 12v_trigger_1_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 0C 00 00 00
 #
-name: 12V_TRIGGER_1_OFF
+name: 12v_trigger_1_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 0D 00 00 00
 #
-name: 12V_TRIGGER_2_ON
+name: 12v_trigger_2_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 0E 00 00 00
 #
-name: 12V_TRIGGER_2_OFF
+name: 12v_trigger_2_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 0F 00 00 00
 #
-name: RETURN_/_BACK
+name: Return_/_back
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 22 00 00 00
 #
-name: GUI_MENU_/_SETUP
+name: Gui_menu_/_setup
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 23 00 00 00
 #
-name: TUNER_MEMORY
+name: Tuner_memory
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 24 00 00 00
 #
-name: TUNER_BAND_TOGGLE_AM/FM
+name: Tuner_band_toggle_am/fm
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 98 00 00 00
 #
-name: TUNER_BAND_FM
+name: Tuner_band_fm
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 99 00 00 00
 #
-name: TUNER_BAND_AM
+name: Tuner_band_am
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 9A 00 00 00
 #
-name: TUNER_BAND_XM
+name: Tuner_band_xm
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 9B 00 00 00
 #
-name: INTERNET_RADIO_FAVORITE_1
+name: Internet_radio_favorite_1
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: F2 00 00 00
 #
-name: INTERNET_RADIO_FAVORITE_2
+name: Internet_radio_favorite_2
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: F3 00 00 00
 #
-name: INTERNET_RADIO_FAVORITE_3
+name: Internet_radio_favorite_3
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: F4 00 00 00
 #
-name: INTERNET_RADIO_FAVORITE_4
+name: Internet_radio_favorite_4
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: F5 00 00 00
 #
-name: QUICK_SELECT_/_USER_PRESET_1
+name: Quick_select_/_user_preset_1
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 124 00 00 00
 #
-name: QUICK_SELECT_/_USER_PRESET_2
+name: Quick_select_/_user_preset_2
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 125 00 00 00
 #
-name: QUICK_SELECT_/_USER_PRESET_3
+name: Quick_select_/_user_preset_3
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 126 00 00 00
 #
-name: QUICK_SELECT_/_USER_PRESET_4
+name: Quick_select_/_user_preset_4
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 127 00 00 00
 #
-name: QUICK_SELECT_/_USER_PRESET_5
+name: Quick_select_/_user_preset_5
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 128 00 00 00
 #
-name: SURROUND_MODE_DIRECT_/_STEREO
+name: Surround_mode_direct_/_stereo
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 131 00 00 00
 #
-name: PURE_DIRECT
+name: Pure_direct
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 133 00 00 00
 #
-name: SURROUND_MODE_STANDARD
+name: Surround_mode_standard
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 134 00 00 00
 #
-name: SURROUND_MODE_AUTO
+name: Surround_mode_auto
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 144 00 00 00
 #
-name: SURROUND_MODE_AURO_3D_PREVIOUS
+name: Surround_mode_auro_3d_previous
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 14C 00 00 00
 #
-name: SURROUND_MODE_DSP_SIMULATION
+name: Surround_mode_dsp_simulation
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 150 00 00 00
 #
-name: SURROUND_MODE_MULTI_CHANNEL
+name: Surround_mode_multi_channel
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 151 00 00 00
 #
-name: SURROUND_MODE_NEURAL
+name: Surround_mode_neural
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 15B 00 00 00
 #
-name: SURROUND_MODE_DOLBY_ATMOS
+name: Surround_mode_dolby_atmos
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 15C 00 00 00
 #
-name: SURROUND_MODE_AURO_3D_NEXT
+name: Surround_mode_auro_3d_next
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 15D 00 00 00
 #
-name: INPUT_MODE_HDMI
+name: Input_mode_hdmi
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 165 00 00 00
 #
-name: INPUT_MODE_DIGITAL
+name: Input_mode_digital
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 167 00 00 00
 #
-name: INPUT_MODE_DECODE
+name: Input_mode_decode
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 16C 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 170 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 171 00 00 00
 #
-name: VOLUME_MUTE
+name: Volume_mute
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 172 00 00 00
 #
-name: CHANNEL_LEVEL
+name: Channel_level
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 17A 00 00 00
 #
-name: SUBWOOFER_2_LEVEL_UP
+name: Subwoofer_2_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 19A 00 00 00
 #
-name: SUBWOOFER_2_LEVEL_DOWN
+name: Subwoofer_2_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 19B 00 00 00
 #
-name: DOLBY_TFL_SPEAKER_LEVEL_UP
+name: Dolby_tfl_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A1 00 00 00
 #
-name: DOLBY_TFL_SPEAKER_LEVEL_DOWN
+name: Dolby_tfl_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A2 00 00 00
 #
-name: DOLBY_TFR_SPEAKER_LEVEL_UP
+name: Dolby_tfr_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A3 00 00 00
 #
-name: DOLBY_TFR_SPEAKER_LEVEL_DOWN
+name: Dolby_tfr_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A4 00 00 00
 #
-name: DOLBY_TML_SPEAKER_LEVEL_UP
+name: Dolby_tml_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A5 00 00 00
 #
-name: DOLBY_TML_SPEAKER_LEVEL_DOWN
+name: Dolby_tml_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A6 00 00 00
 #
-name: DOLBY_TMR_SPEAKER_LEVEL_UP
+name: Dolby_tmr_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A7 00 00 00
 #
-name: DOLBY_TMR_SPEAKER_LEVEL_DOWN
+name: Dolby_tmr_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A8 00 00 00
 #
-name: DOLBY_TRL_SPEAKER_LEVEL_UP
+name: Dolby_trl_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1A9 00 00 00
 #
-name: DOLBY_TRL_SPEAKER_LEVEL_DOWN
+name: Dolby_trl_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1AA 00 00 00
 #
-name: DOLBY_TRR_SPEAKER_LEVEL_UP
+name: Dolby_trr_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1AB 00 00 00
 #
-name: DOLBY_TRR_SPEAKER_LEVEL_DOWN
+name: Dolby_trr_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1AC 00 00 00
 #
-name: DOLBY_RHL_SPEAKER_LEVEL_UP
+name: Dolby_rhl_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1AD 00 00 00
 #
-name: DOLBY_RHL_SPEAKER_LEVEL_DOWN
+name: Dolby_rhl_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1AE 00 00 00
 #
-name: DOLBY_RHR_SPEAKER_LEVEL_UP
+name: Dolby_rhr_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1AF 00 00 00
 #
-name: DOLBY_RHR_SPEAKER_LEVEL_DOWN
+name: Dolby_rhr_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B0 00 00 00
 #
-name: DOLBY_LF_SPEAKER_LEVEL_UP
+name: Dolby_lf_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B1 00 00 00
 #
-name: DOLBY_LF_SPEAKER_LEVEL_DOWN
+name: Dolby_lf_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B2 00 00 00
 #
-name: DOLBY_RF_SPEAKER_LEVEL_UP
+name: Dolby_rf_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B3 00 00 00
 #
-name: DOLBY_RF_SPEAKER_LEVEL_DOWN
+name: Dolby_rf_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B4 00 00 00
 #
-name: DOLBY_SL_SPEAKER_LEVEL_UP
+name: Dolby_sl_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B5 00 00 00
 #
-name: DOLBY_SL_SPEAKER_LEVEL_DOWN
+name: Dolby_sl_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B6 00 00 00
 #
-name: DOLBY_SR_SPEAKER_LEVEL_UP
+name: Dolby_sr_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B7 00 00 00
 #
-name: DOLBY_SR_SPEAKER_LEVEL_DOWN
+name: Dolby_sr_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B8 00 00 00
 #
-name: DOLBY_LB_SPEAKER_LEVEL_UP
+name: Dolby_lb_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1B9 00 00 00
 #
-name: DOLBY_LB_SPEAKER_LEVEL_DOWN
+name: Dolby_lb_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1BA 00 00 00
 #
-name: DOLBY_RB_SPEAKER_LEVEL_UP
+name: Dolby_rb_speaker_level_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1BB 00 00 00
 #
-name: DOLBY_RB_SPEAKER_LEVEL_DOWN
+name: Dolby_rb_speaker_level_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1BC 00 00 00
 #
-name: LFC_ON
+name: Lfc_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1BD 00 00 00
 #
-name: LFC_OFF
+name: Lfc_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1BE 00 00 00
 #
-name: LFC_TOGGLE_ON/OFF
+name: Lfc_toggle_on/off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 1C8 00 00 00
 #
-name: DSX_SELECT
+name: Dsx_select
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 211 00 00 00
 #
-name: DYNAMIC_VOLUME_TOGGLE_MODE
+name: Dynamic_volume_toggle_mode
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 221 00 00 00
 #
-name: DYNAMIC_EQ_TOGGLE_ON/OFF
+name: Dynamic_eq_toggle_on/off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 223 00 00 00
 #
-name: RESTORER_MODE
+name: Restorer_mode
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 224 00 00 00
 #
-name: DYNAMIC_EQ/VOLUME_TOGGLE_MODE
+name: Dynamic_eq/volume_toggle_mode
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 225 00 00 00
 #
-name: FRONT_SPEAKER_A
+name: Front_speaker_a
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 226 00 00 00
 #
-name: FRONT_SPEAKER_B
+name: Front_speaker_b
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 228 00 00 00
 #
-name: FRONT_SPEAKER_A+B
+name: Front_speaker_a+b
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 22A 00 00 00
 #
-name: RESTORER_OFF
+name: Restorer_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 22C 00 00 00
 #
-name: RESTORER_MODE_1
+name: Restorer_mode_1
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 22D 00 00 00
 #
-name: RESTORER_MODE_2
+name: Restorer_mode_2
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 22E 00 00 00
 #
-name: RESTORER_MODE_3
+name: Restorer_mode_3
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 22F 00 00 00
 #
-name: SS_AUDIO_DELAY
+name: Ss_audio_delay
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 26C 00 00 00
 #
-name: AUDIO_DELAY_MODE
+name: Audio_delay_mode
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 26C 00 00 00
 #
-name: AUDIO_DELAY_UP
+name: Audio_delay_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 26D 00 00 00
 #
-name: AUDIO_DELAY_DOWN
+name: Audio_delay_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 26E 00 00 00
 #
-name: INFO_/_OSD
+name: Info_/_osd
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 270 00 00 00
 #
-name: DSX_ON_HEIGHT
+name: Dsx_on_height
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 282 00 00 00
 #
-name: DSX_ON_WIDE
+name: Dsx_on_wide
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 283 00 00 00
 #
-name: DSX_OFF
+name: Dsx_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 284 00 00 00
 #
-name: STATUS_REQUEST
+name: Status_request
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 285 00 00 00
 #
-name: DSX_ON_WIDE+HEIGHT
+name: Dsx_on_wide+height
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 287 00 00 00
 #
-name: INPUT_IPOD
+name: Input_ipod
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 29B 00 00 00
 #
-name: HDMI_MONITOR_SELECT_1
+name: Hdmi_monitor_select_1
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 29D 00 00 00
 #
-name: HDMI_MONITOR_SELECT_2
+name: Hdmi_monitor_select_2
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 29E 00 00 00
 #
-name: INPUT_AUX/NET/USB/ONLINE_MUSIC
+name: Input_aux/net/usb/online_music
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2C7 00 00 00
 #
-name: INPUT_TUNER_XM
+name: Input_tuner_xm
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2CA 00 00 00
 #
-name: INPUT_DTU_/_HD_RADIO
+name: Input_dtu_/_hd_radio
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2CB 00 00 00
 #
-name: INPUT_AUX/NET
+name: Input_aux/net
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2CC 00 00 00
 #
-name: INPUT_AUX/IPOD/DOCK
+name: Input_aux/ipod/dock
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2CD 00 00 00
 #
-name: INPUT_AUX/USB
+name: Input_aux/usb
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2CE 00 00 00
 #
-name: INPUT_HD_RADIO
+name: Input_hd_radio
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2CF 00 00 00
 #
-name: INPUT_BD
+name: Input_bd
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2D1 00 00 00
 #
-name: INPUT_GAME
+name: Input_game
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2D5 00 00 00
 #
-name: INPUT_GAME_2
+name: Input_game_2
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2D7 00 00 00
 #
-name: INPUT_VCR4
+name: Input_vcr4
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2D8 00 00 00
 #
-name: INPUT_AUX_2
+name: Input_aux_2
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2DA 00 00 00
 #
-name: INPUT_BD/DVD/HDP
+name: Input_bd/dvd/hdp
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2DC 00 00 00
 #
-name: INPUT_VCR_1/2
+name: Input_vcr_1/2
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2DD 00 00 00
 #
-name: INPUT_VCR_3/4
+name: Input_vcr_3/4
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2DE 00 00 00
 #
-name: INPUT_VCR/DVR/MEDIA_PLAYER
+name: Input_vcr/dvr/media_player
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2DF 00 00 00
 #
-name: MULTEQ_XT_32_TOGGLE_MODE
+name: Multeq_xt_32_toggle_mode
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2E0 00 00 00
 #
-name: INPUT_INTERNET_RADIO
+name: Input_internet_radio
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2E5 00 00 00
 #
-name: DYNAMIC_VOLUME_HEAVY/MIDNIGHT
+name: Dynamic_volume_heavy/midnight
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2EC 00 00 00
 #
-name: DYNAMIC_VOLUME_MEDIUM/EVENING
+name: Dynamic_volume_medium/evening
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2ED 00 00 00
 #
-name: DYNAMIC_VOLUME_LIGHT/DAY
+name: Dynamic_volume_light/day
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2EE 00 00 00
 #
-name: INPUT_BLUETOOTH
+name: Input_bluetooth
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2EF 00 00 00
 #
-name: HDMI_MONITOR_SELECT
+name: Hdmi_monitor_select
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2F1 00 00 00
 #
-name: HDMI_MONITOR_SCALE/RESOLUTION
+name: Hdmi_monitor_scale/resolution
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2F2 00 00 00
 #
-name: HDMI_ASPECT_RADIO_16:9
+name: Hdmi_aspect_radio_16:9
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2F5 00 00 00
 #
-name: HDMI_ASPECT_RADIO_4:3
+name: Hdmi_aspect_radio_4:3
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2F6 00 00 00
 #
-name: DYNAMIC_EQ_REF_LEVEL_0DB
+name: Dynamic_eq_ref_level_0db
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2F8 00 00 00
 #
-name: DYNAMIC_EQ_REF_LEVEL_5DB
+name: Dynamic_eq_ref_level_5db
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2F9 00 00 00
 #
-name: DYNAMIC_EQ_REF_LEVEL_10DB
+name: Dynamic_eq_ref_level_10db
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2FA 00 00 00
 #
-name: DYNAMIC_EQ_REF_LEVEL_15DB
+name: Dynamic_eq_ref_level_15db
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2FB 00 00 00
 #
-name: INPUT_SPOTIFY
+name: Input_spotify
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2FC 00 00 00
 #
-name: INPUT_PANDORA
+name: Input_pandora
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 2FD 00 00 00
 #
-name: NET/USB_CURSOR/ARROW_UP
+name: Net/usb_cursor/arrow_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 300 00 00 00
 #
-name: NET/USB_CURSOR/ARROW_DOWN
+name: Net/usb_cursor/arrow_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 301 00 00 00
 #
-name: NET/USB_CURSOR/ARROW_LEFT
+name: Net/usb_cursor/arrow_left
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 302 00 00 00
 #
-name: NET/USB_CURSOR/ARROW_RIGHT
+name: Net/usb_cursor/arrow_right
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 303 00 00 00
 #
-name: NET/USB_ENTER/PLAY/PAUSE
+name: Net/usb_enter/play/pause
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 304 00 00 00
 #
-name: NET/USB_PLAY
+name: Net/usb_play
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 305 00 00 00
 #
-name: NET/USB_PAUSE
+name: Net/usb_pause
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 306 00 00 00
 #
-name: NET/USB_STOP
+name: Net/usb_stop
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 307 00 00 00
 #
-name: NET/USB_SKIP_PLUS
+name: Net/usb_skip_plus
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 308 00 00 00
 #
-name: NET/USB_SKIP_MINUS
+name: Net/usb_skip_minus
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 309 00 00 00
 #
-name: NET/USB_REPEAT_ONE
+name: Net/usb_repeat_one
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 30A 00 00 00
 #
-name: NET/USB_REPEAT_OFF
+name: Net/usb_repeat_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 30B 00 00 00
 #
-name: NET/USB_RANDOM_ON
+name: Net/usb_random_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 30C 00 00 00
 #
-name: NET/USB_RANDOM_OFF
+name: Net/usb_random_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 30D 00 00 00
 #
-name: NET/USB_REPEAT_ALL
+name: Net/usb_repeat_all
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 311 00 00 00
 #
-name: GRAPHIC_EQ_TOGGLE_ON/OFF
+name: Graphic_eq_toggle_on/off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 315 00 00 00
 #
-name: GRAPHIC_EQ_ON
+name: Graphic_eq_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 318 00 00 00
 #
-name: GRAPHIC_EQ_OFF
+name: Graphic_eq_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 31F 00 00 00
 #
-name: IPOD_CURSOR/ARROW_UP
+name: Ipod_cursor/arrow_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 320 00 00 00
 #
-name: IPOD_CURSOR/ARROW_DOWN
+name: Ipod_cursor/arrow_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 321 00 00 00
 #
-name: IPOD_CURSOR/ARROW_LEFT
+name: Ipod_cursor/arrow_left
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 322 00 00 00
 #
-name: IPOD_CURSOR/ARROW_RIGHT
+name: Ipod_cursor/arrow_right
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 323 00 00 00
 #
-name: IPOD_ENTER
+name: Ipod_enter
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 324 00 00 00
 #
-name: IPOD_PLAY/PAUSE
+name: Ipod_play/pause
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 325 00 00 00
 #
-name: IPOD_STOP
+name: Ipod_stop
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 327 00 00 00
 #
-name: IPOD_SKIP_PLUS/FORWARD
+name: Ipod_skip_plus/forward
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 328 00 00 00
 #
-name: IPOD_SKIP_MINUS/REVERSE
+name: Ipod_skip_minus/reverse
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 329 00 00 00
 #
-name: IPOD_SEARCH_FORWARD
+name: Ipod_search_forward
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 32A 00 00 00
 #
-name: IPOD_SEARCH_REVERSE
+name: Ipod_search_reverse
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 32B 00 00 00
 #
-name: IPOD_REPEAT_ONE
+name: Ipod_repeat_one
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 32C 00 00 00
 #
-name: IPOD_REPEAT_ALL
+name: Ipod_repeat_all
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 32D 00 00 00
 #
-name: IPOD_REPEAT_OFF
+name: Ipod_repeat_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 32E 00 00 00
 #
-name: IPOD_SHUFFLE_SONGS
+name: Ipod_shuffle_songs
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 32F 00 00 00
 #
-name: IPOD_SHUFFLE_ALBUMS
+name: Ipod_shuffle_albums
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 330 00 00 00
 #
-name: IPOD_SHUFFLE_OFF
+name: Ipod_shuffle_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 331 00 00 00
 #
-name: IPOD_MENU
+name: Ipod_menu
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 332 00 00 00
 #
-name: IPOD_MODE_BROWSE
+name: Ipod_mode_browse
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 333 00 00 00
 #
-name: IPOD_MODE_REMOTE
+name: Ipod_mode_remote
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 334 00 00 00
 #
-name: HDMI_CONTROL/CEC_ON
+name: Hdmi_control/cec_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 33A 00 00 00
 #
-name: HDMI_CONTROL/CEC_OFF
+name: Hdmi_control/cec_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 33B 00 00 00
 #
-name: HDMI_AUDIO_OUT_TOGGLE_TV/AMP
+name: Hdmi_audio_out_toggle_tv/amp
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 33D 00 00 00
 #
-name: HDMI_AUDIO_OUT_TV
+name: Hdmi_audio_out_tv
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 33E 00 00 00
 #
-name: HDMI_AUDIO_OUT_AMP
+name: Hdmi_audio_out_amp
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 33F 00 00 00
 #
-name: PARTY
+name: Party
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 343 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 344 00 00 00
 #
-name: INSTA_PREVIEW_TOGGLE_ON/OFF
+name: Insta_preview_toggle_on/off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 35B 00 00 00
 #
-name: INSTA_PREVIEW_ON
+name: Insta_preview_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 366 00 00 00
 #
-name: INSTA_PREVIEW_OFF
+name: Insta_preview_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 367 00 00 00
 #
-name: ECO_MODE_TOGGLE
+name: Eco_mode_toggle
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 368 00 00 00
 #
-name: ECO_MODE_OFF
+name: Eco_mode_off
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 369 00 00 00
 #
-name: ECO_MODE_ON
+name: Eco_mode_on
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 36A 00 00 00
 #
-name: ECO_MODE_AUTO
+name: Eco_mode_auto
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 36B 00 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3B5 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3BC 00 00 00
 #
-name: RANDOM/SHUFFLE
+name: Random/shuffle
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3BD 00 00 00
 #
-name: USB_DIRECT_PLAY
+name: Usb_direct_play
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3BE 00 00 00
 #
-name: FAVORITE_DIRECT_PLAY
+name: Favorite_direct_play
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3BF 00 00 00
 #
-name: TUNER_PRESET_CHANNEL_UP
+name: Tuner_preset_channel_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3CC 00 00 00
 #
-name: TUNER_PRESET_CHANNEL_DOWN
+name: Tuner_preset_channel_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3CD 00 00 00
 #
-name: TUNER_PRESET_CHANNEL_SHIFT
+name: Tuner_preset_channel_shift
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3CE 00 00 00
 #
-name: TUNER_PRESET_SEARCH/RDS
+name: Tuner_preset_search/rds
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3D7 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3E0 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3E1 00 00 00
 #
-name: TUNER_PRESET_SKIP/TUNE_DOWN
+name: Tuner_preset_skip/tune_down
 type: parsed
 protocol: NECext
 address: 04 01 00 00
 command: 3E3 00 00 00
 #
-name: TUNER_PRESET_SKIP/TUNE_UP
+name: Tuner_preset_skip/tune_up
 type: parsed
 protocol: NECext
 address: 04 01 00 00

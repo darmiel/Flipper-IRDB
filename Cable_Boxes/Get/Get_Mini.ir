@@ -4,61 +4,61 @@ Version: 1
 # Get - Mini - Remote - Decoder
 # This remoted is used in many homes in Norway.
 ###
-name: On/Off
+name: On/off
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 0C F3 00 00
 # 
-name: UP_Volume
+name: Up_volume
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 13 EC 00 00
 # 
-name: DOWN_Volume
+name: Down_volume
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 14 EB 00 00
 # 
-name: UP_Channel
+name: Up_channel
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 9065 4432 616 495 617 494 617 494 617 1635 616 495 616 496 616 1635 616 495 616 495 616 495 616 1634 617 -522 495 616 1636 615 495 617 496 615 1635 616 1635 615 1635 616 496 616 1635 615 496 616 496 616 496 616 496 615 495 616 496 616 1635 615 496 615 1635 616 1635 615 1635 616 44642 9069 2181 616
 # 
-name: DOWN_Channel
+name: Down_channel
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 18 E7 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 1F E0 00 00
 # 
-name: UP_Arrow
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 1A E5 00 00
 # 
-name: BACK_Arrow
+name: Back_arrow
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 1B E4 00 00
 # 
-name: LEFT_Arrow
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 1D E2 00 00
 # 
-name: RIGHT_Arrow
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 48 24 00 00
@@ -172,25 +172,25 @@ protocol: NECext
 address: 48 24 00 00
 command: 28 D7 00 00
 # 
-name: HD_Channels
+name: Hd_channels
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 20 DF 00 00
 # 
-name: My_Channels
+name: My_channels
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 0E F1 00 00
 # 
-name: Get_TV
+name: Get_tv
 type: parsed
 protocol: NECext
 address: 48 24 00 00
 command: 27 D8 00 00
 # 
-name: My_Archive
+name: My_archive
 type: parsed
 protocol: NECext
 address: 48 24 00 00

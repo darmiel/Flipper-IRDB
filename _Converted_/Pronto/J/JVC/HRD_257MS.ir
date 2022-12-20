@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 261 1824 261 782 261 782 261 782 261 782 261 1824 261 1824 261 782 261 782 261 782 261 11256
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 261 1824 261 782 261 782 261 1824 261 1824 261 782 261 782 261 782 261 782 261 782 261 11256
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 258 1833 258 774 258 774 258 1833 258 774 258 1833 258 1833 258 774 258 774 258 774 258 10222
 #
-name: REW
+name: Rew
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 261 1824 261 782 261 782 261 1824 261 1824 261 1824 261 782 261 782 261 782 261 782 261 10213
 #
-name: FFWD
+name: Ffwd
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 258 1833 258 774 258 774 258 774 258 1833 258 1833 258 774 258 774 258 774 258 774 258 11255
 #
-name: F_SRCH
+name: F_srch
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 261 1824 261 782 261 782 261 782 261 782 261 1824 261 782 261 1824 261 782 261 782 261 11256
 #
-name: R_SRCH
+name: R_srch
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 261 1824 261 782 261 782 261 1824 261 782 261 1824 261 782 261 1824 261 782 261 782 261 10213
 #
-name: RECORD
+name: Record
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 281 1841 256 767 256 767 256 767 256 767 256 1841 256 1841 256 767 256 1841 256 1841 256 9155
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 256 1841 256 767 256 767 256 1841 256 767 256 767 256 1841 256 1841 256 767 256 767 256 10203
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
@@ -121,7 +121,7 @@ frequency: 38740
 duty_cycle: 0.330000
 data: 258 1807 258 774 258 774 258 1807 258 1807 258 774 258 774 258 774 258 774 258 1807 258 10196
 #
-name: OPERATE
+name: Operate
 type: raw
 frequency: 38740
 duty_cycle: 0.330000

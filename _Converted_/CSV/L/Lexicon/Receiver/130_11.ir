@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 01 00 00 00
 #
-name: M_OFF
+name: M_off
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 06 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 08 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 09 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0A 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0B 00 00 00
 #
-name: DOLBY
+name: Dolby
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0C 00 00 00
 #
-name: L7_FILM
+name: L7_film
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0D 00 00 00
 #
-name: L7_TV
+name: L7_tv
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0E 00 00 00
 #
-name: DTS
+name: Dts
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0F 00 00 00
 #
-name: L7_MUSIC
+name: L7_music
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 10 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 15 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 16 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 17 00 00 00
 #
-name: STAT
+name: Stat
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1D 00 00 00
 #
-name: 2_CHANNEL
+name: 2_channel
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1F 00 00 00
 #
-name: DVD_1
+name: Dvd_1
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 20 00 00 00
 #
-name: DVD_2
+name: Dvd_2
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 21 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 23 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 24 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 25 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
@@ -199,37 +199,37 @@ protocol: NECext
 address: 82 0B 00 00
 command: 39 00 00 00
 #
-name: ENT.
+name: Ent.
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 3A 00 00 00
 #
-name: L7_MS
+name: L7_ms
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 90 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 9A 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 9B 00 00 00
 #
-name: A/D
+name: A/d
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 9E 00 00 00
 #
-name: A_BYP
+name: A_byp
 type: parsed
 protocol: NECext
 address: 82 0B 00 00

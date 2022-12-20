@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 00 00 00 00
 #
-name: FF_SF
+name: Ff_sf
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 01 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 02 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 03 00 00 00
 #
-name: STEP
+name: Step
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 04 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 05 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 06 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 80 00 00 00
@@ -67,31 +67,31 @@ protocol: NECext
 address: 80 00 00 00
 command: 0A 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0B 00 00 00
 #
-name: FR_SR
+name: Fr_sr
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0C 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0D 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 80 00 00 00
@@ -115,31 +115,31 @@ protocol: NECext
 address: 80 00 00 00
 command: 12 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 13 00 00 00
 #
-name: DIGEST
+name: Digest
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 14 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 15 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 16 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 80 00 00 00
@@ -163,37 +163,37 @@ protocol: NECext
 address: 80 00 00 00
 command: 1A 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 1B 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 1D 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 1E 00 00 00
 #
-name: 3D_SOUND
+name: 3d_sound
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 1F 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 80 00 00 00
@@ -205,55 +205,55 @@ protocol: NECext
 address: 80 00 00 00
 command: 41 00 00 00
 #
-name: PCB
+name: Pcb
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 42 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 43 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 44 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 45 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 46 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 47 00 00 00
 #
-name: STOP/RETURN
+name: Stop/return
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 48 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 49 00 00 00
 #
-name: MARKER
+name: Marker
 type: parsed
 protocol: NECext
 address: 80 00 00 00

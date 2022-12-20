@@ -1,205 +1,205 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LEFT_ARROW
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7F 00 00 00
 #
-name: DBS_ZONE_2
+name: Dbs_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8A 00 00 00
 #
-name: ZN2_VOL_UP
+name: Zn2_vol_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8D 00 00 00
 #
-name: ZONE_2_VOL_+
+name: Zone_2_vol_+
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8D 00 00 00
 #
-name: ZONE_2_VOL_DOWN
+name: Zone_2_vol_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8E 00 00 00
 #
-name: ZONE_2_VOL_-
+name: Zone_2_vol_-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8E 00 00 00
 #
-name: PHONO_ZONE_2
+name: Phono_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 8F 00 00 00
 #
-name: SOURCE_TOGGLE
+name: Source_toggle
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 90 00 00 00
 #
-name: ZONE_2_CD
+name: Zone_2_cd
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 90 00 00 00
 #
-name: ZONE_2_IPOD
+name: Zone_2_ipod
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 90 00 00 00
 #
-name: CD_ZONE_2
+name: Cd_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 90 00 00 00
 #
-name: TUNER_ZONE_2
+name: Tuner_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 91 00 00 00
 #
-name: VDP_ZONE_2
+name: Vdp_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 92 00 00 00
 #
-name: ZONE2_MUSICSERVER
+name: Zone2_musicserver
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 93 00 00 00
 #
-name: V_AUX_ZONE_2
+name: V_aux_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 93 00 00 00
 #
-name: VCR_1_ZONE_2
+name: Vcr_1_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 94 00 00 00
 #
-name: VCR2_ZONE_2
+name: Vcr2_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 99 00 00 00
 #
-name: TV_ZONE_2
+name: Tv_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9B 00 00 00
 #
-name: TAPE_ZONE_2
+name: Tape_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9C 00 00 00
 #
-name: SURR_STEREO
+name: Surr_stereo
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9D 00 00 00
 #
-name: SURR_DIRECT
+name: Surr_direct
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 9E 00 00 00
 #
-name: SYSTEM_SETUP
+name: System_setup
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A0 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A0 00 00 00
 #
-name: SURR_PARAMETER
+name: Surr_parameter
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A1 00 00 00
 #
-name: SEARCH_PARAMETER
+name: Search_parameter
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A1 00 00 00
 #
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A3 00 00 00
 #
-name: DOWN_ARROW
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A4 00 00 00
 #
-name: SURR_5CH/7CH_STEREO
+name: Surr_5ch/7ch_stereo
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A8 00 00 00
 #
-name: 7_CHANNEL
+name: 7_channel
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: A8 00 00 00
 #
-name: VIDEO_OFF
+name: Video_off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B2 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: B6 00 00 00
 #
-name: ZONE_2_DVD
+name: Zone_2_dvd
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: BE 00 00 00
 #
-name: DVD_ZONE_2
+name: Dvd_zone_2
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: BE 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

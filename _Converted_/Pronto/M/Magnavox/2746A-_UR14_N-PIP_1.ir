@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STATUS_EXIT
+name: Status_exit
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 896 896 896 896 1735 896 896 896 896 896 896 896 89383
 #
-name: UP_ARROW/PLAY
+name: Up_arrow/play
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 896 896 1735 896 896 896 896 1735 896 896 90222
 #
-name: DN_ARROW/STOP
+name: Dn_arrow/stop
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 896 896 1735 896 896 896 896 1735 1735 896 89383
 #
-name: -/REW
+name: -/rew
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 1735 1735 1735 896 896 1735 896 896 90222
 #
-name: +/FF
+name: +/ff
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 1735 1735 1735 1735 1735 896 896 896 89383
 #
-name: M/STOP
+name: M/stop
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 1735 1735 1735 896 896 896 896 1735 90222
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 896 896 1735 1735 896 896 896 896 896 896 90222
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 896 896 1735 1735 896 896 896 896 1735 896 89383
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 896 896 896 896 1735 896 896 1735 1735 896 89383
 #
-name: A/CH
+name: A/ch
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 1735 1735 896 896 896 896 1735 1735 90222
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 1735 1735 896 896 896 896 896 896 896 896 90222
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 1735 1735 896 896 896 896 896 896 1735 896 89383
 #
-name: TV/VCR
+name: Tv/vcr
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
@@ -139,31 +139,31 @@ frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 896 90222
 #
-name: RESET/ENTER
+name: Reset/enter
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 896 896 896 896 1735 896 896 896 896 1735 90222
 #
-name: SLEEP
+name: Sleep
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 896 896 1735 896 896 896 896 896 896 896 896 1735 1735 896 896 1735 896 896 1735 90222
 #
-name: CBL_POWER
+name: Cbl_power
 type: raw
 frequency: 38029
 duty_cycle: 0.330000
 data: 131 17119 131 26848 131 26848 131 17119 131 17119 131 53906
 #
-name: VCR_POWER
+name: Vcr_power
 type: raw
 frequency: 35734
 duty_cycle: 0.330000
 data: 923 896 1735 896 896 896 896 1735 1735 1735 1735 896 896 1735 896 896 1735 896 896 90278
 #
-name: POWER
+name: Power
 type: raw
 frequency: 35734
 duty_cycle: 0.330000

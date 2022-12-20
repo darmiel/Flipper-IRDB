@@ -67,19 +67,19 @@ protocol: NECext
 address: 40 00 00 00
 command: 0A 00 00 00
 #
-name: TV_Video
+name: Tv_video
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 0F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -97,103 +97,103 @@ protocol: NECext
 address: 40 00 00 00
 command: 17 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1C 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 1F 00 00 00
 #
-name: TV_VCR
+name: Tv_vcr
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 4F 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 51 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 53 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 58 00 00 00
 #
-name: Menu_Enter
+name: Menu_enter
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 80 00 00 00
 #
-name: ADV_PIP_Up
+name: Adv_pip_up
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 82 00 00 00
 #
-name: ADV_PIP_Down
+name: Adv_pip_down
 type: parsed
 protocol: NECext
 address: 40 00 00 00
 command: 83 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 40 00 00 00
@@ -205,7 +205,7 @@ protocol: NECext
 address: 40 00 00 00
 command: 91 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 40 00 00 00

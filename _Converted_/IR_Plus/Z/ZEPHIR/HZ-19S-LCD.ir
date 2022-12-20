@@ -10,13 +10,13 @@ protocol: NECext
 address: FE 00 00 00
 command: 87 78 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: 1F E0 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FE 00 00 00
 command: 3F C0 00 00
 #
-name: Fav/Recall
+name: Fav/recall
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: FE 00 00 00
 command: BF 40 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -160,31 +160,31 @@ protocol: NECext
 address: FE 00 00 00
 command: 85 7A 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: F7 08 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: AF 50 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: ED 12 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: 9F 60 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FE 00 00 00

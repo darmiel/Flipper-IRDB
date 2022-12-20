@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 898 898 898 898 1778 1778 1778 898 898 898 898 898 898 1778 898 898 1778 898 898 89849
 #
-name: CD
+name: Cd
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 880 880 880 880 1760 1760 1760 880 880 1760 880 880 880 880 880 880 880 880 880 880 880 88969
 #
-name: TRAY
+name: Tray
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
@@ -73,25 +73,25 @@ frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 880 880 880 880 1760 1760 1760 880 880 880 880 880 880 1760 1760 880 880 1760 880 88969
 #
-name: CD*
+name: Cd*
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 880 880 880 880 1760 1760 1760 880 880 880 880 880 880 880 880 880 880 880 880 880 880 89849
 #
-name: R_TRK
+name: R_trk
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 1778 1778 898 898 1778 1778 898 898 898 898 898 898 1778 898 88969
 #
-name: F_TRK
+name: F_trk
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 1778 1778 898 898 1778 1778 898 898 898 898 898 898 898 898 89849
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
@@ -103,25 +103,25 @@ frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 898 898 1778 1778 1778 1778 1778 898 898 898 898 898 898 898 88969
 #
-name: R_SCAN
+name: R_scan
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 1760 1760 880 880 1760 880 880 1760 880 880 1760 1760 89849
 #
-name: F_SCAN
+name: F_scan
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 1760 1760 880 880 1760 880 880 1760 1760 1760 880 880 89849
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 1760 1760 880 880 1760 880 880 1760 1760 880 880 1760 89849
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
@@ -133,55 +133,55 @@ frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 1760 1760 880 880 1760 880 880 1760 1760 1760 880 880 89849
 #
-name: AMS
+name: Ams
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 1760 1760 880 880 1760 1760 1760 1760 1760 880 880 880 88969
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 1760 1760 880 880 880 880 880 880 1760 1760 1760 880 880 880 88969
 #
-name: MEMO
+name: Memo
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 880 880 1760 1760 1760 1760 1760 1760 880 880 1760 880 88969
 #
-name: RANDOM
+name: Random
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 1760 1760 880 880 880 880 1760 880 880 880 880 1760 880 880 89849
 #
-name: PROG
+name: Prog
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 1778 1778 898 898 1778 1778 1778 1778 898 898 1778 898 88969
 #
-name: RECALL
+name: Recall
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 1760 1760 880 880 880 880 880 880 1760 880 880 880 880 880 880 880 88969
 #
-name: CANCEL
+name: Cancel
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 1778 1778 898 898 1778 898 898 1778 898 898 898 898 1778 898 88969
 #
-name: REPEAT
+name: Repeat
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 1778 1778 898 898 898 898 1778 898 898 898 898 1778 1778 898 88969
 #
-name: DOOR
+name: Door
 type: raw
 frequency: 109083
 duty_cycle: 0.330000

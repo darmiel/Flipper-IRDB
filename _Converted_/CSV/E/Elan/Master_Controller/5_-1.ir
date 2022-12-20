@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 22 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 23 00 00 00
 #
-name: LASER
+name: Laser
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 24 00 00 00
 #
-name: CABLE
+name: Cable
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 27 00 00 00
 #
-name: AUX_1
+name: Aux_1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 28 00 00 00
 #
-name: AUX_2
+name: Aux_2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: AUX_3
+name: Aux_3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2A 00 00 00
 #
-name: AUX_4
+name: Aux_4
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2B 00 00 00
 #
-name: AUX_5
+name: Aux_5
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2C 00 00 00
 #
-name: DBS
+name: Dbs
 type: parsed
 protocol: NECext
 address: 05 00 00 00

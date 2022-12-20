@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 5A 00 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 5E 00 00 00
 #
-name: FOLDER_NEXT
+name: Folder_next
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 91 00 00 00
 #
-name: FOLDER_PREV
+name: Folder_prev
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 92 00 00 00
 #
-name: INPUT_SELECTOR
+name: Input_selector
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: CC 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: D4 00 00 00
 #
-name: TONE_TURN_OVER
+name: Tone_turn_over
 type: parsed
 protocol: NECext
 address: B8 01 00 00

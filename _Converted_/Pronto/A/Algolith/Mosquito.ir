@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
@@ -13,31 +13,31 @@ frequency: 36683
 duty_cycle: 0.330000
 data: 900 900 900 900 900 900 900 900 1772 900 900 1772 900 900 1772 900 900 900 900 900 900 1772 900 900
 #
-name: Arrow_Up
+name: Arrow_up
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1772 900 900 1772 900 900 1772 900 900 1772 1772 1772 1772 900 900 900 900 900 900 89987
 #
-name: Arrow_Right
+name: Arrow_right
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1772 900 900 1772 900 900 1772 900 900 1772 1772 1772 1772 1772 900 900 1772 90014
 #
-name: Arrow_Down
+name: Arrow_down
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1772 1772 900 900 900 900 1772 900 900 1772 1772 1772 1772 900 900 900 900 1772 900 89142
 #
-name: Arrow_Left
+name: Arrow_left
 type: raw
 frequency: 36683
 duty_cycle: 0.330000
 data: 1772 900 900 1772 900 900 1772 900 900 1772 1772 1772 1772 1772 1772 1772 900 89142
 #
-name: OK
+name: Ok
 type: raw
 frequency: 36683
 duty_cycle: 0.330000

@@ -37,181 +37,181 @@ protocol: NECext
 address: 03 16 00 00
 command: 09 00 00 00
 #
-name: CH/PAGE_+
+name: Ch/page_+
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 0D 00 00 00
 #
-name: OPENGLOBE
+name: Openglobe
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 15 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 17 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 19 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 1A 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 1B 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 22 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 24 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 25 00 00 00
 #
-name: MOVIES
+name: Movies
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 26 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 2B 00 00 00
 #
-name: PLAY_FAVORITES
+name: Play_favorites
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 2E 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 2F 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 30 00 00 00
 #
-name: MACRO
+name: Macro
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 31 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 33 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 41 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 42 00 00 00
 #
-name: PLAYMODE-NORMAL
+name: Playmode-normal
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 43 00 00 00
 #
-name: PLAYMODE-RPT_TRACK
+name: Playmode-rpt_track
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 44 00 00 00
 #
-name: PLAYMODE-RPT_TITLE
+name: Playmode-rpt_title
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 45 00 00 00
 #
-name: PLAYMODE-RPT_GROUP
+name: Playmode-rpt_group
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 46 00 00 00
 #
-name: PLAYMODE-RAND_TITLE
+name: Playmode-rand_title
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 47 00 00 00
 #
-name: PLAYMODE-RAND_GROUP
+name: Playmode-rand_group
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 48 00 00 00
 #
-name: VIEW_BY_ARTIST
+name: View_by_artist
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 49 00 00 00
 #
-name: VIEW_BY_TITLE
+name: View_by_title
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 4A 00 00 00
 #
-name: VIEW_BY_SONG
+name: View_by_song
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 4B 00 00 00
 #
-name: VIEW_BY_COVER
+name: View_by_cover
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 4C 00 00 00
 #
-name: PLAYER
+name: Player
 type: parsed
 protocol: NECext
 address: 03 16 00 00
 command: 4D 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 03 16 00 00

@@ -1,463 +1,463 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MENU_+
+name: Menu_+
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 01 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 01 00 00 00
 #
-name: OSD_OFF
+name: Osd_off
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 02 00 00 00
 #
-name: BALANCE_RIGHT
+name: Balance_right
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 04 00 00 00
 #
-name: BALANCE_REAR
+name: Balance_rear
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 05 00 00 00
 #
-name: OSD_ON
+name: Osd_on
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 05 00 00 00
 #
-name: BALANCE_LEFT
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 06 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 08 00 00 00
 #
-name: DONE
+name: Done
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0A 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0C 00 00 00
 #
-name: INPUT:TAPE
+name: Input:tape
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0C 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0D 00 00 00
 #
-name: INPUT:TUNER
+name: Input:tuner
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0D 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0E 00 00 00
 #
-name: INPUT:CD
+name: Input:cd
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0E 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0F 00 00 00
 #
-name: INPUT:AUX
+name: Input:aux
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 0F 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 10 00 00 00
 #
-name: INPUT:TV
+name: Input:tv
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 10 00 00 00
 #
-name: VIDEO_DISC
+name: Video_disc
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 11 00 00 00
 #
-name: INPUT:V_DISC
+name: Input:v_disc
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 11 00 00 00
 #
-name: VCR_2
+name: Vcr_2
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 12 00 00 00
 #
-name: INPUT:DVD
+name: Input:dvd
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 12 00 00 00
 #
-name: VCR_1
+name: Vcr_1
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 13 00 00 00
 #
-name: INPUT:VCR
+name: Input:vcr
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 13 00 00 00
 #
-name: RECORD_ZONE_II
+name: Record_zone_ii
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 14 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 15 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 16 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 17 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 18 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 19 00 00 00
 #
-name: EFFECT_+
+name: Effect_+
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1A 00 00 00
 #
-name: FX_UP
+name: Fx_up
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1A 00 00 00
 #
-name: EFFECT_-
+name: Effect_-
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1B 00 00 00
 #
-name: FS_DOWN
+name: Fs_down
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1B 00 00 00
 #
-name: MENU_-
+name: Menu_-
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1D 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1D 00 00 00
 #
-name: BALANCE_FRONT
+name: Balance_front
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1E 00 00 00
 #
-name: EFFECT_BYPASS
+name: Effect_bypass
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 1F 00 00 00
 #
-name: DOLBY_PRO_LOGIC
+name: Dolby_pro_logic
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 20 00 00 00
 #
-name: THX_CINEMA
+name: Thx_cinema
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 21 00 00 00
 #
-name: LOGIC_7
+name: Logic_7
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 22 00 00 00
 #
-name: DTS
+name: Dts
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 23 00 00 00
 #
-name: 2_CHANNEL_STEREO
+name: 2_channel_stereo
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 24 00 00 00
 #
-name: PARTY
+name: Party
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 25 00 00 00
 #
-name: TV_M
+name: Tv_m
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 26 00 00 00
 #
-name: MUSIC
+name: Music
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 27 00 00 00
 #
-name: ZONE_2:TAPE
+name: Zone_2:tape
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 4C 00 00 00
 #
-name: ZONE_2:TUNER
+name: Zone_2:tuner
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 4D 00 00 00
 #
-name: ZONE_2:CD
+name: Zone_2:cd
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 4E 00 00 00
 #
-name: ZONE_2:AUX
+name: Zone_2:aux
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 4F 00 00 00
 #
-name: ZONE_2:TV
+name: Zone_2:tv
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 50 00 00 00
 #
-name: ZONE_2:V_DISC
+name: Zone_2:v_disc
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 51 00 00 00
 #
-name: ZONE_2:DVD
+name: Zone_2:dvd
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 52 00 00 00
 #
-name: ZONE_2:VCR
+name: Zone_2:vcr
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 53 00 00 00
 #
-name: +5DB
+name: +5db
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 84 00 00 00
 #
-name: REMOTE_TRIGGER_OFF
+name: Remote_trigger_off
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 85 00 00 00
 #
-name: -5DB
+name: -5db
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 86 00 00 00
 #
-name: DEACTIVATE_ZONE_2
+name: Deactivate_zone_2
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 88 00 00 00
 #
-name: U_R_HERE
+name: U_r_here
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 8A 00 00 00
 #
-name: ACCY_+_TAPE_MODE
+name: Accy_+_tape_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 8C 00 00 00
 #
-name: ACCY_+_TUNER_MODE
+name: Accy_+_tuner_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 8D 00 00 00
 #
-name: ACCY_+_CD_MODE
+name: Accy_+_cd_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 8E 00 00 00
 #
-name: ACCY_+_AUX_MODE
+name: Accy_+_aux_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 8F 00 00 00
 #
-name: ACCY_+_TV_MODE
+name: Accy_+_tv_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 90 00 00 00
 #
-name: ACCY_+_V_DISC_MODE
+name: Accy_+_v_disc_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 91 00 00 00
 #
-name: ACCY_+_VCR2_MODE
+name: Accy_+_vcr2_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 92 00 00 00
 #
-name: ACCY_+_VCR1_MODE
+name: Accy_+_vcr1_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 93 00 00 00
 #
-name: ZONE_2_MODE
+name: Zone_2_mode
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 94 00 00 00
 #
-name: FULL_MUTE
+name: Full_mute
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 95 00 00 00
 #
-name: TREBLE_-
+name: Treble_-
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 96 00 00 00
 #
-name: TREBLE_+
+name: Treble_+
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 97 00 00 00
 #
-name: OSD_ON
+name: Osd_on
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 98 00 00 00
 #
-name: OSD_OFF
+name: Osd_off
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 99 00 00 00
 #
-name: BASS_+
+name: Bass_+
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 9A 00 00 00
 #
-name: BASS_-
+name: Bass_-
 type: parsed
 protocol: NECext
 address: 82 0B 00 00
 command: 9B 00 00 00
 #
-name: REMOTE_TRIGGER_ON
+name: Remote_trigger_on
 type: parsed
 protocol: NECext
 address: 82 0B 00 00

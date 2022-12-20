@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 07 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 07 07 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

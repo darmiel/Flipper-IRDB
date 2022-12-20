@@ -61,91 +61,91 @@ protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: FREQ._DIRECT
+name: Freq._direct
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0B 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0F 00 00 00
 #
-name: TUNING_UP
+name: Tuning_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNING_DOWN
+name: Tuning_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: STEREO/MONO
+name: Stereo/mono
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: PRESET_SCAN
+name: Preset_scan
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2B 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2D 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2E 00 00 00
 #
-name: LW
+name: Lw
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 2F 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3A 00 00 00
 #
-name: PRESET_INFO
+name: Preset_info
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 52 00 00 00
 #
-name: PTY
+name: Pty
 type: parsed
 protocol: NECext
 address: 11 00 00 00

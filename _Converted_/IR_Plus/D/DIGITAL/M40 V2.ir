@@ -10,7 +10,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: C4 3B 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -22,19 +22,19 @@ protocol: NECext
 address: 7F 80 00 00
 command: 3C C3 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
 command: 64 9B 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
 command: 3E C1 00 00
 #
-name: Txt Expand
+name: Txt_expand
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -52,7 +52,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 94 6B 00 00
 #
-name: On Pip
+name: On_pip
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 66 99 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 5C A3 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -154,13 +154,13 @@ protocol: NECext
 address: 7F 80 00 00
 command: F4 0B 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
 command: AC 53 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -172,7 +172,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: C6 39 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -244,7 +244,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 1E E1 00 00
 #
-name: Fav/Rcl
+name: Fav/rcl
 type: parsed
 protocol: NECext
 address: 7F 80 00 00

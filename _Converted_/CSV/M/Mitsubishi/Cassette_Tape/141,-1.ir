@@ -61,7 +61,7 @@ protocol: NECext
 address: 8D 00 00 00
 command: 09 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
@@ -73,85 +73,85 @@ protocol: NECext
 address: 8D 00 00 00
 command: 0D 00 00 00
 #
-name: AUTO_SPACE
+name: Auto_space
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 0E 00 00 00
 #
-name: PROG/EDIT
+name: Prog/edit
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 10 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 11 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 13 00 00 00
 #
-name: A<->B
+name: A<->b
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 14 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 15 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 16 00 00 00
 #
-name: FR_<<
+name: Fr_<<
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 17 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1A 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1B 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1C 00 00 00
 #
-name: FS_>>
+name: Fs_>>
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1D 00 00 00
 #
-name: RS_<<
+name: Rs_<<
 type: parsed
 protocol: NECext
 address: 8D 00 00 00
 command: 1E 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 8D 00 00 00

@@ -1,151 +1,151 @@
 Filetype: IR signals file
 Version: 1
 #
-name: mute
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: menu
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 03 00 00 00
 #
-name: channelup
+name: Channelup
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 06 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: channeldown
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: btn_1
+name: Btn_1
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: btn_3
+name: Btn_3
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: btn_7
+name: Btn_7
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: btn_9
+name: Btn_9
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: btn_2
+name: Btn_2
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: btn_4
+name: Btn_4
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: btn_5
+name: Btn_5
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1B 00 00 00
 #
-name: btn_6
+name: Btn_6
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1E 00 00 00
 #
-name: btn_8
+name: Btn_8
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: screen
+name: Screen
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 24 00 00 00
 #
-name: btn_0
+name: Btn_0
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 27 00 00 00
 #
-name: t
+name: T
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: rewind
+name: Rewind
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2D 00 00 00
 #
-name: playpause
+name: Playpause
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 30 00 00 00
 #
-name: fastforward
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 33 00 00 00
 #
-name: record
+name: Record
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 36 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 39 00 00 00
 #
-name: stop
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3C 00 00 00
 #
-name: question
+name: Question
 type: parsed
 protocol: NECext
 address: 07 00 00 00

@@ -3,49 +3,49 @@ Version: 1
 # 
 # Sony Amp STR-DE875
 #
-name: POWERToggle
+name: Powertoggle
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 15 00 00 00
 # 
-name: POWER_On
+name: Power_on
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 2E 00 00 00
 # 
-name: POWER_Off
+name: Power_off
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 2F 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 12 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 13 00 00 00
 # 
-name: Vol_Mute
+name: Vol_mute
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 14 00 00 00
 # 
-name: ChannelUp
+name: Channelup
 type: parsed
 protocol: SIRC
 address: 0D 00 00 00
 command: 10 00 00 00
 # 
-name: ChannelDown
+name: Channeldown
 type: parsed
 protocol: SIRC
 address: 0D 00 00 00
@@ -57,25 +57,25 @@ protocol: SIRC15
 address: 90 00 00 00
 command: 77 00 00 00
 # 
-name: DPad_Up
+name: Dpad_up
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 78 00 00 00
 # 
-name: DPad_Down
+name: Dpad_down
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 79 00 00 00
 # 
-name: DPad_Left
+name: Dpad_left
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 7A 00 00 00
 # 
-name: DPad_Right
+name: Dpad_right
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
@@ -111,25 +111,25 @@ protocol: SIRC15
 address: 90 00 00 00
 command: 79 00 00 00
 # 
-name: 2CH
+name: 2ch
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 41 00 00 00
 # 
-name: AFD
+name: Afd
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 47 00 00 00
 # 
-name: AudioSplit
+name: Audiosplit
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 64 00 00 00
 # 
-name: DTuning
+name: Dtuning
 type: parsed
 protocol: SIRC
 address: 0D 00 00 00
@@ -141,115 +141,115 @@ protocol: SIRC
 address: 01 00 00 00
 command: 0B 00 00 00
 # 
-name: EQ_Tone
+name: Eq_tone
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 4C 00 00 00
 # 
-name: InputAM
+name: Inputam
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 1A 00 00 00
 # 
-name: InputAux
+name: Inputaux
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 1D 00 00 00
 # 
-name: InputSA_CD
+name: Inputsa_cd
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 25 00 00 00
 # 
-name: InputDVD_LD
+name: Inputdvd_ld
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 7D 00 00 00
 # 
-name: InputFM
+name: Inputfm
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 18 00 00 00
 # 
-name: InputMD_Tape
+name: Inputmd_tape
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 69 00 00 00
 # 
-name: InputMode
+name: Inputmode
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 30 00 00 00
 # 
-name: InputPhono
+name: Inputphono
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 20 00 00 00
 # 
-name: InputTuner
+name: Inputtuner
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 21 00 00 00
 # 
-name: InputTV_Sat
+name: Inputtv_sat
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 6A 00 00 00
 # 
-name: InputVideo1
+name: Inputvideo1
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 22 00 00 00
 # 
-name: InputVideo2
+name: Inputvideo2
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 1E 00 00 00
 # 
-name: InputVideo3
+name: Inputvideo3
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 42 00 00 00
 # 
-name: Mode_Down
+name: Mode_down
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 6F 00 00 00
 # 
-name: Mode_Up
+name: Mode_up
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 6E 00 00 00
 # 
-name: Multi_2CH
+name: Multi_2ch
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
 command: 49 00 00 00
 # 
-name: NightMode
+name: Nightmode
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00
 command: 20 00 00 00
 # 
-name: OnScreen
+name: Onscreen
 type: parsed
 protocol: SIRC
 address: 10 00 00 00
@@ -273,7 +273,7 @@ protocol: SIRC
 address: 10 00 00 00
 command: 60 00 00 00
 # 
-name: TestTone
+name: Testtone
 type: parsed
 protocol: SIRC15
 address: 90 00 00 00

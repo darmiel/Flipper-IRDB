@@ -61,175 +61,175 @@ protocol: NECext
 address: 66 00 00 00
 command: 89 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 8B 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 8C 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 8E 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 8F 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 90 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 91 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 92 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 93 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 94 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 95 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 97 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 98 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 99 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 9A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 9B 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 9C 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 9D 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 9E 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 9F 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: A0 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: A1 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: A2 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: A4 00 00 00
 #
-name: STEP
+name: Step
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: A6 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: A7 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: A8 00 00 00
 #
-name: BOOK_MARK
+name: Book_mark
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: A9 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: AA 00 00 00
 #
-name: 3D
+name: 3d
 type: parsed
 protocol: NECext
 address: 66 00 00 00

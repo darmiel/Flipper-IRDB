@@ -1,175 +1,175 @@
 Filetype: IR signals file
 Version: 1
 #
-name: c0
+name: C0
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 00 00 00 00
 #
-name: c1
+name: C1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 01 00 00 00
 #
-name: c2
+name: C2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 02 00 00 00
 #
-name: c3
+name: C3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 03 00 00 00
 #
-name: c4
+name: C4
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 04 00 00 00
 #
-name: c5
+name: C5
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 05 00 00 00
 #
-name: c6
+name: C6
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 06 00 00 00
 #
-name: c7
+name: C7
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 07 00 00 00
 #
-name: c8
+name: C8
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 08 00 00 00
 #
-name: c9
+name: C9
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: selvps
+name: Selvps
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0B 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: tracking
+name: Tracking
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0E 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1D 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: rev
+name: Rev
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 25 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: still
+name: Still
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: pausestop
+name: Pausestop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 36 00 00 00
 #
-name: arecordotr
+name: Arecordotr
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 37 00 00 00
 #
-name: splp
+name: Splp
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3A 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 70 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 71 00 00 00
 #
-name: monitor
+name: Monitor
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 7A 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 7D 00 00 00
 #
-name: cass
+name: Cass
 type: parsed
 protocol: NECext
 address: 05 00 00 00

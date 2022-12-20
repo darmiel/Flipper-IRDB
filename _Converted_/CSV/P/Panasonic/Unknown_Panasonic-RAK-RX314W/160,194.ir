@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: cdstop
+name: Cdstop
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 80 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 81 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 82 00 00 00
 #
-name: cdrev
+name: Cdrev
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 84 00 00 00
 #
-name: cdfwd
+name: Cdfwd
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 85 00 00 00
 #
-name: cdpause
+name: Cdpause
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 86 00 00 00
 #
-name: cdplay
+name: Cdplay
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 87 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 8B 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 8D 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: A0 C2 00 00
 command: 98 00 00 00
 #
-name: ten
+name: Ten
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
@@ -127,97 +127,97 @@ protocol: NECext
 address: A0 C2 00 00
 command: 9F 00 00 00
 #
-name: tapestop
+name: Tapestop
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A0 00 00 00
 #
-name: taperev
+name: Taperev
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A2 00 00 00
 #
-name: tapefwd
+name: Tapefwd
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A3 00 00 00
 #
-name: taperec
+name: Taperec
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A4 00 00 00
 #
-name: tapeplayleft
+name: Tapeplayleft
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A5 00 00 00
 #
-name: tapeplayright
+name: Tapeplayright
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A6 00 00 00
 #
-name: tapedeck
+name: Tapedeck
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AD 00 00 00
 #
-name: tapereverse_mode
+name: Tapereverse_mode
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AE 00 00 00
 #
-name: tapecounter_reset
+name: Tapecounter_reset
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AF 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B0 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B1 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B6 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B8 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BC 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BF 00 00 00
 #
-name: fmmode
+name: Fmmode
 type: parsed
 protocol: NECext
 address: A0 C2 00 00

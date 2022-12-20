@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VDP_POWER
+name: Vdp_power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 81 00 00 00
 #
-name: VDP1_POWER
+name: Vdp1_power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 81 00 00 00
 #
-name: VDP_STOP_[]
+name: Vdp_stop_[]
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 83 00 00 00
 #
-name: VDP1_STOP_[]
+name: Vdp1_stop_[]
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 83 00 00 00
 #
-name: VDP_PLAY_>
+name: Vdp_play_>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 84 00 00 00
 #
-name: VDP1_PLAY_>
+name: Vdp1_play_>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 84 00 00 00
 #
-name: VDP_PAUSE_
+name: Vdp_pause_
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 85 00 00 00
 #
-name: VDP1_PAUSE_
+name: Vdp1_pause_
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 85 00 00 00
 #
-name: VDP_SEARCH_>>
+name: Vdp_search_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 86 00 00 00
 #
-name: VDP1_SRCH_>>
+name: Vdp1_srch_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 86 00 00 00
 #
-name: VDP_SEARCH_<<
+name: Vdp_search_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 87 00 00 00
 #
-name: VDP1_SRCH_<<
+name: Vdp1_srch_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 87 00 00 00
 #
-name: VDP_FF_>>
+name: Vdp_ff_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 88 00 00 00
 #
-name: VDP1_FF_>>
+name: Vdp1_ff_>>
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 88 00 00 00
 #
-name: VDP_REW_<<
+name: Vdp_rew_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 89 00 00 00
 #
-name: VDP1_REW_<<
+name: Vdp1_rew_<<
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 89 00 00 00
 #
-name: VDP1_DISPLAY
+name: Vdp1_display
 type: parsed
 protocol: NECext
 address: 06 00 00 00

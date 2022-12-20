@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHARACTER
+name: Character
 type: parsed
 protocol: NECext
 address: 22 21 00 00
 command: 03 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 22 21 00 00
 command: 0C 00 00 00
 #
-name: TITLE_INPUT
+name: Title_input
 type: parsed
 protocol: NECext
 address: 22 21 00 00
 command: 13 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 22 21 00 00

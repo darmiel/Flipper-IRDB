@@ -39,7 +39,7 @@ protocol: NECext
 address: 29 A1 00 00
 command: 9C 63 00 00
 # 
-name: PlayPause
+name: Playpause
 type: parsed
 protocol: NECext
 address: 29 A1 00 00
@@ -57,13 +57,13 @@ protocol: NECext
 address: 29 A1 00 00
 command: A9 56 00 00
 # 
-name: BT
+name: Bt
 type: parsed
 protocol: NECext
 address: 29 A1 00 00
 command: CD 32 00 00
 # 
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 29 A1 00 00

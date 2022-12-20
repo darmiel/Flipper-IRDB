@@ -121,7 +121,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 09 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 0A 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -145,13 +145,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 0B 00 00 00
 #
-name: DOWN_ARROW
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 0C 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -175,13 +175,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 0D 00 00 00
 #
-name: RIGHT_ARROW
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0D 00 00 00
 #
-name: CURSOR_SELECT
+name: Cursor_select
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -193,13 +193,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 0E 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0E 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -211,13 +211,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 0F 00 00 00
 #
-name: LEFT_ARROW
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 0F 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -229,7 +229,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 10 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -241,13 +241,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 11 00 00 00
 #
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 11 00 00 00
 #
-name: RET
+name: Ret
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -259,13 +259,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 12 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 12 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -277,7 +277,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 13 00 00 00
 #
-name: CLR
+name: Clr
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -289,13 +289,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 15 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 15 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -307,7 +307,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 16 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -319,7 +319,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 17 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -331,7 +331,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 18 00 00 00
 #
-name: DISP
+name: Disp
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -343,13 +343,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 1A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 1A 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -361,7 +361,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 1D 00 00 00
 #
-name: SKIP_>
+name: Skip_>
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -373,13 +373,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 20 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 20 00 00 00
 #
-name: SKIP_<
+name: Skip_<
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -391,13 +391,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 21 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 21 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -409,13 +409,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 29 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 29 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -427,13 +427,13 @@ protocol: NECext
 address: 1B 00 00 00
 command: 2F 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
 command: 2F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -445,7 +445,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 30 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -457,7 +457,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 32 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -469,7 +469,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 34 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -481,7 +481,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1B 00 00 00
@@ -493,7 +493,7 @@ protocol: NECext
 address: 1B 00 00 00
 command: 36 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 1B 00 00 00

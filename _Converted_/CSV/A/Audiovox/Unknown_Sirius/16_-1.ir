@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -13,19 +13,19 @@ protocol: NECext
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 06 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -55,13 +55,13 @@ protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -73,31 +73,31 @@ protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 12 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 13 00 00 00
 #
-name: CAT-
+name: Cat-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 14 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 15 00 00 00
 #
-name: CAT+
+name: Cat+
 type: parsed
 protocol: NECext
 address: 10 00 00 00

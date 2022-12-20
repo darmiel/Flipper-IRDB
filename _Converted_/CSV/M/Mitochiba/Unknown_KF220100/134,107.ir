@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: view
+name: View
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 00 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 02 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 06 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 07 00 00 00
 #
-name: a-b_pbc
+name: A-b_pbc
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 86 6B 00 00
 command: 09 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -49,19 +49,19 @@ protocol: NECext
 address: 86 6B 00 00
 command: 0D 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0F 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 86 6B 00 00
 command: 12 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 86 6B 00 00
 command: 19 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 86 6B 00 00
 command: 1D 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -133,145 +133,145 @@ protocol: NECext
 address: 86 6B 00 00
 command: 1F 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 40 00 00 00
 #
-name: p/n
+name: P/n
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 41 00 00 00
 #
-name: spk
+name: Spk
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 42 00 00 00
 #
-name: mol
+name: Mol
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 43 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 44 00 00 00
 #
-name: ran
+name: Ran
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 45 00 00 00
 #
-name: rem
+name: Rem
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 45 00 00 00
 #
-name: r/l
+name: R/l
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 46 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 47 00 00 00
 #
-name: time_goto
+name: Time_goto
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 48 00 00 00
 #
-name: prog
+name: Prog
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 49 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 4A 00 00 00
 #
-name: step
+name: Step
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 4B 00 00 00
 #
-name: mic_off
+name: Mic_off
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 4D 00 00 00
 #
-name: mic_on
+name: Mic_on
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 4E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 50 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 51 00 00 00
 #
-name: game
+name: Game
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 52 00 00 00
 #
-name: ret
+name: Ret
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 52 00 00 00
 #
-name: kres
+name: Kres
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 52 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 53 00 00 00
 #
-name: rep
+name: Rep
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 55 00 00 00
 #
-name: freeze_time
+name: Freeze_time
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 56 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
@@ -283,13 +283,13 @@ protocol: NECext
 address: 86 6B 00 00
 command: 59 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 5E 00 00 00
 #
-name: c/e
+name: C/e
 type: parsed
 protocol: NECext
 address: 86 6B 00 00

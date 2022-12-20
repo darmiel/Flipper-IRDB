@@ -3,7 +3,7 @@ Version: 1
 #
 # BenQ DLP Projector W1070
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -15,13 +15,13 @@ protocol: NECext
 address: 00 30 00 00
 command: 4E B1 00 00
 # 
-name: HDMI_1
+name: Hdmi_1
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 58 A7 00 00
 # 
-name: HDMI_2
+name: Hdmi_2
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -39,7 +39,7 @@ protocol: NECext
 address: 00 30 00 00
 command: 52 AD 00 00
 # 
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -51,13 +51,13 @@ protocol: NECext
 address: 00 30 00 00
 command: 51 AE 00 00
 # 
-name: Menu_Exit
+name: Menu_exit
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 0F F0 00 00
 # 
-name: EcoBlank
+name: Ecoblank
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -87,19 +87,19 @@ protocol: NECext
 address: 00 30 00 00
 command: 0C F3 00 00
 # 
-name: Left_VolDwn
+name: Left_voldwn
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 0D F2 00 00
 # 
-name: Right_VolUp
+name: Right_volup
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 0E F1 00 00
 # 
-name: Mode_Enter
+name: Mode_enter
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -111,13 +111,13 @@ protocol: NECext
 address: 00 30 00 00
 command: 13 EC 00 00
 # 
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 00 30 00 00
 command: 1B E4 00 00
 # 
-name: SRS
+name: Srs
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -165,7 +165,7 @@ protocol: NECext
 address: 00 30 00 00
 command: 79 86 00 00
 # 
-name: ColorTemp
+name: Colortemp
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -183,7 +183,7 @@ protocol: NECext
 address: 00 30 00 00
 command: 5D A2 00 00
 # 
-name: 3D
+name: 3d
 type: parsed
 protocol: NECext
 address: 00 30 00 00
@@ -195,7 +195,7 @@ protocol: NECext
 address: 00 30 00 00
 command: 9D 62 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 30 00 00

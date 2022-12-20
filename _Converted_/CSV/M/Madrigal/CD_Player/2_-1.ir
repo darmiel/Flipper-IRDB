@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DIGITAL_MODE
+name: Digital_mode
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 27 00 00 00
 #
-name: ANALOG_MODE
+name: Analog_mode
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 28 00 00 00
 #
-name: CLOSE_LID
+name: Close_lid
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 29 00 00 00
 #
-name: OPEN_LID
+name: Open_lid
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2A 00 00 00
 #
-name: INDEX_OFF
+name: Index_off
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2E 00 00 00
 #
-name: INDEX_ON
+name: Index_on
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2F 00 00 00
 #
-name: REPEAT_OFF
+name: Repeat_off
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 30 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 31 00 00 00
 #
-name: UNPAUSE
+name: Unpause
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 32 00 00 00
 #
-name: DISPLAY_MEDIUM
+name: Display_medium
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 33 00 00 00
 #
-name: DISPLAY_OFF
+name: Display_off
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 34 00 00 00
 #
-name: STOP;_NO_LID
+name: Stop;_no_lid
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 35 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 36 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 37 00 00 00
 #
-name: RANDOM_PLAY
+name: Random_play
 type: parsed
 protocol: NECext
 address: 02 00 00 00

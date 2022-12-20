@@ -52,7 +52,7 @@ protocol: NECext
 address: B0 4B 00 00
 command: 37 C8 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: B0 4B 00 00

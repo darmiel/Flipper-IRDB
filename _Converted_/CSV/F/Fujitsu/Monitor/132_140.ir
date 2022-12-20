@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL_+
+name: Vol_+
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 10 00 00 00
 #
-name: VOL_-
+name: Vol_-
 type: parsed
 protocol: NECext
 address: 84 8C 00 00
 command: 11 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 84 8C 00 00

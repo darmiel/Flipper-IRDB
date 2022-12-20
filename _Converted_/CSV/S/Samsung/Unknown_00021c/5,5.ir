@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: tv/vcr
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -67,151 +67,151 @@ protocol: NECext
 address: 05 05 00 00
 command: 11 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 13 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 14 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 15 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 17 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 18 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 19 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1A 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1D 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1E 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 22 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 28 00 00 00
 #
-name: mark/search
+name: Mark/search
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2B 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 31 00 00 00
 #
-name: progressive/speed
+name: Progressive/speed
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 3A 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 3D 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 43 00 00 00
 #
-name: angle/timer
+name: Angle/timer
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 45 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 48 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 55 00 00 00
 #
-name: input_sel
+name: Input_sel
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 59 00 00 00
 #
-name: disc_menu
+name: Disc_menu
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 60 00 00 00
 #
-name: mode/repeat
+name: Mode/repeat
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 66 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 05 00 00

@@ -49,139 +49,139 @@ protocol: NECext
 address: 02 01 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 0B 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 0E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 0F 00 00 00
 #
-name: MEM_SCAN
+name: Mem_scan
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 11 00 00 00
 #
-name: MONO
+name: Mono
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 12 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 17 00 00 00
 #
-name: TUNER_BAND
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 19 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 1B 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 1C 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 1E 00 00 00
 #
-name: AUX_VIDEO
+name: Aux_video
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 1F 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 20 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 21 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 22 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 23 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 27 00 00 00
 #
-name: CD_PLAY_PAUSE
+name: Cd_play_pause
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 2B 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 2C 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 2D 00 00 00
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 2F 00 00 00
 #
-name: CD_PREV
+name: Cd_prev
 type: parsed
 protocol: NECext
 address: 02 01 00 00
 command: 34 00 00 00
 #
-name: CD_NEXT
+name: Cd_next
 type: parsed
 protocol: NECext
 address: 02 01 00 00

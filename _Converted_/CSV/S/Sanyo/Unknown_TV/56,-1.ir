@@ -61,61 +61,61 @@ protocol: NECext
 address: 38 00 00 00
 command: 09 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0C 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 12 00 00 00
 #
-name: tv/vid
+name: Tv/vid
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 13 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 19 00 00 00
 #
-name: pip
+name: Pip
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 5B 00 00 00
 #
-name: swap
+name: Swap
 type: parsed
 protocol: NECext
 address: 38 00 00 00

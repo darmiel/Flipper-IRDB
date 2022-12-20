@@ -7,7 +7,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 04 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 08 00 00 00
 #
-name: LBOX
+name: Lbox
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 02 00 00 00
 command: 0A 00 00 00
 #
-name: STBY
+name: Stby
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -97,55 +97,55 @@ protocol: NECext
 address: 02 00 00 00
 command: 15 00 00 00
 #
-name: MEMA
+name: Mema
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 16 00 00 00
 #
-name: MEMB
+name: Memb
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 17 00 00 00
 #
-name: ARROWUP
+name: Arrowup
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1F 00 00 00
 #
-name: ARROWLEFT
+name: Arrowleft
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 20 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 21 00 00 00
 #
-name: ARROWRIGHT
+name: Arrowright
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 22 00 00 00
 #
-name: ARROWDOWN
+name: Arrowdown
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 25 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 02 00 00 00

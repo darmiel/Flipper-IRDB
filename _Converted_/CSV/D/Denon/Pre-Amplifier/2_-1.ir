@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C4 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C5 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C6 00 00 00
 #
-name: DBS/BS
+name: Dbs/bs
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C8 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: C9 00 00 00
 #
-name: VDP
+name: Vdp
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CA 00 00 00
 #
-name: V.AUX
+name: V.aux
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CC 00 00 00
 #
-name: VCR-1
+name: Vcr-1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CD 00 00 00
 #
-name: VCR-2
+name: Vcr-2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: CE 00 00 00
 #
-name: TAPE-1
+name: Tape-1
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D2 00 00 00
 #
-name: DAT/TAPE-2
+name: Dat/tape-2
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: D3 00 00 00
 #
-name: MUTING
+name: Muting
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F0 00 00 00
 #
-name: MASTER_^
+name: Master_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: F1 00 00 00
 #
-name: MASTER_V
+name: Master_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00

@@ -3,7 +3,7 @@ Version: 1
 # 
 # Argon ONE V2 and Argon ONE M.2 Pi4/Kodi Box Remote
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -57,13 +57,13 @@ protocol: NEC
 address: 00 00 00 00
 command: 90 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 80 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 00 00 00 00

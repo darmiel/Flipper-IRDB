@@ -61,67 +61,67 @@ protocol: NECext
 address: 44 00 00 00
 command: 0A 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0D 00 00 00
 #
-name: Pause/Still
+name: Pause/still
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 12 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 13 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 14 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 15 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 18 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 19 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 1B 00 00 00
 #
-name: x2>
+name: X2>
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 1D 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 44 00 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: 44 00 00 00
 command: 4F 00 00 00
 #
-name: TV_Still
+name: Tv_still
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 50 00 00 00
 #
-name: OTR
+name: Otr
 type: parsed
 protocol: NECext
 address: 44 00 00 00

@@ -10,7 +10,7 @@ protocol: NECext
 address: FF 00 00 00
 command: C7 38 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -22,25 +22,25 @@ protocol: NECext
 address: FF 00 00 00
 command: 3F C0 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 9D 62 00 00
 #
-name: Sleep Timer
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 87 78 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 7F 80 00 00
 #
-name: Txt Expand
+name: Txt_expand
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -64,7 +64,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 3D C2 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 1D E2 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -154,7 +154,7 @@ protocol: NECext
 address: FF 00 00 00
 command: AF 50 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -166,13 +166,13 @@ protocol: NECext
 address: FF 00 00 00
 command: BD 42 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 6F 90 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -184,7 +184,7 @@ protocol: NECext
 address: FF 00 00 00
 command: EF 10 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -256,25 +256,25 @@ protocol: NECext
 address: FF 00 00 00
 command: CF 30 00 00
 #
-name: Fav/Rcl
+name: Fav/rcl
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: BF 40 00 00
 #
-name: Text Str
+name: Text_str
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 75 8A 00 00
 #
-name: Mix Scn
+name: Mix_scn
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: On/Time
+name: On/time
 type: parsed
 protocol: NECext
 address: FF 00 00 00

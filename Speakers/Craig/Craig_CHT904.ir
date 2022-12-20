@@ -3,49 +3,49 @@ Version: 1
 # 
 # Craig Electronics Speaker CHT904
 #  
-name: POWERToggle
+name: Powertoggle
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 09 00 00 00
 # 
-name: VolumeUp
+name: Volumeup
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 0E 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 1A 00 00 00
 # 
-name: VolumeMute
+name: Volumemute
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 1F 00 00 00
 # 
-name: ChannelUp
+name: Channelup
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 11 00 00 00
 # 
-name: ChannelDown
+name: Channeldown
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 01 00 00 00
 # 
-name: ChUp_2
+name: Chup_2
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 17 00 00 00
 # 
-name: ChDown_2
+name: Chdown_2
 type: parsed
 protocol: NEC
 address: 20 00 00 00
@@ -57,7 +57,7 @@ protocol: NEC
 address: 20 00 00 00
 command: 15 00 00 00
 # 
-name: InputNext
+name: Inputnext
 type: parsed
 protocol: NEC
 address: 20 00 00 00
@@ -69,7 +69,7 @@ protocol: NEC
 address: 20 00 00 00
 command: 1B 00 00 00
 # 
-name: SRS
+name: Srs
 type: parsed
 protocol: NEC
 address: 20 00 00 00
@@ -81,13 +81,13 @@ protocol: NEC
 address: 20 00 00 00
 command: 12 00 00 00
 # 
-name: SubUp
+name: Subup
 type: parsed
 protocol: NEC
 address: 20 00 00 00
 command: 00 00 00 00
 # 
-name: SubDown
+name: Subdown
 type: parsed
 protocol: NEC
 address: 20 00 00 00

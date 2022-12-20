@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: B0 00 00 00
@@ -13,19 +13,19 @@ protocol: NECext
 address: B0 00 00 00
 command: 04 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 05 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: B0 00 00 00
@@ -91,91 +91,91 @@ protocol: NECext
 address: B0 00 00 00
 command: 19 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 33 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 3D 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 48 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 49 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 4A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 80 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 82 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 83 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 85 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 86 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 87 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 88 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 8E 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: B0 00 00 00
 command: 90 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: B0 00 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: B0 00 00 00
 command: 94 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: B0 00 00 00

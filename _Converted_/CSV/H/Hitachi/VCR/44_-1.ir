@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VCR_PLUS
+name: Vcr_plus
 type: parsed
 protocol: NECext
 address: 2C 00 00 00
 command: 11 00 00 00
 #
-name: TAPE_SPEED
+name: Tape_speed
 type: parsed
 protocol: NECext
 address: 2C 00 00 00
 command: 3B 00 00 00
 #
-name: 100/ENT
+name: 100/ent
 type: parsed
 protocol: NECext
 address: 2C 00 00 00
 command: 3D 00 00 00
 #
-name: VCR_100/ENT
+name: Vcr_100/ent
 type: parsed
 protocol: NECext
 address: 2C 00 00 00

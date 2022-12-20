@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 08 00 00 00
 #
-name: ARROW_LEFT_B
+name: Arrow_left_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 08 00 00 00
 #
-name: DEL
+name: Del
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 0A 00 00 00
 #
-name: DEL_B
+name: Del_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 0A 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 0D 00 00 00
 #
-name: OK_B
+name: Ok_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 0D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 1E 00 00 00
 #
-name: VOL-_B
+name: Vol-_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 1E 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 26 00 00 00
 #
-name: TV_B
+name: Tv_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 26 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 29 00 00 00
 #
-name: REC_B
+name: Rec_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 29 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 2D 00 00 00
 #
-name: VOL+_B
+name: Vol+_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 2D 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 3D 00 00 00
 #
-name: EPG_B
+name: Epg_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 11 14 00 00
 command: 88 00 00 00
 #
-name: ?_B
+name: ?_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 11 14 00 00
 command: 8C 00 00 00
 #
-name: B_B
+name: B_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -127,91 +127,91 @@ protocol: NECext
 address: 11 14 00 00
 command: 99 00 00 00
 #
-name: C_B
+name: C_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 99 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 9E 00 00 00
 #
-name: CHANNEL_+_B
+name: Channel_+_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 9E 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 9F 00 00 00
 #
-name: CHANNEL_-_B
+name: Channel_-_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: 9F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: A8 00 00 00
 #
-name: UP_B
+name: Up_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: A8 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: A9 00 00 00
 #
-name: DOWN_B
+name: Down_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: A9 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: AA 00 00 00
 #
-name: LEFT_B
+name: Left_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: AA 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: AB 00 00 00
 #
-name: RIGHT_B
+name: Right_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: AB 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: B7 00 00 00
 #
-name: PIP_B
+name: Pip_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -223,7 +223,7 @@ protocol: NECext
 address: 11 14 00 00
 command: D0 00 00 00
 #
-name: A_B
+name: A_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -235,103 +235,103 @@ protocol: NECext
 address: 11 14 00 00
 command: D1 00 00 00
 #
-name: P_B
+name: P_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D1 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D2 00 00 00
 #
-name: POWER_B
+name: Power_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D2 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D3 00 00 00
 #
-name: PAUSE_B
+name: Pause_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D3 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D4 00 00 00
 #
-name: STOP_B
+name: Stop_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D4 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D5 00 00 00
 #
-name: REW_B
+name: Rew_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D5 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D6 00 00 00
 #
-name: FF_B
+name: Ff_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: D6 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: DB 00 00 00
 #
-name: SKIP_<<_B
+name: Skip_<<_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: DB 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: DC 00 00 00
 #
-name: SKIP_>>_B
+name: Skip_>>_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: DC 00 00 00
 #
-name: STAR
+name: Star
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: E1 00 00 00
 #
-name: STAR_B
+name: Star_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -343,7 +343,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F1 00 00 00
 #
-name: 0_B
+name: 0_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -355,7 +355,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F2 00 00 00
 #
-name: 1B
+name: 1b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -367,7 +367,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F3 00 00 00
 #
-name: 2B
+name: 2b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -379,7 +379,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F4 00 00 00
 #
-name: 3B
+name: 3b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -391,7 +391,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F5 00 00 00
 #
-name: 4B
+name: 4b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -403,7 +403,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F6 00 00 00
 #
-name: 5B
+name: 5b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -415,7 +415,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F7 00 00 00
 #
-name: 6B
+name: 6b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -427,7 +427,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F8 00 00 00
 #
-name: 7B
+name: 7b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -439,7 +439,7 @@ protocol: NECext
 address: 11 14 00 00
 command: F9 00 00 00
 #
-name: 8B
+name: 8b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
@@ -451,19 +451,19 @@ protocol: NECext
 address: 11 14 00 00
 command: FA 00 00 00
 #
-name: 9_B
+name: 9_b
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: FA 00 00 00
 #
-name: C/N
+name: C/n
 type: parsed
 protocol: NECext
 address: 11 14 00 00
 command: FC 00 00 00
 #
-name: C/NB
+name: C/nb
 type: parsed
 protocol: NECext
 address: 11 14 00 00

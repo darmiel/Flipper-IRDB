@@ -133,409 +133,409 @@ protocol: NECext
 address: 05 00 00 00
 command: 0A 00 00 00
 #
-name: CP
+name: Cp
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0B 00 00 00
 #
-name: S_CP
+name: S_cp
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: S_POWER
+name: S_power
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: S_MUTE
+name: S_mute
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0D 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: S_GREEN
+name: S_green
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: S_VOLUME_UP
+name: S_volume_up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: S_VOLUME_DOWN
+name: S_volume_down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 11 00 00 00
 #
-name: BRIGHTNESS_UP
+name: Brightness_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: S_BRIGHTNESS_UP
+name: S_brightness_up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 12 00 00 00
 #
-name: BRIGHTNESS_DOWN
+name: Brightness_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 13 00 00 00
 #
-name: S_BRIGHTNESS_DOWN
+name: S_brightness_down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 13 00 00 00
 #
-name: CONTRAST_UP
+name: Contrast_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 14 00 00 00
 #
-name: S_CONTRAST_UP
+name: S_contrast_up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 14 00 00 00
 #
-name: CONTRAST_DOWN
+name: Contrast_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 15 00 00 00
 #
-name: S_CONTRAST_DOWN
+name: S_contrast_down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 15 00 00 00
 #
-name: BASS_UP
+name: Bass_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: S_BASS_UP
+name: S_bass_up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 16 00 00 00
 #
-name: BASS_DOWN
+name: Bass_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 17 00 00 00
 #
-name: S_BASS_DOWN
+name: S_bass_down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 17 00 00 00
 #
-name: TREBLE_UP
+name: Treble_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 18 00 00 00
 #
-name: S_TREBLE_UP
+name: S_treble_up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 18 00 00 00
 #
-name: TREBLE_DOWN
+name: Treble_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: S_TREBLE_DOWN
+name: S_treble_down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 19 00 00 00
 #
-name: BALANCE_RIGHT
+name: Balance_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: S_BALANCE_RIGHT
+name: S_balance_right
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1A 00 00 00
 #
-name: BALANCE_LEFT
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1B 00 00 00
 #
-name: S_BALANCE_LEFT
+name: S_balance_left
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1B 00 00 00
 #
-name: TT_OUT
+name: Tt_out
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1D 00 00 00
 #
-name: S_TT_OUT
+name: S_tt_out
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1D 00 00 00
 #
-name: TT_PLAY
+name: Tt_play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1E 00 00 00
 #
-name: S_TT_PLAY
+name: S_tt_play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1E 00 00 00
 #
-name: I-II
+name: I-ii
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 23 00 00 00
 #
-name: S_I-II
+name: S_i-ii
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 23 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 24 00 00 00
 #
-name: S_STEREO
+name: S_stereo
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 24 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 28 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 28 00 00 00
 #
-name: TT_STOP
+name: Tt_stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: S_TT_STOP
+name: S_tt_stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: TT_TIME
+name: Tt_time
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: S_TT_TIME
+name: S_tt_time
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2A 00 00 00
 #
-name: TT_UPDOWN
+name: Tt_updown
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: S_TT_UPDOWN
+name: S_tt_updown
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2B 00 00 00
 #
-name: TT_INFO
+name: Tt_info
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2C 00 00 00
 #
-name: S_TT_INFO
+name: S_tt_info
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2C 00 00 00
 #
-name: TT_X
+name: Tt_x
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: S_TT_X
+name: S_tt_x
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2D 00 00 00
 #
-name: TT_MIX
+name: Tt_mix
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: S_TT_MIX
+name: S_tt_mix
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2E 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2F 00 00 00
 #
-name: FAST_BACK
+name: Fast_back
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2F 00 00 00
 #
-name: REVERSE
+name: Reverse
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 33 00 00 00
 #
-name: S_REVERSE
+name: S_reverse
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 33 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 35 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 36 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 36 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 37 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 37 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3C 00 00 00
 #
-name: S_TELETEXT
+name: S_teletext
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3C 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3F 00 00 00
 #
-name: S_TV
+name: S_tv
 type: parsed
 protocol: NECext
 address: 05 00 00 00

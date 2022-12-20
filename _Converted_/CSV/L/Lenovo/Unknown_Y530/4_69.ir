@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 1E 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 1F 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 20 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 21 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 28 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 29 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 2C 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 2E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 30 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 31 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 37 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 3E 00 00 00
 #
-name: MEDIA
+name: Media
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 54 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 58 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 59 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 5A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 5B 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 5C 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 5D 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 83 00 00 00
 #
-name: PVR
+name: Pvr
 type: parsed
 protocol: NECext
 address: 04 45 00 00
 command: 9B 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 04 45 00 00

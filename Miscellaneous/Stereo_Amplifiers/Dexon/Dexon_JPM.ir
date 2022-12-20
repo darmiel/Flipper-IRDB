@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: On_Off
+name: On_off
 type: parsed
 protocol: NECext
 address: 89 89 00 00
@@ -19,13 +19,13 @@ protocol: NECext
 address: 89 89 00 00
 command: 41 BE 00 00
 # 
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 89 89 00 00
 command: 4C B3 00 00
 # 
-name: AUX_in
+name: Aux_in
 type: parsed
 protocol: NECext
 address: 89 89 00 00
@@ -37,37 +37,37 @@ protocol: NECext
 address: 89 89 00 00
 command: 10 EF 00 00
 # 
-name: WiFi
+name: Wifi
 type: parsed
 protocol: NECext
 address: 89 89 00 00
 command: 19 E6 00 00
 # 
-name: BT
+name: Bt
 type: parsed
 protocol: NECext
 address: 89 89 00 00
 command: 18 E7 00 00
 # 
-name: Bass_P
+name: Bass_p
 type: parsed
 protocol: NECext
 address: 89 89 00 00
 command: 4E B1 00 00
 # 
-name: Bass_M
+name: Bass_m
 type: parsed
 protocol: NECext
 address: 89 89 00 00
 command: 4A B5 00 00
 # 
-name: Treble_P
+name: Treble_p
 type: parsed
 protocol: NECext
 address: 89 89 00 00
 command: 0D F2 00 00
 # 
-name: Treble_M
+name: Treble_m
 type: parsed
 protocol: NECext
 address: 89 89 00 00
@@ -79,19 +79,19 @@ protocol: NECext
 address: 89 89 00 00
 command: 0C F3 00 00
 # 
-name: D_Bass
+name: D_bass
 type: parsed
 protocol: NECext
 address: 89 89 00 00
 command: 08 F7 00 00
 # 
-name: Up_Plus
+name: Up_plus
 type: parsed
 protocol: NECext
 address: 89 89 00 00
 command: 16 E9 00 00
 # 
-name: Down_Minus
+name: Down_minus
 type: parsed
 protocol: NECext
 address: 89 89 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 89 89 00 00
 command: 50 AF 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 89 89 00 00

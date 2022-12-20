@@ -7,7 +7,7 @@ protocol: NECext
 address: 0B 00 00 00
 command: 00 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -25,31 +25,31 @@ protocol: NECext
 address: 0B 00 00 00
 command: 04 00 00 00
 #
-name: NUMERIC_STAR
+name: Numeric_star
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 06 00 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 07 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 09 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 0B 00 00 00
 #
-name: HEART
+name: Heart
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 0B 00 00 00
 command: 10 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 0B 00 00 00
 command: 14 00 00 00
 #
-name: MAIL
+name: Mail
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 15 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -97,13 +97,13 @@ protocol: NECext
 address: 0B 00 00 00
 command: 1C 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 1E 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 0B 00 00 00
 command: 20 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 0B 00 00 00
 command: 22 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -145,49 +145,49 @@ protocol: NECext
 address: 0B 00 00 00
 command: 25 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 27 00 00 00
 #
-name: NUMERIC_POUND
+name: Numeric_pound
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 28 00 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 2A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 2B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 2E 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 2F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 31 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
@@ -199,13 +199,13 @@ protocol: NECext
 address: 0B 00 00 00
 command: 37 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 3B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0B 00 00 00

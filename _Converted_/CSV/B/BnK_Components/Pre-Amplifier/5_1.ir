@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SAVE
+name: Save
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 00 00 00 00
 #
-name: CTRL
+name: Ctrl
 type: parsed
 protocol: NECext
 address: 05 01 00 00
@@ -25,103 +25,103 @@ protocol: NECext
 address: 05 01 00 00
 command: 03 00 00 00
 #
-name: A/V_PRESET_1
+name: A/v_preset_1
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 04 00 00 00
 #
-name: A/V_PRESET_2
+name: A/v_preset_2
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 05 00 00 00
 #
-name: A/V_PRESET_3
+name: A/v_preset_3
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 06 00 00 00
 #
-name: A/V_PRESET_4
+name: A/v_preset_4
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 07 00 00 00
 #
-name: A/V_PRESET_6
+name: A/v_preset_6
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 09 00 00 00
 #
-name: BALANCE_>
+name: Balance_>
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0A 00 00 00
 #
-name: BALANCE_<
+name: Balance_<
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0B 00 00 00
 #
-name: V_(MENU)
+name: V_(menu)
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0C 00 00 00
 #
-name: ^_(MENU)
+name: ^_(menu)
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0D 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0E 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 0F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 10 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 11 00 00 00
 #
-name: A/V_PRESET_7
+name: A/v_preset_7
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 12 00 00 00
 #
-name: A/V_PRESET_8
+name: A/v_preset_8
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 13 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 14 00 00 00
 #
-name: REVIEW
+name: Review
 type: parsed
 protocol: NECext
 address: 05 01 00 00
@@ -133,31 +133,31 @@ protocol: NECext
 address: 05 01 00 00
 command: 16 00 00 00
 #
-name: FX
+name: Fx
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 19 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1A 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1B 00 00 00
 #
-name: VLD
+name: Vld
 type: parsed
 protocol: NECext
 address: 05 01 00 00
@@ -169,13 +169,13 @@ protocol: NECext
 address: 05 01 00 00
 command: 1D 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 05 01 00 00
 command: 1E 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 05 01 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DISK_SKIP_DOWN
+name: Disk_skip_down
 type: parsed
 protocol: NECext
 address: 1A 62 00 00
 command: 3D 00 00 00
 #
-name: DISK_SKIP_UP
+name: Disk_skip_up
 type: parsed
 protocol: NECext
 address: 1A 62 00 00

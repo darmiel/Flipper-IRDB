@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SOURCE_POWER
+name: Source_power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 00 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 02 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 03 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 04 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 05 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0A 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0B 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0D 00 00 00
 #
-name: FAST_FWD
+name: Fast_fwd
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0F 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 10 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 04 00 00 00
 command: 12 00 00 00
 #
-name: ACCOUSTIC
+name: Accoustic
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -211,67 +211,67 @@ protocol: NECext
 address: 04 00 00 00
 command: 25 00 00 00
 #
-name: *__MUTE
+name: *__mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 26 00 00 00
 #
-name: *__SKIP_+
+name: *__skip_+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 27 00 00 00
 #
-name: *__SKIP_-
+name: *__skip_-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 28 00 00 00
 #
-name: *__PLAY
+name: *__play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 29 00 00 00
 #
-name: *__STOP
+name: *__stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2A 00 00 00
 #
-name: *__CHAN_+
+name: *__chan_+
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2D 00 00 00
 #
-name: *__CHAN_-
+name: *__chan_-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2E 00 00 00
 #
-name: *__RECALL
+name: *__recall
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2F 00 00 00
 #
-name: *__ENTER
+name: *__enter
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 30 00 00 00
 #
-name: *__TV
+name: *__tv
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 31 00 00 00
 #
-name: *__ELAN
+name: *__elan
 type: parsed
 protocol: NECext
 address: 04 00 00 00

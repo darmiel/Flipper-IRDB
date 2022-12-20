@@ -3,7 +3,7 @@ Version: 1
 #
 # Power Lighting Meteor VI LED light machine
 #
-name: On_Off
+name: On_off
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -39,37 +39,37 @@ protocol: NEC
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: ProLght-
+name: Prolght-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: ProLght+
+name: Prolght+
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5E 00 00 00
 #
-name: SpeedSen-
+name: Speedsen-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: SpeedSen+
+name: Speedsen+
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5A 00 00 00
 #
-name: SpeedStrobe-
+name: Speedstrobe-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 42 00 00 00
 #
-name: SpeedStrobe+
+name: Speedstrobe+
 type: parsed
 protocol: NEC
 address: 00 00 00 00

@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 00 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 00 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 03 00 00 00
 #
-name: OPEN_/_CLOSE
+name: Open_/_close
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 04 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 04 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 08 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 22 30 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 22 30 00 00
 command: 18 00 00 00
 #
-name: TRACK_-
+name: Track_-
 type: parsed
 protocol: NECext
 address: 22 30 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 22 30 00 00
 command: 19 00 00 00
 #
-name: TRACK_+
+name: Track_+
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 19 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 22 30 00 00
@@ -133,19 +133,19 @@ protocol: NECext
 address: 22 30 00 00
 command: 29 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 2B 00 00 00
 #
-name: PLAY/PAUSE
+name: Play/pause
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 2B 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 22 30 00 00
@@ -157,25 +157,25 @@ protocol: NECext
 address: 22 30 00 00
 command: 30 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 30 00 00 00
 #
-name: SCAN_-
+name: Scan_-
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 30 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 31 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 22 30 00 00
@@ -187,133 +187,133 @@ protocol: NECext
 address: 22 30 00 00
 command: 36 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 36 00 00 00
 #
-name: SCAN_+
+name: Scan_+
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 36 00 00 00
 #
-name: CONTINUE
+name: Continue
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 37 00 00 00
 #
-name: MENU_RIGHT
+name: Menu_right
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 46 00 00 00
 #
-name: +1_DISC
+name: +1_disc
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 46 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 46 00 00 00
 #
-name: MENU_LEFT
+name: Menu_left
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 47 00 00 00
 #
-name: -1_DISC
+name: -1_disc
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 47 00 00 00
 #
-name: DISC_-
+name: Disc_-
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 47 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 80 00 00 00
 #
-name: TRACK
+name: Track
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 81 00 00 00
 #
-name: MENU_UP
+name: Menu_up
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 82 00 00 00
 #
-name: +10_DISC
+name: +10_disc
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 82 00 00 00
 #
-name: DISC_10+
+name: Disc_10+
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 82 00 00 00
 #
-name: MENU_DOWN
+name: Menu_down
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 83 00 00 00
 #
-name: -10_DISC
+name: -10_disc
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 83 00 00 00
 #
-name: DISC_10-
+name: Disc_10-
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 83 00 00 00
 #
-name: 1_DISC
+name: 1_disc
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 84 00 00 00
 #
-name: ONE_DISC
+name: One_disc
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 84 00 00 00
 #
-name: USER_FILE
+name: User_file
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 89 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 22 30 00 00
 command: 94 00 00 00
 #
-name: DISC_SEARCH
+name: Disc_search
 type: parsed
 protocol: NECext
 address: 22 30 00 00

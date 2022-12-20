@@ -3,7 +3,7 @@ Version: 1
 # 
 # For Phillips FX55 Hi-Fi System
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -51,7 +51,7 @@ protocol: RC5
 address: 14 00 00 00
 command: 21 00 00 00
 # 
-name: Pause_Continue
+name: Pause_continue
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -75,19 +75,19 @@ protocol: RC6
 address: 15 00 00 00
 command: 8C 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 0D 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC5
 address: 10 00 00 00
 command: 10 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC5
 address: 10 00 00 00
@@ -111,19 +111,19 @@ protocol: RC5
 address: 14 00 00 00
 command: 0F 00 00 00
 # 
-name: EQ
+name: Eq
 type: parsed
 protocol: RC5X
 address: 10 00 00 00
 command: 0F 00 00 00
 # 
-name: MAX_Sound
+name: Max_sound
 type: parsed
 protocol: RC5X
 address: 10 00 00 00
 command: 23 00 00 00
 # 
-name: Bass_Boost
+name: Bass_boost
 type: parsed
 protocol: RC5X
 address: 10 00 00 00

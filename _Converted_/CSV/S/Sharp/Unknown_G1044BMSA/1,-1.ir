@@ -61,181 +61,181 @@ protocol: NECext
 address: 01 00 00 00
 command: 0A 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 11 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 13 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 15 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 19 00 00 00
 #
-name: off_timer
+name: Off_timer
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1B 00 00 00
 #
-name: TXT_TIME
+name: Txt_time
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 1C 00 00 00
 #
-name: SWITCH
+name: Switch
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 27 00 00 00
 #
-name: TXT_OFF
+name: Txt_off
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 32 00 00 00
 #
-name: TXT_HOLD
+name: Txt_hold
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 33 00 00 00
 #
-name: TXT_ON
+name: Txt_on
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 34 00 00 00
 #
-name: TXT_CANCEL
+name: Txt_cancel
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 35 00 00 00
 #
-name: TXT_SIZE
+name: Txt_size
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 37 00 00 00
 #
-name: TXT_REVEAL
+name: Txt_reveal
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 38 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3C 00 00 00
 #
-name: P/C
+name: P/c
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 3D 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 41 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 48 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 49 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4A 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4B 00 00 00
 #
-name: TXT_INDEX
+name: Txt_index
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4C 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4D 00 00 00
 #
-name: sig_up
+name: Sig_up
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 4F 00 00 00
 #
-name: sig_down
+name: Sig_down
 type: parsed
 protocol: NECext
 address: 01 00 00 00
 command: 50 00 00 00
 #
-name: FUNCTIONS
+name: Functions
 type: parsed
 protocol: NECext
 address: 01 00 00 00

@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 00 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 01 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 02 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 03 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 04 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 05 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 06 00 00 00
 #
-name: BCE
+name: Bce
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 07 00 00 00
 #
-name: SPLIT
+name: Split
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 08 00 00 00
 #
-name: FILM
+name: Film
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 09 00 00 00
 #
-name: ASPECT_RATIO
+name: Aspect_ratio
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0A 00 00 00
 #
-name: TRNR
+name: Trnr
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0B 00 00 00
 #
-name: CNR
+name: Cnr
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0C 00 00 00
 #
-name: DVI
+name: Dvi
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0D 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0E 00 00 00
 #
-name: HDMI
+name: Hdmi
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 0F 00 00 00
 #
-name: RGB
+name: Rgb
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 10 00 00 00
 #
-name: S-VIDEO
+name: S-video
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 11 00 00 00
 #
-name: SDI
+name: Sdi
 type: parsed
 protocol: NECext
 address: 80 00 00 00
 command: 12 00 00 00
 #
-name: YPBPR
+name: Ypbpr
 type: parsed
 protocol: NECext
 address: 80 00 00 00

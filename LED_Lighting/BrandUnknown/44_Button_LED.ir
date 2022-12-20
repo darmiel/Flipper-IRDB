@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -79,7 +79,7 @@ protocol: NEC
 address: 00 00 00 00
 command: 4D 00 00 00
 # 
-name: Other_Pink
+name: Other_pink
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -109,91 +109,91 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 600 333 301 365 780 69 171 363 178 302 178 834 3926 229 353 2368 464
 # 
-name: 1H
+name: 1h
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 224 256 377 337 179 247 514 67 280 464 200 411 621 892 519 92 178 246 198 10727 179 1252 179 587 430 894 251 674 179 1277 175 1780 413 1859 431 1788 461 1838 411 1754 516 1758 461 1838 462 1915 304 703 432 732 249 783 515 1756 514 1810 179 1041 201 778 490 992 178 1696 334 1965 458 1894 355 703 432 652 513 1707 512 1760 489 1784 435 40115 4677 260 1713 92 178 429 199 278 1153 2443 359
 # 
-name: 2H
+name: 2h
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 19 00 00 00
 # 
-name: 3H
+name: 3h
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 279 5274 197 4429 177 76285 177 566 226 676 177 1678 280 409 179 775 252 2877 272
 # 
-name: 4H
+name: 4h
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 305 3787 252 623 246 1374 200
 # 
-name: Up_Red
+name: Up_red
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 14 00 00 00
 # 
-name: Down_Red
+name: Down_red
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 330 469 226 1028 173 11424 197 1897 414 940 225 727 177 2022 176 1097 196 3351 171 1784 179 4587 178 76935 201 1419 171 105637 9017 2286 515 96289 9096 2258 513
 # 
-name: Up_Green
+name: Up_green
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 15 00 00 00
 # 
-name: Down_Green
+name: Down_green
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 196 419 179 462 197 579 198 575 222 393 302 1031 277 470 675 419 179 487 177 7232 196 2192 200 4468 169 23361 176
 # 
-name: Up_Blue
+name: Up_blue
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 2583 223 3345 599 198 11164 410 911 223 780 334 776 225 777 460 1892 377 1974 306 4130 379 1893 305 1861 178 2277 222 1812 355 754 196 2258 195 2024 225 910 255 1858 278 858 379 862 175 987 224 1889 329 860 356 700 199 2124 299 759 437 1859 380 1894 304 1807 514 40011 1706 277 4671 225 991 303 198 278 223 2628 326
 # 
-name: DIY1
+name: Diy1
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0C 00 00 00
 # 
-name: DIY2
+name: Diy2
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0D 00 00 00
 # 
-name: DIY3
+name: Diy3
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0E 00 00 00
 # 
-name: DIY4
+name: Diy4
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 08 00 00 00
 # 
-name: DIY5
+name: Diy5
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 09 00 00 00
 # 
-name: DIY6
+name: Diy6
 type: parsed
 protocol: NEC
 address: 00 00 00 00

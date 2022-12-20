@@ -55,7 +55,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 25 00 00 00
 #
-name: SATELLITE
+name: Satellite
 type: parsed
 protocol: NECext
 address: 00 00 00 00

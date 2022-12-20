@@ -40,7 +40,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 47 B8 00 00
 #
-name: Video Info
+name: Video_info
 type: parsed
 protocol: NECext
 address: FF 00 00 00

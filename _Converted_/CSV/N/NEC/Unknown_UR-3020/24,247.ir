@@ -19,109 +19,109 @@ protocol: NECext
 address: 18 F7 00 00
 command: 02 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 08 00 00 00
 #
-name: 'END'
+name: 'end'
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 09 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 0B 00 00 00
 #
-name: COARSE/FINE
+name: Coarse/fine
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 0F 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 12 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 14 00 00 00
 #
-name: STATIC
+name: Static
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 15 00 00 00
 #
-name: CONV
+name: Conv
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 16 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 17 00 00 00
 #
-name: 1/ABC
+name: 1/abc
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 18 00 00 00
 #
-name: 2/DEF
+name: 2/def
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 19 00 00 00
 #
-name: 3/GHI
+name: 3/ghi
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1A 00 00 00
 #
-name: 4/JKL
+name: 4/jkl
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1B 00 00 00
 #
-name: 5/MNO
+name: 5/mno
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1C 00 00 00
 #
-name: 6/PQR
+name: 6/pqr
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1D 00 00 00
 #
-name: 7/STU
+name: 7/stu
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1E 00 00 00
 #
-name: 8/VWX
+name: 8/vwx
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 1F 00 00 00
 #
-name: 9/YZ-
+name: 9/yz-
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
@@ -133,61 +133,61 @@ protocol: NECext
 address: 18 F7 00 00
 command: 41 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 42 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 43 00 00 00
 #
-name: PICTURE_FUNCTION
+name: Picture_function
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 46 00 00 00
 #
-name: PICTURE_MUTE
+name: Picture_mute
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 47 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5C 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5D 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5E 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 5F 00 00 00
 #
-name: CTL_END
+name: Ctl_end
 type: parsed
 protocol: NECext
 address: 18 F7 00 00
 command: 89 00 00 00
 #
-name: CTL_ENTER
+name: Ctl_enter
 type: parsed
 protocol: NECext
 address: 18 F7 00 00

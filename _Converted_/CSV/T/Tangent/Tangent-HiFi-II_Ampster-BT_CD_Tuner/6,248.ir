@@ -1,109 +1,109 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 00 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 01 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 02 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 03 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 04 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 05 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 06 00 00 00
 #
-name: BT
+name: Bt
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 07 00 00 00
 #
-name: DAB
+name: Dab
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 08 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 09 00 00 00
 #
-name: OPTICAL
+name: Optical
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 0A 00 00 00
 #
-name: LINE_IN
+name: Line_in
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 0B 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 0C 00 00 00
 #
-name: PLAY_PAUSE
+name: Play_pause
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 0D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 0E 00 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 0F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 06 F8 00 00
 command: 10 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 06 F8 00 00

@@ -16,7 +16,7 @@ protocol: NECext
 address: FF 00 00 00
 command: B7 48 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -34,7 +34,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 0F F0 00 00
 #
-name: Text Stop
+name: Text_stop
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -52,13 +52,13 @@ protocol: NECext
 address: FF 00 00 00
 command: FF 00 00 00
 #
-name: Sleep Timer
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -88,7 +88,7 @@ protocol: NECext
 address: FF 00 00 00
 command: E7 18 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -118,25 +118,25 @@ protocol: NECext
 address: FF 00 00 00
 command: 4F B0 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CF 30 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 2F D0 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: E7 18 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 00 00 00

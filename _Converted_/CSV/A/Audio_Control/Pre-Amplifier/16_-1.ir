@@ -1,469 +1,469 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SELECT_SAT
+name: Select_sat
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 00 00 00 00
 #
-name: SELECT_PHONO
+name: Select_phono
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 01 00 00 00
 #
-name: SELECT_AV
+name: Select_av
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 02 00 00 00
 #
-name: SELECT_TUNER
+name: Select_tuner
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: SELECT_DVD
+name: Select_dvd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: SELECT_TAPE
+name: Select_tape
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 05 00 00 00
 #
-name: SELECT_VCR
+name: Select_vcr
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 06 00 00 00
 #
-name: SELECT_CD
+name: Select_cd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 07 00 00 00
 #
-name: SELECT_AUX
+name: Select_aux
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 08 00 00 00
 #
-name: SELECT_MULTI-CHANNEL
+name: Select_multi-channel
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 09 00 00 00
 #
-name: DIRECT_ONOFF_TGL
+name: Direct_onoff_tgl
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0A 00 00 00
 #
-name: SELECT_NET
+name: Select_net
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0B 00 00 00
 #
-name: STAND_BY
+name: Stand_by
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE_TOGGLE
+name: Mute_toggle
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: TREBLE_CON._MENU
+name: Treble_con._menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0E 00 00 00
 #
-name: VIDEO_OUT_SD_PROGR
+name: Video_out_sd_progr
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: CYCLE_ASPECT_RATIO
+name: Cycle_aspect_ratio
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 13 00 00 00
 #
-name: FOLLOW_ZONE_1
+name: Follow_zone_1
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 14 00 00 00
 #
-name: VIDEO_OUT_720P
+name: Video_out_720p
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 17 00 00 00
 #
-name: VIDEO_OUT_1080I
+name: Video_out_1080i
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1A 00 00 00
 #
-name: VIDEO_OUT_1080P
+name: Video_out_1080p
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1B 00 00 00
 #
-name: ROOM_EQ_ON/OFF
+name: Room_eq_on/off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 1E 00 00 00
 #
-name: CYCLE_DECODE_MODE
+name: Cycle_decode_mode
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 20 00 00 00
 #
-name: SELECT_DVR
+name: Select_dvr
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 22 00 00 00
 #
-name: SPEAKER_TRIM
+name: Speaker_trim
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 25 00 00 00
 #
-name: BASS_CON._MENU
+name: Bass_con._menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 27 00 00 00
 #
-name: FAVORITE_UP
+name: Favorite_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 29 00 00 00
 #
-name: FAVORITE_DOWN
+name: Favorite_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2A 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2B 00 00 00
 #
-name: BASS_INCREMENT
+name: Bass_increment
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2C 00 00 00
 #
-name: BASS_DECREMENT
+name: Bass_decrement
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2D 00 00 00
 #
-name: TREBLE_INCREMENT
+name: Treble_increment
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2E 00 00 00
 #
-name: CYCLE_OUTPUT_RES
+name: Cycle_output_res
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 2F 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 30 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 31 00 00 00
 #
-name: LIPSYNC_CONT_MEN
+name: Lipsync_cont_men
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 32 00 00 00
 #
-name: SUB_CONTROL_MENU
+name: Sub_control_menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 33 00 00 00
 #
-name: TRACK_FORWARD
+name: Track_forward
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 38 00 00 00
 #
-name: TRACK_BACKWARD
+name: Track_backward
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 39 00 00 00
 #
-name: DISPLAY_BRIGHT
+name: Display_bright
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 3B 00 00 00
 #
-name: FRAME_RATE_50HZ
+name: Frame_rate_50hz
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 40 00 00 00
 #
-name: FRAME_RATE_60HZ
+name: Frame_rate_60hz
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 41 00 00 00
 #
-name: DOLBY_VOL._ON-OFF
+name: Dolby_vol._on-off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 46 00 00 00
 #
-name: USB_PLAY/PAUSE
+name: Usb_play/pause
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 46 00 00 00
 #
-name: DISCRETE_DIR_ON
+name: Discrete_dir_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 4E 00 00 00
 #
-name: DISCRETE_DIR_OFF
+name: Discrete_dir_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 4F 00 00 00
 #
-name: NAVIGATE_RIGHT
+name: Navigate_right
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 50 00 00 00
 #
-name: NAVIGATE_LEFT
+name: Navigate_left
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 51 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 52 00 00 00
 #
-name: NAVIGATE_DOWN
+name: Navigate_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 55 00 00 00
 #
-name: NAVIGATE_UP
+name: Navigate_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 56 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 57 00 00 00
 #
-name: ZONE_TOGGLE
+name: Zone_toggle
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 5F 00 00 00
 #
-name: TREBLE_DECREMENT
+name: Treble_decrement
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 62 00 00 00
 #
-name: LIPSYNC_+_BY_1MS
+name: Lipsync_+_by_1ms
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 64 00 00 00
 #
-name: LIPSYNC_-_BY_1MS
+name: Lipsync_-_by_1ms
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 65 00 00 00
 #
-name: DOLBY_PL_II/IIX_GAM
+name: Dolby_pl_ii/iix_gam
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 66 00 00 00
 #
-name: DOLBY_PL_II/IIX_MOV
+name: Dolby_pl_ii/iix_mov
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 67 00 00 00
 #
-name: DOLBY_PL_II/IIX_MUS
+name: Dolby_pl_ii/iix_mus
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 68 00 00 00
 #
-name: MULTI-CHANNEL_AUDIO
+name: Multi-channel_audio
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6A 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6B 00 00 00
 #
-name: PLII_MUSIC_CENTER_+1
+name: Plii_music_center_+1
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6D 00 00 00
 #
-name: DOLBY_PRO_LOGIC
+name: Dolby_pro_logic
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6E 00 00 00
 #
-name: DTS_NEO:6_CINEMA
+name: Dts_neo:6_cinema
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 6F 00 00 00
 #
-name: DTS_NEO:6_MUSIC
+name: Dts_neo:6_music
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 70 00 00 00
 #
-name: PLII_MUSIC_CENTER_-1
+name: Plii_music_center_-1
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 71 00 00 00
 #
-name: PLII_MUSIC_DIM_+1
+name: Plii_music_dim_+1
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 72 00 00 00
 #
-name: PLII_MUSIC_DIM_-1
+name: Plii_music_dim_-1
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 73 00 00 00
 #
-name: PLII_PANORAMA_ON
+name: Plii_panorama_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 74 00 00 00
 #
-name: PLII_PANORAMA_OFF
+name: Plii_panorama_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 75 00 00 00
 #
-name: DOLBY_EX
+name: Dolby_ex
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 76 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 78 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 7B 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 7C 00 00 00
 #
-name: VIDEO_OUT_SD_INTERLA
+name: Video_out_sd_interla
 type: parsed
 protocol: NECext
 address: 10 00 00 00

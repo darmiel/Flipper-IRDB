@@ -10,7 +10,7 @@ protocol: NECext
 address: FB 00 00 00
 command: C7 38 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: FB 00 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: FB 00 00 00
 command: 1D E2 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FB 00 00 00
@@ -148,25 +148,25 @@ protocol: NECext
 address: FB 00 00 00
 command: C5 3A 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FB 00 00 00
 command: 2D D2 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FB 00 00 00
 command: 6F 90 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FB 00 00 00
 command: 0D F2 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FB 00 00 00
@@ -196,7 +196,7 @@ protocol: NECext
 address: FB 00 00 00
 command: 55 AA 00 00
 #
-name: Fav/Last
+name: Fav/last
 type: parsed
 protocol: NECext
 address: FB 00 00 00
@@ -208,13 +208,13 @@ protocol: NECext
 address: FB 00 00 00
 command: D7 28 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FB 00 00 00
 command: 6D 92 00 00
 #
-name: TxtExp
+name: Txtexp
 type: parsed
 protocol: NECext
 address: FB 00 00 00
@@ -238,7 +238,7 @@ protocol: NECext
 address: FB 00 00 00
 command: 07 F8 00 00
 #
-name: TxtStop
+name: Txtstop
 type: parsed
 protocol: NECext
 address: FB 00 00 00

@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: dir
+name: Dir
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 00 00 00 00
 #
-name: CdStop
+name: Cdstop
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 04 00 00 00
 #
-name: CdMemo
+name: Cdmemo
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 05 00 00 00
 #
-name: CDPlay
+name: Cdplay
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 06 00 00 00
 #
-name: CdIntro
+name: Cdintro
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 09 00 00 00
 #
-name: CdRandom
+name: Cdrandom
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -43,13 +43,13 @@ protocol: NECext
 address: 3C 00 00 00
 command: 0B 00 00 00
 #
-name: surr
+name: Surr
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 0C 00 00 00
 #
-name: CDEject
+name: Cdeject
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
@@ -127,145 +127,145 @@ protocol: NECext
 address: 3C 00 00 00
 command: 1E 00 00 00
 #
-name: TpAufnLi
+name: Tpaufnli
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 1F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 40 00 00 00
 #
-name: laut
+name: Laut
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 41 00 00 00
 #
-name: leise
+name: Leise
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 42 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 43 00 00 00
 #
-name: sound
+name: Sound
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 44 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 45 00 00 00
 #
-name: phono
+name: Phono
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 46 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 48 00 00 00
 #
-name: CDRe
+name: Cdre
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 49 00 00 00
 #
-name: CdRep
+name: Cdrep
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 49 00 00 00
 #
-name: CDLi
+name: Cdli
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 4A 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 4B 00 00 00
 #
-name: scan
+name: Scan
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 4D 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 4E 00 00 00
 #
-name: TpStop
+name: Tpstop
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 51 00 00 00
 #
-name: TpRecMute
+name: Tprecmute
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 52 00 00 00
 #
-name: TpEject
+name: Tpeject
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 53 00 00 00
 #
-name: TpAufnRe
+name: Tpaufnre
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 54 00 00 00
 #
-name: TpRe
+name: Tpre
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 55 00 00 00
 #
-name: TpLi
+name: Tpli
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 56 00 00 00
 #
-name: TPRecPause
+name: Tprecpause
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 57 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 3C 00 00 00
 command: 59 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 3C 00 00 00

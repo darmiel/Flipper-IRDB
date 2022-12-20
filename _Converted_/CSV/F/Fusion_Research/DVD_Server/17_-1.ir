@@ -61,151 +61,151 @@ protocol: NECext
 address: 11 00 00 00
 command: 49 00 00 00
 #
-name: POWER_-_EJECT
+name: Power_-_eject
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4A 00 00 00
 #
-name: BLANK_BUTTON
+name: Blank_button
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4B 00 00 00
 #
-name: DVD_MENU_/_LEFT_+
+name: Dvd_menu_/_left_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4C 00 00 00
 #
-name: RIGHT_+
+name: Right_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4D 00 00 00
 #
-name: LEFT_-
+name: Left_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4E 00 00 00
 #
-name: RIGHT_-
+name: Right_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4F 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 50 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 51 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 52 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 53 00 00 00
 #
-name: ARROW_DN
+name: Arrow_dn
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 54 00 00 00
 #
-name: OSD_MENU
+name: Osd_menu
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 55 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 56 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 57 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 58 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 59 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 5A 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 5B 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 5C 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 5D 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 5E 00 00 00
 #
-name: RED_-_COVER_ART
+name: Red_-_cover_art
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 60 00 00 00
 #
-name: GREEN_-_LIST
+name: Green_-_list
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 61 00 00 00
 #
-name: YELLOW_-_FAV
+name: Yellow_-_fav
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 62 00 00 00
 #
-name: BLUE_-_SORT
+name: Blue_-_sort
 type: parsed
 protocol: NECext
 address: 11 00 00 00

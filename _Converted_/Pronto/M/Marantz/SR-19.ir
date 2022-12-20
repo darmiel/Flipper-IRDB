@@ -2,21 +2,21 @@ Filetype: IR signals file
 Version: 1
 #
 # FM [raw] {11010001-101101}
-name: FM
+name: Fm
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 2D 00 00 00
 #
 # AM [raw] {11110001-101110}
-name: AM
+name: Am
 type: parsed
 protocol: RC5
 address: 11 00 00 00
 command: 2E 00 00 00
 #
 # LW [raw] {11010001-101111}
-name: LW
+name: Lw
 type: parsed
 protocol: RC5
 address: 11 00 00 00
@@ -142,7 +142,7 @@ address: 10 00 00 00
 command: 11 00 00 00
 #
 # MUTE [raw] {11010000-001101}
-name: MUTE
+name: Mute
 type: parsed
 protocol: RC5
 address: 10 00 00 00

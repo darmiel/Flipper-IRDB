@@ -3,7 +3,7 @@ Version: 1
 # 
 # For Thomson Set-Top Box (Cable Box) THT501 TNT
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -15,7 +15,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 08 F7 00 00
 # 
-name: Tv_R
+name: Tv_r
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -81,13 +81,13 @@ protocol: NECext
 address: 00 BF 00 00
 command: 0F F0 00 00
 # 
-name: PG-
+name: Pg-
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 51 AE 00 00
 # 
-name: PG+
+name: Pg+
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -141,7 +141,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 1B E4 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -153,31 +153,31 @@ protocol: NECext
 address: 00 BF 00 00
 command: 13 EC 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 11 EE 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 0D F2 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 19 E6 00 00
 # 
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 16 E9 00 00
 # 
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
@@ -255,7 +255,7 @@ protocol: NECext
 address: 00 BF 00 00
 command: 40 BF 00 00
 # 
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 00 BF 00 00

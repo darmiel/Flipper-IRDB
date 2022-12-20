@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 00 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 01 00 00 00
 #
-name: REW/SEARCH_<<
+name: Rew/search_<<
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 02 00 00 00
 #
-name: FF/SEARCH_>>
+name: Ff/search_>>
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 03 00 00 00
 #
-name: PAUSE/STILL_
+name: Pause/still_
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 06 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 08 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 08 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0A 00 00 00
 #
-name: SLOW_>
+name: Slow_>
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0F 00 00 00
 #
-name: 1_(AM)
+name: 1_(am)
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 10 00 00 00
 #
-name: 1_AM
+name: 1_am
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 10 00 00 00
 #
-name: 2_(PM)
+name: 2_(pm)
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 11 00 00 00
 #
-name: 2_PM
+name: 2_pm
 type: parsed
 protocol: NECext
 address: 02 00 00 00
@@ -127,85 +127,85 @@ protocol: NECext
 address: 02 00 00 00
 command: 19 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 20 00 00 00
 #
-name: CH_SCAN_^
+name: Ch_scan_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 22 00 00 00
 #
-name: CH_SCAN_V
+name: Ch_scan_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 23 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 25 00 00 00
 #
-name: VCR/TV
+name: Vcr/tv
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2A 00 00 00
 #
-name: COUNTER_MEMORY
+name: Counter_memory
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 32 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 33 00 00 00
 #
-name: CLEAR_RESET
+name: Clear_reset
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 33 00 00 00
 #
-name: TRACKING_^
+name: Tracking_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 38 00 00 00
 #
-name: V-LOCK_TRACKING_^
+name: V-lock_tracking_^
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 38 00 00 00
 #
-name: TRACKING_V
+name: Tracking_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 39 00 00 00
 #
-name: V-LOCK_TRACKING_V
+name: V-lock_tracking_v
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 39 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 3E 00 00 00
 #
-name: OTR
+name: Otr
 type: parsed
 protocol: NECext
 address: 02 00 00 00

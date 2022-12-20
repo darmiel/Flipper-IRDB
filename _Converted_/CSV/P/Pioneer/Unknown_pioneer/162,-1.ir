@@ -61,175 +61,175 @@ protocol: NECext
 address: A2 00 00 00
 command: 09 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0C 00 00 00
 #
-name: pgm
+name: Pgm
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0D 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0E 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 10 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 11 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 16 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1C 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1D 00 00 00
 #
-name: track_set
+name: Track_set
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 40 00 00 00
 #
-name: disc_set
+name: Disc_set
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 41 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 43 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 45 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 4A 00 00 00
 #
-name: hi-lite
+name: Hi-lite
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 5E 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 93 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 93 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 94 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 95 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 95 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 9B 00 00 00
 #
-name: best
+name: Best
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 9B 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 9C 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 9C 00 00 00
 #
-name: pre1
+name: Pre1
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C1 00 00 00
 #
-name: pre3
+name: Pre3
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: C2 00 00 00
 #
-name: pre2
+name: Pre2
 type: parsed
 protocol: NECext
 address: A2 00 00 00

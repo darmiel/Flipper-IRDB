@@ -70,7 +70,7 @@ protocol: NECext
 address: 27 10 00 00
 command: 67 98 00 00
 #
-name: LAST CH
+name: Last_ch
 type: parsed
 protocol: NECext
 address: 27 10 00 00
@@ -82,31 +82,31 @@ protocol: NECext
 address: 27 10 00 00
 command: F7 08 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: DB 24 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 1F E0 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 7B 84 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: DF 20 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 27 10 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: 27 10 00 00
 command: FF 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 27 10 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: 27 10 00 00
 command: 3F C0 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 27 10 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: 27 10 00 00
 command: BF 40 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 27 10 00 00
@@ -154,109 +154,109 @@ protocol: NECext
 address: 27 10 00 00
 command: 7F 80 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 7F 80 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: F3 0C 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: F3 0C 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: D3 2C 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: B3 4C 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 73 8C 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 33 CC 00 00
 #
-name: SKIP-
+name: Skip-
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 93 6C 00 00
 #
-name: SKIP+
+name: Skip+
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 13 EC 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 2F D0 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: A7 58 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 4F B0 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 3D C2 00 00
 #
-name: TV/RADO
+name: Tv/rado
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: 8F 70 00 00
 #
-name: SLLEO
+name: Slleo
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: EB 14 00 00
 #
-name: T.S.
+name: T.s.
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: E3 1C 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 27 10 00 00
 command: FB 04 00 00
 #
-name: FAVOURITES
+name: Favourites
 type: parsed
 protocol: NECext
 address: 27 10 00 00

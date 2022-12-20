@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNEL_DOWN
+name: Channel_down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: <<_REWIND
+name: <<_rewind
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 14 00 00 00
 #
-name: RECORD_MUTE
+name: Record_mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 18 00 00 00
 #
-name: AUDIO_OUT
+name: Audio_out
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: CHANNEL_UP
+name: Channel_up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -55,31 +55,31 @@ protocol: NECext
 address: 07 00 00 00
 command: 24 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 28 00 00 00
 #
-name: TV/TAPE
+name: Tv/tape
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2C 00 00 00
 #
-name: >>_FAST_FORWARD
+name: >>_fast_forward
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 30 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 34 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -145,37 +145,37 @@ protocol: NECext
 address: 07 00 00 00
 command: 64 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 6C 00 00 00
 #
-name: ENT/RCL
+name: Ent/rcl
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 70 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 74 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 76 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 78 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 07 00 00 00

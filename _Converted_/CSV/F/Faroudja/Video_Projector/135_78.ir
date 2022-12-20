@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: COMPOSITE_1
+name: Composite_1
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 01 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 02 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 05 00 00 00
 #
-name: COMPOSITE_3
+name: Composite_3
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 09 00 00 00
 #
-name: HELP
+name: Help
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 0A 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 0D 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 0E 00 00 00
 #
-name: COMPOSITE_2
+name: Composite_2
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 15 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 16 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 87 4E 00 00

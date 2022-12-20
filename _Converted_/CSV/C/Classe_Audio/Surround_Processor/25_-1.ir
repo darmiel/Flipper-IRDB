@@ -1,757 +1,757 @@
 Filetype: IR signals file
 Version: 1
 #
-name: A.CAL_T0
+name: A.cal_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 08 00 00 00
 #
-name: A.CAL_T1
+name: A.cal_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 08 00 00 00
 #
-name: STANDBY_T0
+name: Standby_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0C 00 00 00
 #
-name: STANDBY_T1
+name: Standby_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE_T0
+name: Mute_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE_T1
+name: Mute_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0D 00 00 00
 #
-name: SLEEP_T0
+name: Sleep_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0E 00 00 00
 #
-name: SLEEP_T1
+name: Sleep_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0E 00 00 00
 #
-name: DISPLAY_T0
+name: Display_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: DISPLAY_T1
+name: Display_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: DIM_T0
+name: Dim_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: DIM_T1
+name: Dim_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: DISP_T0
+name: Disp_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: DISP_T1
+name: Disp_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+_T0
+name: Vol+_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 10 00 00 00
 #
-name: VOL+_T1
+name: Vol+_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 10 00 00 00
 #
-name: VOL-_T0
+name: Vol-_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 11 00 00 00
 #
-name: VOL-_T1
+name: Vol-_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 11 00 00 00
 #
-name: AUD5_T0
+name: Aud5_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 12 00 00 00
 #
-name: AUD5_T1
+name: Aud5_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 12 00 00 00
 #
-name: AUD6_T0
+name: Aud6_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 13 00 00 00
 #
-name: AUD6_T1
+name: Aud6_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 13 00 00 00
 #
-name: AUD1_T0
+name: Aud1_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 14 00 00 00
 #
-name: AUD1_T1
+name: Aud1_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 14 00 00 00
 #
-name: AUD2_T0
+name: Aud2_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 15 00 00 00
 #
-name: AUD2_T1
+name: Aud2_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 15 00 00 00
 #
-name: AUD3_T0
+name: Aud3_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 16 00 00 00
 #
-name: AUD3_T1
+name: Aud3_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 16 00 00 00
 #
-name: AUD4_T0
+name: Aud4_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 17 00 00 00
 #
-name: AUD4_T1
+name: Aud4_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 17 00 00 00
 #
-name: EX_7.1_T0
+name: Ex_7.1_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 18 00 00 00
 #
-name: EX_7.1_T1
+name: Ex_7.1_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 18 00 00 00
 #
-name: TAPE_T0
+name: Tape_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1A 00 00 00
 #
-name: TAPE_T1
+name: Tape_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1A 00 00 00
 #
-name: PATH_T0
+name: Path_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1C 00 00 00
 #
-name: PATH_T1
+name: Path_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1C 00 00 00
 #
-name: RECALL_T0
+name: Recall_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1D 00 00 00
 #
-name: RECALL_T1
+name: Recall_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1D 00 00 00
 #
-name: MEMORY_T0
+name: Memory_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1E 00 00 00
 #
-name: MEMORY_T1
+name: Memory_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1E 00 00 00
 #
-name: STORE_T0
+name: Store_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1F 00 00 00
 #
-name: STORE_T1
+name: Store_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1F 00 00 00
 #
-name: MODE>_T0
+name: Mode>_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: MODE>_T1
+name: Mode>_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: MODE_T0
+name: Mode_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: MODE_T1
+name: Mode_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: MODE_R_T0
+name: Mode_r_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: MODE_R_T1
+name: Mode_r_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 20 00 00 00
 #
-name: MENU_T0
+name: Menu_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 21 00 00 00
 #
-name: MENU_T1
+name: Menu_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 21 00 00 00
 #
-name: UP_T0
+name: Up_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 22 00 00 00
 #
-name: UP_T1
+name: Up_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 22 00 00 00
 #
-name: LEFT_T0
+name: Left_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 23 00 00 00
 #
-name: LEFT_T1
+name: Left_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 23 00 00 00
 #
-name: RIGHT_T0
+name: Right_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 24 00 00 00
 #
-name: RIGHT_T1
+name: Right_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 24 00 00 00
 #
-name: MENU_T0
+name: Menu_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 24 00 00 00
 #
-name: MENU_T1
+name: Menu_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 24 00 00 00
 #
-name: DOWN_T0
+name: Down_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 25 00 00 00
 #
-name: DOWN_T1
+name: Down_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 25 00 00 00
 #
-name: ENTER_T0
+name: Enter_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 26 00 00 00
 #
-name: ENTER_T1
+name: Enter_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 26 00 00 00
 #
-name: CANCEL_T0
+name: Cancel_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 27 00 00 00
 #
-name: CANCEL_T1
+name: Cancel_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 27 00 00 00
 #
-name: VIDEO_L_T0
+name: Video_l_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 27 00 00 00
 #
-name: VIDEO_L_T1
+name: Video_l_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 27 00 00 00
 #
-name: VIDEO_R_T0
+name: Video_r_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 28 00 00 00
 #
-name: VIDEO_R_T1
+name: Video_r_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 28 00 00 00
 #
-name: AUDIO_L_T0
+name: Audio_l_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 29 00 00 00
 #
-name: AUDIO_L_T1
+name: Audio_l_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 29 00 00 00
 #
-name: AUDIO_R_T0
+name: Audio_r_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2A 00 00 00
 #
-name: AUDIO_R_T1
+name: Audio_r_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2A 00 00 00
 #
-name: LEFT_FRONT_T0
+name: Left_front_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2C 00 00 00
 #
-name: LEFT_FRONT_T1
+name: Left_front_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2C 00 00 00
 #
-name: RIGHT_FRONT_T0
+name: Right_front_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2D 00 00 00
 #
-name: RIGHT_FRONT_T1
+name: Right_front_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2D 00 00 00
 #
-name: L_SURR_T0
+name: L_surr_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2E 00 00 00
 #
-name: L_SURR_T1
+name: L_surr_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2E 00 00 00
 #
-name: R_SURR_T0
+name: R_surr_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2F 00 00 00
 #
-name: R_SURR_T1
+name: R_surr_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 2F 00 00 00
 #
-name: AV1_T0
+name: Av1_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 30 00 00 00
 #
-name: AV1_T1
+name: Av1_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 30 00 00 00
 #
-name: AV2_T0
+name: Av2_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 31 00 00 00
 #
-name: AV2_T1
+name: Av2_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 31 00 00 00
 #
-name: AV3_T0
+name: Av3_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 32 00 00 00
 #
-name: AV3_T1
+name: Av3_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 32 00 00 00
 #
-name: AV4_T0
+name: Av4_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 33 00 00 00
 #
-name: AV4_T1
+name: Av4_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 33 00 00 00
 #
-name: AV5_T0
+name: Av5_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 34 00 00 00
 #
-name: AV5_T1
+name: Av5_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 34 00 00 00
 #
-name: AV6_T0
+name: Av6_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 35 00 00 00
 #
-name: AV6_T1
+name: Av6_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 35 00 00 00
 #
-name: SUB+_T0
+name: Sub+_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 36 00 00 00
 #
-name: SUB+_T1
+name: Sub+_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 36 00 00 00
 #
-name: TRIM+_T0
+name: Trim+_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 36 00 00 00
 #
-name: TRIM+_T1
+name: Trim+_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 36 00 00 00
 #
-name: ZONE_T0
+name: Zone_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 37 00 00 00
 #
-name: ZONE_T1
+name: Zone_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 37 00 00 00
 #
-name: <MODE_T0
+name: <mode_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 38 00 00 00
 #
-name: <MODE_T1
+name: <mode_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 38 00 00 00
 #
-name: CAL_T0
+name: Cal_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 38 00 00 00
 #
-name: CAL_T1
+name: Cal_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 38 00 00 00
 #
-name: MODE_L_T0
+name: Mode_l_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 38 00 00 00
 #
-name: MODE_L_T1
+name: Mode_l_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 38 00 00 00
 #
-name: THX_T0
+name: Thx_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 39 00 00 00
 #
-name: THX_T1
+name: Thx_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 39 00 00 00
 #
-name: SUB_T0
+name: Sub_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3A 00 00 00
 #
-name: SUB_T1
+name: Sub_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3A 00 00 00
 #
-name: CENTER_T0
+name: Center_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3B 00 00 00
 #
-name: CENTER_T1
+name: Center_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3B 00 00 00
 #
-name: AUTO_T0
+name: Auto_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3C 00 00 00
 #
-name: AUTO_T1
+name: Auto_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3C 00 00 00
 #
-name: TRIM_T0
+name: Trim_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3C 00 00 00
 #
-name: TRIM_T1
+name: Trim_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3C 00 00 00
 #
-name: COMPR_T0
+name: Compr_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3D 00 00 00
 #
-name: COMPR_T1
+name: Compr_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3D 00 00 00
 #
-name: COMP_T0
+name: Comp_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3D 00 00 00
 #
-name: COMP_T1
+name: Comp_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3D 00 00 00
 #
-name: TRIM_T0
+name: Trim_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3E 00 00 00
 #
-name: TRIM_T1
+name: Trim_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3E 00 00 00
 #
-name: SUB-_T0
+name: Sub-_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3E 00 00 00
 #
-name: SUB-_T1
+name: Sub-_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3E 00 00 00
 #
-name: TRIM-_T0
+name: Trim-_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3E 00 00 00
 #
-name: TRIM-_T1
+name: Trim-_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3E 00 00 00
 #
-name: STATUS_T0
+name: Status_t0
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 3F 00 00 00
 #
-name: STATUS_T1
+name: Status_t1
 type: parsed
 protocol: NECext
 address: 19 00 00 00

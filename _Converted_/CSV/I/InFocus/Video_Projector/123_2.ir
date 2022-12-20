@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: NATIVE
+name: Native
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 00 00 00 00
 #
-name: STANDARD
+name: Standard
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 01 00 00 00
 #
-name: WIDESCREEN
+name: Widescreen
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 02 00 00 00
 #
-name: WIDE_ENHANCED
+name: Wide_enhanced
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 03 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 11 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 12 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 13 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 14 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 15 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 16 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 17 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 18 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
@@ -85,49 +85,49 @@ protocol: NECext
 address: 7B 02 00 00
 command: 19 00 00 00
 #
-name: PC1_ANALOG
+name: Pc1_analog
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 1A 00 00 00
 #
-name: PC1_DIGITAL
+name: Pc1_digital
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 1B 00 00 00
 #
-name: COMP_HDTV
+name: Comp_hdtv
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 1C 00 00 00
 #
-name: COMP_INT.
+name: Comp_int.
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 1D 00 00 00
 #
-name: S-VIDEO
+name: S-video
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 1E 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 1F 00 00 00
 #
-name: PC_HDTV
+name: Pc_hdtv
 type: parsed
 protocol: NECext
 address: 7B 02 00 00
 command: 40 00 00 00
 #
-name: PC_VGA
+name: Pc_vga
 type: parsed
 protocol: NECext
 address: 7B 02 00 00

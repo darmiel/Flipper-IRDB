@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 30 00 00 00
 command: 97 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NEC
 address: 30 00 00 00
@@ -25,7 +25,7 @@ protocol: NEC
 address: 30 00 00 00
 command: 9C 00 00 00
 #
-name: OSC
+name: Osc
 type: parsed
 protocol: NEC
 address: 30 00 00 00

@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PORT1
+name: Port1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 40 00 00 00
 #
-name: PORT1_TOGGLE
+name: Port1_toggle
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 40 00 00 00
 #
-name: PORT2
+name: Port2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 41 00 00 00
 #
-name: PORT2_TOGGLE
+name: Port2_toggle
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 41 00 00 00
 #
-name: INPUT_1
+name: Input_1
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 43 00 00 00
 #
-name: INPUT_2
+name: Input_2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 44 00 00 00
 #
-name: INPUT_2
+name: Input_2
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 45 00 00 00
 #
-name: INPUT_3
+name: Input_3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 45 00 00 00
 #
-name: INPUT_3
+name: Input_3
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 47 00 00 00
 #
-name: INPUT_4
+name: Input_4
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 49 00 00 00
 #
-name: INPUT_5
+name: Input_5
 type: parsed
 protocol: NECext
 address: 0B 00 00 00
 command: 72 00 00 00
 #
-name: INPUT_6
+name: Input_6
 type: parsed
 protocol: NECext
 address: 0B 00 00 00

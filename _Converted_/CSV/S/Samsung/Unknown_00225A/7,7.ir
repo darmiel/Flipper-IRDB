@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 07 07 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -79,13 +79,13 @@ protocol: NECext
 address: 07 07 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0F 00 00 00
 #
-name: -CH
+name: -ch
 type: parsed
 protocol: NECext
 address: 07 07 00 00
@@ -97,79 +97,79 @@ protocol: NECext
 address: 07 07 00 00
 command: 11 00 00 00
 #
-name: +CH
+name: +ch
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 12 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 14 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 15 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 16 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1A 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1F 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 21 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 23 00 00 00
 #
-name: P.STD
+name: P.std
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 28 00 00 00
 #
-name: S.STD
+name: S.std
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 2B 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 2C 00 00 00
 #
-name: STILL
+name: Still
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 66 00 00 00
 #
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: 07 07 00 00

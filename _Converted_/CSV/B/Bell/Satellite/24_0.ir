@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIEW
+name: View
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 16 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 19 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 1B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 18 00 00 00
 command: 1D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 18 00 00 00

@@ -25,49 +25,49 @@ protocol: NECext
 address: 00 00 00 00
 command: 83 00 00 00
 #
-name: TitleMenu
+name: Titlemenu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 84 00 00 00
 #
-name: KeyLock
+name: Keylock
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 85 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 86 00 00 00
 #
-name: PBC
+name: Pbc
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 87 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 88 00 00 00
 #
-name: Slow/R
+name: Slow/r
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 89 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 8A 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 8F 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -109,31 +109,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 91 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 92 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 93 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 94 00 00 00
 #
-name: SkipBackwards
+name: Skipbackwards
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 95 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -157,67 +157,67 @@ protocol: NECext
 address: 00 00 00 00
 command: C1 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C2 00 00 00
 #
-name: X_3D
+name: X_3d
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C3 00 00 00
 #
-name: AudioMenu
+name: Audiomenu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C4 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C5 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C6 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C7 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C8 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: C9 00 00 00
 #
-name: SkipForwards
+name: Skipforwards
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: CA 00 00 00
 #
-name: Slow/F
+name: Slow/f
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: CB 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -229,43 +229,43 @@ protocol: NECext
 address: 00 00 00 00
 command: CD 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: CE 00 00 00
 #
-name: AudioMode
+name: Audiomode
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: CF 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D0 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D1 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D2 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: D3 00 00 00
 #
-name: Repeat/A-B
+name: Repeat/a-b
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -283,7 +283,7 @@ protocol: NECext
 address: 00 00 00 00
 command: D6 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00

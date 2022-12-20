@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 00 00 00 00
 #
-name: PROGRAM_+
+name: Program_+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 01 00 00 00
 #
-name: PROGRAM_-
+name: Program_-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -37,19 +37,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: FAST_FWD
+name: Fast_fwd
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 08 00 00 00
 #
-name: STOP/DWR
+name: Stop/dwr
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 09 00 00 00
 #
-name: REPEAT_DISC/TRACK
+name: Repeat_disc/track
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -73,19 +73,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 0D 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 11 00 00 00
 #
-name: A_--_B
+name: A_--_b
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -109,19 +109,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 15 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: POLARITY
+name: Polarity
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: DISPLAY_MODE
+name: Display_mode
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -133,31 +133,31 @@ protocol: NECext
 address: 03 00 00 00
 command: 23 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 24 00 00 00
 #
-name: INTENSITY_/_STANDBY
+name: Intensity_/_standby
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 25 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 2B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 2C 00 00 00
 #
-name: INPUT_SELECT
+name: Input_select
 type: parsed
 protocol: NECext
 address: 03 00 00 00

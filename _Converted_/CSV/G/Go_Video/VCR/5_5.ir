@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SKIP
+name: Skip
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 00 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -37,7 +37,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 06 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 0A 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -85,13 +85,13 @@ protocol: NECext
 address: 05 05 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 0F 00 00 00
 #
-name: CHANNEL_V
+name: Channel_v
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -103,127 +103,127 @@ protocol: NECext
 address: 05 05 00 00
 command: 11 00 00 00
 #
-name: CHANNEL_^
+name: Channel_^
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 12 00 00 00
 #
-name: SLOW_+_^
+name: Slow_+_^
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 13 00 00 00
 #
-name: SLOW_+
+name: Slow_+
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 13 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 14 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 15 00 00 00
 #
-name: STOP/EJECT_[]
+name: Stop/eject_[]
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 15 00 00 00
 #
-name: PAUSE/STILL
+name: Pause/still
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 16 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 16 00 00 00
 #
-name: SLOW_-_V
+name: Slow_-_v
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 17 00 00 00
 #
-name: SLOW_-
+name: Slow_-
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 17 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 18 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 19 00 00 00
 #
-name: PLAY/LOAD_>
+name: Play/load_>
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 19 00 00 00
 #
-name: FWD_>>
+name: Fwd_>>
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1A 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1D 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1F 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 22 00 00 00
 #
-name: VHS
+name: Vhs
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -235,145 +235,145 @@ protocol: NECext
 address: 05 05 00 00
 command: 26 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2B 00 00 00
 #
-name: TRACKING/MENU_^
+name: Tracking/menu_^
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2C 00 00 00
 #
-name: TRACKING/MENU_V
+name: Tracking/menu_v
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2D 00 00 00
 #
-name: CLK/CTR
+name: Clk/ctr
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 31 00 00 00
 #
-name: SP/SLP
+name: Sp/slp
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 3A 00 00 00
 #
-name: ATR
+name: Atr
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 3C 00 00 00
 #
-name: SHUTTLE_BEGIN_<
+name: Shuttle_begin_<
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 42 00 00 00
 #
-name: TRK/MENU_^
+name: Trk/menu_^
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 42 00 00 00
 #
-name: SHUTTLE_END_>
+name: Shuttle_end_>
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 43 00 00 00
 #
-name: TRK/MENU_V
+name: Trk/menu_v
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 43 00 00 00
 #
-name: SCENE
+name: Scene
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 4C 00 00 00
 #
-name: BEGIN
+name: Begin
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 4D 00 00 00
 #
-name: END
+name: End
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 4E 00 00 00
 #
-name: LCV
+name: Lcv
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 54 00 00 00
 #
-name: LAST_CHANNEL
+name: Last_channel
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 54 00 00 00
 #
-name: QUIT
+name: Quit
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 58 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 59 00 00 00
 #
-name: LINE
+name: Line
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 5A 00 00 00
 #
-name: 8MM
+name: 8mm
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 5B 00 00 00
 #
-name: DECK_2
+name: Deck_2
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 5C 00 00 00
 #
-name: SYNC_EDIT
+name: Sync_edit
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 5C 00 00 00
 #
-name: DECK_1
+name: Deck_1
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 5D 00 00 00
 #
-name: 8MM/VHS
+name: 8mm/vhs
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 5D 00 00 00
 #
-name: COPY_TAPE
+name: Copy_tape
 type: parsed
 protocol: NECext
 address: 05 05 00 00

@@ -3,13 +3,13 @@ Version: 1
 #
 # Roksan CD player
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 61 00 00
 command: 40 BF 00 00
 #
-name: POWER2
+name: Power2
 type: parsed
 protocol: NECext
 address: 87 75 00 00

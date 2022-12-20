@@ -3,37 +3,37 @@ Version: 1
 # 
 # Promethan Whiteboard
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 33 FF 00 00
 command: 00 FF 00 00
 # 
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 33 FF 00 00
 command: 1C E3 00 00
 # 
-name: FREZE
+name: Freze
 type: parsed
 protocol: NECext
 address: 33 FF 00 00
 command: 43 BC 00 00
 # 
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 33 FF 00 00
 command: 8C 73 00 00
 # 
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 33 FF 00 00
 command: 1E E1 00 00
 # 
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 33 FF 00 00

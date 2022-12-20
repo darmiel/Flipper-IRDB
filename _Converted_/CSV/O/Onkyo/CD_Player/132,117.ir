@@ -61,79 +61,79 @@ protocol: NECext
 address: 84 75 00 00
 command: 09 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 0A 00 00 00
 #
-name: TRACK
+name: Track
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 0B 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 0C 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 0D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 0F 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 14 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 15 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 16 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 17 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 18 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 19 00 00 00
 #
-name: PLAY_MEMORY
+name: Play_memory
 type: parsed
 protocol: NECext
 address: 84 75 00 00
 command: 1A 00 00 00
 #
-name: PLAY_NORM_>
+name: Play_norm_>
 type: parsed
 protocol: NECext
 address: 84 75 00 00

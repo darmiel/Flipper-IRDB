@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: CTVERECVECTVERCI
+name: Ctverecvectverci
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 02 00 00 00
 #
-name: A_RED
+name: A_red
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 03 00 00 00
 #
-name: B_GREEN
+name: B_green
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: C_YELLOW
+name: C_yellow
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 05 00 00 00
 #
-name: OTAZNIK_BLUE
+name: Otaznik_blue
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 06 00 00 00
 #
-name: CH_PLUS
+name: Ch_plus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 08 00 00 00
 #
-name: CH_MINUS
+name: Ch_minus
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: CAPS_NUM
+name: Caps_num
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -139,115 +139,115 @@ protocol: NECext
 address: 07 00 00 00
 command: 1D 00 00 00
 #
-name: DEL
+name: Del
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1E 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 22 00 00 00
 #
-name: BEGINNING
+name: Beginning
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 23 00 00 00
 #
-name: END
+name: End
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 24 00 00 00
 #
-name: CTVERECSETREMIRADKY
+name: Ctverecsetremiradky
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 25 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 26 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 27 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 28 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 29 00 00 00
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2B 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 30 00 00 00
 #
-name: PINNACLE
+name: Pinnacle
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 33 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 36 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 39 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 3C 00 00 00
 #
-name: RED_IN_THE_MIDDLE
+name: Red_in_the_middle
 type: parsed
 protocol: NECext
 address: 07 00 00 00

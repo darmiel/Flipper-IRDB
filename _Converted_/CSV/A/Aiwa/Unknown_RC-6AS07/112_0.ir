@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 11 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 12 00 00 00
 #
-name: tuner_band
+name: Tuner_band
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 13 00 00 00
 #
-name: geq
+name: Geq
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 1F 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 40 00 00 00
 #
-name: tuner_mode
+name: Tuner_mode
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 4E 00 00 00
 #
-name: set
+name: Set
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 52 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 5A 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: 70 00 00 00
@@ -121,31 +121,31 @@ protocol: NECext
 address: 70 00 00 00
 command: 9A 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: 9B 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: C4 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: C5 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 70 00 00 00
 command: C6 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 70 00 00 00

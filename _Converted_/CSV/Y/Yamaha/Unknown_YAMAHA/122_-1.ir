@@ -1,199 +1,199 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TAPE_PLAY
+name: Tape_play
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 00 00 00 00
 #
-name: TAPE_REW
+name: Tape_rew
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 01 00 00 00
 #
-name: TAPE_FWD
+name: Tape_fwd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 02 00 00 00
 #
-name: TAPE_STOP
+name: Tape_stop
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 03 00 00 00
 #
-name: TAPE_REC_PAUSE
+name: Tape_rec_pause
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 04 00 00 00
 #
-name: TAPE_REC_MUTE
+name: Tape_rec_mute
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 05 00 00 00
 #
-name: TAPE_DECK_AB
+name: Tape_deck_ab
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 06 00 00 00
 #
-name: TAPE_DIR_A
+name: Tape_dir_a
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 07 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 08 00 00 00
 #
-name: CD_PAUSE_STOP
+name: Cd_pause_stop
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 09 00 00 00
 #
-name: CD_TRK_+
+name: Cd_trk_+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0A 00 00 00
 #
-name: CD_TRK_-
+name: Cd_trk_-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0B 00 00 00
 #
-name: CD_FWD
+name: Cd_fwd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0C 00 00 00
 #
-name: CD_REW
+name: Cd_rew
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0D 00 00 00
 #
-name: PHONO_PLAY_CUT
+name: Phono_play_cut
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0E 00 00 00
 #
-name: TUNER_PRESET_+
+name: Tuner_preset_+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 10 00 00 00
 #
-name: TUNER_PRESET_-
+name: Tuner_preset_-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 11 00 00 00
 #
-name: TUNER_ABCDE
+name: Tuner_abcde
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 12 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 14 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 15 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 16 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 17 00 00 00
 #
-name: TAPE1
+name: Tape1
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 18 00 00 00
 #
-name: TAPE2
+name: Tape2
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1F 00 00 00
 #
-name: TAPE_DIR_B
+name: Tape_dir_b
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 40 00 00 00
 #
-name: CD_DISC_SKIP
+name: Cd_disc_skip
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 4F 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 57 00 00 00
 #
-name: EQ_ON_FLAT
+name: Eq_on_flat
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 5A 00 00 00
 #
-name: EQ_PRESET_+
+name: Eq_preset_+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 5B 00 00 00
 #
-name: EQ_PRESET_-
+name: Eq_preset_-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

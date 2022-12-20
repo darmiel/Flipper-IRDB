@@ -61,121 +61,121 @@ protocol: NECext
 address: 07 04 00 00
 command: 0A 00 00 00
 #
-name: MEMO
+name: Memo
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 0C 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 12 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 15 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 16 00 00 00
 #
-name: BAND
+name: Band
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 17 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 18 00 00 00
 #
-name: TUNER_UP
+name: Tuner_up
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 19 00 00 00
 #
-name: TUNER_DOWN
+name: Tuner_down
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 1A 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 42 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 45 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 46 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 47 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 48 00 00 00
 #
-name: TUNER_A
+name: Tuner_a
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 60 00 00 00
 #
-name: TUNER_B
+name: Tuner_b
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 61 00 00 00
 #
-name: TUNER_C
+name: Tuner_c
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 62 00 00 00
 #
-name: TUNER_D
+name: Tuner_d
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 63 00 00 00
 #
-name: TUNER_E
+name: Tuner_e
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 64 00 00 00
 #
-name: TUNER_F
+name: Tuner_f
 type: parsed
 protocol: NECext
 address: 07 04 00 00
 command: 65 00 00 00
 #
-name: TUNER_G
+name: Tuner_g
 type: parsed
 protocol: NECext
 address: 07 04 00 00

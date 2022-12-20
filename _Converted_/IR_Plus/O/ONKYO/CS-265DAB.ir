@@ -10,13 +10,13 @@ protocol: NECext
 address: 20 4B 00 00
 command: 2C D3 00 00
 #
-name: sleep
+name: Sleep
 type: parsed
 protocol: NECext
 address: C0 4B 00 00
 command: 45 BA 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: C0 4B 00 00
@@ -28,13 +28,13 @@ protocol: NECext
 address: C0 4B 00 00
 command: 76 89 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: C0 4B 00 00
 command: 6F 90 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: A0 4B 00 00
@@ -46,25 +46,25 @@ protocol: NECext
 address: 78 4B 00 00
 command: 70 8A 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: C0 4B 00 00
 command: 2F D0 00 00
 #
-name: LINE
+name: Line
 type: parsed
 protocol: NECext
 address: C0 4B 00 00
 command: 9F 60 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 20 4B 00 00
 command: E5 1A 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 20 4B 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: C0 4B 00 00
 command: BE 41 00 00
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 20 4B 00 00
@@ -106,7 +106,7 @@ protocol: NECext
 address: C0 4B 00 00
 command: 5E A1 00 00
 #
-name: VOL +
+name: Vol_+
 type: parsed
 protocol: NECext
 address: C0 4B 00 00
@@ -130,7 +130,7 @@ protocol: NECext
 address: 20 4B 00 00
 command: EF 10 00 00
 #
-name: VOL -
+name: Vol_-
 type: parsed
 protocol: NECext
 address: C0 4B 00 00
@@ -178,7 +178,7 @@ protocol: NECext
 address: C0 4B 00 00
 command: 86 79 00 00
 #
-name: Clock Call
+name: Clock_call
 type: parsed
 protocol: NECext
 address: C0 4B 00 00
@@ -190,7 +190,7 @@ protocol: NECext
 address: 20 4B 00 00
 command: 6D 92 00 00
 #
-name: S.Bass
+name: S.bass
 type: parsed
 protocol: NECext
 address: C0 4B 00 00

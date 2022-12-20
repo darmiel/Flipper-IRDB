@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 53 AC 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: AD 52 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 26 D9 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 28 D7 00 00
 # 
-name: BT
+name: Bt
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 1B E4 00 00
 # 
-name: BT_Pair
+name: Bt_pair
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 08 F7 00 00
 # 
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 02 BD 00 00
 command: 4D B2 00 00
 # 
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 02 BD 00 00

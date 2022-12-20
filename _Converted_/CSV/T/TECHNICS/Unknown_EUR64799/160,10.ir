@@ -1,199 +1,199 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 00 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 01 00 00 00
 #
-name: SEARCH_BACKWARD
+name: Search_backward
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 02 00 00 00
 #
-name: SEARCH_FORWARD
+name: Search_forward
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 0A 00 00 00
 #
-name: NR1
+name: Nr1
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 10 00 00 00
 #
-name: NR2
+name: Nr2
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 11 00 00 00
 #
-name: NR3
+name: Nr3
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 12 00 00 00
 #
-name: NR4
+name: Nr4
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 13 00 00 00
 #
-name: NR5
+name: Nr5
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 14 00 00 00
 #
-name: NR6
+name: Nr6
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 15 00 00 00
 #
-name: NR7
+name: Nr7
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 16 00 00 00
 #
-name: NR8
+name: Nr8
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 17 00 00 00
 #
-name: NR9
+name: Nr9
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 18 00 00 00
 #
-name: NR0
+name: Nr0
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 19 00 00 00
 #
-name: LEVEL_UP
+name: Level_up
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 20 00 00 00
 #
-name: LEVEL_DOWN
+name: Level_down
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 21 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 47 00 00 00
 #
-name: A_B_REPEAT
+name: A_b_repeat
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 48 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 49 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 4A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 4D 00 00 00
 #
-name: TIME_MODE
+name: Time_mode
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 55 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 80 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 81 00 00 00
 #
-name: GREATER10
+name: Greater10
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 84 00 00 00
 #
-name: NR10
+name: Nr10
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 85 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8A 00 00 00
 #
-name: AUTO_CUE
+name: Auto_cue
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8B 00 00 00
 #
-name: PEAK_SEARCH
+name: Peak_search
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8F 00 00 00
 #
-name: TAPE_LENGTH
+name: Tape_length
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: AB 00 00 00
 #
-name: SIDE_A_B
+name: Side_a_b
 type: parsed
 protocol: NECext
 address: A0 0A 00 00

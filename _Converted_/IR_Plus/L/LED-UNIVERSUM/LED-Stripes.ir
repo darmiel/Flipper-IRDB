@@ -10,7 +10,7 @@ protocol: NECext
 address: FF 00 00 00
 command: FD 02 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -70,73 +70,73 @@ protocol: NECext
 address: FF 00 00 00
 command: 77 88 00 00
 #
-name: JUMP3
+name: Jump3
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: DF 20 00 00
 #
-name: JUMP7
+name: Jump7
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 5F A0 00 00
 #
-name: FLASH
+name: Flash
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 2F D0 00 00
 #
-name: FADE3
+name: Fade3
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 9F 60 00 00
 #
-name: FADE7
+name: Fade7
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 1F E0 00 00
 #
-name: BRIGHT
+name: Bright
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: C5 3A 00 00
 #
-name: DIY1
+name: Diy1
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CF 30 00 00
 #
-name: DIM
+name: Dim
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 45 BA 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 7D 82 00 00
 #
-name: WHITE
+name: White
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: DD 22 00 00
 #
-name: QUICK
+name: Quick
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 17 E8 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: FF 00 00 00

@@ -1,277 +1,277 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 03 00 00 00
 #
-name: RGB
+name: Rgb
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 04 00 00 00
 #
-name: RGB1
+name: Rgb1
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 04 00 00 00
 #
-name: S-VIDEO
+name: S-video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 05 00 00 00
 #
-name: RGB2
+name: Rgb2
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 05 00 00 00
 #
-name: SET_UP
+name: Set_up
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 06 00 00 00
 #
-name: SET_UP_(ON_SCRN_MGR)
+name: Set_up_(on_scrn_mgr)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 06 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 08 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 08 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 08 00 00 00
 #
-name: ZOOM_W
+name: Zoom_w
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 09 00 00 00
 #
-name: ZOOM_^
+name: Zoom_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 09 00 00 00
 #
-name: ZOOM_+
+name: Zoom_+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 09 00 00 00
 #
-name: ZOOM_T
+name: Zoom_t
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0A 00 00 00
 #
-name: ZOOM_V
+name: Zoom_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0A 00 00 00
 #
-name: ZOOM_-
+name: Zoom_-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0A 00 00 00
 #
-name: FOCUS_+
+name: Focus_+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0B 00 00 00
 #
-name: FOCUS_^
+name: Focus_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0B 00 00 00
 #
-name: FOCUS_-
+name: Focus_-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0C 00 00 00
 #
-name: FOCUS_V
+name: Focus_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0C 00 00 00
 #
-name: CONTRAST_^
+name: Contrast_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0D 00 00 00
 #
-name: CONTRAST_V
+name: Contrast_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0E 00 00 00
 #
-name: BRIGHT_^
+name: Bright_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 0F 00 00 00
 #
-name: BRIGHT_V
+name: Bright_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 10 00 00 00
 #
-name: DISPLAY_MUTE
+name: Display_mute
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 11 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 14 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 14 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 15 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 16 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 17 00 00 00
 #
-name: MENU_L-CLICK_(UNDER)
+name: Menu_l-click_(under)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 17 00 00 00
 #
-name: 1_(ABC)
+name: 1_(abc)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 18 00 00 00
 #
-name: 2_(DEF)
+name: 2_(def)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 19 00 00 00
 #
-name: 3_(GHI)
+name: 3_(ghi)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 1A 00 00 00
 #
-name: 4_(JKL)
+name: 4_(jkl)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 1B 00 00 00
 #
-name: 5_(MNO)
+name: 5_(mno)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 1C 00 00 00
 #
-name: 6_(PQR)
+name: 6_(pqr)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 1D 00 00 00
 #
-name: 7_(STU)
+name: 7_(stu)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 1E 00 00 00
 #
-name: 8_(VWX)
+name: 8_(vwx)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 1F 00 00 00
 #
-name: POSITION_MOUSE_NE
+name: Position_mouse_ne
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 21 00 00 00
 #
-name: POSITION_MOUSE_NW
+name: Position_mouse_nw
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 22 00 00 00
 #
-name: POSITION_MOUSE_SE
+name: Position_mouse_se
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 23 00 00 00
 #
-name: POSITION_MOUSE_WEST
+name: Position_mouse_west
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 24 00 00 00
 #
-name: POSITION_(OFF)
+name: Position_(off)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 25 00 00 00
 #
-name: 9_(YZ-)
+name: 9_(yz-)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -283,103 +283,103 @@ protocol: NECext
 address: 18 E9 00 00
 command: 41 00 00 00
 #
-name: FOCUS_PAT.
+name: Focus_pat.
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 42 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 43 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 43 00 00 00
 #
-name: LOCK
+name: Lock
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 44 00 00 00
 #
-name: MUTE_AUDIO
+name: Mute_audio
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 45 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 46 00 00 00
 #
-name: MENU_(ON_SCREEN_MGR)
+name: Menu_(on_screen_mgr)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 46 00 00 00
 #
-name: MUTE_PICTURE
+name: Mute_picture
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 47 00 00 00
 #
-name: PICTURE_MUTE
+name: Picture_mute
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 47 00 00 00
 #
-name: PIC-MUTE
+name: Pic-mute
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 47 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 48 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 48 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 49 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 49 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 4C 00 00 00
 #
-name: EXPAND
+name: Expand
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 4D 00 00 00
 #
-name: RGB_MODE
+name: Rgb_mode
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -391,7 +391,7 @@ protocol: NECext
 address: 18 E9 00 00
 command: 5C 00 00 00
 #
-name: +_(ON_SCREEN_MGR)
+name: +_(on_screen_mgr)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -403,7 +403,7 @@ protocol: NECext
 address: 18 E9 00 00
 command: 5C 00 00 00
 #
-name: MENU_MOUSE_EAST_(+)
+name: Menu_mouse_east_(+)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -415,7 +415,7 @@ protocol: NECext
 address: 18 E9 00 00
 command: 5D 00 00 00
 #
-name: -_(ON_SCREEN_MGR)
+name: -_(on_screen_mgr)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -427,7 +427,7 @@ protocol: NECext
 address: 18 E9 00 00
 command: 5D 00 00 00
 #
-name: MENU_MOUSE_WEST_(-)
+name: Menu_mouse_west_(-)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -439,13 +439,13 @@ protocol: NECext
 address: 18 E9 00 00
 command: 5E 00 00 00
 #
-name: POSITION_^
+name: Position_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5E 00 00 00
 #
-name: MENU_MOUSE_NORTH
+name: Menu_mouse_north
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
@@ -457,313 +457,313 @@ protocol: NECext
 address: 18 E9 00 00
 command: 5F 00 00 00
 #
-name: POSITION_V
+name: Position_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5F 00 00 00
 #
-name: MENU_MOUSE_SOUTH
+name: Menu_mouse_south
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 5F 00 00 00
 #
-name: CTL_VIDEO
+name: Ctl_video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 83 00 00 00
 #
-name: CTL_RGB
+name: Ctl_rgb
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 84 00 00 00
 #
-name: POSITION_>
+name: Position_>
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 84 00 00 00
 #
-name: CTL_S-VIDEO
+name: Ctl_s-video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 85 00 00 00
 #
-name: POSITION_<
+name: Position_<
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 85 00 00 00
 #
-name: CTL_SET_UP
+name: Ctl_set_up
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 86 00 00 00
 #
-name: 2X/4X
+name: 2x/4x
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 87 00 00 00
 #
-name: CTL_POWER
+name: Ctl_power
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 88 00 00 00
 #
-name: CTL_ZOOM_W
+name: Ctl_zoom_w
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 89 00 00 00
 #
-name: MAGNIFY_REDUCE_+
+name: Magnify_reduce_+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 89 00 00 00
 #
-name: CTL_ZOOM_T
+name: Ctl_zoom_t
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8A 00 00 00
 #
-name: MAGNIFY_REDUCE_-
+name: Magnify_reduce_-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8A 00 00 00
 #
-name: CTL_FOCUS_+
+name: Ctl_focus_+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8B 00 00 00
 #
-name: CTL_FOCUS_-
+name: Ctl_focus_-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8C 00 00 00
 #
-name: CTL_CONTRAST_^
+name: Ctl_contrast_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8D 00 00 00
 #
-name: CTL_CONTRAST_V
+name: Ctl_contrast_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8E 00 00 00
 #
-name: CTL_BRIGHT_^
+name: Ctl_bright_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 8F 00 00 00
 #
-name: CTL_BRIGHT_V
+name: Ctl_bright_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 90 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 91 00 00 00
 #
-name: CTL_CLEAR
+name: Ctl_clear
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 95 00 00 00
 #
-name: CTL_DISPLAY
+name: Ctl_display
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 96 00 00 00
 #
-name: CTL_ENTER
+name: Ctl_enter
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 97 00 00 00
 #
-name: CTL_1_(ABC)
+name: Ctl_1_(abc)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 98 00 00 00
 #
-name: CTL_2_(DEF)
+name: Ctl_2_(def)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 99 00 00 00
 #
-name: CTL_3_(GHI)
+name: Ctl_3_(ghi)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 9A 00 00 00
 #
-name: CTL_4_(JKL)
+name: Ctl_4_(jkl)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 9B 00 00 00
 #
-name: CTL_5_(MNO)
+name: Ctl_5_(mno)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 9C 00 00 00
 #
-name: CTL_6_(PQR)
+name: Ctl_6_(pqr)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 9D 00 00 00
 #
-name: CTL_7_(STU)
+name: Ctl_7_(stu)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 9E 00 00 00
 #
-name: CTL_8_(VWX)
+name: Ctl_8_(vwx)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: 9F 00 00 00
 #
-name: CTL_9_(YZ-)
+name: Ctl_9_(yz-)
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C0 00 00 00
 #
-name: CTL_0
+name: Ctl_0
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C1 00 00 00
 #
-name: CTL_FOCUS_PAT.
+name: Ctl_focus_pat.
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C2 00 00 00
 #
-name: CTL_NORMAL
+name: Ctl_normal
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C3 00 00 00
 #
-name: CTL_LOCK
+name: Ctl_lock
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C4 00 00 00
 #
-name: CTL_MUTE_AUDIO
+name: Ctl_mute_audio
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C5 00 00 00
 #
-name: CTL_MENU
+name: Ctl_menu
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C6 00 00 00
 #
-name: S-VIDEO
+name: S-video
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C6 00 00 00
 #
-name: CTL_MUTE_PICTURE
+name: Ctl_mute_picture
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C7 00 00 00
 #
-name: CTL_VOLUME_^
+name: Ctl_volume_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C8 00 00 00
 #
-name: CTL_VOLUME_V
+name: Ctl_volume_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: C9 00 00 00
 #
-name: CTL_EXPAND
+name: Ctl_expand
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: CD 00 00 00
 #
-name: CTL_>+
+name: Ctl_>+
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: DC 00 00 00
 #
-name: POSITION_MOUSE_EAST
+name: Position_mouse_east
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: DC 00 00 00
 #
-name: CTL_<-
+name: Ctl_<-
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: DD 00 00 00
 #
-name: POSITION_MOUSE_SW
+name: Position_mouse_sw
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: DD 00 00 00
 #
-name: CTL_^
+name: Ctl_^
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: DE 00 00 00
 #
-name: POSITION_MOUSE_NORTH
+name: Position_mouse_north
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: DE 00 00 00
 #
-name: CTL_V
+name: Ctl_v
 type: parsed
 protocol: NECext
 address: 18 E9 00 00
 command: DF 00 00 00
 #
-name: POSITION_MOUSE_SOUTH
+name: Position_mouse_south
 type: parsed
 protocol: NECext
 address: 18 E9 00 00

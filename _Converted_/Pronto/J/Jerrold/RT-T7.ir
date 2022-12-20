@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 26917
 duty_cycle: 0.330000
 data: 1598 1598 4830 42575
 #
-name: ALT
+name: Alt
 type: raw
 frequency: 26743
 duty_cycle: 0.330000
@@ -73,55 +73,55 @@ frequency: 26917
 duty_cycle: 0.330000
 data: 1598 1635 1635 1635 1635 42575 1635 1635 1635 1635 1635 1045770
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 26917
 duty_cycle: 0.330000
 data: 1598 1598 1598 1598 1598 1598 3232 37746
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 26743
 duty_cycle: 0.330000
 data: 1608 1608 4824 1608 3216 37729
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 26917
 duty_cycle: 0.330000
 data: 1598 1598 1598 4793 3232 37746
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 26743
 duty_cycle: 0.330000
 data: 1571 1571 3178 3178 3178 37729
 #
-name: MUTE
+name: Mute
 type: raw
 frequency: 26917
 duty_cycle: 0.330000
 data: 1598 1598 3232 44136
 #
-name: NEXT
+name: Next
 type: raw
 frequency: 26917
 duty_cycle: 0.330000
 data: 1598 1635 3232 4793 1635 37746 1635 1635 3232 4793 1635 1045770
 #
-name: A/B
+name: A/b
 type: raw
 frequency: 26917
 duty_cycle: 0.330000
 data: 1598 1635 1635 1635 1635 3195 1635 37746 1635 1635 1635 1635 1635 3195 1635 1045770
 #
-name: ENTER
+name: Enter
 type: raw
 frequency: 26917
 duty_cycle: 0.330000
 data: 1598 1635 4830 3195 1635 37746 1635 1635 4830 3195 1635 1045770
 #
-name: BUY
+name: Buy
 type: raw
 frequency: 26743
 duty_cycle: 0.330000

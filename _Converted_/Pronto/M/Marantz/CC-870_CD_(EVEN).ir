@@ -2,77 +2,77 @@ Filetype: IR signals file
 Version: 1
 #
 # POWER [raw] {11010100-001100}
-name: POWER
+name: Power
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 0C 00 00 00
 #
 # PLAY [raw] {11010100-110101}
-name: PLAY
+name: Play
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 35 00 00 00
 #
 # STOP [raw] {11010100-110110}
-name: STOP
+name: Stop
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 36 00 00 00
 #
 # PAUSE [raw] {11110100-110000}
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 30 00 00 00
 #
 # REW [raw] {11010100-110010}
-name: REW
+name: Rew
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 32 00 00 00
 #
 # FFWD [raw] {11010100-110100}
-name: FFWD
+name: Ffwd
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 34 00 00 00
 #
 # F_SRCH [raw] {11010100-100000}
-name: F_SRCH
+name: F_srch
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 20 00 00 00
 #
 # R_SRCH [raw] {11010100-100001}
-name: R_SRCH
+name: R_srch
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 21 00 00 00
 #
 # RANDOM [raw] {11010100-011100}
-name: RANDOM
+name: Random
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 1C 00 00 00
 #
 # PLAY_MODE [20 36 10] {110-10100--100100-001010}
-name: PLAY_MODE (raw)
+name: Play_mode_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 5334 1778 889 889 1778 1778 889 889 889 889 889 889 1778 1778 1778 1778 76440
 #
 # REPEAT [raw] {11010100-011101}
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -149,126 +149,126 @@ address: 14 00 00 00
 command: 00 00 00 00
 #
 # ENTER [20 41 10] {110-10100--101001-001010}
-name: ENTER (raw)
+name: Enter_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 5334 1778 1778 1778 889 889 1778 1778 889 889 1778 1778 1778 1778 76440
 #
 # TRACK [20 32 0] {110-10100--100000-000000}
-name: TRACK (raw)
+name: Track_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 5334 1778 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 76440
 #
 # DISC [raw] {11110100-011110}
-name: DISC
+name: Disc
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 1E 00 00 00
 #
 # OPEN [raw] {11110100-101101}
-name: OPEN
+name: Open
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 2D 00 00 00
 #
 # CANCEL [raw] {11110100-110001}
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 31 00 00 00
 #
 # STORE [20 41 11] {110-10100--101001-001011}
-name: STORE (raw)
+name: Store_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 5334 1778 1778 1778 889 889 1778 1778 889 889 1778 1778 1778 889 889 889 75551
 #
 # STOCK_-INFO [20 15 0] {110-10100--001111-000000}
-name: STOCK_-INFO (raw)
+name: Stock_-info_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 4445 889 889 889 1778 889 889 889 889 889 889 1778 889 889 889 889 889 889 889 889 889 889 76440
 #
 # UNIT [20 63 0] {110-10100--111111-000000}
-name: UNIT (raw)
+name: Unit_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 5334 889 889 889 889 889 889 889 889 889 889 1778 889 889 889 889 889 889 889 889 889 889 76440
 #
 # AMS [raw] {11110100-101011}
-name: AMS
+name: Ams
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 2B 00 00 00
 #
 # NEXT_PLAY [20 36 11] {110-10100--100100-001011}
-name: NEXT_PLAY (raw)
+name: Next_play_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 5334 1778 889 889 1778 1778 889 889 889 889 889 889 1778 1778 1778 889 889 889 75551
 #
 # PROGRAM [raw] {11110100-101001}
-name: PROGRAM
+name: Program
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 29 00 00 00
 #
 # TIME [raw] {11110100-001011}
-name: TIME
+name: Time
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 0B 00 00 00
 #
 # CATEGORY [raw] {10110100-011100}
-name: CATEGORY
+name: Category
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 5C 00 00 00
 #
 # TITLE [raw] {10110100-101101}
-name: TITLE
+name: Title
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 6D 00 00 00
 #
 # TITLE_SEARCH [20 109 10] {100-10100--101101-001010}
-name: TITLE_SEARCH (raw)
+name: Title_search_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 1778 889 889 1778 1778 1778 1778 889 889 5334 1778 1778 889 889 1778 1778 1778 889 889 1778 1778 1778 1778 76440
 #
 # 10+ [20 0 10] {110-10100--000000-001010}
-name: 10+ (raw)
+name: 10+_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 4445 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 1778 1778 1778 1778 76440
 #
 # 10- [20 0 11] {110-10100--000000-001011}
-name: 10- (raw)
+name: 10-_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 4445 889 889 889 889 889 889 889 889 889 889 889 889 889 889 889 1778 1778 1778 889 889 889 75551
 #
 # RECALL [raw] {11110100-001111}
-name: RECALL
+name: Recall
 type: parsed
 protocol: RC5
 address: 14 00 00 00

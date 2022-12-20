@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT_VIDEO
+name: Input_video
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 03 00 00 00
 #
-name: INPUT_HDMI/PC
+name: Input_hdmi/pc
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 06 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 3D 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 5A 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 5B 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 5C 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 5D 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 61 00 00 00
 #
-name: PICADJ_CCM
+name: Picadj_ccm
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 6E 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 72 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 7A 00 00 00
 #
-name: PICADJ_MAIN
+name: Picadj_main
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 7E 00 00 00
 #
-name: PICADJ_ADVANCED
+name: Picadj_advanced
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 7F 00 00 00
 #
-name: INPUT_CMPNT
+name: Input_cmpnt
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 80 00 00 00
 #
-name: INPUT_MEMLOAD
+name: Input_memload
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 81 00 00 00
 #
-name: INPUT_PICMODE
+name: Input_picmode
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 82 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 90 00 00 00
 #
-name: SHUTTER
+name: Shutter
 type: parsed
 protocol: NECext
 address: 80 48 00 00
 command: 91 00 00 00
 #
-name: INPUT_ASPECT
+name: Input_aspect
 type: parsed
 protocol: NECext
 address: 80 48 00 00

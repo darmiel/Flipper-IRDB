@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_OFF_-DISCRETE1
+name: Power_off_-discrete1
 type: parsed
 protocol: NECext
 address: 29 00 00 00
 command: C9 00 00 00
 #
-name: POWER_ON_-DISCRETE2
+name: Power_on_-discrete2
 type: parsed
 protocol: NECext
 address: 29 00 00 00
 command: C9 00 00 00
 #
-name: POWER_OFF_-DISCRETE2
+name: Power_off_-discrete2
 type: parsed
 protocol: NECext
 address: 29 00 00 00

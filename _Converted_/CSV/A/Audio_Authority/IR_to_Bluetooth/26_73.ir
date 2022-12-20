@@ -61,163 +61,163 @@ protocol: NECext
 address: 1A 49 00 00
 command: 09 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 0B 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 0E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 0F 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 1A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 1B 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 1F 00 00 00
 #
-name: TIME/TEXT
+name: Time/text
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 28 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 2A 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 2C 00 00 00
 #
-name: CHAPTER_PREVIOUS
+name: Chapter_previous
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 30 00 00 00
 #
-name: CHAPTER_NEXT
+name: Chapter_next
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 31 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 32 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 33 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 34 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 35 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 39 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 54 00 00 00
 #
-name: SLOW_BACK
+name: Slow_back
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 60 00 00 00
 #
-name: SLOW_PLAY
+name: Slow_play
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 61 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 63 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 64 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 65 00 00 00
 #
-name: DIRECTION_UP
+name: Direction_up
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 79 00 00 00
 #
-name: DIRECTION_DOWN
+name: Direction_down
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 7A 00 00 00
 #
-name: DIRECTION_LEFT
+name: Direction_left
 type: parsed
 protocol: NECext
 address: 1A 49 00 00
 command: 7B 00 00 00
 #
-name: DIRECTION_RIGHT
+name: Direction_right
 type: parsed
 protocol: NECext
 address: 1A 49 00 00

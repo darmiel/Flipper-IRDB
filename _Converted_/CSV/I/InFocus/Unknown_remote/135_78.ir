@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PageN...
+name: Pagen...
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
@@ -13,7 +13,7 @@ protocol: NECext
 address: 87 4E 00 00
 command: 03 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
@@ -25,13 +25,13 @@ protocol: NECext
 address: 87 4E 00 00
 command: 07 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
 command: 08 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 87 4E 00 00
 command: 0E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 87 4E 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 87 4E 00 00
 command: 19 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 87 4E 00 00

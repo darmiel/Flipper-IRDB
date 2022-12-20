@@ -10,19 +10,19 @@ protocol: NECext
 address: B7 08 00 00
 command: 07 F8 00 00
 #
-name: TVSYS
+name: Tvsys
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 45 BA 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 05 FA 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: B7 08 00 00
@@ -46,7 +46,7 @@ protocol: NECext
 address: B7 08 00 00
 command: 85 7A 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: B7 08 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: B7 08 00 00
 command: 25 DA 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: B7 08 00 00
@@ -100,19 +100,19 @@ protocol: NECext
 address: B7 08 00 00
 command: E7 18 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 3F C0 00 00
 #
-name: 1/ALL
+name: 1/all
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: BF 40 00 00
 #
-name: GOTO
+name: Goto
 type: parsed
 protocol: NECext
 address: B7 08 00 00
@@ -124,49 +124,49 @@ protocol: NECext
 address: B7 08 00 00
 command: 7F 80 00 00
 #
-name: PBC
+name: Pbc
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: FD 02 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 7D 82 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: BD 42 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: FF 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: DD 22 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 9F 60 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 9D 62 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B7 08 00 00
@@ -196,7 +196,7 @@ protocol: NECext
 address: B7 08 00 00
 command: 5F A0 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: B7 08 00 00
@@ -244,49 +244,49 @@ protocol: NECext
 address: B7 08 00 00
 command: 2D D2 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: F5 0A 00 00
 #
-name: KEY
+name: Key
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 75 8A 00 00
 #
-name: ECHO+
+name: Echo+
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 35 CA 00 00
 #
-name: VOCAL
+name: Vocal
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 77 88 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: 37 C8 00 00
 #
-name: KEY
+name: Key
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: B7 48 00 00
 #
-name: ECHO-
+name: Echo-
 type: parsed
 protocol: NECext
 address: B7 08 00 00
 command: B5 4A 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: B7 08 00 00

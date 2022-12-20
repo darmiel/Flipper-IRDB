@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SET/STELLEN
+name: Set/stellen
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 00 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 00 00 00 00
 #
-name: BRT.
+name: Brt.
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 01 00 00 00
 #
-name: CONT.
+name: Cont.
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 02 00 00 00
 #
-name: VOL.
+name: Vol.
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 04 00 00 00
 #
-name: BAL.
+name: Bal.
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 05 00 00 00
 #
-name: DEGAU./ENTMAGN
+name: Degau./entmagn
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 07 00 00 00
 #
-name: DEGAU.
+name: Degau.
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 07 00 00 00
 #
-name: DISP.OFF(AUS)
+name: Disp.off(aus)
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 08 00 00 00
 #
-name: TTL
+name: Ttl
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 0C 00 00 00
 #
-name: ANALOG_2
+name: Analog_2
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 0E 00 00 00
 #
-name: RGB_2
+name: Rgb_2
 type: parsed
 protocol: NECext
 address: 82 64 00 00
@@ -91,55 +91,55 @@ protocol: NECext
 address: 82 64 00 00
 command: 11 00 00 00
 #
-name: UP_(+)
+name: Up_(+)
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 13 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 13 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 16 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 17 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 18 00 00 00
 #
-name: ANALOG_1
+name: Analog_1
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 1E 00 00 00
 #
-name: RGB_1
+name: Rgb_1
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 1E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 44 00 00 00
 #
-name: CAL/CLR
+name: Cal/clr
 type: parsed
 protocol: NECext
 address: 82 64 00 00
@@ -157,13 +157,13 @@ protocol: NECext
 address: 82 64 00 00
 command: 47 00 00 00
 #
-name: DOWN_(-)
+name: Down_(-)
 type: parsed
 protocol: NECext
 address: 82 64 00 00
 command: 4C 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 82 64 00 00

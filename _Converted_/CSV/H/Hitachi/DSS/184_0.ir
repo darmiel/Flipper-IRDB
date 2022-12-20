@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DSS_VOL_V
+name: Dss_vol_v
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9A 00 00 00
 #
-name: DSS_VOL_^
+name: Dss_vol_^
 type: parsed
 protocol: NECext
 address: B8 00 00 00
 command: 9B 00 00 00
 #
-name: DSS2_MUTE
+name: Dss2_mute
 type: parsed
 protocol: NECext
 address: B8 00 00 00

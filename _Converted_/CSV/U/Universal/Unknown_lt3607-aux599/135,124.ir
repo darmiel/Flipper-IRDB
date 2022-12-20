@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 01 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 02 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 04 00 00 00
 #
-name: prg-
+name: Prg-
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 05 00 00 00
 #
-name: prg+
+name: Prg+
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 06 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 07 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 17 00 00 00
 #
-name: notxt
+name: Notxt
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: 85 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 87 7C 00 00
 command: 8B 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 87 7C 00 00
 command: 93 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
@@ -121,7 +121,7 @@ protocol: NECext
 address: 87 7C 00 00
 command: 98 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: 87 7C 00 00
 command: C7 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 87 7C 00 00
 command: CE 00 00 00
 #
-name: a-b
+name: A-b
 type: parsed
 protocol: NECext
 address: 87 7C 00 00

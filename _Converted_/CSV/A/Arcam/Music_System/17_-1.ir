@@ -7,7 +7,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: TUNER/CD_0
+name: Tuner/cd_0
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: TUNER/CD_1
+name: Tuner/cd_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: TUNER/CD_2
+name: Tuner/cd_2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: TUNER/CD_3
+name: Tuner/cd_3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: TUNER/CD_4
+name: Tuner/cd_4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: TUNER/CD_5
+name: Tuner/cd_5
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: TUNER/CD_6
+name: Tuner/cd_6
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: TUNER/CD_7
+name: Tuner/cd_7
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: TUNER/CD_8
+name: Tuner/cd_8
 type: parsed
 protocol: NECext
 address: 11 00 00 00
@@ -115,49 +115,49 @@ protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: TUNER/CD_9
+name: Tuner/cd_9
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 3F 00 00 00
 #
-name: INFO_2
+name: Info_2
 type: parsed
 protocol: NECext
 address: 11 00 00 00

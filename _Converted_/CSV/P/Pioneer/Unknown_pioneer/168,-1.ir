@@ -61,103 +61,103 @@ protocol: NECext
 address: A8 00 00 00
 command: 09 00 00 00
 #
-name: scanfwd
+name: Scanfwd
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 10 00 00 00
 #
-name: scanrev
+name: Scanrev
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 11 00 00 00
 #
-name: chapframe-tracktime
+name: Chapframe-tracktime
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 13 00 00 00
 #
-name: reject
+name: Reject
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 16 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 18 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 1E 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 42 00 00 00
 #
-name: disp
+name: Disp
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 43 00 00 00
 #
-name: repeatmode
+name: Repeatmode
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 44 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 45 00 00 00
 #
-name: speeddown
+name: Speeddown
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 46 00 00 00
 #
-name: speedup
+name: Speedup
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 47 00 00 00
 #
-name: steprev
+name: Steprev
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 50 00 00 00
 #
-name: stepfwd
+name: Stepfwd
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 54 00 00 00
 #
-name: multirev
+name: Multirev
 type: parsed
 protocol: NECext
 address: A8 00 00 00
 command: 55 00 00 00
 #
-name: multifwd
+name: Multifwd
 type: parsed
 protocol: NECext
 address: A8 00 00 00

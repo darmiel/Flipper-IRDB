@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 1F 00 00 00
 #
-name: CH_LEVEL
+name: Ch_level
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 48 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 49 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4A 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 4F 00 00 00
 #
-name: STEREO_MODE
+name: Stereo_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 50 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 5F 00 00 00
 #
-name: NIGHT
+name: Night
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 8A 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 78 00 00 00
@@ -73,85 +73,85 @@ protocol: NECext
 address: 78 00 00 00
 command: 8F 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 99 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9C 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: SET_MENU
+name: Set_menu
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9D 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9E 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: 9F 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C0 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C1 00 00 00
 #
-name: 5_BEAM_MODE
+name: 5_beam_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C2 00 00 00
 #
-name: ST+3_BEAM_MODE
+name: St+3_beam_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C3 00 00 00
 #
-name: 3_BEAM_MODE
+name: 3_beam_mode
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: C4 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DE 00 00 00
 #
-name: CODE_SET
+name: Code_set
 type: parsed
 protocol: NECext
 address: 78 00 00 00
 command: DF 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: 78 00 00 00

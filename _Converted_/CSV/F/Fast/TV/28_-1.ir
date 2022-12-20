@@ -1,457 +1,457 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 0-A
+name: 0-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 00 00 00 00
 #
-name: 0-B
+name: 0-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 00 00 00 00
 #
-name: 1-A
+name: 1-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 01 00 00 00
 #
-name: 1-B
+name: 1-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 01 00 00 00
 #
-name: 2-A
+name: 2-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 02 00 00 00
 #
-name: 2-B
+name: 2-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 02 00 00 00
 #
-name: 3-A
+name: 3-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 03 00 00 00
 #
-name: 3-B
+name: 3-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 03 00 00 00
 #
-name: 4-A
+name: 4-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 04 00 00 00
 #
-name: 4-B
+name: 4-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 04 00 00 00
 #
-name: 5-A
+name: 5-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 05 00 00 00
 #
-name: 5-B
+name: 5-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 05 00 00 00
 #
-name: 6-A
+name: 6-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 06 00 00 00
 #
-name: 6-B
+name: 6-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 06 00 00 00
 #
-name: 7-A
+name: 7-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 07 00 00 00
 #
-name: 7-B
+name: 7-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 07 00 00 00
 #
-name: 8-A
+name: 8-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 08 00 00 00
 #
-name: 8-B
+name: 8-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 08 00 00 00
 #
-name: 9-A
+name: 9-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 09 00 00 00
 #
-name: 9-B
+name: 9-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 09 00 00 00
 #
-name: POWER-A
+name: Power-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0C 00 00 00
 #
-name: POWER-B
+name: Power-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE-A
+name: Mute-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE-B
+name: Mute-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0D 00 00 00
 #
-name: GRUEN-A
+name: Gruen-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0F 00 00 00
 #
-name: GRUEN-B
+name: Gruen-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 0F 00 00 00
 #
-name: CURSOR_RIGHT-A
+name: Cursor_right-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 10 00 00 00
 #
-name: CURSOR_RIGHT-B
+name: Cursor_right-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 10 00 00 00
 #
-name: CURSOR_LEFT-A
+name: Cursor_left-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 11 00 00 00
 #
-name: CURSOR_LEFT-B
+name: Cursor_left-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 11 00 00 00
 #
-name: PROGR+_A
+name: Progr+_a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 20 00 00 00
 #
-name: PROGR+_B
+name: Progr+_b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 20 00 00 00
 #
-name: PROGR-_A
+name: Progr-_a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 21 00 00 00
 #
-name: PROGR-_B
+name: Progr-_b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 21 00 00 00
 #
-name: VOR-A
+name: Vor-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 22 00 00 00
 #
-name: VOR-B
+name: Vor-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 22 00 00 00
 #
-name: OK-A
+name: Ok-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 29 00 00 00
 #
-name: OK-B
+name: Ok-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 29 00 00 00
 #
-name: IPG-A
+name: Ipg-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 2D 00 00 00
 #
-name: IPG-B
+name: Ipg-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 2D 00 00 00
 #
-name: PLAY-A
+name: Play-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 32 00 00 00
 #
-name: PLAY-B
+name: Play-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 32 00 00 00
 #
-name: FFW-A
+name: Ffw-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 34 00 00 00
 #
-name: FFW-B
+name: Ffw-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 34 00 00 00
 #
-name: STOP-A
+name: Stop-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 36 00 00 00
 #
-name: STOP-B
+name: Stop-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 36 00 00 00
 #
-name: REW-A
+name: Rew-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 37 00 00 00
 #
-name: REW-B
+name: Rew-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 37 00 00 00
 #
-name: EXIT-A
+name: Exit-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 3C 00 00 00
 #
-name: EXIT-B
+name: Exit-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 3C 00 00 00
 #
-name: VOL-_A
+name: Vol-_a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 41 00 00 00
 #
-name: VOL-_B
+name: Vol-_b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 41 00 00 00
 #
-name: VOL+_A
+name: Vol+_a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 42 00 00 00
 #
-name: VOL+_B
+name: Vol+_b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 42 00 00 00
 #
-name: I/II-A
+name: I/ii-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 48 00 00 00
 #
-name: I/II-B
+name: I/ii-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 48 00 00 00
 #
-name: ZURUECK-A
+name: Zurueck-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 5C 00 00 00
 #
-name: ZURUECK-B
+name: Zurueck-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 5C 00 00 00
 #
-name: STEP-A
+name: Step-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 5D 00 00 00
 #
-name: STEP-B
+name: Step-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 5D 00 00 00
 #
-name: JOBS-A
+name: Jobs-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 5E 00 00 00
 #
-name: JOBS-B
+name: Jobs-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 5E 00 00 00
 #
-name: ARCH-A
+name: Arch-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 5F 00 00 00
 #
-name: ARCH-B
+name: Arch-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 5F 00 00 00
 #
-name: BLAU-A
+name: Blau-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 71 00 00 00
 #
-name: BLAU-B
+name: Blau-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 71 00 00 00
 #
-name: GELB-A
+name: Gelb-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 72 00 00 00
 #
-name: GELB-B
+name: Gelb-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 72 00 00 00
 #
-name: ?-A
+name: ?-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 73 00 00 00
 #
-name: ?-B
+name: ?-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 73 00 00 00
 #
-name: TVTV-A
+name: Tvtv-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 74 00 00 00
 #
-name: TVTV-B
+name: Tvtv-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 74 00 00 00
 #
-name: ROT-A
+name: Rot-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 75 00 00 00
 #
-name: ROT-B
+name: Rot-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 75 00 00 00
 #
-name: LIVE-A
+name: Live-a
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 7D 00 00 00
 #
-name: LIVE-B
+name: Live-b
 type: parsed
 protocol: NECext
 address: 1C 00 00 00

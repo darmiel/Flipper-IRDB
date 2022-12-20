@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 01 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 02 00 00 00
 #
-name: FM/AM
+name: Fm/am
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 03 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 04 00 00 00
 #
-name: Balance_Right
+name: Balance_right
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -43,13 +43,13 @@ protocol: NECext
 address: 20 00 00 00
 command: 07 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 08 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 20 00 00 00
 command: 0A 00 00 00
 #
-name: Surround_Mode
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 0B 00 00 00
 #
-name: Balance_Left
+name: Balance_left
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -85,13 +85,13 @@ protocol: NECext
 address: 20 00 00 00
 command: 0F 00 00 00
 #
-name: RDS_Display
+name: Rds_display
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 10 00 00 00
 #
-name: 1CH
+name: 1ch
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 12 00 00 00
 #
-name: RDS_Title
+name: Rds_title
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 1A 00 00 00
 #
-name: VCR
+name: Vcr
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 44 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -211,7 +211,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 48 00 00 00
 #
-name: SW-
+name: Sw-
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -223,13 +223,13 @@ protocol: NECext
 address: 20 00 00 00
 command: 4A 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 4B 00 00 00
 #
-name: Tone_Delay_Fine_Control
+name: Tone_delay_fine_control
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -259,7 +259,7 @@ protocol: NECext
 address: 20 00 00 00
 command: 55 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 20 00 00 00
@@ -271,19 +271,19 @@ protocol: NECext
 address: 20 00 00 00
 command: 57 00 00 00
 #
-name: DSP
+name: Dsp
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 5D 00 00 00
 #
-name: VCD/TV
+name: Vcd/tv
 type: parsed
 protocol: NECext
 address: 20 00 00 00
 command: 5E 00 00 00
 #
-name: SW+
+name: Sw+
 type: parsed
 protocol: NECext
 address: 20 00 00 00

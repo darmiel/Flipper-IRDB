@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_STOP
+name: Cd_stop
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 00 00 00 00
 #
-name: INPUT_TUNER
+name: Input_tuner
 type: parsed
 protocol: NECext
 address: 83 65 00 00
@@ -19,103 +19,103 @@ protocol: NECext
 address: 83 65 00 00
 command: 02 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 03 00 00 00
 #
-name: INPUT_TAPE
+name: Input_tape
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 04 00 00 00
 #
-name: CD_PLAY
+name: Cd_play
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 05 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 06 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 08 00 00 00
 #
-name: INPUT_PHONO
+name: Input_phono
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 09 00 00 00
 #
-name: CD_PREV
+name: Cd_prev
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 0C 00 00 00
 #
-name: CD_REPEAT
+name: Cd_repeat
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 0D 00 00 00
 #
-name: AUTOMUTE
+name: Automute
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 0E 00 00 00
 #
-name: VOL_MUTE
+name: Vol_mute
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 10 00 00 00
 #
-name: INPUT_VCR
+name: Input_vcr
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 11 00 00 00
 #
-name: CD_FF
+name: Cd_ff
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 14 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 18 00 00 00
 #
-name: INPUT_CD
+name: Input_cd
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 19 00 00 00
 #
-name: TAPE1_PLAY
+name: Tape1_play
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 1B 00 00 00
 #
-name: CD_REW
+name: Cd_rew
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 1C 00 00 00
 #
-name: CD_PROG
+name: Cd_prog
 type: parsed
 protocol: NECext
 address: 83 65 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 83 65 00 00
 command: 40 00 00 00
 #
-name: TAPE2_FF
+name: Tape2_ff
 type: parsed
 protocol: NECext
 address: 83 65 00 00
@@ -163,37 +163,37 @@ protocol: NECext
 address: 83 65 00 00
 command: 45 00 00 00
 #
-name: TAPE1_FF
+name: Tape1_ff
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 46 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 4A 00 00 00
 #
-name: SOUNDCHAR_NEXT
+name: Soundchar_next
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 4C 00 00 00
 #
-name: SOUNDCHAR_PREV
+name: Soundchar_prev
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 4D 00 00 00
 #
-name: CD_RANDOM
+name: Cd_random
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 4F 00 00 00
 #
-name: CD_NEXT
+name: Cd_next
 type: parsed
 protocol: NECext
 address: 83 65 00 00
@@ -205,13 +205,13 @@ protocol: NECext
 address: 83 65 00 00
 command: 54 00 00 00
 #
-name: TAPE1_REW
+name: Tape1_rew
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 56 00 00 00
 #
-name: TAPE2_REW
+name: Tape2_rew
 type: parsed
 protocol: NECext
 address: 83 65 00 00
@@ -223,19 +223,19 @@ protocol: NECext
 address: 83 65 00 00
 command: 58 00 00 00
 #
-name: TAPE2_BACK
+name: Tape2_back
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 5A 00 00 00
 #
-name: TAPE1_BACK
+name: Tape1_back
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 5B 00 00 00
 #
-name: TAPE2_STOP
+name: Tape2_stop
 type: parsed
 protocol: NECext
 address: 83 65 00 00
@@ -247,13 +247,13 @@ protocol: NECext
 address: 83 65 00 00
 command: 5D 00 00 00
 #
-name: TAPE2_PLAY
+name: Tape2_play
 type: parsed
 protocol: NECext
 address: 83 65 00 00
 command: 5E 00 00 00
 #
-name: TAPE1_STOP
+name: Tape1_stop
 type: parsed
 protocol: NECext
 address: 83 65 00 00

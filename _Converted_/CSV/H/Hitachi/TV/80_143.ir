@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SCREEN_16:9
+name: Screen_16:9
 type: parsed
 protocol: NECext
 address: 50 8F 00 00

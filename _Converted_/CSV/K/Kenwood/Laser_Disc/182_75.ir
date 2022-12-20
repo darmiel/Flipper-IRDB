@@ -67,193 +67,193 @@ protocol: NECext
 address: B6 4B 00 00
 command: 0A 00 00 00
 #
-name: AUDIO_MONI.
+name: Audio_moni.
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 0F 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 10 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 11 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 12 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 14 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 15 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 16 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 17 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 18 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 19 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 1A 00 00 00
 #
-name: CHECK
+name: Check
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 1B 00 00 00
 #
-name: P.MODE
+name: P.mode
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 1F 00 00 00
 #
-name: AUTO_DIGITAL
+name: Auto_digital
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 40 00 00 00
 #
-name: TV/DISC
+name: Tv/disc
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 41 00 00 00
 #
-name: SPACE
+name: Space
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 42 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 43 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 4A 00 00 00
 #
-name: INTRO_SCAN
+name: Intro_scan
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 4E 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 4F 00 00 00
 #
-name: FRAME/TIME
+name: Frame/time
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 57 00 00 00
 #
-name: STILL/STEP_<
+name: Still/step_<
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 58 00 00 00
 #
-name: STILL/STEP_>
+name: Still/step_>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 59 00 00 00
 #
-name: MULTI_SPEED_<
+name: Multi_speed_<
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 5A 00 00 00
 #
-name: MULTI_SPEED_>
+name: Multi_speed_>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 5B 00 00 00
 #
-name: MULTI_SPEED_-
+name: Multi_speed_-
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 5C 00 00 00
 #
-name: MULTI_SPEED_+
+name: Multi_speed_+
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 5D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 5F 00 00 00
 #
-name: JOG_FWD_>>
+name: Jog_fwd_>>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 80 00 00 00
 #
-name: JOG_REV_<<
+name: Jog_rev_<<
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 88 00 00 00
 #
-name: MNT/HIT_MASTER
+name: Mnt/hit_master
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 97 00 00 00
 #
-name: MIDNIGHT_THEATER
+name: Midnight_theater
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
@@ -271,31 +271,31 @@ protocol: NECext
 address: B6 4B 00 00
 command: 99 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 9A 00 00 00
 #
-name: M-STOP
+name: M-stop
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 9B 00 00 00
 #
-name: M-SHOT
+name: M-shot
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 9C 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: B6 4B 00 00
 command: 9D 00 00 00
 #
-name: CX
+name: Cx
 type: parsed
 protocol: NECext
 address: B6 4B 00 00

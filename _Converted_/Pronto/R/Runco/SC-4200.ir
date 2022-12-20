@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 808 808 808 1667 808 808 808 808 808 808 1667 1667 808 808 808 808 808 808 808 808 1667 808 86136
 #
-name: INPUT_CYCLE
+name: Input_cycle
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 1667 834 834 834 834 834 834 1667 1667 834 834 834 834 834 834 834 834 834 834 86866
 #
-name: FACTORY
+name: Factory
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 1667 834 834 834 834 834 834 1667 1667 834 834 834 834 834 834 1667 1667 86918
 #
-name: USER
+name: User
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 808 808 808 1667 808 808 808 808 808 808 1667 1667 808 808 808 808 808 808 1667 808 808 808 86162
 #
-name: FUNCTION+
+name: Function+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 1667 834 834 834 834 834 834 1667 1667 834 834 834 834 1667 1667 834 834 86892
 #
-name: FUNCTION-
+name: Function-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 834 834 834 1667 834 834 834 834 834 834 1667 1667 834 834 834 834 1667 834 834 1667 86892
 #
-name: VALUE+
+name: Value+
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 834 782 782 782 1667 782 782 782 782 782 782 1667 1667 782 782 782 782 1667 1667 1667 782 86136
 #
-name: VALUE-
+name: Value-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000

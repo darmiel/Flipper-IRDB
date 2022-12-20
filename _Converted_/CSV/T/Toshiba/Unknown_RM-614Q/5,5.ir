@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 05 05 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 0F 00 00 00
 #
-name: chminus
+name: Chminus
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -91,115 +91,115 @@ protocol: NECext
 address: 05 05 00 00
 command: 11 00 00 00
 #
-name: chplus
+name: Chplus
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 12 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 14 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 15 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 16 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 18 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 19 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1A 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1D 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1F 00 00 00
 #
-name: linein
+name: Linein
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 24 00 00 00
 #
-name: plus100
+name: Plus100
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 26 00 00 00
 #
-name: pplus
+name: Pplus
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 29 00 00 00
 #
-name: prech
+name: Prech
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2A 00 00 00
 #
-name: trkplus
+name: Trkplus
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2C 00 00 00
 #
-name: trkminus
+name: Trkminus
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2D 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 32 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 37 00 00 00
 #
-name: speed
+name: Speed
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 3A 00 00 00
 #
-name: pstd
+name: Pstd
 type: parsed
 protocol: NECext
 address: 05 05 00 00

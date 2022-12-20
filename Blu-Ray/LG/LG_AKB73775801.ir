@@ -3,7 +3,7 @@ Version: 1
 # 
 # LG BlueRay/Surround Sound
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -21,19 +21,19 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: 8A 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 17 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 16 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -93,7 +93,7 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: 05 00 00 00
 # 
-name: FF
+name: Ff
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -111,19 +111,19 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: A2 00 00 00
 # 
-name: Next_Ch
+name: Next_ch
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 07 00 00 00
 # 
-name: Prev_Ch
+name: Prev_ch
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 06 00 00 00
 # 
-name: Disc_Menu
+name: Disc_menu
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -141,19 +141,19 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: B6 00 00 00
 # 
-name: Open_Close
+name: Open_close
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 9A 00 00 00
 # 
-name: Speaker_Level
+name: Speaker_level
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 66 00 00 00
 # 
-name: Sound_Effect
+name: Sound_effect
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00

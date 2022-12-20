@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 80 26 00 00
 command: 01 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 80 26 00 00
 command: 02 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 80 26 00 00
 command: 07 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 26 00 00
 command: 08 00 00 00
 #
-name: V/H
+name: V/h
 type: parsed
 protocol: NECext
 address: 80 26 00 00
 command: 0A 00 00 00
 #
-name: MEM
+name: Mem
 type: parsed
 protocol: NECext
 address: 80 26 00 00
 command: 0B 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 80 26 00 00
 command: 0C 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: 80 26 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 80 26 00 00
 command: 11 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 80 26 00 00
 command: 12 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 80 26 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 80 26 00 00
 command: 17 00 00 00
 #
-name: P/L
+name: P/l
 type: parsed
 protocol: NECext
 address: 80 26 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 80 26 00 00
 command: 19 00 00 00
 #
-name: D/ON
+name: D/on
 type: parsed
 protocol: NECext
 address: 80 26 00 00

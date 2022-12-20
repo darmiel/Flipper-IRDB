@@ -1,265 +1,265 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PROLOGIC
+name: Prologic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 00 00 00 00
 #
-name: PRO-LOGIC
+name: Pro-logic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 00 00 00 00
 #
-name: PRO_LOGIC
+name: Pro_logic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 00 00 00 00
 #
-name: PRO_LOGIC
+name: Pro_logic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 00 00 00 00
 #
-name: DOLBY_PRO_LOGIC
+name: Dolby_pro_logic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 00 00 00 00
 #
-name: MIDNIGHT_MODE-
+name: Midnight_mode-
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 04 00 00 00
 #
-name: PRESENCE_LEVEL_V
+name: Presence_level_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 04 00 00 00
 #
-name: MIDNIGHT_MODE_+
+name: Midnight_mode_+
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 05 00 00 00
 #
-name: PRESENCE_LEVEL_^
+name: Presence_level_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 05 00 00 00
 #
-name: AUDIO_STOP_[]
+name: Audio_stop_[]
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 05 00 00 00
 #
-name: AM/FM_PRESET_-
+name: Am/fm_preset_-
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 06 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 06 00 00 00
 #
-name: AM/FM_PRESET+
+name: Am/fm_preset+
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 07 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 07 00 00 00
 #
-name: DSP
+name: Dsp
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 0C 00 00 00
 #
-name: 3STEREO
+name: 3stereo
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 0E 00 00 00
 #
-name: 3_STEREO
+name: 3_stereo
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 0E 00 00 00
 #
-name: FREQUENCY-
+name: Frequency-
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 16 00 00 00
 #
-name: RCVR_TUNING_<
+name: Rcvr_tuning_<
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 16 00 00 00
 #
-name: TUNE_-
+name: Tune_-
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 16 00 00 00
 #
-name: FREQUENCY+
+name: Frequency+
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 17 00 00 00
 #
-name: RCVR_TUNING_>
+name: Rcvr_tuning_>
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 17 00 00 00
 #
-name: TUNE_+
+name: Tune_+
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 17 00 00 00
 #
-name: AM/FM_AUTO
+name: Am/fm_auto
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 18 00 00 00
 #
-name: RCVR_AUTO
+name: Rcvr_auto
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 18 00 00 00
 #
-name: AUTO/MONO
+name: Auto/mono
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 18 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 18 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 18 00 00 00
 #
-name: ARENA
+name: Arena
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 44 00 00 00
 #
-name: STADIUM_1
+name: Stadium_1
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 46 00 00 00
 #
-name: CATHEDRAL
+name: Cathedral
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 48 00 00 00
 #
-name: THEATRE_1
+name: Theatre_1
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 49 00 00 00
 #
-name: N.B.
+name: N.b.
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 4B 00 00 00
 #
-name: AUDIO_PAUSE_
+name: Audio_pause_
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 51 00 00 00
 #
-name: MULTI_LVL_CTRL_V
+name: Multi_lvl_ctrl_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 54 00 00 00
 #
-name: RCVR_ANY_V
+name: Rcvr_any_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 54 00 00 00
 #
-name: LEVEL_-
+name: Level_-
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 54 00 00 00
 #
-name: MULTI_LVL_CTRL_^
+name: Multi_lvl_ctrl_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 55 00 00 00
 #
-name: RCVR_ANY_^
+name: Rcvr_any_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 55 00 00 00
 #
-name: LEVEL_+
+name: Level_+
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 55 00 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 57 00 00 00
 #
-name: LEVEL_MODE
+name: Level_mode
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 57 00 00 00
 #
-name: THEATRE_2
+name: Theatre_2
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 83 00 00 00
 #
-name: DSP_LOGIC
+name: Dsp_logic
 type: parsed
 protocol: NECext
 address: B8 01 00 00
@@ -271,91 +271,91 @@ protocol: NECext
 address: B8 01 00 00
 command: 8E 00 00 00
 #
-name: VISUAL_FIX
+name: Visual_fix
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 8F 00 00 00
 #
-name: SURR_MULTILEVEL_V
+name: Surr_multilevel_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 91 00 00 00
 #
-name: LEVEL_-
+name: Level_-
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 91 00 00 00
 #
-name: SURR_MULTI_LEVEL_V
+name: Surr_multi_level_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 91 00 00 00
 #
-name: SURR_MULTILEVEL_^
+name: Surr_multilevel_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 92 00 00 00
 #
-name: LEVEL_+
+name: Level_+
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 92 00 00 00
 #
-name: SURR_MULTI_LEVEL_^
+name: Surr_multi_level_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 92 00 00 00
 #
-name: PTY
+name: Pty
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: 9C 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: C2 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: C2 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: CC 00 00 00
 #
-name: INPUT_^
+name: Input_^
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: CC 00 00 00
 #
-name: TONE
+name: Tone
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: D5 00 00 00
 #
-name: INPUT_V
+name: Input_v
 type: parsed
 protocol: NECext
 address: B8 01 00 00
 command: D6 00 00 00
 #
-name: PANEL_OPEN-CLOSE
+name: Panel_open-close
 type: parsed
 protocol: NECext
 address: B8 01 00 00

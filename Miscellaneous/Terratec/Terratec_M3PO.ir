@@ -51,7 +51,7 @@ protocol: RC5X
 address: 0A 00 00 00
 command: 2A 00 00 00
 # 
-name: Speed -
+name: Speed_-
 type: parsed
 protocol: RC5X
 address: 0A 00 00 00
@@ -63,7 +63,7 @@ protocol: RC5X
 address: 0A 00 00 00
 command: 16 00 00 00
 # 
-name: Speed +
+name: Speed_+
 type: parsed
 protocol: RC5X
 address: 0A 00 00 00

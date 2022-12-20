@@ -22,7 +22,7 @@ protocol: NECext
 address: 00 1D 00 00
 command: 3E C1 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
@@ -46,7 +46,7 @@ protocol: NECext
 address: 00 1D 00 00
 command: 9E 61 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: C0 1D 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: 00 1D 00 00
 command: 6E 91 00 00
 #
-name: RECEIVER
+name: Receiver
 type: parsed
 protocol: NECext
 address: 80 1D 00 00
@@ -88,145 +88,145 @@ protocol: NECext
 address: 00 1D 00 00
 command: 4F B0 00 00
 #
-name: LOUDNESS
+name: Loudness
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: 05 FA 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: C0 1D 00 00
 command: 67 98 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 80 1D 00 00
 command: 15 EA 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: 04 FB 00 00
 #
-name: TOP MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: E5 1A 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 80 1D 00 00
 command: 55 AA 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: 40 1D 00 00
 command: FF 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 40 1D 00 00
 command: 7F 80 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 80 1D 00 00
 command: D5 2A 00 00
 #
-name: TUNE
+name: Tune
 type: parsed
 protocol: NECext
 address: 40 1D 00 00
 command: BF 40 00 00
 #
-name: TUNE
+name: Tune
 type: parsed
 protocol: NECext
 address: 40 1D 00 00
 command: 3F C0 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: C0 1D 00 00
 command: 6F 90 00 00
 #
-name: BASS BOOST
+name: Bass_boost
 type: parsed
 protocol: NECext
 address: 40 1D 00 00
 command: 15 EA 00 00
 #
-name: DISC SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: EF 10 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 40 1D 00 00
 command: DF 20 00 00
 #
-name: PLAY PAUSE
+name: Play_pause
 type: parsed
 protocol: NECext
 address: C0 1D 00 00
 command: 9F 60 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: F6 09 00 00
 #
-name: CD/DVD
+name: Cd/dvd
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: B6 49 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: 76 89 00 00
 #
-name: MD/TAPE
+name: Md/tape
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: 56 A9 00 00
 #
-name: VIDEO1
+name: Video1
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: 96 69 00 00
 #
-name: VIDEO2
+name: Video2
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: BF 40 00 00
 #
-name: CINEMA EQ
+name: Cinema_eq
 type: parsed
 protocol: NECext
 address: 60 1D 00 00
 command: ED 12 00 00
 #
-name: TONE
+name: Tone
 type: parsed
 protocol: NECext
 address: 80 1D 00 00
@@ -238,13 +238,13 @@ protocol: NECext
 address: 00 1D 00 00
 command: C6 39 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 1D 00 00
 command: A6 59 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 1D 00 00

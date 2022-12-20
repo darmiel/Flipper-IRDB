@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 32 00 00 00
 #
-name: INPUT_-_DBS
+name: Input_-_dbs
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 4A 00 00 00
 #
-name: VCR_PLUS_+
+name: Vcr_plus_+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 69 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 78 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 7D 00 00 00
 #
-name: QUIT
+name: Quit
 type: parsed
 protocol: NECext
 address: 07 00 00 00

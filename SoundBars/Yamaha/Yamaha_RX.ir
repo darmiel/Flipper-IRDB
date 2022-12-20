@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: Yamaha_POWER
+name: Yamaha_power
 type: parsed
 protocol: NEC
 address: 7E 00 00 00
@@ -85,19 +85,19 @@ protocol: NECext
 address: 7A 85 00 00
 command: 6B 14 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 1A 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 7A 00 00 00
 command: 1B 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NEC
 address: 7A 00 00 00

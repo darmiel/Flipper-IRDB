@@ -61,169 +61,169 @@ protocol: NECext
 address: 80 7B 00 00
 command: 09 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 0A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 0B 00 00 00
 #
-name: TIMER_REC
+name: Timer_rec
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 0D 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 11 00 00 00
 #
-name: TV_VCR
+name: Tv_vcr
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 12 00 00 00
 #
-name: VCR_ON
+name: Vcr_on
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 13 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 15 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 16 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 17 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 18 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 19 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 1A 00 00 00
 #
-name: CLOCK_SET
+name: Clock_set
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 1C 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 1E 00 00 00
 #
-name: PRESET
+name: Preset
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 40 00 00 00
 #
-name: SET+
+name: Set+
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 41 00 00 00
 #
-name: SET-
+name: Set-
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 42 00 00 00
 #
-name: TRACKING+
+name: Tracking+
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 43 00 00 00
 #
-name: TRACKING-
+name: Tracking-
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 44 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 45 00 00 00
 #
-name: AFT
+name: Aft
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 46 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 48 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4A 00 00 00
 #
-name: MEM
+name: Mem
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4B 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4C 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 4E 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 80 7B 00 00
 command: 51 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 80 7B 00 00

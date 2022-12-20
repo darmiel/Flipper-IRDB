@@ -3,7 +3,7 @@ Version: 1
 # 
 # LG Blueray LHB655
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -45,7 +45,7 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: A5 00 00 00
 # 
-name: DiscMenu
+name: Discmenu
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -87,7 +87,7 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: A2 00 00 00
 # 
-name: TitlePopup
+name: Titlepopup
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
@@ -111,61 +111,61 @@ protocol: Samsung32
 address: 2C 00 00 00
 command: 4F 00 00 00
 # 
-name: SkipBack
+name: Skipback
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 06 00 00 00
 # 
-name: SkipForward
+name: Skipforward
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 07 00 00 00
 # 
-name: ScanBack
+name: Scanback
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 53 00 00 00
 # 
-name: ScanForward
+name: Scanforward
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 52 00 00 00
 # 
-name: SpeakerLevel
+name: Speakerlevel
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 66 00 00 00
 # 
-name: SoundEffect
+name: Soundeffect
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 2F 00 00 00
 # 
-name: Optical_TVSound
+name: Optical_tvsound
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: B6 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 1F 00 00 00
 # 
-name: VolUp
+name: Volup
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00
 command: 17 00 00 00
 # 
-name: VolDown
+name: Voldown
 type: parsed
 protocol: Samsung32
 address: 2C 00 00 00

@@ -1,181 +1,181 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 02 00 00 00
 #
-name: SKIP_BACKWARD
+name: Skip_backward
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 04 00 00 00
 #
-name: SEARCH_BACKWARD
+name: Search_backward
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 05 00 00 00
 #
-name: SEARCH_FORWARD
+name: Search_forward
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 06 00 00 00
 #
-name: SKIP_FORWARD
+name: Skip_forward
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 07 00 00 00
 #
-name: S_F
+name: S_f
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 08 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0A 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0B 00 00 00
 #
-name: PROG
+name: Prog
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0D 00 00 00
 #
-name: SPACE
+name: Space
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0F 00 00 00
 #
-name: NUMBER_0
+name: Number_0
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 10 00 00 00
 #
-name: NUMBER_1
+name: Number_1
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 11 00 00 00
 #
-name: NUMBER_2
+name: Number_2
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 12 00 00 00
 #
-name: NUMBER_3
+name: Number_3
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 13 00 00 00
 #
-name: NUMBER_4
+name: Number_4
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 14 00 00 00
 #
-name: NUMBER_5
+name: Number_5
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 15 00 00 00
 #
-name: NUMBER_6
+name: Number_6
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 16 00 00 00
 #
-name: NUMBER_7
+name: Number_7
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 17 00 00 00
 #
-name: NUMBER_8
+name: Number_8
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 18 00 00 00
 #
-name: NUMBER_9
+name: Number_9
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 19 00 00 00
 #
-name: PLUS_10
+name: Plus_10
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1A 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1B 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1E 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 55 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 56 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 57 00 00 00
 #
-name: SYNCHRO
+name: Synchro
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 58 00 00 00
 #
-name: PEAK
+name: Peak
 type: parsed
 protocol: NECext
 address: 79 00 00 00

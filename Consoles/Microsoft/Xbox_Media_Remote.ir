@@ -68,13 +68,13 @@ protocol: NECext
 address: 80 D8 00 00
 command: 6F 90 00 00
 # 
-name: Play_Pause
+name: Play_pause
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
 command: 70 8F 00 00
 # 
-name: Fast_Forward
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
@@ -152,13 +152,13 @@ protocol: NECext
 address: 80 D8 00 00
 command: 0E F1 00 00
 # 
-name: Vol_Up
+name: Vol_up
 type: parsed
 protocol: NECext
 address: 80 D8 00 00
 command: 10 EF 00 00
 # 
-name: Vol_Down
+name: Vol_down
 type: parsed
 protocol: NECext
 address: 80 D8 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TELEPHOTO
+name: Telephoto
 type: parsed
 protocol: NECext
 address: D9 00 00 00
 command: 1A 00 00 00
 #
-name: WIDE_ANGLE
+name: Wide_angle
 type: parsed
 protocol: NECext
 address: D9 00 00 00

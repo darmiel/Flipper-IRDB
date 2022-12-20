@@ -1,103 +1,103 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 80 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 81 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 82 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 83 00 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 85 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 86 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 8D 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 8E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 8F 00 00 00
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 94 00 00 00
 #
-name: CHANNEL_V
+name: Channel_v
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 95 00 00 00
 #
-name: CHANNEL_^
+name: Channel_^
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 96 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 97 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 9C 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 9D 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 85 53 00 00
 command: 9E 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 85 53 00 00

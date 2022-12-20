@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ON_T0
+name: On_t0
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 08 00 00 00
 #
-name: ON_T1
+name: On_t1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 08 00 00 00
 #
-name: OFF_T0
+name: Off_t0
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 09 00 00 00
 #
-name: OFF_T1
+name: Off_t1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 09 00 00 00
 #
-name: AMP4_T0
+name: Amp4_t0
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: AMP4_T1
+name: Amp4_t1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: AMP3_T0
+name: Amp3_t0
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: AMP3_T1
+name: Amp3_t1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: AMP2_T0
+name: Amp2_t0
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1A 00 00 00
 #
-name: AMP2_T1
+name: Amp2_t1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1A 00 00 00
 #
-name: AMP1_T0
+name: Amp1_t0
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: AMP1_T1
+name: Amp1_t1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: AMP6_T0
+name: Amp6_t0
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 22 00 00 00
 #
-name: AMP6_T1
+name: Amp6_t1
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 22 00 00 00
 #
-name: AMP5_T0
+name: Amp5_t0
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 23 00 00 00
 #
-name: AMP5_T1
+name: Amp5_t1
 type: parsed
 protocol: NECext
 address: 03 00 00 00

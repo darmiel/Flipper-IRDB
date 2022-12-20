@@ -1,115 +1,115 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: PRESET_4
+name: Preset_4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: PRESET_5
+name: Preset_5
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: PRESET_6
+name: Preset_6
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: PRESET_7
+name: Preset_7
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: PRESET_8
+name: Preset_8
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: PRESET_9
+name: Preset_9
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: PRESET/TUNE_+
+name: Preset/tune_+
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRESET/TUNE_-
+name: Preset/tune_-
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: PRESET/TUNE_MODE
+name: Preset/tune_mode
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: PRESET_10
+name: Preset_10
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 6E 00 00 00
 #
-name: PRESET_11
+name: Preset_11
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 6F 00 00 00
 #
-name: PRESET_12
+name: Preset_12
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 70 00 00 00
 #
-name: PRESET_13
+name: Preset_13
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 71 00 00 00
 #
-name: PRESET_14
+name: Preset_14
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 72 00 00 00
 #
-name: PRESET_15
+name: Preset_15
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 73 00 00 00
 #
-name: PRESET_16
+name: Preset_16
 type: parsed
 protocol: NECext
 address: 11 00 00 00

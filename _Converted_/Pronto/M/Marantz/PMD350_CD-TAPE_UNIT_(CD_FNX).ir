@@ -2,21 +2,21 @@ Filetype: IR signals file
 Version: 1
 #
 # POWER [raw] {11110100-001100}
-name: POWER
+name: Power
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 0C 00 00 00
 #
 # CD [raw] {11110100-111111}
-name: CD
+name: Cd
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 3F 00 00 00
 #
 # TRAY [raw] {11110100-101101}
-name: TRAY
+name: Tray
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -86,28 +86,28 @@ address: 14 00 00 00
 command: 09 00 00 00
 #
 # CD* [raw] {11110100-000000}
-name: CD*
+name: Cd*
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 00 00 00 00
 #
 # R_TRK [raw] {11010100-100001}
-name: R_TRK
+name: R_trk
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 21 00 00 00
 #
 # F_TRK [raw] {11010100-100000}
-name: F_TRK
+name: F_trk
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 20 00 00 00
 #
 # PLAY [raw] {11010100-110101}
-name: PLAY
+name: Play
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -121,28 +121,28 @@ address: 12 00 00 00
 command: 2F 00 00 00
 #
 # R_SCAN [raw] {11010100-110010}
-name: R_SCAN
+name: R_scan
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 32 00 00 00
 #
 # F_SCAN [raw] {11010100-110100}
-name: F_SCAN
+name: F_scan
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 34 00 00 00
 #
 # STOP [raw] {11010100-110110}
-name: STOP
+name: Stop
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 36 00 00 00
 #
 # PAUSE [raw] {11010100-110000}
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -156,63 +156,63 @@ address: 14 00 00 00
 command: 34 00 00 00
 #
 # AMS [raw] {11010100-101011}
-name: AMS
+name: Ams
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 2B 00 00 00
 #
 # DISPLAY [raw] {11010100-001011}
-name: DISPLAY
+name: Display
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 0B 00 00 00
 #
 # MEMO [raw] {11010010-101001}
-name: MEMO
+name: Memo
 type: parsed
 protocol: RC5
 address: 12 00 00 00
 command: 29 00 00 00
 #
 # RANDOM [raw] {11010100-011100}
-name: RANDOM
+name: Random
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 1C 00 00 00
 #
 # PROG [raw] {11010100-101001}
-name: PROG
+name: Prog
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 29 00 00 00
 #
 # RECALL [raw] {11010100-001111}
-name: RECALL
+name: Recall
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 0F 00 00 00
 #
 # CANCEL [raw] {11010100-110001}
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 31 00 00 00
 #
 # REPEAT [raw] {11010100-011101}
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 1D 00 00 00
 #
 # DOOR [20 45 10] {110-10100--101101-001010}
-name: DOOR (raw)
+name: Door_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25

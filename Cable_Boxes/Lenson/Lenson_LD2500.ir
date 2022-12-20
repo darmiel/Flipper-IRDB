@@ -79,7 +79,7 @@ protocol: NECext
 address: 02 02 00 00
 command: 00 FF 00 00
 # 
-name: TV/R
+name: Tv/r
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -133,13 +133,13 @@ protocol: NECext
 address: 02 02 00 00
 command: 52 AD 00 00
 # 
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 15 EA 00 00
 # 
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -169,7 +169,7 @@ protocol: NECext
 address: 02 02 00 00
 command: 10 EF 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 02 02 00 00
 command: 68 97 00 00
 # 
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 02 02 00 00
@@ -199,13 +199,13 @@ protocol: NECext
 address: 02 02 00 00
 command: 67 98 00 00
 # 
-name: OPT
+name: Opt
 type: parsed
 protocol: NECext
 address: 02 02 00 00
 command: 55 AA 00 00
 # 
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 02 02 00 00

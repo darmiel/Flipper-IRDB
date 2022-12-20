@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: Tape_Mon
+name: Tape_mon
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 00 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 01 00 00 00
 #
-name: AV_MD
+name: Av_md
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 02 00 00 00
 #
-name: Tuner_DAB
+name: Tuner_dab
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 03 00 00 00
 #
-name: Aux_Phono
+name: Aux_phono
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 04 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 05 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
@@ -79,37 +79,37 @@ protocol: NECext
 address: 10 00 00 00
 command: 12 00 00 00
 #
-name: Source_Up
+name: Source_up
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 13 00 00 00
 #
-name: Source_Down
+name: Source_down
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 14 00 00 00
 #
-name: Clip_Off
+name: Clip_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 15 00 00 00
 #
-name: Clip_On
+name: Clip_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 16 00 00 00
 #
-name: Mute_On
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 32 00 00 00
 #
-name: Mute_Off
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 10 00 00 00

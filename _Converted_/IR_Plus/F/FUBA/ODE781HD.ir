@@ -10,7 +10,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 17 E8 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 6F 90 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 2D D2 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 8D 72 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: B5 4A 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 75 8A 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -196,7 +196,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 6F 90 00 00
 #
-name: Fav/Last
+name: Fav/last
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -208,13 +208,13 @@ protocol: NECext
 address: E1 1E 00 00
 command: 3F C0 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
 command: 7D 82 00 00
 #
-name: Txt Exp
+name: Txt_exp
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -238,13 +238,13 @@ protocol: NECext
 address: E1 1E 00 00
 command: E8 17 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
 command: 47 B8 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: E1 1E 00 00
@@ -256,7 +256,7 @@ protocol: NECext
 address: E1 1E 00 00
 command: 4F B0 00 00
 #
-name: On Pip
+name: On_pip
 type: parsed
 protocol: NECext
 address: E1 1E 00 00

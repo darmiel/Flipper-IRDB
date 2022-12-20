@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DTV_ANT
+name: Dtv_ant
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 2A 00 00 00
 #
-name: MEM_STICK
+name: Mem_stick
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 31 00 00 00
 #
-name: VIDEO6
+name: Video6
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 42 00 00 00
 #
-name: VIDEO7
+name: Video7
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 42 00 00 00
 #
-name: ZOOM_-
+name: Zoom_-
 type: parsed
 protocol: NECext
 address: 97 00 00 00
 command: 4D 00 00 00
 #
-name: ZOOM_+
+name: Zoom_+
 type: parsed
 protocol: NECext
 address: 97 00 00 00

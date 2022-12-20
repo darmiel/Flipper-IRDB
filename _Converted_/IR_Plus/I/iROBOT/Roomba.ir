@@ -10,25 +10,25 @@ frequency: 38000
 duty_cycle: 0.33
 data: 2837 988 887 2837 887 2837 887 2837 2837 988 887 2837 2837 988 887 19733
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 2837 887 887 2837 887 2837 887 2837 2837 887 887 2837 887 2837 2837 18036
 #
-name: SPOT
+name: Spot
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 2882 895 895 2882 895 2882 895 2882 895 2882 2882 895 895 2882 895 19580
 #
-name: CLEAN
+name: Clean
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 2862 988 887 2862 887 2862 887 2862 2862 988 887 2862 887 2862 887 19733
 #
-name: DOCK
+name: Dock
 type: raw
 frequency: 38000
 duty_cycle: 0.33

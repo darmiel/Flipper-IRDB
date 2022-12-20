@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 03 00 00 00
 #
-name: SLOW_<
+name: Slow_<
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 05 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 06 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 07 00 00 00
 #
-name: SLOW_>
+name: Slow_>
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 08 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 0C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 0D 00 00 00
 #
-name: AUDIO_MONITOR
+name: Audio_monitor
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 17 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 2F 00 00 00
 #
-name: ZOOM_WIDE
+name: Zoom_wide
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 51 00 00 00
 #
-name: ZOOM_TELE
+name: Zoom_tele
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 52 00 00 00
 #
-name: FADE_/_WIPE
+name: Fade_/_wipe
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 58 00 00 00
 #
-name: START_/_STOP
+name: Start_/_stop
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 59 00 00 00
 #
-name: EDIT_-_ON_/_OFF
+name: Edit_-_on_/_off
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 67 00 00 00
 #
-name: EDIT_-_IN_/_OUT
+name: Edit_-_in_/_out
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 68 00 00 00
 #
-name: EDIT_-_CANCEL
+name: Edit_-_cancel
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 69 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 97 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 98 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 99 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: 9A 00 00 00
 #
-name: EFFECT_ON_/_OFF
+name: Effect_on_/_off
 type: parsed
 protocol: NECext
 address: D3 00 00 00
 command: B8 00 00 00
 #
-name: EFFECT
+name: Effect
 type: parsed
 protocol: NECext
 address: D3 00 00 00

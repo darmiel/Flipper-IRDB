@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FORWARD_>
+name: Forward_>
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 00 00 00 00
 #
-name: BACK_<
+name: Back_<
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: <PRESET>
+name: <preset>
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: SEEK
+name: Seek
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0D 00 00 00
 #
-name: <MANUAL>
+name: <manual>
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -97,37 +97,37 @@ protocol: NECext
 address: 07 00 00 00
 command: 4D 00 00 00
 #
-name: ENTER_FREQUENCY
+name: Enter_frequency
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 4E 00 00 00
 #
-name: RDS
+name: Rds
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 4F 00 00 00
 #
-name: MONO_(TOGGLE)
+name: Mono_(toggle)
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 50 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 51 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 5C 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 07 00 00 00

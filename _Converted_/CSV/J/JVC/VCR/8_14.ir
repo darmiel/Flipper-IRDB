@@ -1,91 +1,91 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 03 00 00 00
 #
-name: INDEX_LEFT
+name: Index_left
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 04 00 00 00
 #
-name: INDEX_RIGHT
+name: Index_right
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 06 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 07 00 00 00
 #
-name: SKIP_LEFT
+name: Skip_left
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 08 00 00 00
 #
-name: AUTOTRACK
+name: Autotrack
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 09 00 00 00
 #
-name: SKIP_RIGHT
+name: Skip_right
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 0A 00 00 00
 #
-name: REW/BROWSE
+name: Rew/browse
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 0C 00 00 00
 #
-name: FF/BROWSE
+name: Ff/browse
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 0E 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 0F 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 10 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 1B 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 1F 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 08 0E 00 00
 command: 20 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 08 0E 00 00

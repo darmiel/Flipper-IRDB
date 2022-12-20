@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: 48 50 00 00
 command: 05 00 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 48 50 00 00

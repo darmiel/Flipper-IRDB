@@ -1,193 +1,193 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 00 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 00 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 01 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 03 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 03 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 04 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 04 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 05 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 05 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 07 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 07 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0A 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0B 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0B 00 00 00
 #
-name: REPEAT_1/ALL
+name: Repeat_1/all
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0C 00 00 00
 #
-name: 1/ALL
+name: 1/all
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0C 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0D 00 00 00
 #
-name: A<->B
+name: A<->b
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0D 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0E 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0E 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0F 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 0F 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 10 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 10 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 11 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 11 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 12 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 12 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 13 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
@@ -217,25 +217,25 @@ protocol: NECext
 address: 83 4A 00 00
 command: 15 00 00 00
 #
-name: PROG/REV
+name: Prog/rev
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 16 00 00 00
 #
-name: PROG/REV
+name: Prog/rev
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 16 00 00 00
 #
-name: TAPE_SIZE
+name: Tape_size
 type: parsed
 protocol: NECext
 address: 83 4A 00 00
 command: 17 00 00 00
 #
-name: TAPE_SIZE
+name: Tape_size
 type: parsed
 protocol: NECext
 address: 83 4A 00 00

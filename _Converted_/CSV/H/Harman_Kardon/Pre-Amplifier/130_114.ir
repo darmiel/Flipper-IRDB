@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CASS_PLAY_>
+name: Cass_play_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: CASS_REV_PLAY_<
+name: Cass_rev_play_<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: CASS_STOP_[]
+name: Cass_stop_[]
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: CASS_FFWD_>>
+name: Cass_ffwd_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: CASS_REW_<<
+name: Cass_rew_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: CASS_REC/PAUSE
+name: Cass_rec/pause
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: CASS_SKIP_>>
+name: Cass_skip_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 08 00 00 00
 #
-name: CASS_SKIP_<<
+name: Cass_skip_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00

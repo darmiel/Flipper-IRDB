@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV/VCR
+name: Tv/vcr
 type: parsed
 protocol: NECext
 address: 1A 49 00 00

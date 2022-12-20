@@ -1,265 +1,265 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 1B 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 1C 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 1D 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 1E 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 1F 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 22 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 23 00 00 00
 #
-name: TUNER_XM_1
+name: Tuner_xm_1
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 60 00 00 00
 #
-name: TUNER_XM_2
+name: Tuner_xm_2
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 61 00 00 00
 #
-name: TUNER_XM_3
+name: Tuner_xm_3
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 62 00 00 00
 #
-name: TUNER_XM_4
+name: Tuner_xm_4
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 63 00 00 00
 #
-name: TUNER_XM_5
+name: Tuner_xm_5
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 64 00 00 00
 #
-name: TUNER_XM_6
+name: Tuner_xm_6
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 65 00 00 00
 #
-name: TUNER_XM_7
+name: Tuner_xm_7
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 66 00 00 00
 #
-name: TUNER_XM_8
+name: Tuner_xm_8
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 67 00 00 00
 #
-name: TUNER_XM_9
+name: Tuner_xm_9
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 68 00 00 00
 #
-name: TUNER_XM_0
+name: Tuner_xm_0
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 69 00 00 00
 #
-name: Z3_MUTE
+name: Z3_mute
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 172 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 172 00 00 00
 #
-name: STATUS_REQUEST
+name: Status_request
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 285 00 00 00
 #
-name: AUX_ZONE_3
+name: Aux_zone_3
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2C7 00 00 00
 #
-name: Z3_INP_AUX
+name: Z3_inp_aux
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2C7 00 00 00
 #
-name: TOGGLE_NET/USB
+name: Toggle_net/usb
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2C7 00 00 00
 #
-name: INPUT_XM
+name: Input_xm
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2CA 00 00 00
 #
-name: INPUT_HD_RADIO
+name: Input_hd_radio
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2CB 00 00 00
 #
-name: INPUT_NET
+name: Input_net
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2CC 00 00 00
 #
-name: INPUT_IPOD
+name: Input_ipod
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2CD 00 00 00
 #
-name: INPUT_USB
+name: Input_usb
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2CE 00 00 00
 #
-name: TOGGLE_DVD/HDP
+name: Toggle_dvd/hdp
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2DC 00 00 00
 #
-name: Z3_INP_VCR_1/2
+name: Z3_inp_vcr_1/2
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2DD 00 00 00
 #
-name: Z3_INP_VCR_3/4
+name: Z3_inp_vcr_3/4
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2DE 00 00 00
 #
-name: TOGGLE_VCR/DVR
+name: Toggle_vcr/dvr
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 2DF 00 00 00
 #
-name: Z3_REPEAT
+name: Z3_repeat
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3BC 00 00 00
 #
-name: Z3_RANDOM
+name: Z3_random
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3BD 00 00 00
 #
-name: Z3_USB_DIR._PLAY
+name: Z3_usb_dir._play
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3BE 00 00 00
 #
-name: Z3_FAVORITE_DIR.PLAY
+name: Z3_favorite_dir.play
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3BF 00 00 00
 #
-name: Z3_PRESET_CH+
+name: Z3_preset_ch+
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3CC 00 00 00
 #
-name: Z3_PRESET_CH-
+name: Z3_preset_ch-
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3CD 00 00 00
 #
-name: Z3_PRESET_SHIFT
+name: Z3_preset_shift
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3CE 00 00 00
 #
-name: Z3_SEARCH_(RDS)
+name: Z3_search_(rds)
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3D7 00 00 00
 #
-name: Z3_PLAY/PAUSE
+name: Z3_play/pause
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3E0 00 00 00
 #
-name: Z3_STOP
+name: Z3_stop
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3E1 00 00 00
 #
-name: Z3_SKIP/TUNE-
+name: Z3_skip/tune-
 type: parsed
 protocol: NECext
 address: 04 05 00 00
 command: 3E3 00 00 00
 #
-name: Z3_SKIP/TUNE+
+name: Z3_skip/tune+
 type: parsed
 protocol: NECext
 address: 04 05 00 00

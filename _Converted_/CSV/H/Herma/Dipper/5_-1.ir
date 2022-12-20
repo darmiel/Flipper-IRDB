@@ -1,745 +1,745 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OPEN_52
+name: Open_52
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 01 00 00 00
 #
-name: OPEN_54
+name: Open_54
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 02 00 00 00
 #
-name: OPEN_50
+name: Open_50
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 03 00 00 00
 #
-name: CLOSE_56
+name: Close_56
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 04 00 00 00
 #
-name: CLOSE_33
+name: Close_33
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 05 00 00 00
 #
-name: OPEN_33
+name: Open_33
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 06 00 00 00
 #
-name: CLOSE_31
+name: Close_31
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 07 00 00 00
 #
-name: CLOSE_54
+name: Close_54
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 08 00 00 00
 #
-name: CLOSE_32
+name: Close_32
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 09 00 00 00
 #
-name: OPEN_32
+name: Open_32
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0A 00 00 00
 #
-name: OPEN_31
+name: Open_31
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0B 00 00 00
 #
-name: CLOSE_36
+name: Close_36
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0C 00 00 00
 #
-name: CLOSE_30
+name: Close_30
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0D 00 00 00
 #
-name: OPEN_30
+name: Open_30
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0E 00 00 00
 #
-name: CLOSE_29
+name: Close_29
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 0F 00 00 00
 #
-name: OPEN_56
+name: Open_56
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 10 00 00 00
 #
-name: CLOSE_34
+name: Close_34
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 11 00 00 00
 #
-name: OPEN_34
+name: Open_34
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 12 00 00 00
 #
-name: OPEN_29
+name: Open_29
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 13 00 00 00
 #
-name: OPEN_36
+name: Open_36
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 14 00 00 00
 #
-name: CLOSE_28
+name: Close_28
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 15 00 00 00
 #
-name: OPEN_28
+name: Open_28
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 16 00 00 00
 #
-name: CLOSE_27
+name: Close_27
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 17 00 00 00
 #
-name: CLOSE_35
+name: Close_35
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 18 00 00 00
 #
-name: OPEN_27
+name: Open_27
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 19 00 00 00
 #
-name: CLOSE_26
+name: Close_26
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1B 00 00 00
 #
-name: OPEN_26
+name: Open_26
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1C 00 00 00
 #
-name: CLOSE_25
+name: Close_25
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1D 00 00 00
 #
-name: OPEN_25
+name: Open_25
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1E 00 00 00
 #
-name: OPEN_35
+name: Open_35
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1F 00 00 00
 #
-name: OPEN_57
+name: Open_57
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: OPEN_51
+name: Open_51
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: OPEN_53
+name: Open_53
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 22 00 00 00
 #
-name: OPEN_49
+name: Open_49
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 23 00 00 00
 #
-name: CLOSE_58
+name: Close_58
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 24 00 00 00
 #
-name: CLOSE_45
+name: Close_45
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 25 00 00 00
 #
-name: OPEN_45
+name: Open_45
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: CLOSE_43
+name: Close_43
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 27 00 00 00
 #
-name: OPEN_58
+name: Open_58
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 28 00 00 00
 #
-name: CLOSE_44
+name: Close_44
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: OPEN_44
+name: Open_44
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2A 00 00 00
 #
-name: OPEN_43
+name: Open_43
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2B 00 00 00
 #
-name: CLOSE_48
+name: Close_48
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2C 00 00 00
 #
-name: CLOSE_42
+name: Close_42
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2D 00 00 00
 #
-name: OPEN_42
+name: Open_42
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2E 00 00 00
 #
-name: CLOSE_41
+name: Close_41
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2F 00 00 00
 #
-name: OPEN_55
+name: Open_55
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 30 00 00 00
 #
-name: CLOSE_46
+name: Close_46
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 31 00 00 00
 #
-name: OPEN_46
+name: Open_46
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 32 00 00 00
 #
-name: OPEN_41
+name: Open_41
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 33 00 00 00
 #
-name: OPEN_48
+name: Open_48
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 34 00 00 00
 #
-name: CLOSE_40
+name: Close_40
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: OPEN_40
+name: Open_40
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 36 00 00 00
 #
-name: CLOSE_39
+name: Close_39
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 37 00 00 00
 #
-name: CLOSE_47
+name: Close_47
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 38 00 00 00
 #
-name: OPEN_39
+name: Open_39
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 39 00 00 00
 #
-name: CLOSE_38
+name: Close_38
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3B 00 00 00
 #
-name: OPEN_38
+name: Open_38
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3C 00 00 00
 #
-name: CLOSE_37
+name: Close_37
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3D 00 00 00
 #
-name: OPEN_37
+name: Open_37
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3E 00 00 00
 #
-name: OPEN_47
+name: Open_47
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 3F 00 00 00
 #
-name: CLOSE_57
+name: Close_57
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 40 00 00 00
 #
-name: CLOSE_51
+name: Close_51
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 41 00 00 00
 #
-name: CLOSE_53
+name: Close_53
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 42 00 00 00
 #
-name: CLOSE_49
+name: Close_49
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 43 00 00 00
 #
-name: CLOSE_ALL
+name: Close_all
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 44 00 00 00
 #
-name: CLOSE_9
+name: Close_9
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 45 00 00 00
 #
-name: OPEN_9
+name: Open_9
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 46 00 00 00
 #
-name: CLOSE_7
+name: Close_7
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 47 00 00 00
 #
-name: OPEN_ALL
+name: Open_all
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 48 00 00 00
 #
-name: CLOSE_8
+name: Close_8
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 49 00 00 00
 #
-name: OPEN_8
+name: Open_8
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4A 00 00 00
 #
-name: OPEN_7
+name: Open_7
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4B 00 00 00
 #
-name: CLOSE_12
+name: Close_12
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4C 00 00 00
 #
-name: CLOSE_6
+name: Close_6
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4D 00 00 00
 #
-name: OPEN_6
+name: Open_6
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4E 00 00 00
 #
-name: CLOSE_5
+name: Close_5
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 4F 00 00 00
 #
-name: CLOSE_55
+name: Close_55
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 50 00 00 00
 #
-name: CLOSE_10
+name: Close_10
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 51 00 00 00
 #
-name: OPEN_10
+name: Open_10
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 52 00 00 00
 #
-name: OPEN_5
+name: Open_5
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 53 00 00 00
 #
-name: OPEN_12
+name: Open_12
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 54 00 00 00
 #
-name: CLOSE_4
+name: Close_4
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 55 00 00 00
 #
-name: OPEN_4
+name: Open_4
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 56 00 00 00
 #
-name: CLOSE_3
+name: Close_3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 57 00 00 00
 #
-name: CLOSE_11
+name: Close_11
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 58 00 00 00
 #
-name: OPEN_3
+name: Open_3
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 59 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 5A 00 00 00
 #
-name: CLOSE_2
+name: Close_2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 5B 00 00 00
 #
-name: OPEN_2
+name: Open_2
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 5C 00 00 00
 #
-name: CLOSE_1
+name: Close_1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 5D 00 00 00
 #
-name: OPEN_1
+name: Open_1
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 5E 00 00 00
 #
-name: OPEN_11
+name: Open_11
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 5F 00 00 00
 #
-name: CLOSE_59
+name: Close_59
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 60 00 00 00
 #
-name: CLOSE_50
+name: Close_50
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 61 00 00 00
 #
-name: CLOSE_52
+name: Close_52
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 62 00 00 00
 #
-name: OPEN_23
+name: Open_23
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 63 00 00 00
 #
-name: CLOSE_60
+name: Close_60
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 64 00 00 00
 #
-name: CLOSE_21
+name: Close_21
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 65 00 00 00
 #
-name: OPEN_21
+name: Open_21
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 66 00 00 00
 #
-name: CLOSE_19
+name: Close_19
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 67 00 00 00
 #
-name: OPEN_60
+name: Open_60
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 68 00 00 00
 #
-name: CLOSE_20
+name: Close_20
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 69 00 00 00
 #
-name: OPEN_20
+name: Open_20
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 6A 00 00 00
 #
-name: OPEN_19
+name: Open_19
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 6B 00 00 00
 #
-name: CLOSE_24
+name: Close_24
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 6C 00 00 00
 #
-name: CLOSE_18
+name: Close_18
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 6D 00 00 00
 #
-name: OPEN_18
+name: Open_18
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 6E 00 00 00
 #
-name: CLOSE_17
+name: Close_17
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 6F 00 00 00
 #
-name: OPEN_59
+name: Open_59
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 70 00 00 00
 #
-name: CLOSE_22
+name: Close_22
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 71 00 00 00
 #
-name: OPEN_22
+name: Open_22
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 72 00 00 00
 #
-name: OPEN_17
+name: Open_17
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 73 00 00 00
 #
-name: OPEN_24
+name: Open_24
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 74 00 00 00
 #
-name: CLOSE_16
+name: Close_16
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 75 00 00 00
 #
-name: OPEN_16
+name: Open_16
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 76 00 00 00
 #
-name: CLOSE_15
+name: Close_15
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 77 00 00 00
 #
-name: CLOSE_23
+name: Close_23
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 78 00 00 00
 #
-name: OPEN_15
+name: Open_15
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 79 00 00 00
 #
-name: WIND
+name: Wind
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 7A 00 00 00
 #
-name: CLOSE_14
+name: Close_14
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 7B 00 00 00
 #
-name: OPEN_14
+name: Open_14
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 7C 00 00 00
 #
-name: CLOSE_13
+name: Close_13
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 7D 00 00 00
 #
-name: OPEN_13
+name: Open_13
 type: parsed
 protocol: NECext
 address: 05 00 00 00

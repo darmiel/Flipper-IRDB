@@ -1,67 +1,67 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 880 880 1760 1760 1760 880 880 1760 880 880 880 880 880 880 90152
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 880 880 1760 1760 1760 880 880 1760 1760 1760 1760 880 89271
 #
-name: FFWD
+name: Ffwd
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 880 880 1760 1760 1760 880 880 1760 1760 1760 880 880 90152
 #
-name: MEMO
+name: Memo
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 880 880 1760 1760 1760 1760 1760 1760 880 880 1760 880 89271
 #
-name: REW
+name: Rew
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 880 880 1760 1760 1760 880 880 1760 880 880 1760 1760 90152
 #
-name: R_PLAY
+name: R_play
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 880 880 1760 1760 1760 1760 1760 880 880 880 880 880 880 880 89271
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 880 880 1760 1760 1760 880 880 1760 1760 1760 880 880 1760 1760 880 880 1760 90152
 #
-name: RECORD_PAUSE
+name: Record_pause
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 898 898 1778 1778 1778 1778 1778 1778 1778 1778 90124
 #
-name: RECORD
+name: Record
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 898 898 1778 1778 1778 898 898 1778 1778 898 898 898 898 898 89244
 #
-name: DECK_A
+name: Deck_a
 type: raw
 frequency: 109083
 duty_cycle: 0.330000
 data: 908 898 1778 1778 1778 898 898 1778 1778 1778 1778 1778 898 898 1778 898 898 90124
 #
-name: DECK_B
+name: Deck_b
 type: raw
 frequency: 109083
 duty_cycle: 0.330000

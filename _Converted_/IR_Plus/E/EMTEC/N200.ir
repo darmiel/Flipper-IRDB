@@ -16,25 +16,25 @@ protocol: NECext
 address: F9 00 00 00
 command: 25 DA 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 1D E2 00 00
 #
-name: OPT
+name: Opt
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 97 68 00 00
 #
-name: RET
+name: Ret
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 0D F2 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: F9 00 00 00
@@ -58,7 +58,7 @@ protocol: NECext
 address: F9 00 00 00
 command: 9F 60 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: F9 00 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: F9 00 00 00
 command: 8F 70 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: F9 00 00 00
@@ -106,19 +106,19 @@ protocol: NECext
 address: F9 00 00 00
 command: 3F C0 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: F3 0C 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: F9 00 00 00
 command: 37 C8 00 00
 #
-name: TV SYS
+name: Tv_sys
 type: parsed
 protocol: NECext
 address: F9 00 00 00

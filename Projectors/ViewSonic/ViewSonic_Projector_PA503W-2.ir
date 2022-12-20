@@ -3,37 +3,37 @@ Version: 1
 # 
 # ViewSonic Projector PA503W-2
 # 
-name: POWER_On
+name: Power_on
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 4F B0 00 00
 # 
-name: POWER_Off
+name: Power_off
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 4E B1 00 00
 # 
-name: COMP
+name: Comp
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 41 BE 00 00
 # 
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 52 AD 00 00
 # 
-name: HDMI
+name: Hdmi
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 58 A7 00 00
 # 
-name: Auto_Sync
+name: Auto_sync
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
@@ -117,55 +117,55 @@ protocol: NECext
 address: 83 F4 00 00
 command: 07 F8 00 00
 # 
-name: PgUp
+name: Pgup
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 06 F9 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 82 7D 00 00
 # 
-name: Zoom_In
+name: Zoom_in
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 67 98 00 00
 # 
-name: Pg_Down
+name: Pg_down
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 05 FA 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 83 7C 00 00
 # 
-name: Zoom_Out
+name: Zoom_out
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 68 97 00 00
 # 
-name: Eco_Mode
+name: Eco_mode
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 2B D4 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 83 F4 00 00
 command: 14 EB 00 00
 # 
-name: Color_Mode
+name: Color_mode
 type: parsed
 protocol: NECext
 address: 83 F4 00 00

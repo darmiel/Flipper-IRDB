@@ -10,61 +10,61 @@ protocol: RC6
 address: 77 00 00 00
 command: 38 1B 00 00
 #
-name: OPTIONS
+name: Options
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: 7D 1B 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: 7C 1B 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: 7C 1B 00 00
 #
-name: AUDIOSYNC
+name: Audiosync
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: B1 1B 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: BD 1B 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: F0 1B 00 00
 #
-name: KARAOKE
+name: Karaoke
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: 17 1B 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: E2 1B 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: E2 1B 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: RC6
 address: 77 00 00 00
@@ -76,7 +76,7 @@ protocol: RC6
 address: 77 00 00 00
 command: A7 1B 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: RC6
 address: 77 00 00 00
@@ -88,7 +88,7 @@ protocol: RC6
 address: 77 00 00 00
 command: A5 1B 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: RC6
 address: 77 00 00 00
@@ -112,91 +112,91 @@ protocol: RC6
 address: 77 00 00 00
 command: A6 1B 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: 7C 1B 00 00
 #
-name: SOUNDMOD+
+name: Soundmod+
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: AF 0F 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: AD 0F 00 00
 #
-name: SOUNDMOD-
+name: Soundmod-
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: AE 0F 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: A5 1B 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: D3 1B 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: A4 1B 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: D3 1B 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: CE 1B 00 00
 #
-name: AUX
+name: Aux
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: C0 0A 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: 2E 1B 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: C0 0E 00 00
 #
-name: USB
+name: Usb
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: 81 1B 00 00
 #
-name: VOCAL
+name: Vocal
 type: parsed
 protocol: RC6
 address: 77 00 00 00
 command: 18 1B 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: RC6
 address: 77 00 00 00
@@ -256,7 +256,7 @@ protocol: RC6
 address: 77 00 00 00
 command: F6 1B 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: RC6
 address: 77 00 00 00
@@ -268,7 +268,7 @@ protocol: RC6
 address: 77 00 00 00
 command: FF 1B 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: RC6
 address: 77 00 00 00

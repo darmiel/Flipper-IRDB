@@ -16,7 +16,7 @@ protocol: NECext
 address: CA A1 00 00
 command: C4 3B 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: CA A1 00 00

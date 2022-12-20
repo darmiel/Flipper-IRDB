@@ -1,379 +1,379 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CAS.PLAY_>
+name: Cas.play_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: CASS_PLAY_>
+name: Cass_play_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: CASS_TRACK+
+name: Cass_track+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: CASS_FAST_FORWARD
+name: Cass_fast_forward
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: CASS.DECK_PLAY_>
+name: Cass.deck_play_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: TAPE1_PLAY_>
+name: Tape1_play_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: TAPE_PLAY_>_(AF)
+name: Tape_play_>_(af)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 01 00 00 00
 #
-name: CAS.REV.PLAY_<
+name: Cas.rev.play_<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: CASS_REV_PLAY
+name: Cass_rev_play
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: CASS_REV.PLAY_<
+name: Cass_rev.play_<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: CASS_TRACK-
+name: Cass_track-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: CASS_REWIND
+name: Cass_rewind
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: CASS.DECK_REV_PLAY
+name: Cass.deck_rev_play
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: TAPE1_REV_PLAY
+name: Tape1_rev_play
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: TAPE_REV_PLAY_<_(FM)
+name: Tape_rev_play_<_(fm)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 02 00 00 00
 #
-name: CAS.STOP_[]
+name: Cas.stop_[]
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: CASS_STOP_[]
+name: Cass_stop_[]
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: CASS_STOP
+name: Cass_stop
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: CASS_DECK_STOP
+name: Cass_deck_stop
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: CASS.DECK_STOP_[]
+name: Cass.deck_stop_[]
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: TAPE1_STOP_[]
+name: Tape1_stop_[]
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: TAPE_STOP_[]_(RDS)
+name: Tape_stop_[]_(rds)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 03 00 00 00
 #
-name: CAS.F.FWD_>>
+name: Cas.f.fwd_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: CASS_FWD_>>
+name: Cass_fwd_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: CASS_F.FWD_>>
+name: Cass_f.fwd_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: CASS_SCAN+
+name: Cass_scan+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: CASS_SEARCH>>
+name: Cass_search>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: CASS.DECK_FF_>>
+name: Cass.deck_ff_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: TUNING_+
+name: Tuning_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: TAPE1_TUNE/SRCH_>>
+name: Tape1_tune/srch_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: TAPE_TUNE/SCH_>>
+name: Tape_tune/sch_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 04 00 00 00
 #
-name: CAS.REW_<<
+name: Cas.rew_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: CASS_REW_<<
+name: Cass_rew_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: CASS_SCAN-
+name: Cass_scan-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: CASS_SEARCH<<
+name: Cass_search<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: CASS.DECK_REW_<<
+name: Cass.deck_rew_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: TUNING_-
+name: Tuning_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: TAPE1_TUNE/SRCH_<<
+name: Tape1_tune/srch_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: TAPE_TUNE/SCH_<<
+name: Tape_tune/sch_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 05 00 00 00
 #
-name: CAS.REC/PAUSE
+name: Cas.rec/pause
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: CASS_REC/PAUSE
+name: Cass_rec/pause
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: CASS_PAUSE
+name: Cass_pause
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: CASS_RECORD
+name: Cass_record
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: CASS.DECK_REC/PAUSE
+name: Cass.deck_rec/pause
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: TAPE1_PAUSE_
+name: Tape1_pause_
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: TAPE_REC/PAUSE_(PTY)
+name: Tape_rec/pause_(pty)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 06 00 00 00
 #
-name: CAS.SKIP_>>
+name: Cas.skip_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 08 00 00 00
 #
-name: CASS_SKIP_>>
+name: Cass_skip_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 08 00 00 00
 #
-name: CASS.DECK_SRCH_>>
+name: Cass.deck_srch_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 08 00 00 00
 #
-name: TAPE1_CHAN/SKIP_>>
+name: Tape1_chan/skip_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 08 00 00 00
 #
-name: TAPE_SKIP_>>
+name: Tape_skip_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 08 00 00 00
 #
-name: CAS.SKIP_<<
+name: Cas.skip_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 09 00 00 00
 #
-name: CASS_SKIP_<<
+name: Cass_skip_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 09 00 00 00
 #
-name: CASS.DECK_SRCH_<<
+name: Cass.deck_srch_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 09 00 00 00
 #
-name: TAPE1_CHAN/SKIP_<<
+name: Tape1_chan/skip_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 09 00 00 00
 #
-name: TAPE_SKIP_<<
+name: Tape_skip_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 09 00 00 00
 #
-name: #_(P-SCAN)
+name: #_(p-scan)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 0A 00 00 00
 #
-name: CASS_SELECT_A/B
+name: Cass_select_a/b
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 1D 00 00 00
 #
-name: CASS_A-B
+name: Cass_a-b
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 1D 00 00 00
 #
-name: TAPE1_DISC/DECK/ANT
+name: Tape1_disc/deck/ant
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 1D 00 00 00
 #
-name: TAPE_PRESET_DISC_+/-
+name: Tape_preset_disc_+/-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 1D 00 00 00
 #
-name: CASS_A/B_(SELECT)
+name: Cass_a/b_(select)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 1D 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 82 72 00 00
@@ -385,1303 +385,1303 @@ protocol: NECext
 address: 82 72 00 00
 command: 21 00 00 00
 #
-name: AM/FM
+name: Am/fm
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 22 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 22 00 00 00
 #
-name: DVD_POWER_OFF
+name: Dvd_power_off
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 22 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 28 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 29 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 2A 00 00 00
 #
-name: DVD_PLAY
+name: Dvd_play
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 2B 00 00 00
 #
-name: DVD_STOP
+name: Dvd_stop
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 2D 00 00 00
 #
-name: SKIP_NER
+name: Skip_ner
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 30 00 00 00
 #
-name: DVD_SKIP_-
+name: Dvd_skip_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 30 00 00 00
 #
-name: SKIP_UPP
+name: Skip_upp
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 31 00 00 00
 #
-name: DVD_SKIP_+
+name: Dvd_skip_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 31 00 00 00
 #
-name: TAPE1_SOURCE_POW_ON
+name: Tape1_source_pow_on
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 40 00 00 00
 #
-name: TAPE_ON_(SRCE_PWR)
+name: Tape_on_(srce_pwr)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 40 00 00 00
 #
-name: TAPE1_SOURCE_POW_OFF
+name: Tape1_source_pow_off
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 41 00 00 00
 #
-name: TAPE_OFF_(SRCH_PWR)
+name: Tape_off_(srch_pwr)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 41 00 00 00
 #
-name: DOLBY
+name: Dolby
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 50 00 00 00
 #
-name: DOLBY_SUR
+name: Dolby_sur
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 50 00 00 00
 #
-name: AC-3
+name: Ac-3
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 50 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 52 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 52 00 00 00
 #
-name: PREV_CH_/_DELAY_/_BL
+name: Prev_ch_/_delay_/_bl
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 52 00 00 00
 #
-name: PREV._CH./DELAY
+name: Prev._ch./delay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 52 00 00 00
 #
-name: SPKR
+name: Spkr
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 53 00 00 00
 #
-name: SPEAKER
+name: Speaker
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 53 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 53 00 00 00
 #
-name: MENU_/_SPKR_/_GRE
+name: Menu_/_spkr_/_gre
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 53 00 00 00
 #
-name: MENU/SPKR
+name: Menu/spkr
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 53 00 00 00
 #
-name: DIGITAL
+name: Digital
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 54 00 00 00
 #
-name: DIGITAL
+name: Digital
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 54 00 00 00
 #
-name: EXIT_/_DIGITAL_/_YEL
+name: Exit_/_digital_/_yel
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 54 00 00 00
 #
-name: EXIT/DIGITAL
+name: Exit/digital
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 54 00 00 00
 #
-name: RF
+name: Rf
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 55 00 00 00
 #
-name: OPT
+name: Opt
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 56 00 00 00
 #
-name: OPTICAL
+name: Optical
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 56 00 00 00
 #
-name: COAX
+name: Coax
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 57 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 58 00 00 00
 #
-name: CH-_/_SURR
+name: Ch-_/_surr
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 58 00 00 00
 #
-name: SURROUND
+name: Surround
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 58 00 00 00
 #
-name: SURR./CH_-
+name: Surr./ch_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 58 00 00 00
 #
-name: SURR
+name: Surr
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 58 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5C 00 00 00
 #
-name: AVR_(MENY)
+name: Avr_(meny)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5C 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5C 00 00 00
 #
-name: CH
+name: Ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: CHANNEL
+name: Channel
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: CH.
+name: Ch.
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: GUIDE_/_CH_/_RED
+name: Guide_/_ch_/_red
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: CH
+name: Ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: GUIDE/CH
+name: Guide/ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: CH_SELECT
+name: Ch_select
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: CH._SELECT
+name: Ch._select
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 5D 00 00 00
 #
-name: ON_SCREEN_^
+name: On_screen_^
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 80 00 00 00
 #
-name: ON_SCREEN_^
+name: On_screen_^
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 80 00 00 00
 #
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 80 00 00 00
 #
-name: SELECT_^
+name: Select_^
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 80 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 80 00 00 00
 #
-name: ON_SCREEN_V
+name: On_screen_v
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 81 00 00 00
 #
-name: ON_SCREEN_V
+name: On_screen_v
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 81 00 00 00
 #
-name: DOWN_ARROW
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 81 00 00 00
 #
-name: SELECT_V
+name: Select_v
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 81 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 81 00 00 00
 #
-name: ON_SCREEN_>
+name: On_screen_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 82 00 00 00
 #
-name: ON_SCREEN_>
+name: On_screen_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 82 00 00 00
 #
-name: RIGHT_ARROW
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 82 00 00 00
 #
-name: SELECT_>
+name: Select_>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 82 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 82 00 00 00
 #
-name: ON_SCREEN_<
+name: On_screen_<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 83 00 00 00
 #
-name: ON_SCREEN_<
+name: On_screen_<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 83 00 00 00
 #
-name: LEFT_ARROW
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 83 00 00 00
 #
-name: SELECT_<
+name: Select_<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 83 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 83 00 00 00
 #
-name: ON_SCREEN_ENTER
+name: On_screen_enter
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: ON_SCREEN_ENTER
+name: On_screen_enter
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: SET
+name: Set
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: CURSOR_SET
+name: Cursor_set
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 84 00 00 00
 #
-name: SURROUND_UP
+name: Surround_up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 85 00 00 00
 #
-name: SURROUND_DOWN
+name: Surround_down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 86 00 00 00
 #
-name: EFFECTS_^
+name: Effects_^
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 87 00 00 00
 #
-name: EFFECTS_V
+name: Effects_v
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 88 00 00 00
 #
-name: SURROUND_OFF
+name: Surround_off
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 89 00 00 00
 #
-name: SURR_OFF
+name: Surr_off
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 89 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 89 00 00 00
 #
-name: DIRECT
+name: Direct
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 89 00 00 00
 #
-name: SURROUND_DELAY
+name: Surround_delay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8A 00 00 00
 #
-name: SURR_DELAY
+name: Surr_delay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8A 00 00 00
 #
-name: DELAY
+name: Delay
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8A 00 00 00
 #
-name: SURR_TEST
+name: Surr_test
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8C 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8C 00 00 00
 #
-name: TEST
+name: Test
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8C 00 00 00
 #
-name: T/V_/_TEST
+name: T/v_/_test
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8C 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8C 00 00 00
 #
-name: SURR_CENT_MODE
+name: Surr_cent_mode
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8D 00 00 00
 #
-name: CENTER_MODE
+name: Center_mode
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8D 00 00 00
 #
-name: CENT_MODE
+name: Cent_mode
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8D 00 00 00
 #
-name: CENTER
+name: Center
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8D 00 00 00
 #
-name: SPEAKER_^
+name: Speaker_^
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8E 00 00 00
 #
-name: SPEAKER_+
+name: Speaker_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8E 00 00 00
 #
-name: SPEAKER_V
+name: Speaker_v
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8F 00 00 00
 #
-name: SPEAKER_-
+name: Speaker_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 8F 00 00 00
 #
-name: SURROUND_HALL
+name: Surround_hall
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 90 00 00 00
 #
-name: SURR_HALL
+name: Surr_hall
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 90 00 00 00
 #
-name: HALL
+name: Hall
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 90 00 00 00
 #
-name: CLUB
+name: Club
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 91 00 00 00
 #
-name: SURROUND_THEATER
+name: Surround_theater
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 92 00 00 00
 #
-name: THEATER
+name: Theater
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 92 00 00 00
 #
-name: SIM.SURR.
+name: Sim.surr.
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 93 00 00 00
 #
-name: SIM._SURR
+name: Sim._surr
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 93 00 00 00
 #
-name: MATRIX
+name: Matrix
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 93 00 00 00
 #
-name: SURROUND_STADIUM
+name: Surround_stadium
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 94 00 00 00
 #
-name: STADIUM
+name: Stadium
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 94 00 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 95 00 00 00
 #
-name: NIGHT
+name: Night
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 96 00 00 00
 #
-name: NIGHT
+name: Night
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 96 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 99 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 99 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 99 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 99 00 00 00
 #
-name: UP_ARROW
+name: Up_arrow
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 99 00 00 00
 #
-name: PIL_UPP
+name: Pil_upp
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 99 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9A 00 00 00
 #
-name: DN
+name: Dn
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9A 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9A 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9A 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9A 00 00 00
 #
-name: DOWN_ARROW
+name: Down_arrow
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9A 00 00 00
 #
-name: PIL_NER
+name: Pil_ner
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9A 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9B 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9B 00 00 00
 #
-name: STEREO/BYPASS
+name: Stereo/bypass
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9B 00 00 00
 #
-name: VMAX
+name: Vmax
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9C 00 00 00
 #
-name: SURROUND_3_STEREO
+name: Surround_3_stereo
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9D 00 00 00
 #
-name: SURR_3STEREO
+name: Surr_3stereo
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9D 00 00 00
 #
-name: SURROUND_3-CH
+name: Surround_3-ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9D 00 00 00
 #
-name: 3-CH
+name: 3-ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9D 00 00 00
 #
-name: 3_ST
+name: 3_st
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9D 00 00 00
 #
-name: 3_CHAN._STEREO
+name: 3_chan._stereo
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9D 00 00 00
 #
-name: MOVIE
+name: Movie
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9E 00 00 00
 #
-name: SURROUND_PRO-LOGIC
+name: Surround_pro-logic
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9F 00 00 00
 #
-name: SURR_PRO-LOGIC
+name: Surr_pro-logic
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9F 00 00 00
 #
-name: PRO-LOGIC
+name: Pro-logic
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9F 00 00 00
 #
-name: PROLOGIC
+name: Prologic
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9F 00 00 00
 #
-name: P/L
+name: P/l
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: 9F 00 00 00
 #
-name: DTS
+name: Dts
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A0 00 00 00
 #
-name: DTS_SURR
+name: Dts_surr
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A0 00 00 00
 #
-name: DTS_SUR
+name: Dts_sur
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A0 00 00 00
 #
-name: DTS_SURROUND
+name: Dts_surround
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A0 00 00 00
 #
-name: DTS_NEO:6
+name: Dts_neo:6
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A1 00 00 00
 #
-name: DTS_NEO:6
+name: Dts_neo:6
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A1 00 00 00
 #
-name: DTS_NEO_6
+name: Dts_neo_6
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A1 00 00 00
 #
-name: DTS_NEO
+name: Dts_neo
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A1 00 00 00
 #
-name: LOGIC_7
+name: Logic_7
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A2 00 00 00
 #
-name: AUDIO_EFFECTS
+name: Audio_effects
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A7 00 00 00
 #
-name: SURROUND_MODES
+name: Surround_modes
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: A8 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C1 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C1 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C1 00 00 00
 #
-name: LEFT_ARROW
+name: Left_arrow
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C1 00 00 00
 #
-name: NSTER
+name: Nster
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C1 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C2 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C2 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C2 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C2 00 00 00
 #
-name: RIGHT_ARROW
+name: Right_arrow
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C2 00 00 00
 #
-name: GER
+name: Ger
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C2 00 00 00
 #
-name: SPEAKER_1
+name: Speaker_1
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C3 00 00 00
 #
-name: SPEAKERS_1
+name: Speakers_1
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C3 00 00 00
 #
-name: SPEAKER_2
+name: Speaker_2
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C4 00 00 00
 #
-name: SPEAKERS_2
+name: Speakers_2
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C4 00 00 00
 #
-name: TONE
+name: Tone
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: C5 00 00 00
 #
-name: PRES+
+name: Pres+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: PRESET+
+name: Preset+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: PRESET_UP
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: PSET_UP
+name: Pset_up
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: PRESET_>>
+name: Preset_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: AM/FM_PRESET_DISC_+
+name: Am/fm_preset_disc_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: TUNER_PRESET_+
+name: Tuner_preset_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: FM_PRESET_+
+name: Fm_preset_+
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D0 00 00 00
 #
-name: PRES-
+name: Pres-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: PRESET-
+name: Preset-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: PRESET_DOWN
+name: Preset_down
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: PSET_DN
+name: Pset_dn
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: PRESET_<<
+name: Preset_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: AM/FM_PRESET_DISC_-
+name: Am/fm_preset_disc_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: TUNER_PRESET_-
+name: Tuner_preset_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: FM_PRESET_-
+name: Fm_preset_-
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D1 00 00 00
 #
-name: AM/FM_SKIP_>>
+name: Am/fm_skip_>>
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D2 00 00 00
 #
-name: AM/FM_SKIP_<<
+name: Am/fm_skip_<<
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D3 00 00 00
 #
-name: AM/FM_PTY_(REC/)
+name: Am/fm_pty_(rec/)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D4 00 00 00
 #
-name: AM/FM_AF_(>)
+name: Am/fm_af_(>)
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D5 00 00 00
 #
-name: 6_CH
+name: 6_ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D8 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D9 00 00 00
 #
-name: CLEAR/M4
+name: Clear/m4
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: D9 00 00 00
 #
-name: 6/8_CH
+name: 6/8_ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DB 00 00 00
 #
-name: 6_CHAN
+name: 6_chan
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DB 00 00 00
 #
-name: 6/8CH
+name: 6/8ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DB 00 00 00
 #
-name: 6/8CH
+name: 6/8ch
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DB 00 00 00
 #
-name: 6_CH.
+name: 6_ch.
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DB 00 00 00
 #
-name: INPUT_6_CHANNEL
+name: Input_6_channel
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DB 00 00 00
 #
-name: RDS
+name: Rds
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DD 00 00 00
 #
-name: D.SKIP
+name: D.skip
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DD 00 00 00
 #
-name: AM/FM_RDS_DISP_(STOP
+name: Am/fm_rds_disp_(stop
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DD 00 00 00
 #
-name: AUTO_PRESET
+name: Auto_preset
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DE 00 00 00
 #
-name: AUTO-PRESET_MODE
+name: Auto-preset_mode
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DE 00 00 00
 #
-name: M-ROOM
+name: M-room
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DF 00 00 00
 #
-name: MULTI-ROOM
+name: Multi-room
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DF 00 00 00
 #
-name: MULTI_ROOM
+name: Multi_room
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DF 00 00 00
 #
-name: MULTI
+name: Multi
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: DF 00 00 00
 #
-name: M-RUM
+name: M-rum
 type: parsed
 protocol: NECext
 address: 82 72 00 00

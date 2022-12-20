@@ -1,193 +1,193 @@
 Filetype: IR signals file
 Version: 1
 #
-name: shutdown
+name: Shutdown
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 01 00 00 00
 #
-name: button_tab
+name: Button_tab
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 02 00 00 00
 #
-name: button_1
+name: Button_1
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 03 00 00 00
 #
-name: button_2
+name: Button_2
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 04 00 00 00
 #
-name: button_3
+name: Button_3
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 05 00 00 00
 #
-name: button_4
+name: Button_4
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 06 00 00 00
 #
-name: button_5
+name: Button_5
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 07 00 00 00
 #
-name: button_6
+name: Button_6
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 08 00 00 00
 #
-name: button_7
+name: Button_7
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 09 00 00 00
 #
-name: button_8
+name: Button_8
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0A 00 00 00
 #
-name: button_9
+name: Button_9
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0B 00 00 00
 #
-name: button_0
+name: Button_0
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0C 00 00 00
 #
-name: button_up
+name: Button_up
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0D 00 00 00
 #
-name: button_left
+name: Button_left
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0E 00 00 00
 #
-name: button_ok
+name: Button_ok
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 0F 00 00 00
 #
-name: button_right
+name: Button_right
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 10 00 00 00
 #
-name: button_down
+name: Button_down
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 11 00 00 00
 #
-name: information
+name: Information
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 12 00 00 00
 #
-name: button_red
+name: Button_red
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 14 00 00 00
 #
-name: button_green
+name: Button_green
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 15 00 00 00
 #
-name: button_yellow
+name: Button_yellow
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 16 00 00 00
 #
-name: button_blue
+name: Button_blue
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 17 00 00 00
 #
-name: button_mute
+name: Button_mute
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 18 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 19 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 1A 00 00 00
 #
-name: OPTION
+name: Option
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 21 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 22 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 23 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 24 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 25 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 15 00 00 00
 command: 26 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 15 00 00 00

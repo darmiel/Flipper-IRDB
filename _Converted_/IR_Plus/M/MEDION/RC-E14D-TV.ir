@@ -16,13 +16,13 @@ protocol: NECext
 address: FE 00 00 00
 command: F5 0A 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: 15 EA 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -34,37 +34,37 @@ protocol: NECext
 address: FE 00 00 00
 command: 7D 82 00 00
 #
-name: FAV
+name: Fav
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: 0D F2 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: AD 52 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: CF 30 00 00
 #
-name: SUBT
+name: Subt
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: 4F B0 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: FE 00 00 00
 command: 2F D0 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -76,7 +76,7 @@ protocol: NECext
 address: FE 00 00 00
 command: 85 7A 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -88,7 +88,7 @@ protocol: NECext
 address: FE 00 00 00
 command: 25 DA 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -100,7 +100,7 @@ protocol: NECext
 address: FE 00 00 00
 command: E5 1A 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: FE 00 00 00
 command: 95 6A 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FE 00 00 00
@@ -196,7 +196,7 @@ protocol: NECext
 address: FE 00 00 00
 command: 45 BA 00 00
 #
-name: SCREEN
+name: Screen
 type: parsed
 protocol: NECext
 address: FE 00 00 00

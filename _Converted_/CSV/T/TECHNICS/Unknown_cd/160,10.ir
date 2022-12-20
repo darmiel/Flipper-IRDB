@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 00 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 02 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 03 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 06 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
@@ -97,43 +97,43 @@ protocol: NECext
 address: A0 0A 00 00
 command: 19 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 21 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 3D 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 47 00 00 00
 #
-name: A\*B_Repeat
+name: A\*b_repeat
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 48 00 00 00
 #
-name: PrevTrack
+name: Prevtrack
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 49 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
@@ -145,19 +145,19 @@ protocol: NECext
 address: A0 0A 00 00
 command: 4D 00 00 00
 #
-name: Time_Mode
+name: Time_mode
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 55 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 80 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
@@ -175,31 +175,31 @@ protocol: NECext
 address: A0 0A 00 00
 command: 8A 00 00 00
 #
-name: Auto_Cue
+name: Auto_cue
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8B 00 00 00
 #
-name: Peak_Search
+name: Peak_search
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 8F 00 00 00
 #
-name: Time_Fade
+name: Time_fade
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: 94 00 00 00
 #
-name: Tape_Length
+name: Tape_length
 type: parsed
 protocol: NECext
 address: A0 0A 00 00
 command: AB 00 00 00
 #
-name: Side_A/B
+name: Side_a/b
 type: parsed
 protocol: NECext
 address: A0 0A 00 00

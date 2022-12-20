@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INPUT:_VIDEO_2
+name: Input:_video_2
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1E 00 00 00
 #
-name: 2_VID_2
+name: 2_vid_2
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1E 00 00 00
 #
-name: INPUT:_TUNER
+name: Input:_tuner
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 21 00 00 00
 #
-name: 2_TUNER
+name: 2_tuner
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 21 00 00 00
 #
-name: INPUT:_VIDEO_1
+name: Input:_video_1
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 22 00 00 00
 #
-name: 2_VID_1
+name: 2_vid_1
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 22 00 00 00
 #
-name: INPUT:_TAPE
+name: Input:_tape
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 23 00 00 00
 #
-name: 2_TAPE
+name: 2_tape
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 23 00 00 00
 #
-name: INPUT:_CD
+name: Input:_cd
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 25 00 00 00
 #
-name: 2_CD
+name: 2_cd
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 25 00 00 00
 #
-name: INPUT:_VIDEO_3
+name: Input:_video_3
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 42 00 00 00
 #
-name: 2_VID_3
+name: 2_vid_3
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 42 00 00 00
 #
-name: INPUT:_MD/DAT
+name: Input:_md/dat
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 69 00 00 00
 #
-name: 2_MD
+name: 2_md
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 69 00 00 00
 #
-name: INPUT:_TV/SAT
+name: Input:_tv/sat
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 6A 00 00 00
 #
-name: 2_TV
+name: 2_tv
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 6A 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7B 00 00 00
 #
-name: INPUT:_SOURCE
+name: Input:_source
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7B 00 00 00
 #
-name: 2_SOURCE
+name: 2_source
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7B 00 00 00
 #
-name: 2ND_ROOM
+name: 2nd_room
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7B 00 00 00
 #
-name: INPUT:_DVD/LD
+name: Input:_dvd/ld
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 7D 00 00 00
 #
-name: 2_DVD
+name: 2_dvd
 type: parsed
 protocol: NECext
 address: 79 00 00 00

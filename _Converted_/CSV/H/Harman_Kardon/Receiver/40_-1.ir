@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VCR_FF_>>
+name: Vcr_ff_>>
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 04 00 00 00
 #
-name: VCR_PLAY_>
+name: Vcr_play_>
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0A 00 00 00
 #
-name: VCR_PAUSE
+name: Vcr_pause
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0B 00 00 00
 #
-name: VCR_REW_<<
+name: Vcr_rew_<<
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 0C 00 00 00
 #
-name: VCR_STOP_[]
+name: Vcr_stop_[]
 type: parsed
 protocol: NECext
 address: 28 00 00 00
 command: 1C 00 00 00
 #
-name: VCR_POWER
+name: Vcr_power
 type: parsed
 protocol: NECext
 address: 28 00 00 00

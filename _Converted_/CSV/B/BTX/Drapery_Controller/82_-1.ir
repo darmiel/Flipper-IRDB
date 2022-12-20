@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: 2_OPEN
+name: 2_open
 type: parsed
 protocol: NECext
 address: 52 00 00 00

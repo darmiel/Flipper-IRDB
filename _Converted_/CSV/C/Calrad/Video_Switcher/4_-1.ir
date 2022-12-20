@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: IN_1_TO_TV_1
+name: In_1_to_tv_1
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 07 00 00 00
 #
-name: IN_2_TO_TV_1
+name: In_2_to_tv_1
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 08 00 00 00
 #
-name: IN_3_TO_TV_1
+name: In_3_to_tv_1
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: IN_2_TO_TV_2
+name: In_2_to_tv_2
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 11 00 00 00
 #
-name: IN_1_TO_TV_2
+name: In_1_to_tv_2
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 14 00 00 00
 #
-name: IN_4_TO_TV_2
+name: In_4_to_tv_2
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 15 00 00 00
 #
-name: IN_3_TO_TV_2
+name: In_3_to_tv_2
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 19 00 00 00
 #
-name: IN_4_TO_TV_1
+name: In_4_to_tv_1
 type: parsed
 protocol: NECext
 address: 04 00 00 00

@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: D-MODE
+name: D-mode
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 00 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 01 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 02 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 04 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 05 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 06 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 07 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 08 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0A 00 00 00
 #
-name: TIME_MODE
+name: Time_mode
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0A 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0B 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0C 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 0D 00 00 00
 #
-name: DELETE
+name: Delete
 type: parsed
 protocol: NECext
 address: 79 00 00 00
@@ -151,175 +151,175 @@ protocol: NECext
 address: 79 00 00 00
 command: 1A 00 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1B 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1B 00 00 00
 #
-name: OUTPUT_LEVEL_-
+name: Output_level_-
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1C 00 00 00
 #
-name: OUTPUT_LEVEL_+
+name: Output_level_+
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1D 00 00 00
 #
-name: FILE_MODE
+name: File_mode
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 1F 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 20 00 00 00
 #
-name: TEXT_MODE
+name: Text_mode
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 2B 00 00 00
 #
-name: TEXT_SEARCH
+name: Text_search
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 2C 00 00 00
 #
-name: CAPS
+name: Caps
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 2D 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 2E 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 3F 00 00 00
 #
-name: DISC_+
+name: Disc_+
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 4F 00 00 00
 #
-name: DISC_SKIP_+
+name: Disc_skip_+
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 4F 00 00 00
 #
-name: CONTINUE
+name: Continue
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 50 00 00 00
 #
-name: DISC_-
+name: Disc_-
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 50 00 00 00
 #
-name: DISC_SKIP_-
+name: Disc_skip_-
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 50 00 00 00
 #
-name: +1_DISC
+name: +1_disc
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 51 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 55 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 56 00 00 00
 #
-name: ALL
+name: All
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 5B 00 00 00
 #
-name: POWER_ON/OFF
+name: Power_on/off
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 60 00 00 00
 #
-name: ACTIVE
+name: Active
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 61 00 00 00
 #
-name: GROUP_A
+name: Group_a
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 62 00 00 00
 #
-name: GROUP_B
+name: Group_b
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 63 00 00 00
 #
-name: GROUP_C
+name: Group_c
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 64 00 00 00
 #
-name: GROUP_D
+name: Group_d
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 65 00 00 00
 #
-name: GROUP_E
+name: Group_e
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 66 00 00 00
 #
-name: FILE_EDIT
+name: File_edit
 type: parsed
 protocol: NECext
 address: 79 00 00 00
 command: 67 00 00 00
 #
-name: GROUP_EDIT
+name: Group_edit
 type: parsed
 protocol: NECext
 address: 79 00 00 00

@@ -10,25 +10,25 @@ protocol: NECext
 address: BF 00 00 00
 command: 07 F8 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: BF 00 00 00
 command: DF 20 00 00
 #
-name: COAX
+name: Coax
 type: parsed
 protocol: NECext
 address: BF 00 00 00
 command: 9F 60 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: BF 00 00 00
 command: 3F C0 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: BF 00 00 00

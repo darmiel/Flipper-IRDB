@@ -16,7 +16,7 @@ protocol: NECext
 address: B2 4D 00 00
 command: 77 88 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: B2 4D 00 00
@@ -34,7 +34,7 @@ protocol: NECext
 address: B2 4D 00 00
 command: 66 99 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: B2 4D 00 00
@@ -52,25 +52,25 @@ protocol: NECext
 address: B2 4D 00 00
 command: 2D D2 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: B2 4D 00 00
 command: 3A C5 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: B2 4D 00 00
 command: 65 9A 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: B2 4D 00 00
 command: 7F 80 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: B2 4D 00 00

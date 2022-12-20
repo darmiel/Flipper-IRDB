@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 80 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 81 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 82 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 83 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 85 00 00 00
 #
-name: SEARCH_-
+name: Search_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SEARCH_+
+name: Search_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SLOW_-
+name: Slow_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 8E 00 00 00
 #
-name: SLOW_+
+name: Slow_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -115,205 +115,205 @@ protocol: NECext
 address: 7C 00 00 00
 command: 9C 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9F 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A0 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A3 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A4 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: STATUS
+name: Status
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A8 00 00 00
 #
-name: SUB_TITLE
+name: Sub_title
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A8 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AC 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AD 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AE 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B1 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B3 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B4 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B5 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B6 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B7 00 00 00
 #
-name: CURSOR_ENTER
+name: Cursor_enter
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: SKIP_-
+name: Skip_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP_+
+name: Skip_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: POP_UP_MENU
+name: Pop_up_menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: CF 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D7 00 00 00
 #
-name: DIGEST
+name: Digest
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E2 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E9 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EA 00 00 00
 #
-name: MARKER
+name: Marker
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EA 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EB 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EC 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: ED 00 00 00
 #
-name: 2ND_AUDIO
+name: 2nd_audio
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EE 00 00 00
 #
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EF 00 00 00
 #
-name: REPEAT_OFF
+name: Repeat_off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F3 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F6 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00

@@ -7,7 +7,7 @@ protocol: NECext
 address: 83 55 00 00
 command: 90 6F 00 00
 # 
-name: SourceSRC
+name: Sourcesrc
 type: parsed
 protocol: NECext
 address: 83 55 00 00
@@ -19,19 +19,19 @@ protocol: NECext
 address: 83 55 00 00
 command: 94 6B 00 00
 # 
-name: HDMI/ANAL
+name: Hdmi/anal
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 70 8F 00 00
 # 
-name: USBPC
+name: Usbpc
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 76 89 00 00
 # 
-name: LAN
+name: Lan
 type: parsed
 protocol: NECext
 address: 83 55 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 83 55 00 00
 command: AB 54 00 00
 # 
-name: ID
+name: Id
 type: parsed
 protocol: NECext
 address: 83 55 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 83 55 00 00
 command: 9A 65 00 00
 # 
-name: ESC
+name: Esc
 type: parsed
 protocol: NECext
 address: 83 55 00 00
@@ -121,61 +121,61 @@ protocol: NECext
 address: 83 55 00 00
 command: 9B 64 00 00
 # 
-name: PGUP
+name: Pgup
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 86 79 00 00
 # 
-name: PGDWN
+name: Pgdwn
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 87 78 00 00
 # 
-name: ZOOMIN
+name: Zoomin
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 88 77 00 00
 # 
-name: ZOOMOUT
+name: Zoomout
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 89 76 00 00
 # 
-name: VOLUP
+name: Volup
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 98 67 00 00
 # 
-name: VOLDWN
+name: Voldwn
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 99 66 00 00
 # 
-name: MUTESRC
+name: Mutesrc
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 93 6C 00 00
 # 
-name: SPLIT
+name: Split
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 82 7D 00 00
 # 
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 83 55 00 00
 command: 92 6D 00 00
 # 
-name: HOME
+name: Home
 type: parsed
 protocol: NECext
 address: 83 55 00 00

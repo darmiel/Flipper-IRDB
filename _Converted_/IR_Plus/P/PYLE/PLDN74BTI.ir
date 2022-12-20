@@ -76,7 +76,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 57 A8 00 00
 #
-name: / Band
+name: /_band
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -100,7 +100,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: EF 10 00 00
 #
-name: AMS
+name: Ams
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -124,13 +124,13 @@ protocol: NECext
 address: 7F 80 00 00
 command: 47 B8 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
 command: 85 7A 00 00
 #
-name: ANS / ZOOM
+name: Ans_/_zoom
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 5F A0 00 00
 #
-name: end
+name: End
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -166,7 +166,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: FD 02 00 00
 #
-name: PBC
+name: Pbc
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -190,7 +190,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: 0F F0 00 00
 #
-name: setup
+name: Setup
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -220,7 +220,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: A7 58 00 00
 #
-name: * / audio
+name: *_/_audio
 type: parsed
 protocol: NECext
 address: 7F 80 00 00
@@ -232,7 +232,7 @@ protocol: NECext
 address: 7F 80 00 00
 command: B5 4A 00 00
 #
-name: # / angle
+name: #_/_angle
 type: parsed
 protocol: NECext
 address: 7F 80 00 00

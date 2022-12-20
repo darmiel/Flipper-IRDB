@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: D1_CASS_PITCH+/-
+name: D1_cass_pitch+/-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -13,163 +13,163 @@ protocol: NECext
 address: 04 00 00 00
 command: 46 00 00 00
 #
-name: D2_CASS_PITCH+/-
+name: D2_cass_pitch+/-
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4A 00 00 00
 #
-name: DECK_SELECT_A/B
+name: Deck_select_a/b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 53 00 00 00
 #
-name: A/B
+name: A/b
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 53 00 00 00
 #
-name: DECK_PLAY_REV._<
+name: Deck_play_rev._<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: PLAY(REV)
+name: Play(rev)
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 57 00 00 00
 #
-name: D1_CASS_FWD_>>_(>>)
+name: D1_cass_fwd_>>_(>>)
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: F.F_>>
+name: F.f_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: DECK_FF_>>
+name: Deck_ff_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5A 00 00 00
 #
-name: D1_CASS_REW_<<_(<<)
+name: D1_cass_rew_<<_(<<)
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: DECK_REW_<<
+name: Deck_rew_<<
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5B 00 00 00
 #
-name: D1_CASS_PLAY_>
+name: D1_cass_play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: DECK_PLAY_>
+name: Deck_play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5C 00 00 00
 #
-name: REC_PAUSE/MUTE
+name: Rec_pause/mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5D 00 00 00
 #
-name: DECK_PAUSE_
+name: Deck_pause_
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5D 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5D 00 00 00
 #
-name: D1_CASS_STOP[]_
+name: D1_cass_stop[]_
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5E 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5E 00 00 00
 #
-name: DECK_STOP_[]
+name: Deck_stop_[]
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5E 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5F 00 00 00
 #
-name: DECK_REC
+name: Deck_rec
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 5F 00 00 00
 #
-name: D2_CASS_FWD_>>_(>>)
+name: D2_cass_fwd_>>_(>>)
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 6A 00 00 00
 #
-name: D2_CASS_REW_<<_(<<)
+name: D2_cass_rew_<<_(<<)
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 6B 00 00 00
 #
-name: D2_CASS_PLAY_>
+name: D2_cass_play_>
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 6C 00 00 00
 #
-name: D2_CASS_STOP[]_
+name: D2_cass_stop[]_
 type: parsed
 protocol: NECext
 address: 04 00 00 00

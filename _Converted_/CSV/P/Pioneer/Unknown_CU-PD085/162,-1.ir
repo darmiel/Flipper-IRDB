@@ -61,73 +61,73 @@ protocol: NECext
 address: A2 00 00 00
 command: 09 00 00 00
 #
-name: out+
+name: Out+
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0A 00 00 00
 #
-name: out-
+name: Out-
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0B 00 00 00
 #
-name: pgm
+name: Pgm
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0D 00 00 00
 #
-name: for
+name: For
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0E 00 00 00
 #
-name: rev
+name: Rev
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 0F 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 10 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 11 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 16 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 17 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A2 00 00 00
 command: 1C 00 00 00
 #
-name: rnd
+name: Rnd
 type: parsed
 protocol: NECext
 address: A2 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: A2 00 00 00
 command: 56 00 00 00
 #
-name: hi-lite
+name: Hi-lite
 type: parsed
 protocol: NECext
 address: A2 00 00 00

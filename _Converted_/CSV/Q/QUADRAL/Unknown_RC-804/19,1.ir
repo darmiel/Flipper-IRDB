@@ -61,139 +61,139 @@ protocol: NECext
 address: 13 01 00 00
 command: 09 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0A 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0B 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0C 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0D 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0E 00 00 00
 #
-name: AUDIO_UP
+name: Audio_up
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 0F 00 00 00
 #
-name: AUDIO_DOWN
+name: Audio_down
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 10 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 11 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 12 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 13 00 00 00
 #
-name: AFT
+name: Aft
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 14 00 00 00
 #
-name: DECODER
+name: Decoder
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 15 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 15 00 00 00
 #
-name: RL
+name: Rl
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 16 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 17 00 00 00
 #
-name: CHS
+name: Chs
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 18 00 00 00
 #
-name: LNB
+name: Lnb
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 19 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1A 00 00 00
 #
-name: HV
+name: Hv
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1C 00 00 00
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1D 00 00 00
 #
-name: CKU
+name: Cku
 type: parsed
 protocol: NECext
 address: 13 01 00 00
 command: 1E 00 00 00
 #
-name: AUTO_ON
+name: Auto_on
 type: parsed
 protocol: NECext
 address: 13 01 00 00

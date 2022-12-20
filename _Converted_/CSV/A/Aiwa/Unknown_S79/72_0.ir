@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 00 00 00 00
 #
-name: MW
+name: Mw
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 01 00 00 00
 #
-name: LW
+name: Lw
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 02 00 00 00
 #
-name: TuneUp
+name: Tuneup
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 03 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 04 00 00 00
 #
-name: TuneDown
+name: Tunedown
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 05 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 07 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 08 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 48 00 00 00
@@ -61,7 +61,7 @@ protocol: NECext
 address: 48 00 00 00
 command: 0A 00 00 00
 #
-name: PLAYPAUSE
+name: Playpause
 type: parsed
 protocol: NECext
 address: 48 00 00 00
@@ -73,25 +73,25 @@ protocol: NECext
 address: 48 00 00 00
 command: 0C 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0D 00 00 00
 #
-name: FwdSkip
+name: Fwdskip
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0E 00 00 00
 #
-name: BackSkip
+name: Backskip
 type: parsed
 protocol: NECext
 address: 48 00 00 00
 command: 0F 00 00 00
 #
-name: VcrAux
+name: Vcraux
 type: parsed
 protocol: NECext
 address: 48 00 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 48 00 00 00
 command: 11 00 00 00
 #
-name: TAPE
+name: Tape
 type: parsed
 protocol: NECext
 address: 48 00 00 00

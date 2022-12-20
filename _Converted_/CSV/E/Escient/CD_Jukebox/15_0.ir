@@ -37,31 +37,31 @@ protocol: NECext
 address: 0F 00 00 00
 command: 09 00 00 00
 #
-name: CH/PAGE_DN
+name: Ch/page_dn
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 0E 00 00 00
 #
-name: PAGE_DN
+name: Page_dn
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 0E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 0F 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 10 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
@@ -73,91 +73,91 @@ protocol: NECext
 address: 0F 00 00 00
 command: 12 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 14 00 00 00
 #
-name: OPEN_GLOBE
+name: Open_globe
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 14 00 00 00
 #
-name: OPTIONS
+name: Options
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 14 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 16 00 00 00
 #
-name: CURSOR_RT
+name: Cursor_rt
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 19 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 1B 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 1B 00 00 00
 #
-name: <<_/BACKSPACE
+name: <<_/backspace
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 20 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 24 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 24 00 00 00
 #
-name: I_RADIO
+name: I_radio
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2A 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2A 00 00 00
 #
-name: RESUME
+name: Resume
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2A 00 00 00
 #
-name: FAVS_PLAY
+name: Favs_play
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 2E 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 80 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 81 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 82 00 00 00
 #
-name: PAGEDOWN
+name: Pagedown
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 83 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 84 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 85 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 86 00 00 00
 #
-name: PAGEUP
+name: Pageup
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 87 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 88 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 89 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 8A 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 8B 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 8C 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: C0 00 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: C0 00 00 00
 command: 91 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 92 00 00 00
 #
-name: browse
+name: Browse
 type: parsed
 protocol: NECext
 address: C0 00 00 00
@@ -169,31 +169,31 @@ protocol: NECext
 address: C0 00 00 00
 command: 9B 00 00 00
 #
-name: TV/Rad
+name: Tv/rad
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 9C 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 9D 00 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 9E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: C0 00 00 00
 command: 9F 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: C0 00 00 00
@@ -205,7 +205,7 @@ protocol: NECext
 address: C0 00 00 00
 command: D8 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: C0 00 00 00

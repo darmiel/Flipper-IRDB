@@ -16,103 +16,103 @@ frequency: 38000
 duty_cycle: 0.33
 data: 937 840 1893 861 935 808 926 872 941 836 927 1732 1890 875 939 1728 940 805 1824 864 943
 #
-name: PREV
+name: Prev
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 966 763 1018 828 1828 815 978 795 1078 795 994 1676 1887 1677 1013 792 1024 777 1887 1746 931
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 989 786 1983 776 1019 801 976 787 990 787 996 1678 988 869 989 796 1862 798 980 817 968 1680 1047
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 961 789 994 793 1884 784 984 788 1014 846 965 1677 1896 1658 994 789 1903 862 964 1684 991
 #
-name: NEXT
+name: Next
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 89 835 968 783 1888 774 1022 799 1009 785 1036 843 965 1679 1032 796 969 766 1877 873 962 803 993 1693 971
 #
-name: REW
+name: Rew
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 963 875 993 769 1975 805 974 775 1016 767 1054 1732 1918 1668 974 787 1887 1761 965 792 994
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 998 777 1864 842 1043 795 966 763 1006 775 1016 1667 1907 1699 992 798 1920 741 1014 769 999
 #
-name: REC
+name: Rec
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 962 851 955 791 1892 827 1030 788 965 787 965 1673 993 825 965 809 2006 798 993 1656 991 795 1030
 #
-name: FWD
+name: Fwd
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 942 786 2001 781 1030 808 969 807 975 787 996 1734 1874 1678 993 791 1017 788 1862 813 1015
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 947 805 994 770 1944 804 969 785 987 796 977 1695 988 807 1033 790 1913 787 993 827 985 764 977
 #
-name: EXIT
+name: Exit
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 952 800 1885 863 994 819 966 787 994 824 932 1667 1943 800 965 1677 1911 1701 1895
 #
-name: INPUT
+name: Input
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 966 785 1000 784 1927 772 970 856 968 827 953 1675 1001 792 992 809 988 899 1863 787 992 795 955
 #
-name: PORTAL
+name: Portal
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1022 800 1947 832 997 745 1050 749 994 787 979 1701 1058 851 1888 1696 999 829 975 771 1945
 #
-name: EPG
+name: Epg
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 964 787 993 787 1915 765 1020 784 996 761 984 1695 977 804 1969 1684 978 797 981 812 984 793 995
 #
-name: LANG
+name: Lang
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 964 790 1897 741 1021 761 1004 902 952 796 987 1690 1885 767 1006 1744 962 786 1002 779 1014 816 964
 #
-name: SUBT
+name: Subt
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 952 800 992 789 2020 822 993 776 1007 771 1017 1708 1917 1795 930 778 1001 858 966 806 994 804 971
 #
-name: SIZE
+name: Size
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1041 803 1858 822 1000 802 952 786 994 786 1008 1739 1922 795 966 1680 1862 1772 964 769 1004
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -124,7 +124,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 941 798 1877 831 1006 843 973 793 991 778 993 1680 1886 1770 1869 1663 1908 768 1008
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -136,7 +136,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 986 768 1891 779 1050 831 965 785 973 842 950 1661 1881 1753 1885 1692 1884 1705 994
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -148,7 +148,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 965 787 1888 809 971 797 994 853 956 789 994 1695 1882 1682 1993 1663 1035 774 1830
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -160,7 +160,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 965 795 1929 786 1088 810 966 787 1062 766 995 1721 1899 1677 1908 853 1356 1959 940 782 993
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -244,7 +244,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 964 752 1913 782 982 787 993 840 1008 798 994 1679 969 802 971 795 1986 1655 1906 784 992
 #
-name: SCREEN
+name: Screen
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -256,7 +256,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 1053 821 1846 790 994 773 995 787 996 805 1031 1657 1905 786 983 788 992 786 993 834 993 787 995
 #
-name: RECALL
+name: Recall
 type: raw
 frequency: 38000
 duty_cycle: 0.33

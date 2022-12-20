@@ -61,133 +61,133 @@ protocol: NECext
 address: 27 00 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 0C 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 20 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 21 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 43 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 54 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 55 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 58 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 59 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 5A 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 5B 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 5C 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 6D 00 00 00
 #
-name: GREEN
+name: Green
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 6E 00 00 00
 #
-name: YELLOW
+name: Yellow
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 6F 00 00 00
 #
-name: BLUE
+name: Blue
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 70 00 00 00
 #
-name: white
+name: White
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 71 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 83 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: 84 00 00 00
 #
-name: brackets
+name: Brackets
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: AF 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: CB 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 27 00 00 00
 command: CC 00 00 00
 #
-name: surf
+name: Surf
 type: parsed
 protocol: NECext
 address: 27 00 00 00

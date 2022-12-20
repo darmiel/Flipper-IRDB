@@ -13,19 +13,19 @@ protocol: NECext
 address: 50 00 00 00
 command: 05 00 00 00
 #
-name: CH_I/II
+name: Ch_i/ii
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 08 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 09 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 50 00 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 50 00 00 00
 command: 14 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 17 00 00 00
 #
-name: X_3D-SOUND
+name: X_3d-sound
 type: parsed
 protocol: NECext
 address: 50 00 00 00
@@ -97,37 +97,37 @@ protocol: NECext
 address: 50 00 00 00
 command: 1F 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 45 00 00 00
 #
-name: U.N.L.
+name: U.n.l.
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 46 00 00 00
 #
-name: HOLD
+name: Hold
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 47 00 00 00
 #
-name: RED
+name: Red
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 4C 00 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 4F 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 50 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 50 00 00 00
 command: 5D 00 00 00
 #
-name: TV/TEXT
+name: Tv/text
 type: parsed
 protocol: NECext
 address: 50 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 50 00 00 00
 command: 67 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 50 00 00 00
@@ -163,13 +163,13 @@ protocol: NECext
 address: 50 00 00 00
 command: 6B 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 70 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 50 00 00 00

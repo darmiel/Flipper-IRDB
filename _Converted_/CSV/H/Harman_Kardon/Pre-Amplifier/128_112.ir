@@ -1,73 +1,73 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CD_STOP_[]
+name: Cd_stop_[]
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 01 00 00 00
 #
-name: CD_PLAY_>
+name: Cd_play_>
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 02 00 00 00
 #
-name: CD_PAUSE_
+name: Cd_pause_
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 03 00 00 00
 #
-name: CD_SKIP_>>
+name: Cd_skip_>>
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 04 00 00 00
 #
-name: CD_SKIP_<<
+name: Cd_skip_<<
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 05 00 00 00
 #
-name: CD_SEARCH_>>
+name: Cd_search_>>
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 06 00 00 00
 #
-name: CD_SEARCH_<<
+name: Cd_search_<<
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 07 00 00 00
 #
-name: CD_REPEAT
+name: Cd_repeat
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 0A 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 81 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 82 00 00 00
 #
-name: TUNING_^
+name: Tuning_^
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 84 00 00 00
 #
-name: TUNING_V
+name: Tuning_v
 type: parsed
 protocol: NECext
 address: 80 70 00 00
@@ -121,73 +121,73 @@ protocol: NECext
 address: 80 70 00 00
 command: 8E 00 00 00
 #
-name: SHIFT
+name: Shift
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 8F 00 00 00
 #
-name: SEEK
+name: Seek
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: 91 00 00 00
 #
-name: RECEIVER_POWER
+name: Receiver_power
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: C0 00 00 00
 #
-name: PHONO
+name: Phono
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: C2 00 00 00
 #
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: C3 00 00 00
 #
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: C4 00 00 00
 #
-name: A/V_1
+name: A/v_1
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: C5 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: C7 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: C8 00 00 00
 #
-name: VCR/TAPE_1
+name: Vcr/tape_1
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: CA 00 00 00
 #
-name: VCR/TAPE_2
+name: Vcr/tape_2
 type: parsed
 protocol: NECext
 address: 80 70 00 00
 command: CB 00 00 00
 #
-name: A/V_2
+name: A/v_2
 type: parsed
 protocol: NECext
 address: 80 70 00 00

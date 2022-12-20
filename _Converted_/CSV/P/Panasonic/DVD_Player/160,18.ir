@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SUPER_SURROUND
+name: Super_surround
 type: parsed
 protocol: NECext
 address: A0 12 00 00
 command: 30 00 00 00
 #
-name: MIX_2CH
+name: Mix_2ch
 type: parsed
 protocol: NECext
 address: A0 12 00 00
 command: AE 00 00 00
 #
-name: SIMULATED_STEREO
+name: Simulated_stereo
 type: parsed
 protocol: NECext
 address: A0 12 00 00

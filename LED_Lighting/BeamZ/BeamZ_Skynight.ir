@@ -6,13 +6,13 @@ Version: 1
 # Manual: https://cdn.competec.ch/documents2/4/8/4/191789484/191789484.pdf
 #
 # 
-name: LED ON/OFF
+name: Led_on/off
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 45 00 00 00
 # 
-name: Laser ON/OFF
+name: Laser_on/off
 type: parsed
 protocol: NEC
 address: 00 00 00 00
@@ -90,37 +90,37 @@ protocol: NEC
 address: 00 00 00 00
 command: 1C 00 00 00
 # 
-name: LED Brightness
+name: Led_brightness
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5E 00 00 00
 # 
-name: Laser Light
+name: Laser_light
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5A 00 00 00
 # 
-name: Sleep Off
+name: Sleep_off
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 42 00 00 00
 # 
-name: Sleep 1h
+name: Sleep_1h
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 52 00 00 00
 # 
-name: Sleep 2h
+name: Sleep_2h
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 4A 00 00 00
 # 
-name: Music ON/OFF
+name: Music_on/off
 type: parsed
 protocol: NEC
 address: 00 00 00 00

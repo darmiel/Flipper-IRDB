@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 02 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 03 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 09 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 43 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 44 00 00 00
 #
-name: arc
+name: Arc
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 79 00 00 00
 #
-name: blank
+name: Blank
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 84 00 00 00
 #
-name: auto
+name: Auto
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 92 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: A4 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: A5 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: AD 00 00 00
 #
-name: still
+name: Still
 type: parsed
 protocol: NECext
 address: 04 00 00 00

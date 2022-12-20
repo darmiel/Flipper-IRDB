@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 00 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 02 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 00 02 00 00
 command: 0A 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 02 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 00 02 00 00
 command: 0E 00 00 00
 #
-name: CURSOR_SELECT
+name: Cursor_select
 type: parsed
 protocol: NECext
 address: 00 02 00 00
@@ -91,85 +91,85 @@ protocol: NECext
 address: 00 02 00 00
 command: 11 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 12 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 14 00 00 00
 #
-name: VIEW
+name: View
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 16 00 00 00
 #
-name: TV/VIDEO
+name: Tv/video
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 17 00 00 00
 #
-name: CURSOR_RIGHT(BROWSE)
+name: Cursor_right(browse)
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 18 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1A 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1B 00 00 00
 #
-name: CURSOR_LEFT_(THEMES)
+name: Cursor_left_(themes)
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1C 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1E 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 1F 00 00 00
 #
-name: SYS_INFO
+name: Sys_info
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 24 00 00 00
 #
-name: *-FORMAT
+name: *-format
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 25 00 00 00
 #
-name: #-SEARCH
+name: #-search
 type: parsed
 protocol: NECext
 address: 00 02 00 00
 command: 26 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 00 02 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: EE 87 00 00

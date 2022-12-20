@@ -16,37 +16,37 @@ protocol: NECext
 address: BD 00 00 00
 command: 3D C2 00 00
 #
-name: FAVORITE
+name: Favorite
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 95 6A 00 00
 #
-name: FAV. SELECT
+name: Fav._select
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 15 EA 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 5F A0 00 00
 #
-name: SCART
+name: Scart
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 9F 60 00 00
 #
-name: PC
+name: Pc
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 5D A2 00 00
 #
-name: TV
+name: Tv
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -106,7 +106,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 07 F8 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -118,49 +118,49 @@ protocol: NECext
 address: BD 00 00 00
 command: 7D 82 00 00
 #
-name: PRE PR
+name: Pre_pr
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: DD 22 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: EF 10 00 00
 #
-name: ASPECT
+name: Aspect
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 25 DA 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 37 C8 00 00
 #
-name: PICTURE
+name: Picture
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 35 CA 00 00
 #
-name: PR LIST
+name: Pr_list
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: A5 5A 00 00
 #
-name: SOUND
+name: Sound
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: 8F 70 00 00
 #
-name: VOL +
+name: Vol_+
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -172,31 +172,31 @@ protocol: NECext
 address: BD 00 00 00
 command: DF 20 00 00
 #
-name: PR +
+name: Pr_+
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: E7 18 00 00
 #
-name: VOL -
+name: Vol_-
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: F7 08 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: BF 40 00 00
 #
-name: PR -
+name: Pr_-
 type: parsed
 protocol: NECext
 address: BD 00 00 00
 command: C7 38 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -208,7 +208,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 2F D0 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -220,7 +220,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 6D 92 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -232,7 +232,7 @@ protocol: NECext
 address: BD 00 00 00
 command: AD 52 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: BD 00 00 00
@@ -244,7 +244,7 @@ protocol: NECext
 address: BD 00 00 00
 command: 0F F0 00 00
 #
-name: TELETEXT
+name: Teletext
 type: parsed
 protocol: NECext
 address: BD 00 00 00

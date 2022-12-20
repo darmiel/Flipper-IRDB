@@ -10,19 +10,19 @@ protocol: NECext
 address: 73 8C 00 00
 command: 7E 81 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 73 8C 00 00
 command: 6E 91 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: 73 8C 00 00
 command: 3E C1 00 00
 #
-name: TxtStop
+name: Txtstop
 type: parsed
 protocol: NECext
 address: 73 8C 00 00
@@ -34,7 +34,7 @@ protocol: NECext
 address: 73 8C 00 00
 command: 7C 83 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: 73 8C 00 00
@@ -46,7 +46,7 @@ protocol: NECext
 address: 73 8C 00 00
 command: 3C C3 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 73 8C 00 00
@@ -76,25 +76,25 @@ protocol: NECext
 address: 73 8C 00 00
 command: 1E E1 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 73 8C 00 00
 command: 5E A1 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 73 8C 00 00
 command: CE 31 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 73 8C 00 00
 command: DE 21 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 73 8C 00 00

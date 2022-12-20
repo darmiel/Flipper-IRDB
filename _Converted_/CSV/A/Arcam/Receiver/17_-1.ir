@@ -1,337 +1,337 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ZONE_2:_SAT_INPUT
+name: Zone_2:_sat_input
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: NUMBER_0_(TUNER)
+name: Number_0_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 00 00 00 00
 #
-name: PRESET_1
+name: Preset_1
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: NUMBER_1_(TUNER)
+name: Number_1_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 01 00 00 00
 #
-name: PRESET_2
+name: Preset_2
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: ZONE_2:_AV_INPUT
+name: Zone_2:_av_input
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: NUMBER_2_(TUNER)
+name: Number_2_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 02 00 00 00
 #
-name: PRESET_3
+name: Preset_3
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: ZONE_2:_TUNER_INPUT
+name: Zone_2:_tuner_input
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: NUMBER_3_(TUNER)
+name: Number_3_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 03 00 00 00
 #
-name: PRESET_4
+name: Preset_4
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: ZONE_2:_DVD_INPUT
+name: Zone_2:_dvd_input
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: NUMBER_4_(TUNER)
+name: Number_4_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 04 00 00 00
 #
-name: PRESET_5
+name: Preset_5
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: NUMBER_5_(TUNER)
+name: Number_5_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 05 00 00 00
 #
-name: PRESET_6
+name: Preset_6
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: ZONE_2:_VCR_INPUT
+name: Zone_2:_vcr_input
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: NUMBER_6_(TUNER)
+name: Number_6_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 06 00 00 00
 #
-name: PRESET_7
+name: Preset_7
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: ZONE_2:_CD_INPUT
+name: Zone_2:_cd_input
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: NUMBER_7_(TUNER)
+name: Number_7_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 07 00 00 00
 #
-name: PRESET_8
+name: Preset_8
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: ZONE_2:_PVR_INPUT
+name: Zone_2:_pvr_input
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: NUMBER_8_(TUNER)
+name: Number_8_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 08 00 00 00
 #
-name: PRESET_9
+name: Preset_9
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: ZONE_2:_DVD-A_INP.
+name: Zone_2:_dvd-a_inp.
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: NUMBER_9_(TUNER)
+name: Number_9_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 09 00 00 00
 #
-name: ZONE_2:_POWER_TOG.
+name: Zone_2:_power_tog.
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0C 00 00 00
 #
-name: ZONE_2:_MUTE_TOG.
+name: Zone_2:_mute_tog.
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 0D 00 00 00
 #
-name: ZONE_2:_VOLUME_UP
+name: Zone_2:_volume_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 10 00 00 00
 #
-name: ZONE_2:_VOLUME_DN.
+name: Zone_2:_volume_dn.
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 11 00 00 00
 #
-name: TUNE_UP
+name: Tune_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1E 00 00 00
 #
-name: TUNE_DOWN
+name: Tune_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 1F 00 00 00
 #
-name: PRE/SIRIUS_+_(TUN)
+name: Pre/sirius_+_(tun)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 20 00 00 00
 #
-name: PRE/SIRIUS_-_(TUN)
+name: Pre/sirius_-_(tun)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 21 00 00 00
 #
-name: SEEK_UP
+name: Seek_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 22 00 00 00
 #
-name: SEEK_DOWN
+name: Seek_down
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 23 00 00 00
 #
-name: PAGE_DOWN_(TUNE)
+name: Page_down_(tune)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 25 00 00 00
 #
-name: PAGE_UP_(TUNER)
+name: Page_up_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 26 00 00 00
 #
-name: DELETE_PRESET
+name: Delete_preset
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 29 00 00 00
 #
-name: ZONE_2:_PRESET_TOG.
+name: Zone_2:_preset_tog.
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 36 00 00 00
 #
-name: ZONE_2:_PRESET_UP
+name: Zone_2:_preset_up
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 38 00 00 00
 #
-name: ZONE_2:_PRESET_DN.
+name: Zone_2:_preset_dn.
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 39 00 00 00
 #
-name: TUNING_+_RIGHT
+name: Tuning_+_right
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4D 00 00 00
 #
-name: TUNING_-_LEFT
+name: Tuning_-_left
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 4E 00 00 00
 #
-name: PRESET_DOWN_(TUNER)
+name: Preset_down_(tuner)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 55 00 00 00
 #
-name: PRESET_UP_(TUNE)
+name: Preset_up_(tune)
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 56 00 00 00
 #
-name: PRESET_10
+name: Preset_10
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 6E 00 00 00
 #
-name: PRESET_11
+name: Preset_11
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 6F 00 00 00
 #
-name: PRESET_12
+name: Preset_12
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 70 00 00 00
 #
-name: PRESET_13
+name: Preset_13
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 71 00 00 00
 #
-name: PRESET_14
+name: Preset_14
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 72 00 00 00
 #
-name: ZONE_2:_MUTE
+name: Zone_2:_mute
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 77 00 00 00
 #
-name: ZONE_2:_MUTE_OFF
+name: Zone_2:_mute_off
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 78 00 00 00
 #
-name: ZONE_2:_ON
+name: Zone_2:_on
 type: parsed
 protocol: NECext
 address: 11 00 00 00
 command: 7B 00 00 00
 #
-name: ZONE_2:_STAND_BY
+name: Zone_2:_stand_by
 type: parsed
 protocol: NECext
 address: 11 00 00 00

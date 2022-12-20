@@ -61,67 +61,67 @@ protocol: NECext
 address: 06 00 00 00
 command: CA 00 00 00
 #
-name: MEMORY_REC
+name: Memory_rec
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: D1 00 00 00
 #
-name: SYNCHRO_REC
+name: Synchro_rec
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: D2 00 00 00
 #
-name: CHARACTER
+name: Character
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: DD 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: DE 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: DF 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E0 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E1 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E2 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E3 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: E5 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 06 00 00 00
 command: E8 00 00 00
 #
-name: >>I
+name: >>i
 type: parsed
 protocol: NECext
 address: 06 00 00 00
@@ -157,49 +157,49 @@ protocol: NECext
 address: 06 00 00 00
 command: EC 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: EF 00 00 00
 #
-name: PROG/DIRECT
+name: Prog/direct
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: F0 00 00 00
 #
-name: REPEAT_1/ALL
+name: Repeat_1/all
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: F1 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: F2 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: F3 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: F4 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: F5 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 06 00 00 00

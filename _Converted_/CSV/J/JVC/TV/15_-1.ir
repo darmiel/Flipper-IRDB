@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 11 00 00 00
 #
-name: MULTISCREEN_SELECT
+name: Multiscreen_select
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 11 00 00 00
 #
-name: DIGITAL_2
+name: Digital_2
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 17 00 00 00
 #
-name: VIDEO_5
+name: Video_5
 type: parsed
 protocol: NECext
 address: 0F 00 00 00
 command: 1B 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 0F 00 00 00

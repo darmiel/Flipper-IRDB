@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 01 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 02 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -67,49 +67,49 @@ protocol: NECext
 address: 31 00 00 00
 command: 0F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 12 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 14 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 15 00 00 00
 #
-name: index
+name: Index
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 19 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -127,73 +127,73 @@ protocol: NECext
 address: 31 00 00 00
 command: 1D 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1E 00 00 00
 #
-name: memory
+name: Memory
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 43 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 44 00 00 00
 #
-name: type
+name: Type
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 46 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4A 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4B 00 00 00
 #
-name: vps
+name: Vps
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 5B 00 00 00
 #
-name: sp/lp
+name: Sp/lp
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 5E 00 00 00
 #
-name: showview
+name: Showview
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 8C 00 00 00
 #
-name: preset
+name: Preset
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 9E 00 00 00
 #
-name: menu/tv
+name: Menu/tv
 type: parsed
 protocol: NECext
 address: 31 00 00 00

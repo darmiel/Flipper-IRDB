@@ -1,199 +1,199 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VTR_8
+name: Vtr_8
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 04 00 00 00
 #
-name: VTR_9
+name: Vtr_9
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 05 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: VTR_F.FWD/V.SRCH_>>
+name: Vtr_f.fwd/v.srch_>>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 09 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: VTR_REW/V.SRCH_<<
+name: Vtr_rew/v.srch_<<
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0A 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0B 00 00 00
 #
-name: VTR_STOP_[]
+name: Vtr_stop_[]
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0B 00 00 00
 #
-name: VTR_0
+name: Vtr_0
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0C 00 00 00
 #
-name: VTR_1
+name: Vtr_1
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0D 00 00 00
 #
-name: VTR_2
+name: Vtr_2
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0E 00 00 00
 #
-name: VTR_3
+name: Vtr_3
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 0F 00 00 00
 #
-name: VTR/TV_F.ADV_>
+name: Vtr/tv_f.adv_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 10 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: VTR_PLAY_>
+name: Vtr_play_>
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 14 00 00 00
 #
-name: VTR/TV
+name: Vtr/tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VCR/TV
+name: Vcr/tv
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 16 00 00 00
 #
-name: VTR_POWER
+name: Vtr_power
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 17 00 00 00
 #
-name: VTR_CHANNEL_V
+name: Vtr_channel_v
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 18 00 00 00
 #
-name: VTR_CHANNEL_^
+name: Vtr_channel_^
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 19 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: VTR_PAUSE/STILL_
+name: Vtr_pause/still_
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: EDIT
+name: Edit
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1A 00 00 00
 #
-name: VTR_4
+name: Vtr_4
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1C 00 00 00
 #
-name: VTR_5
+name: Vtr_5
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1D 00 00 00
 #
-name: VTR_6
+name: Vtr_6
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1E 00 00 00
 #
-name: VTR_7
+name: Vtr_7
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 1F 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 40 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 41 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 42 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 44 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 60 00 00 00
 command: 45 00 00 00
 #
-name: COUNTER_REMAIN
+name: Counter_remain
 type: parsed
 protocol: NECext
 address: 60 00 00 00

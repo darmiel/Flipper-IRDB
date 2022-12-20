@@ -13,7 +13,7 @@ protocol: NECext
 address: 00 01 00 00
 command: 02 00 00 00
 #
-name: qview
+name: Qview
 type: parsed
 protocol: NECext
 address: 00 01 00 00
@@ -31,13 +31,13 @@ protocol: NECext
 address: 00 01 00 00
 command: 05 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 08 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 00 01 00 00
@@ -49,25 +49,25 @@ protocol: NECext
 address: 00 01 00 00
 command: 0F 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 10 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 12 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 13 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 00 01 00 00
@@ -79,7 +79,7 @@ protocol: NECext
 address: 00 01 00 00
 command: 16 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 01 00 00
@@ -103,7 +103,7 @@ protocol: NECext
 address: 00 01 00 00
 command: 1B 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 01 00 00
@@ -115,19 +115,19 @@ protocol: NECext
 address: 00 01 00 00
 command: 1F 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 48 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 00 01 00 00
 command: 4A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 01 00 00

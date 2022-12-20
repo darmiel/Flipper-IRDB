@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 00 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 01 00 00 00
 #
-name: repeat-1-all
+name: Repeat-1-all
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 02 00 00 00
 #
-name: repeat-a-b
+name: Repeat-a-b
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 03 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 04 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 05 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 06 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 07 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 08 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 09 00 00 00
 #
-name: pause-step
+name: Pause-step
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 0A 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 0B 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 10 ED 00 00
 command: 18 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
@@ -103,13 +103,13 @@ protocol: NECext
 address: 10 ED 00 00
 command: 1B 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 1C 00 00 00
 #
-name: program
+name: Program
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
@@ -121,85 +121,85 @@ protocol: NECext
 address: 10 ED 00 00
 command: 1E 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 1F 00 00 00
 #
-name: pbc
+name: Pbc
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 40 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 41 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 42 00 00 00
 #
-name: goto
+name: Goto
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 43 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 44 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 45 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 46 00 00 00
 #
-name: rwd
+name: Rwd
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 47 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 48 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 49 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 4A 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
 command: 4B 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
@@ -235,7 +235,7 @@ protocol: NECext
 address: 10 ED 00 00
 command: 5C 00 00 00
 #
-name: tvsys
+name: Tvsys
 type: parsed
 protocol: NECext
 address: 10 ED 00 00
@@ -247,7 +247,7 @@ protocol: NECext
 address: 10 ED 00 00
 command: 5E 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 10 ED 00 00

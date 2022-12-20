@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 01 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: F7 80 00 00
@@ -19,67 +19,67 @@ protocol: NECext
 address: F7 80 00 00
 command: 02 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 03 00 00 00
 #
-name: IN_1
+name: In_1
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 05 00 00 00
 #
-name: IN_3
+name: In_3
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 06 00 00 00
 #
-name: IN_8
+name: In_8
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 07 00 00 00
 #
-name: IN_2
+name: In_2
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 09 00 00 00
 #
-name: IN_7
+name: In_7
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 0B 00 00 00
 #
-name: IN_4
+name: In_4
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 0D 00 00 00
 #
-name: IN_5
+name: In_5
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 0F 00 00 00
 #
-name: STATION_-
+name: Station_-
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 17 00 00 00
 #
-name: STATION_+
+name: Station_+
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 18 00 00 00
 #
-name: TUNE_-
+name: Tune_-
 type: parsed
 protocol: NECext
 address: F7 80 00 00
@@ -91,19 +91,19 @@ protocol: NECext
 address: F7 80 00 00
 command: 1B 00 00 00
 #
-name: TUNE_+
+name: Tune_+
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 1C 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 23 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: F7 80 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: F7 80 00 00
 command: 29 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: F7 80 00 00
@@ -187,19 +187,19 @@ protocol: NECext
 address: F7 80 00 00
 command: 3E 00 00 00
 #
-name: IN_6
+name: In_6
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 4A 00 00 00
 #
-name: D-IN
+name: D-in
 type: parsed
 protocol: NECext
 address: F7 80 00 00
 command: 5A 00 00 00
 #
-name: IN_9
+name: In_9
 type: parsed
 protocol: NECext
 address: F7 80 00 00

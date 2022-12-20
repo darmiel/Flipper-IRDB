@@ -16,13 +16,13 @@ protocol: NECext
 address: F7 00 00 00
 command: FF 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: F7 00 00 00
 command: BF 40 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: F7 00 00 00
@@ -70,7 +70,7 @@ protocol: NECext
 address: F7 00 00 00
 command: AF 50 00 00
 #
-name: FLASH
+name: Flash
 type: parsed
 protocol: NECext
 address: F7 00 00 00
@@ -94,7 +94,7 @@ protocol: NECext
 address: F7 00 00 00
 command: 8F 70 00 00
 #
-name: STROBE
+name: Strobe
 type: parsed
 protocol: NECext
 address: F7 00 00 00
@@ -118,7 +118,7 @@ protocol: NECext
 address: F7 00 00 00
 command: B7 48 00 00
 #
-name: FADE
+name: Fade
 type: parsed
 protocol: NECext
 address: F7 00 00 00
@@ -142,7 +142,7 @@ protocol: NECext
 address: F7 00 00 00
 command: 97 68 00 00
 #
-name: SMOOTH
+name: Smooth
 type: parsed
 protocol: NECext
 address: F7 00 00 00

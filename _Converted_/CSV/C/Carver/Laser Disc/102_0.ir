@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 06 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 07 00 00 00
 #
-name: FF
+name: Ff
 type: parsed
 protocol: NECext
 address: 66 00 00 00
 command: 1C 00 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: 66 00 00 00

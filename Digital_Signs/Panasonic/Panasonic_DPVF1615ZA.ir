@@ -7,7 +7,7 @@ protocol: Kaseikyo
 address: 80 02 20 00
 command: D0 03 00 00
 # 
-name: Audio_Setup
+name: Audio_setup
 type: parsed
 protocol: Kaseikyo
 address: 84 02 20 02
@@ -103,7 +103,7 @@ protocol: Kaseikyo
 address: 84 02 20 03
 command: E0 01 00 00
 # 
-name: Off_Timer
+name: Off_timer
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00
@@ -115,13 +115,13 @@ protocol: Kaseikyo
 address: 8A 02 20 00
 command: 00 00 00 00
 # 
-name: Vol_Up
+name: Vol_up
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00
 command: 00 02 00 00
 # 
-name: Vol_Down
+name: Vol_down
 type: parsed
 protocol: Kaseikyo
 address: 80 02 20 00

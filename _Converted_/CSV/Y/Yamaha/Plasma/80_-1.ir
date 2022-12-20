@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 00 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 01 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 02 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 03 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 04 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 05 00 00 00
 #
-name: PINP
+name: Pinp
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 06 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 07 00 00 00
 #
-name: INPUT_RGB1
+name: Input_rgb1
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 09 00 00 00
 #
-name: INPUT_RGB2
+name: Input_rgb2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0A 00 00 00
 #
-name: INPUT_AV1
+name: Input_av1
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0B 00 00 00
 #
-name: INPUT_AV2
+name: Input_av2
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0C 00 00 00
 #
-name: INPUT_AV3
+name: Input_av3
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0D 00 00 00
 #
-name: INPUT_AV4
+name: Input_av4
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0E 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 12 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 13 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 14 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 15 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 16 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 17 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 18 00 00 00
 #
-name: DISPLAY_SIZE_CHANGE
+name: Display_size_change
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 19 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 50 00 00 00

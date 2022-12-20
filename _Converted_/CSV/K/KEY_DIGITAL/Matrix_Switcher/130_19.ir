@@ -61,97 +61,97 @@ protocol: NECext
 address: 82 13 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 0A 00 00 00
 #
-name: ANS
+name: Ans
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 0B 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 0C 00 00 00
 #
-name: EXT_12V_CONTROL_ON
+name: Ext_12v_control_on
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 0D 00 00 00
 #
-name: INPUT_SELECT_<
+name: Input_select_<
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 0E 00 00 00
 #
-name: INPUT_SELECT_>
+name: Input_select_>
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 0F 00 00 00
 #
-name: SAT
+name: Sat
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 10 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 11 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 12 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 13 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 14 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 15 00 00 00
 #
-name: EXT_12V_CONTROL_OFF
+name: Ext_12v_control_off
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 16 00 00 00
 #
-name: NP_>
+name: Np_>
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 17 00 00 00
 #
-name: PP_<
+name: Pp_<
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 18 00 00 00
 #
-name: SR
+name: Sr
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -187,7 +187,7 @@ protocol: NECext
 address: 82 13 00 00
 command: 1F 00 00 00
 #
-name: ZO
+name: Zo
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -211,37 +211,37 @@ protocol: NECext
 address: 82 13 00 00
 command: 43 00 00 00
 #
-name: PA
+name: Pa
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 44 00 00 00
 #
-name: AR-IN
+name: Ar-in
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 45 00 00 00
 #
-name: GB
+name: Gb
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 46 00 00 00
 #
-name: SH
+name: Sh
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 47 00 00 00
 #
-name: BR
+name: Br
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 48 00 00 00
 #
-name: CO
+name: Co
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -343,43 +343,43 @@ protocol: NECext
 address: 82 13 00 00
 command: 5C 00 00 00
 #
-name: INPUT_>
+name: Input_>
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 61 00 00 00
 #
-name: >_UP
+name: >_up
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 61 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 61 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 62 00 00 00
 #
-name: POWER_ON_-2
+name: Power_on_-2
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 62 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 63 00 00 00
 #
-name: POWER_OFF_-2
+name: Power_off_-2
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -397,43 +397,43 @@ protocol: NECext
 address: 82 13 00 00
 command: 65 00 00 00
 #
-name: INPUT_<
+name: Input_<
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 66 00 00 00
 #
-name: <_DN
+name: <_dn
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 66 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 66 00 00 00
 #
-name: OUT_1
+name: Out_1
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 67 00 00 00
 #
-name: OUT_2
+name: Out_2
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 68 00 00 00
 #
-name: OUT_3
+name: Out_3
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: 69 00 00 00
 #
-name: OUT_4
+name: Out_4
 type: parsed
 protocol: NECext
 address: 82 13 00 00
@@ -457,97 +457,97 @@ protocol: NECext
 address: 82 13 00 00
 command: 73 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: A2 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: A3 00 00 00
 #
-name: VIDEO_MODE
+name: Video_mode
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: A4 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: A5 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: A6 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: A7 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: A8 00 00 00
 #
-name: RESTORE
+name: Restore
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: A9 00 00 00
 #
-name: ALL_MUTE
+name: All_mute
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: AA 00 00 00
 #
-name: ALL_RESTORE
+name: All_restore
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: AB 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: AC 00 00 00
 #
-name: BALANCE
+name: Balance
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: AD 00 00 00
 #
-name: BASS
+name: Bass
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: AE 00 00 00
 #
-name: MIDDLE
+name: Middle
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: AF 00 00 00
 #
-name: TREBLE
+name: Treble
 type: parsed
 protocol: NECext
 address: 82 13 00 00
 command: B0 00 00 00
 #
-name: LIPSYNC
+name: Lipsync
 type: parsed
 protocol: NECext
 address: 82 13 00 00

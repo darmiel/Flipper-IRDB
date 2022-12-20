@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 00 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 01 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 02 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -49,19 +49,19 @@ protocol: NECext
 address: 6E 00 00 00
 command: 07 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 08 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 09 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -91,19 +91,19 @@ protocol: NECext
 address: 6E 00 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 14 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 15 00 00 00
 #
-name: menu/i
+name: Menu/i
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -121,85 +121,85 @@ protocol: NECext
 address: 6E 00 00 00
 command: 1D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 1F 00 00 00
 #
-name: child-lock
+name: Child-lock
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 3F 00 00 00
 #
-name: viss
+name: Viss
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 41 00 00 00
 #
-name: showview
+name: Showview
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 47 00 00 00
 #
-name: speed
+name: Speed
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 48 00 00 00
 #
-name: av
+name: Av
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 56 00 00 00
 #
-name: a-tr
+name: A-tr
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 5F 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 82 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 83 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 89 00 00 00
 #
-name: ok/clk/cnt
+name: Ok/clk/cnt
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 8E 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: 90 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: B3 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
@@ -211,13 +211,13 @@ protocol: NECext
 address: 6E 00 00 00
 command: BA 00 00 00
 #
-name: otpb
+name: Otpb
 type: parsed
 protocol: NECext
 address: 6E 00 00 00
 command: BF 00 00 00
 #
-name: ad-skip
+name: Ad-skip
 type: parsed
 protocol: NECext
 address: 6E 00 00 00

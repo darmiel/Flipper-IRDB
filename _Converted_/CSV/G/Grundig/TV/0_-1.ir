@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 00 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 02 00 00 00
 #
-name: TV-G
+name: Tv-g
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -31,31 +31,31 @@ protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: Z_/_DISC_MENU
+name: Z_/_disc_menu
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 07 00 00 00
 #
-name: VOL+_/_RIGHT
+name: Vol+_/_right
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 08 00 00 00
 #
-name: VOL-_/_LEFT
+name: Vol-_/_left
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 09 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -127,79 +127,79 @@ protocol: NECext
 address: 00 00 00 00
 command: 19 00 00 00
 #
-name: ASPECT_/_>
+name: Aspect_/_>
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: PIP_/_AUDIO
+name: Pip_/_audio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 29 00 00 00
 #
-name: P+_/_UP
+name: P+_/_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2A 00 00 00
 #
-name: P-_/_DOWN
+name: P-_/_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2B 00 00 00
 #
-name: I_(MENU)_/_OSD
+name: I_(menu)_/_osd
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: INFORMATION
+name: Information
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2D 00 00 00
 #
-name: BLUE_/_AUDIO
+name: Blue_/_audio
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 2E 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 30 00 00 00
 #
-name: RED_/_DISPLAY
+name: Red_/_display
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3A 00 00 00
 #
-name: YELLOW_/_PAUSE
+name: Yellow_/_pause
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 3B 00 00 00
 #
-name: GREEN_/_SLEEP
+name: Green_/_sleep
 type: parsed
 protocol: NECext
 address: 00 00 00 00

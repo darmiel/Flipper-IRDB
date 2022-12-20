@@ -7,289 +7,289 @@ protocol: NECext
 address: 7C 00 00 00
 command: 80 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 80 00 00 00
 #
-name: POWER:_TOGGLE
+name: Power:_toggle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 80 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 80 00 00 00
 #
-name: POWER_ON/OFF
+name: Power_on/off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 80 00 00 00
 #
-name: POWER_TOGGLE
+name: Power_toggle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 80 00 00 00
 #
-name: POWER_(TOGGLE)
+name: Power_(toggle)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 80 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 81 00 00 00
 #
-name: FUNCTN:_OPEN/CLOSE
+name: Functn:_open/close
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 81 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 82 00 00 00
 #
-name: FUNCTN:_PLAY
+name: Functn:_play
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 82 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 83 00 00 00
 #
-name: FUNCTN:_PAUSE
+name: Functn:_pause
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 83 00 00 00
 #
-name: PAUSE_(STEP_+)
+name: Pause_(step_+)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 83 00 00 00
 #
-name: PAUSE/STOP
+name: Pause/stop
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 84 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 85 00 00 00
 #
-name: FUNCTN:_STOP
+name: Functn:_stop
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 85 00 00 00
 #
-name: SEARCH/SLOW_REV
+name: Search/slow_rev
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SEARCH_<
+name: Search_<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SEARCH_REV
+name: Search_rev
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: FUNCTN:_SEARCH-
+name: Functn:_search-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SEARCH_-_(<<)
+name: Search_-_(<<)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SEARCH_-
+name: Search_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SCAN_DOWN
+name: Scan_down
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 86 00 00 00
 #
-name: SEARCH/SLOW_FWD
+name: Search/slow_fwd
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SEARCH_>
+name: Search_>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SEARCH_FWD
+name: Search_fwd
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: FFWD
+name: Ffwd
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: FUNCTN:_SEARCH+
+name: Functn:_search+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SEARCH_+_(>>)
+name: Search_+_(>>)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SEARCH_+
+name: Search_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SCAN_UP
+name: Scan_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 87 00 00 00
 #
-name: SKIP_<
+name: Skip_<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 88 00 00 00
 #
-name: SKIP_>
+name: Skip_>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 89 00 00 00
 #
-name: FUNCTN:_DISC_SKIP-
+name: Functn:_disc_skip-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 8A 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 8B 00 00 00
 #
-name: FUNCTN:_DISC_SKIP+
+name: Functn:_disc_skip+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 8B 00 00 00
 #
-name: INDEX_-
+name: Index_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 8C 00 00 00
 #
-name: INDEX_+
+name: Index_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 8D 00 00 00
 #
-name: SLOW_-
+name: Slow_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 8E 00 00 00
 #
-name: SLOW_+
+name: Slow_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 8F 00 00 00
 #
-name: STEP_<
+name: Step_<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 91 00 00 00
 #
-name: STEP_>
+name: Step_>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 92 00 00 00
 #
-name: PLAY_/_PAUSE
+name: Play_/_pause
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -301,7 +301,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 93 00 00 00
 #
-name: NUMERIC:_0
+name: Numeric:_0
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -319,7 +319,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 94 00 00 00
 #
-name: NUMERIC:_1
+name: Numeric:_1
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -337,7 +337,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 95 00 00 00
 #
-name: NUMERIC:_2
+name: Numeric:_2
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -355,7 +355,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 96 00 00 00
 #
-name: NUMERIC:_3
+name: Numeric:_3
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -373,7 +373,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 97 00 00 00
 #
-name: NUMERIC:_4
+name: Numeric:_4
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -391,7 +391,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 98 00 00 00
 #
-name: NUMERIC:_5
+name: Numeric:_5
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -409,7 +409,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 99 00 00 00
 #
-name: NUMERIC:_6
+name: Numeric:_6
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -427,7 +427,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 9A 00 00 00
 #
-name: NUMERIC:_7
+name: Numeric:_7
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -445,7 +445,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 9B 00 00 00
 #
-name: NUMERIC:_8
+name: Numeric:_8
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -463,7 +463,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 9C 00 00 00
 #
-name: NUMERIC:_9
+name: Numeric:_9
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -493,7 +493,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 9D 00 00 00
 #
-name: NUMERIC:_+10/_>10
+name: Numeric:_+10/_>10
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -505,1129 +505,1129 @@ protocol: NECext
 address: 7C 00 00 00
 command: 9E 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9F 00 00 00
 #
-name: CANCEL_(CLEAR)
+name: Cancel_(clear)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9F 00 00 00
 #
-name: PROG:_CANCEL/CLEAR
+name: Prog:_cancel/clear
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9F 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9F 00 00 00
 #
-name: TITLE/INDEX
+name: Title/index
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9F 00 00 00
 #
-name: CANCEL/CLEAR
+name: Cancel/clear
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 9F 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A0 00 00 00
 #
-name: PROG:_PROGRAM
+name: Prog:_program
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A0 00 00 00
 #
-name: CANCEL_(CLEAR)
+name: Cancel_(clear)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A0 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A1 00 00 00
 #
-name: PROG:_RANDOM
+name: Prog:_random
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A1 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A1 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A2 00 00 00
 #
-name: REP_MODE
+name: Rep_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A3 00 00 00
 #
-name: PROG:_REPEAT_MODE
+name: Prog:_repeat_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A3 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A3 00 00 00
 #
-name: REPEART_MODE
+name: Repeart_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A3 00 00 00
 #
-name: REPEAT_MODE
+name: Repeat_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A3 00 00 00
 #
-name: REP_A-B
+name: Rep_a-b
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A4 00 00 00
 #
-name: PROG:_REPEAT_A-B
+name: Prog:_repeat_a-b
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A4 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A4 00 00 00
 #
-name: REPEAR_A-B
+name: Repear_a-b
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A4 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A4 00 00 00
 #
-name: SIDE_A/B
+name: Side_a/b
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A4 00 00 00
 #
-name: AUTO_SPACE
+name: Auto_space
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A5 00 00 00
 #
-name: ON_SCREEN
+name: On_screen
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: SET:_DISPLAY_TOGGLE
+name: Set:_display_toggle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: DISPLAY_ON/OFF
+name: Display_on/off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: OSD_TOG
+name: Osd_tog
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: DISPLAY_TOG
+name: Display_tog
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: ON-SCREEN
+name: On-screen
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A6 00 00 00
 #
-name: STATUS
+name: Status
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A8 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A8 00 00 00
 #
-name: SET:_TIME
+name: Set:_time
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A8 00 00 00
 #
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A9 00 00 00
 #
-name: SET:_DIMMER
+name: Set:_dimmer
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: A9 00 00 00
 #
-name: SUBTITLE_ON/OFF
+name: Subtitle_on/off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AA 00 00 00
 #
-name: SET:_SUBTITLE
+name: Set:_subtitle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AA 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AA 00 00 00
 #
-name: SUBTITILE_ON/OFF
+name: Subtitile_on/off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AA 00 00 00
 #
-name: SUB_TITLE
+name: Sub_title
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AA 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AB 00 00 00
 #
-name: SUBTITLE_2
+name: Subtitle_2
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AB 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AC 00 00 00
 #
-name: SET:_SETUP
+name: Set:_setup
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AC 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AD 00 00 00
 #
-name: SET:_AUDIO
+name: Set:_audio
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AD 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AD 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AE 00 00 00
 #
-name: SET:_ANGLE
+name: Set:_angle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: AE 00 00 00
 #
-name: TOP_MENU/_DIR.NAV.
+name: Top_menu/_dir.nav.
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B1 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B1 00 00 00
 #
-name: FUNCTN:_TOP_MENU
+name: Functn:_top_menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B1 00 00 00
 #
-name: TOP_MENU
+name: Top_menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B1 00 00 00
 #
-name: TOP_MENU/RETURN
+name: Top_menu/return
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B1 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B1 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B2 00 00 00
 #
-name: FUNCTN:_MENU
+name: Functn:_menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B2 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B3 00 00 00
 #
-name: FUNCTN:_CURSOR_DOWN
+name: Functn:_cursor_down
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B3 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B3 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B3 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B4 00 00 00
 #
-name: FUNCTN:_CURSOR_UP
+name: Functn:_cursor_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B4 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B4 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B4 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B5 00 00 00
 #
-name: FUNCTN:_CURSOR_LEFT
+name: Functn:_cursor_left
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B5 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B5 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B5 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B6 00 00 00
 #
-name: FUNCTN:_CURSOR_RIGHT
+name: Functn:_cursor_right
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B6 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B6 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B6 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B7 00 00 00
 #
-name: FUNCTN:_RETURN
+name: Functn:_return
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B7 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: SELECT_(ENTER)
+name: Select_(enter)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: FUNCTN:_SELECT/ENTER
+name: Functn:_select/enter
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: ENTER/SELECT
+name: Enter/select
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: ENTER/OK
+name: Enter/ok
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: CURSOR_ENTER/OK
+name: Cursor_enter/ok
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B8 00 00 00
 #
-name: SKIP_REV
+name: Skip_rev
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP_/_SEARCH_<
+name: Skip_/_search_<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: FUNCTN:_SKIP-
+name: Functn:_skip-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP/SEARCH_<
+name: Skip/search_<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP/SEARCH_REV
+name: Skip/search_rev
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP_-
+name: Skip_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP/SEARCH_-
+name: Skip/search_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP_DOWN
+name: Skip_down
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SCAN_<<
+name: Scan_<<
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: B9 00 00 00
 #
-name: SKIP_FWD
+name: Skip_fwd
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: SKIP_/_SEARCH_>
+name: Skip_/_search_>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: FUNCTN:_SKIP+
+name: Functn:_skip+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: SKIP/SEARCH_>
+name: Skip/search_>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: SKIP/SEARCH_FWD
+name: Skip/search_fwd
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: SKIP_+
+name: Skip_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: SKIP/SEARCH_+
+name: Skip/search_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: SKIP_UP
+name: Skip_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: SCAN_>>
+name: Scan_>>
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BA 00 00 00
 #
-name: MULTI_SPEED
+name: Multi_speed
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BB 00 00 00
 #
-name: DISC_MODE
+name: Disc_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BC 00 00 00
 #
-name: PLAY_MODE
+name: Play_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BD 00 00 00
 #
-name: PLAY_MODE:_TOG
+name: Play_mode:_tog
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: BD 00 00 00
 #
-name: POP-UP_MENU
+name: Pop-up_menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: CF 00 00 00
 #
-name: SUB_MENU
+name: Sub_menu
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D0 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D1 00 00 00
 #
-name: FUNCTN:_DISC_1
+name: Functn:_disc_1
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D1 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D2 00 00 00
 #
-name: FUNCTN:_DISC_2
+name: Functn:_disc_2
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D2 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D3 00 00 00
 #
-name: FUNCTN:_DISC_3
+name: Functn:_disc_3
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D3 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D4 00 00 00
 #
-name: FUNCTN:_DISC_4
+name: Functn:_disc_4
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D4 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D5 00 00 00
 #
-name: FUNCTN:_DISC_5
+name: Functn:_disc_5
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D5 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D7 00 00 00
 #
-name: MARKER
+name: Marker
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D8 00 00 00
 #
-name: SET:_MARKER
+name: Set:_marker
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D8 00 00 00
 #
-name: VIDEO_ON/OFF
+name: Video_on/off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D9 00 00 00
 #
-name: AUDIO_DIRECT
+name: Audio_direct
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D9 00 00 00
 #
-name: AUDIO_DIRECT_(VID)
+name: Audio_direct_(vid)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D9 00 00 00
 #
-name: SET:_VIDEO_TOGGLE
+name: Set:_video_toggle
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D9 00 00 00
 #
-name: AUDIO_DIR(VIDON/OFF)
+name: Audio_dir(vidon/off)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D9 00 00 00
 #
-name: AUDIO_MODE
+name: Audio_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: D9 00 00 00
 #
-name: PROGRESSIVE
+name: Progressive
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DA 00 00 00
 #
-name: SET:_PROGRESSIVE_TOG
+name: Set:_progressive_tog
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DA 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DB 00 00 00
 #
-name: GROUP_-
+name: Group_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DC 00 00 00
 #
-name: GROUP_+
+name: Group_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DD 00 00 00
 #
-name: GROUP
+name: Group
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DD 00 00 00
 #
-name: SET:_GROUP+
+name: Set:_group+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DD 00 00 00
 #
-name: PAGE_-
+name: Page_-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DE 00 00 00
 #
-name: PAGE-
+name: Page-
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DE 00 00 00
 #
-name: PAGE_+
+name: Page_+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DF 00 00 00
 #
-name: PAGE+
+name: Page+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DF 00 00 00
 #
-name: SET:_PAGE+
+name: Set:_page+
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: DF 00 00 00
 #
-name: SET:_PLAYER_MODE
+name: Set:_player_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E0 00 00 00
 #
-name: MULTI/2CH
+name: Multi/2ch
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E1 00 00 00
 #
-name: SET:_MULTI/2CH
+name: Set:_multi/2ch
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E1 00 00 00
 #
-name: MULTI_/_2CH.
+name: Multi_/_2ch.
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E1 00 00 00
 #
-name: SCAN
+name: Scan
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E2 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E4 00 00 00
 #
-name: HDMI
+name: Hdmi
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E5 00 00 00
 #
-name: HDMI_ON/OFF
+name: Hdmi_on/off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E5 00 00 00
 #
-name: INPUT:_USB
+name: Input:_usb
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E6 00 00 00
 #
-name: FUNCTIONS
+name: Functions
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E8 00 00 00
 #
-name: A_(RED)
+name: A_(red)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: E9 00 00 00
 #
-name: B_(GREEN)
+name: B_(green)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EA 00 00 00
 #
-name: C_(BLUE)
+name: C_(blue)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EB 00 00 00
 #
-name: D_(YELLOW)
+name: D_(yellow)
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EC 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: ED 00 00 00
 #
-name: SECONDARY_AUDIO
+name: Secondary_audio
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EE 00 00 00
 #
-name: BD/SD
+name: Bd/sd
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: EF 00 00 00
 #
-name: PLAY_MODE:_NORMAL
+name: Play_mode:_normal
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F0 00 00 00
 #
-name: NORMAL_PLAY_MODE
+name: Normal_play_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F0 00 00 00
 #
-name: PLAY_MODE_NORMAL
+name: Play_mode_normal
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F0 00 00 00
 #
-name: PLAYMODE_-_NORMAL
+name: Playmode_-_normal
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F0 00 00 00
 #
-name: PLAY_MODE_-_NORMAL
+name: Play_mode_-_normal
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F0 00 00 00
 #
-name: PLAY_-_NORMAL
+name: Play_-_normal
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F0 00 00 00
 #
-name: PLAY_MODE:_RANDOM
+name: Play_mode:_random
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F1 00 00 00
 #
-name: RANDOM_PLAY_MODE
+name: Random_play_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F1 00 00 00
 #
-name: PLAY_MODE_RANDOM
+name: Play_mode_random
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F1 00 00 00
 #
-name: PLAYMODE_-_RANDOM
+name: Playmode_-_random
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F1 00 00 00
 #
-name: PLAY_MODE_-_RANDOM
+name: Play_mode_-_random
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F1 00 00 00
 #
-name: PLAY_-_RANDOM
+name: Play_-_random
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F1 00 00 00
 #
-name: PLAY_MODE:_PROGRAM
+name: Play_mode:_program
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F2 00 00 00
 #
-name: PROGRAM_MODE
+name: Program_mode
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F2 00 00 00
 #
-name: PLAY_MODE_PROGRAM
+name: Play_mode_program
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F2 00 00 00
 #
-name: PLAY_MODE_-_PROGRAM
+name: Play_mode_-_program
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F2 00 00 00
 #
-name: PLAY_-_PROGRAM
+name: Play_-_program
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F2 00 00 00
 #
-name: PROG:_REPEAT_OFF
+name: Prog:_repeat_off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F3 00 00 00
 #
-name: REPEAT_MODE_OFF
+name: Repeat_mode_off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F3 00 00 00
 #
-name: REPEAT_OFF
+name: Repeat_off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F3 00 00 00
 #
-name: PROG:_REPEAT_ALL
+name: Prog:_repeat_all
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F5 00 00 00
 #
-name: ALL_DISC_REPEAT
+name: All_disc_repeat
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F5 00 00 00
 #
-name: REPEAT_ALL
+name: Repeat_all
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F5 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F6 00 00 00
 #
-name: POWER:_ON
+name: Power:_on
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F6 00 00 00
 #
-name: REPEAT_OFF
+name: Repeat_off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F6 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F6 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F7 00 00 00
 #
-name: POWER:_OFF
+name: Power:_off
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: F7 00 00 00
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 7C 00 00 00

@@ -1,217 +1,217 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TapePlay
+name: Tapeplay
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 00 00 00 00
 #
-name: TapeRewind
+name: Taperewind
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 01 00 00 00
 #
-name: TapeForward
+name: Tapeforward
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 02 00 00 00
 #
-name: TapeStop
+name: Tapestop
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 03 00 00 00
 #
-name: TapeRec
+name: Taperec
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 04 00 00 00
 #
-name: TapeDeckA/B
+name: Tapedecka/b
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 06 00 00 00
 #
-name: TapeDirA
+name: Tapedira
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 07 00 00 00
 #
-name: CDPlay
+name: Cdplay
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 08 00 00 00
 #
-name: CDPause/Stop
+name: Cdpause/stop
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 09 00 00 00
 #
-name: CDSkipForward
+name: Cdskipforward
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0A 00 00 00
 #
-name: CDSkipBack
+name: Cdskipback
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0B 00 00 00
 #
-name: CDForward
+name: Cdforward
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0C 00 00 00
 #
-name: CDRewind
+name: Cdrewind
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0D 00 00 00
 #
-name: SourceVCR
+name: Sourcevcr
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 0F 00 00 00
 #
-name: RadioPreset+
+name: Radiopreset+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 10 00 00 00
 #
-name: RadioPreset-
+name: Radiopreset-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 11 00 00 00
 #
-name: A/B/C/D/E
+name: A/b/c/d/e
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 12 00 00 00
 #
-name: SourceCD
+name: Sourcecd
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 15 00 00 00
 #
-name: SourceTuner
+name: Sourcetuner
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 16 00 00 00
 #
-name: SourceDVD/LD
+name: Sourcedvd/ld
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 17 00 00 00
 #
-name: Tape/MD_Monitor
+name: Tape/md_monitor
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 18 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 1F 00 00 00
 #
-name: TapeDirB
+name: Tapedirb
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 40 00 00 00
 #
-name: DiscSkip
+name: Discskip
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 4F 00 00 00
 #
-name: DSP+
+name: Dsp+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 52 00 00 00
 #
-name: DSP-
+name: Dsp-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 53 00 00 00
 #
-name: DSP_Prg-
+name: Dsp_prg-
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 53 00 00 00
 #
-name: SourceSAT/D-TV
+name: Sourcesat/d-tv
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 54 00 00 00
 #
-name: SourceAUX
+name: Sourceaux
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 55 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 57 00 00 00
 #
-name: DSP_Prg+
+name: Dsp_prg+
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 58 00 00 00
 #
-name: Time/Level
+name: Time/level
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 86 00 00 00
 #
-name: ExternalDecoder
+name: Externaldecoder
 type: parsed
 protocol: NECext
 address: 7A 00 00 00
 command: 87 00 00 00
 #
-name: SetMenu
+name: Setmenu
 type: parsed
 protocol: NECext
 address: 7A 00 00 00

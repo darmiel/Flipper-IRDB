@@ -1,235 +1,235 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BTN_SOURCE
+name: Btn_source
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 01 00 00 00
 #
-name: BTN_POWER
+name: Btn_power
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 02 00 00 00
 #
-name: BTN_1
+name: Btn_1
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 04 00 00 00
 #
-name: BTN_2
+name: Btn_2
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 05 00 00 00
 #
-name: BTN_3
+name: Btn_3
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 07 00 00 00
 #
-name: BTN_4
+name: Btn_4
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 08 00 00 00
 #
-name: BTN_5
+name: Btn_5
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 09 00 00 00
 #
-name: BTN_6
+name: Btn_6
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0B 00 00 00
 #
-name: BTN_7
+name: Btn_7
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0C 00 00 00
 #
-name: BTN_8
+name: Btn_8
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0D 00 00 00
 #
-name: BTN_9
+name: Btn_9
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0E 00 00 00
 #
-name: BTN_MUTE
+name: Btn_mute
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 0F 00 00 00
 #
-name: BTN_CH-
+name: Btn_ch-
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 10 00 00 00
 #
-name: BTN_0
+name: Btn_0
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 11 00 00 00
 #
-name: BTN_CH+
+name: Btn_ch+
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 12 00 00 00
 #
-name: BTN_PRE_CH
+name: Btn_pre_ch
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 13 00 00 00
 #
-name: BTN_GREEN
+name: Btn_green
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 14 00 00 00
 #
-name: BTN_YELLOW
+name: Btn_yellow
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 15 00 00 00
 #
-name: BTN_BLUE
+name: Btn_blue
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 16 00 00 00
 #
-name: BTN_MENU
+name: Btn_menu
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1A 00 00 00
 #
-name: BTN_TV
+name: Btn_tv
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1B 00 00 00
 #
-name: BTN_INFO
+name: Btn_info
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 1F 00 00 00
 #
-name: BTN_MINUS
+name: Btn_minus
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 23 00 00 00
 #
-name: BTN_CC
+name: Btn_cc
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 25 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 2D 00 00 00
 #
-name: BTN_PSIZE
+name: Btn_psize
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 3E 00 00 00
 #
-name: BTN_FAV_CH
+name: Btn_fav_ch
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 44 00 00 00
 #
-name: BTN_TOOLS
+name: Btn_tools
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 4B 00 00 00
 #
-name: BTN_GUIDE
+name: Btn_guide
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 4F 00 00 00
 #
-name: BTN_RETURN
+name: Btn_return
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 58 00 00 00
 #
-name: BTN_UP
+name: Btn_up
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 60 00 00 00
 #
-name: BTN_DOWN
+name: Btn_down
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 61 00 00 00
 #
-name: BTN_RIGHT
+name: Btn_right
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 62 00 00 00
 #
-name: BTN_LEFT
+name: Btn_left
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 65 00 00 00
 #
-name: BTN_ENTER
+name: Btn_enter
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 68 00 00 00
 #
-name: BTN_CH_LIST
+name: Btn_ch_list
 type: parsed
 protocol: NECext
 address: 07 07 00 00
 command: 6B 00 00 00
 #
-name: BTN_RED
+name: Btn_red
 type: parsed
 protocol: NECext
 address: 07 07 00 00

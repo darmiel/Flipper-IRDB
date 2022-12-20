@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 07 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0A 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0B 00 00 00
 #
-name: TUNING/_PRESET_UP
+name: Tuning/_preset_up
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0C 00 00 00
 #
-name: PRESET+
+name: Preset+
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0C 00 00 00
 #
-name: PRESET_+
+name: Preset_+
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0C 00 00 00
 #
-name: TUNING/_PRESET_DOWN
+name: Tuning/_preset_down
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0D 00 00 00
 #
-name: PRESET-
+name: Preset-
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0D 00 00 00
 #
-name: PRESET_-
+name: Preset_-
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0D 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0E 00 00 00
 #
-name: PRRESET_SELECT
+name: Prreset_select
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0F 00 00 00
 #
-name: PRESET_SELECT
+name: Preset_select
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 0F 00 00 00
 #
-name: DIRECT
+name: Direct
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 10 00 00 00
 #
-name: FM_MODE
+name: Fm_mode
 type: parsed
 protocol: NECext
 address: 81 73 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 81 73 00 00
 command: 16 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 81 73 00 00
@@ -151,43 +151,43 @@ protocol: NECext
 address: 81 73 00 00
 command: 1F 00 00 00
 #
-name: AM
+name: Am
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 4A 00 00 00
 #
-name: FM
+name: Fm
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 4B 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 4E 00 00 00
 #
-name: DIRECT
+name: Direct
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 50 00 00 00
 #
-name: FM_MODE
+name: Fm_mode
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 51 00 00 00
 #
-name: PWR_ON
+name: Pwr_on
 type: parsed
 protocol: NECext
 address: 81 73 00 00
 command: 53 00 00 00
 #
-name: PWR_OFF
+name: Pwr_off
 type: parsed
 protocol: NECext
 address: 81 73 00 00

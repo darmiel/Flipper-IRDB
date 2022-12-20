@@ -1,169 +1,169 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TUNER_NEW_TUNE_UP
+name: Tuner_new_tune_up
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 90 00 00 00
 #
-name: TUNER_NEW_TUNE_DOWN
+name: Tuner_new_tune_down
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 91 00 00 00
 #
-name: TUNER_NEW_PRESET_UP
+name: Tuner_new_preset_up
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 92 00 00 00
 #
-name: TUNER_NEW_PRESET_DOWN
+name: Tuner_new_preset_down
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 93 00 00 00
 #
-name: TUNER_NEW_SHIFT
+name: Tuner_new_shift
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 94 00 00 00
 #
-name: TUNER_NEW_BAND_TOGGLE_AM/FM
+name: Tuner_new_band_toggle_am/fm
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 98 00 00 00
 #
-name: TUNER_NEW_BAND_FM
+name: Tuner_new_band_fm
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 99 00 00 00
 #
-name: TUNER_NEW_BAND_AM
+name: Tuner_new_band_am
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 9A 00 00 00
 #
-name: TUNER_NEW_MODE_TOGGLE_AUTO/MANUAL
+name: Tuner_new_mode_toggle_auto/manual
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: 9C 00 00 00
 #
-name: TUNER_NEW_MEMORY
+name: Tuner_new_memory
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: A0 00 00 00
 #
-name: TUNER_NEW_SEARCH/RDS
+name: Tuner_new_search/rds
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: A3 00 00 00
 #
-name: TUNER_NEW_RT
+name: Tuner_new_rt
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: A6 00 00 00
 #
-name: TUNER_NEW_PTY
+name: Tuner_new_pty
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: A9 00 00 00
 #
-name: TUNER_NEW_PRESET_1
+name: Tuner_new_preset_1
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: B0 00 00 00
 #
-name: TUNER_NEW_PRESET_2
+name: Tuner_new_preset_2
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: B1 00 00 00
 #
-name: TUNER_NEW_PRESET_3
+name: Tuner_new_preset_3
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: B2 00 00 00
 #
-name: TUNER_NEW_PRESET_4
+name: Tuner_new_preset_4
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: B3 00 00 00
 #
-name: TUNER_NEW_PRESET_5
+name: Tuner_new_preset_5
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: B4 00 00 00
 #
-name: TUNER_NEW_PRESET_6
+name: Tuner_new_preset_6
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: B5 00 00 00
 #
-name: TUNER_NEW_PRESET_7
+name: Tuner_new_preset_7
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: B6 00 00 00
 #
-name: TUNER_NEW_PRESET_8
+name: Tuner_new_preset_8
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: B7 00 00 00
 #
-name: TUNER_NEW_SHIFT_A
+name: Tuner_new_shift_a
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: F8 00 00 00
 #
-name: TUNER_NEW_SHIFT_B
+name: Tuner_new_shift_b
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: F9 00 00 00
 #
-name: TUNER_NEW_SHIFT_C
+name: Tuner_new_shift_c
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: FA 00 00 00
 #
-name: TUNER_NEW_SHIFT_D
+name: Tuner_new_shift_d
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: FB 00 00 00
 #
-name: TUNER_NEW_SHIFT_E
+name: Tuner_new_shift_e
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: FC 00 00 00
 #
-name: TUNER_NEW_SHIFT_F
+name: Tuner_new_shift_f
 type: parsed
 protocol: NECext
 address: 04 02 00 00
 command: FD 00 00 00
 #
-name: TUNER_NEW_SHIFT_G
+name: Tuner_new_shift_g
 type: parsed
 protocol: NECext
 address: 04 02 00 00

@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHAPTER_DN
+name: Chapter_dn
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 02 00 00 00
 #
-name: CHAPTER_UP
+name: Chapter_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 03 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -31,31 +31,31 @@ protocol: NECext
 address: 7C 00 00 00
 command: 07 00 00 00
 #
-name: STILL_DN
+name: Still_dn
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 0A 00 00 00
 #
-name: STILL_UP
+name: Still_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 0B 00 00 00
 #
-name: MULTI_DN
+name: Multi_dn
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 0E 00 00 00
 #
-name: MULTI_UP
+name: Multi_up
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 0F 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -115,25 +115,25 @@ protocol: NECext
 address: 7C 00 00 00
 command: 1F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 47 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 49 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
 command: 5A 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 7C 00 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 7C 00 00 00
 command: 5D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 7C 00 00 00

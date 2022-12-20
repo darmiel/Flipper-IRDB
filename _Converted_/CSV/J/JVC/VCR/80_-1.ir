@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV_CANCEL(CRESET/CH)
+name: Tv_cancel(creset/ch)
 type: parsed
 protocol: NECext
 address: 50 00 00 00

@@ -70,7 +70,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 8F 70 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -88,13 +88,13 @@ protocol: NECext
 address: FF 00 00 00
 command: B5 4A 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 25 DA 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FF 00 00 00
 command: BD 42 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00

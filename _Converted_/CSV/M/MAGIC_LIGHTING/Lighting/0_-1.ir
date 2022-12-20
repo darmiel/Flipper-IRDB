@@ -1,25 +1,25 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BRIGHT-
+name: Bright-
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 04 00 00 00
 #
-name: BRIGHT+
+name: Bright+
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 05 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 06 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -67,7 +67,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 0E 00 00 00
 #
-name: FLASH
+name: Flash
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -91,7 +91,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 12 00 00 00
 #
-name: SMOOTH
+name: Smooth
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 16 00 00 00
 #
-name: STROBE
+name: Strobe
 type: parsed
 protocol: NECext
 address: 00 00 00 00
@@ -139,7 +139,7 @@ protocol: NECext
 address: 00 00 00 00
 command: 1A 00 00 00
 #
-name: FADE
+name: Fade
 type: parsed
 protocol: NECext
 address: 00 00 00 00

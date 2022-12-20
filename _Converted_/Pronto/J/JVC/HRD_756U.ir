@@ -1,61 +1,61 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 281 1841 256 767 256 767 256 767 256 767 256 1841 256 1841 256 767 256 767 256 767 256 11252
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 256 1816 256 767 256 767 256 1816 256 1816 256 767 256 767 256 767 256 767 256 767 256 11252
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 281 1841 256 767 256 767 256 1841 256 767 256 1841 256 1841 256 767 256 767 256 767 256 10203
 #
-name: REW
+name: Rew
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 281 1841 256 767 256 767 256 1841 256 1841 256 1841 256 767 256 767 256 767 256 767 256 10229
 #
-name: FFWD
+name: Ffwd
 type: raw
 frequency: 39478
 duty_cycle: 0.330000
 data: 279 1824 253 760 253 760 253 760 253 1824 253 1824 253 760 253 760 253 760 253 760 253 11247
 #
-name: R_SRCH
+name: R_srch
 type: raw
 frequency: 39478
 duty_cycle: 0.330000
 data: 279 1824 253 760 253 760 253 1824 253 760 253 1824 253 760 253 1824 253 760 253 760 253 10208
 #
-name: F_SRCH
+name: F_srch
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 281 1816 256 767 256 767 256 767 256 767 256 1816 256 767 256 1816 256 767 256 767 256 11252
 #
-name: ENTER
+name: Enter
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 281 1816 256 767 256 767 256 767 256 1816 256 1816 256 1816 256 767 256 767 256 1816 256 9155
 #
-name: POWER
+name: Power
 type: raw
 frequency: 39478
 duty_cycle: 0.330000
 data: 279 1824 253 760 253 760 253 1824 253 1824 253 760 253 1824 253 760 253 760 253 760 253 10208
 #
-name: TV/VCR
+name: Tv/vcr
 type: raw
 frequency: 39478
 duty_cycle: 0.330000
@@ -121,43 +121,43 @@ frequency: 40244
 duty_cycle: 0.330000
 data: 273 1839 248 795 248 795 248 1839 248 1839 248 1839 248 1839 248 795 248 795 248 1839 248 8101
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 39478
 duty_cycle: 0.330000
 data: 279 1824 253 760 253 760 253 1824 253 760 253 760 253 1824 253 1824 253 760 253 760 253 10208
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 39857
 duty_cycle: 0.330000
 data: 276 1806 251 778 251 778 251 778 251 778 251 778 251 1806 251 1806 251 778 251 778 251 11265
 #
-name: RECORD
+name: Record
 type: raw
 frequency: 39478
 duty_cycle: 0.330000
 data: 279 1824 253 760 253 760 253 760 253 760 253 1824 253 1824 253 760 253 1824 253 1824 253 9144
 #
-name: PROG
+name: Prog
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 281 1816 256 767 256 767 256 1816 256 1816 256 1816 256 767 256 767 256 767 256 1816 256 9155
 #
-name: CANCEL
+name: Cancel
 type: raw
 frequency: 39105
 duty_cycle: 0.330000
 data: 281 1816 256 793 256 767 256 767 256 1816 256 1816 256 767 256 767 256 767 256 1816 256 10229
 #
-name: SP/EP
+name: Sp/ep
 type: raw
 frequency: 39478
 duty_cycle: 0.330000
 data: 279 1824 253 760 253 760 253 1824 253 760 253 760 253 760 253 760 253 760 253 1824 253 11247
 #
-name: AM/PM
+name: Am/pm
 type: raw
 frequency: 39478
 duty_cycle: 0.330000

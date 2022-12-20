@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 00 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 01 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 03 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 04 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 05 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 06 00 00 00
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 08 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 09 00 00 00
 #
-name: VCR_V
+name: Vcr_v
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0A 00 00 00
 #
-name: COUNT._MEM.
+name: Count._mem.
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0B 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0C 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0D 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 0E 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 19 00 00 00
@@ -145,55 +145,55 @@ protocol: NECext
 address: 19 00 00 00
 command: 1A 00 00 00
 #
-name: SET_+_/_SHIFT_+
+name: Set_+_/_shift_+
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 1E 00 00 00
 #
-name: TIMER_MODE
+name: Timer_mode
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 82 00 00 00
 #
-name: TIMER_RECORD
+name: Timer_record
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 83 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 84 00 00 00
 #
-name: TIMER/COUNTER
+name: Timer/counter
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 85 00 00 00
 #
-name: SET_-_/_SHIFT_-
+name: Set_-_/_shift_-
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 88 00 00 00
 #
-name: DIGITAL_MEM.
+name: Digital_mem.
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 90 00 00 00
 #
-name: STROBE
+name: Strobe
 type: parsed
 protocol: NECext
 address: 19 00 00 00
 command: 9A 00 00 00
 #
-name: DIGITAL_NR
+name: Digital_nr
 type: parsed
 protocol: NECext
 address: 19 00 00 00

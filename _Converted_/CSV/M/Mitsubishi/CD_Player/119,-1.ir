@@ -13,25 +13,25 @@ protocol: NECext
 address: 77 00 00 00
 command: C1 00 00 00
 #
-name: DISC_^
+name: Disc_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C3 00 00 00
 #
-name: DISC
+name: Disc
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C3 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: C4 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -49,31 +49,31 @@ protocol: NECext
 address: 77 00 00 00
 command: C9 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: CA 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: CA 00 00 00
 #
-name: FF_>>
+name: Ff_>>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: CA 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: CB 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 77 00 00 00
 command: CE 00 00 00
 #
-name: INDEX
+name: Index
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -97,49 +97,49 @@ protocol: NECext
 address: 77 00 00 00
 command: D0 00 00 00
 #
-name: REVERSE
+name: Reverse
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D2 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D2 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D2 00 00 00
 #
-name: DISC_1
+name: Disc_1
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D3 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D4 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D4 00 00 00
 #
-name: DISC_V
+name: Disc_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: D6 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -151,25 +151,25 @@ protocol: NECext
 address: 77 00 00 00
 command: D8 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: DB 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: DC 00 00 00
 #
-name: PAUSE_
+name: Pause_
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: DC 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -181,19 +181,19 @@ protocol: NECext
 address: 77 00 00 00
 command: E0 00 00 00
 #
-name: DISC_2
+name: Disc_2
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: E3 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: E4 00 00 00
 #
-name: FS_(FWD_SRCH)_>>
+name: Fs_(fwd_srch)_>>
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -205,31 +205,31 @@ protocol: NECext
 address: 77 00 00 00
 command: E8 00 00 00
 #
-name: DISC_3
+name: Disc_3
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: EB 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: EC 00 00 00
 #
-name: RS_(REV_SRCH)_<<
+name: Rs_(rev_srch)_<<
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: EC 00 00 00
 #
-name: INTRO_SCAN
+name: Intro_scan
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: EE 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -241,25 +241,25 @@ protocol: NECext
 address: 77 00 00 00
 command: F0 00 00 00
 #
-name: DISC_4
+name: Disc_4
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: F3 00 00 00
 #
-name: ADJUST_^
+name: Adjust_^
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: F4 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: F5 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 77 00 00 00
@@ -271,25 +271,25 @@ protocol: NECext
 address: 77 00 00 00
 command: F8 00 00 00
 #
-name: DISC_5
+name: Disc_5
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: FB 00 00 00
 #
-name: ADJUST_V
+name: Adjust_v
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: FC 00 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: 77 00 00 00
 command: FE 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 77 00 00 00

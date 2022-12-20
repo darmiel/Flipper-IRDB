@@ -13,109 +13,109 @@ protocol: NECext
 address: 1A E9 00 00
 command: 12 00 00 00
 #
-name: REAR_BAL_L
+name: Rear_bal_l
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 26 00 00 00
 #
-name: REAR_BAL_R
+name: Rear_bal_r
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 27 00 00 00
 #
-name: BYPASS
+name: Bypass
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 32 00 00 00
 #
-name: MENU_+
+name: Menu_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 38 00 00 00
 #
-name: OFF
+name: Off
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 38 00 00 00
 #
-name: DOLBY_SURROUND
+name: Dolby_surround
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 3D 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 3E 00 00 00
 #
-name: EFFECT_+
+name: Effect_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 42 00 00 00
 #
-name: EFFECT_-
+name: Effect_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 43 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4B 00 00 00
 #
-name: FRONT_BAL_L
+name: Front_bal_l
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4C 00 00 00
 #
-name: FRONT_BAL_R
+name: Front_bal_r
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4D 00 00 00
 #
-name: REAR_+
+name: Rear_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4E 00 00 00
 #
-name: REAR_-
+name: Rear_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 4F 00 00 00
 #
-name: CENTER_+
+name: Center_+
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 54 00 00 00
 #
-name: CENTER_-
+name: Center_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 55 00 00 00
 #
-name: SUBWOOFER_-
+name: Subwoofer_-
 type: parsed
 protocol: NECext
 address: 1A E9 00 00
 command: 57 00 00 00
 #
-name: MENU_DWN
+name: Menu_dwn
 type: parsed
 protocol: NECext
 address: 1A E9 00 00

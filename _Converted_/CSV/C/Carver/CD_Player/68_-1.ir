@@ -67,151 +67,151 @@ protocol: NECext
 address: 44 00 00 00
 command: 0A 00 00 00
 #
-name: DISPLAY_ON/OFF
+name: Display_on/off
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0B 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0C 00 00 00
 #
-name: PROGRAM
+name: Program
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0D 00 00 00
 #
-name: CALL
+name: Call
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0E 00 00 00
 #
-name: INTRO
+name: Intro
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 0F 00 00 00
 #
-name: SKIP_<<
+name: Skip_<<
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 10 00 00 00
 #
-name: SKIP_>>
+name: Skip_>>
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 11 00 00 00
 #
-name: A_->_B
+name: A_->_b
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 13 00 00 00
 #
-name: RANDOM
+name: Random
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 14 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 15 00 00 00
 #
-name: STOP_[]
+name: Stop_[]
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 17 00 00 00
 #
-name: PLAY_>
+name: Play_>
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 18 00 00 00
 #
-name: AUTO_SPACE
+name: Auto_space
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 19 00 00 00
 #
-name: SEARCH_<<
+name: Search_<<
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 1B 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 1E 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 40 00 00 00
 #
-name: SEARCH_>>
+name: Search_>>
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 42 00 00 00
 #
-name: NORMAL
+name: Normal
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 43 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 44 00 00 00
 #
-name: DISC_SKIP
+name: Disc_skip
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 45 00 00 00
 #
-name: DISC_SELECTOR_1
+name: Disc_selector_1
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 46 00 00 00
 #
-name: DISC_SELECTOR_2
+name: Disc_selector_2
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 47 00 00 00
 #
-name: DISC_SELECTOR_3
+name: Disc_selector_3
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 48 00 00 00
 #
-name: DISC_SELECTOR_4
+name: Disc_selector_4
 type: parsed
 protocol: NECext
 address: 44 00 00 00
 command: 49 00 00 00
 #
-name: DISC_SELECTOR_5
+name: Disc_selector_5
 type: parsed
 protocol: NECext
 address: 44 00 00 00

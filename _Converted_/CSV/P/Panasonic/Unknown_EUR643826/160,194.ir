@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: cdstop
+name: Cdstop
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 80 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 81 00 00 00
 #
-name: random
+name: Random
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 82 00 00 00
 #
-name: cdhome
+name: Cdhome
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 84 00 00 00
 #
-name: cdend
+name: Cdend
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 85 00 00 00
 #
-name: cdplaypause
+name: Cdplaypause
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 87 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: 8F 00 00 00
 #
-name: tapestop
+name: Tapestop
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A0 00 00 00
 #
-name: taperew
+name: Taperew
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A2 00 00 00
 #
-name: tapeff
+name: Tapeff
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A3 00 00 00
 #
-name: tapeplay
+name: Tapeplay
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: A6 00 00 00
 #
-name: deck12
+name: Deck12
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AD 00 00 00
 #
-name: revmode
+name: Revmode
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AE 00 00 00
 #
-name: creset
+name: Creset
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: AF 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B0 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B1 00 00 00
 #
-name: band
+name: Band
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: B8 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BC 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: BF 00 00 00
 #
-name: preseteq
+name: Preseteq
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: D9 00 00 00
 #
-name: virtualizer
+name: Virtualizer
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: DA 00 00 00
 #
-name: stmonobp
+name: Stmonobp
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E4 00 00 00
 #
-name: tune
+name: Tune
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E7 00 00 00
 #
-name: preset
+name: Preset
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: E8 00 00 00
 #
-name: panelopen
+name: Panelopen
 type: parsed
 protocol: NECext
 address: A0 C2 00 00
 command: F4 00 00 00
 #
-name: panelclose
+name: Panelclose
 type: parsed
 protocol: NECext
 address: A0 C2 00 00

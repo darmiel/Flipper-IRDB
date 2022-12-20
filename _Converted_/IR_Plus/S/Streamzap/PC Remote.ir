@@ -70,7 +70,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 1776 888 888 1776 1776 888 888 1776 888 88113
 #
-name: Chan +
+name: Chan_+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -82,13 +82,13 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 89000
 #
-name: Vol +
+name: Vol_+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 1776 888 888 1776 888 888 1776 1776 888 88113
 #
-name: Chan -
+name: Chan_-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -100,7 +100,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 1776 1776 1776 888 888 888 888 888 888 89000
 #
-name: Vol -
+name: Vol_-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -112,7 +112,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 1776 1776 888 888 888 888 1776 888 888 1776 1776 1776 888 888 888 888 1776 888 88113
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38000
 duty_cycle: 0.33

@@ -1,391 +1,391 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AUDIO_ARC
+name: Audio_arc
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: AUDYSSEY_OFF
+name: Audyssey_off
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: AUDYSSEY_ON
+name: Audyssey_on
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DOLBY_VOL_HIGH
+name: Dolby_vol_high
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DOLBY_VOL_LOW
+name: Dolby_vol_low
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DOLBY_VOL_MID
+name: Dolby_vol_mid
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DOLBY_VOL_OFF
+name: Dolby_vol_off
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DOLBY_VOL_WRAP
+name: Dolby_vol_wrap
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DYMANIC_EQ_ON
+name: Dymanic_eq_on
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DYNAMIC_EQ_OFF
+name: Dynamic_eq_off
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DYNAMIC_EQ_WRAP
+name: Dynamic_eq_wrap
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DYNAMIC_VOLUME_HEAVY
+name: Dynamic_volume_heavy
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DYNAMIC_VOLUME_LIGHT
+name: Dynamic_volume_light
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DYNAMIC_VOLUME_MEDIU
+name: Dynamic_volume_mediu
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DYNAMIC_VOLUME_OFF
+name: Dynamic_volume_off
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: DYNAMIC_VOLUME_WRAP
+name: Dynamic_volume_wrap
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: HDMI_AUDIO_OUT_OFF
+name: Hdmi_audio_out_off
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: HDMI_AUDIO_OUT_ON
+name: Hdmi_audio_out_on
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: HDMI_AUDIO_OUT_WRAP
+name: Hdmi_audio_out_wrap
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: HDMI_OUT_BOTH
+name: Hdmi_out_both
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: HDMI_OUT_BOTH_MAIN
+name: Hdmi_out_both_main
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: HDMI_OUT_BOTH_SUB
+name: Hdmi_out_both_sub
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: ISF_CINEMA
+name: Isf_cinema
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: ISF_CUSTOM
+name: Isf_custom
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: ISF_DAY
+name: Isf_day
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: ISF_GAME
+name: Isf_game
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: ISF_MODE_WRAP
+name: Isf_mode_wrap
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: ISF_NIGHT
+name: Isf_night
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: ISF_THROUGH
+name: Isf_through
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_AUDYSSEY_DSX
+name: Mode_audyssey_dsx
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_DOLBYEX_AUDY
+name: Mode_dolbyex_audy
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_FULL_MONO
+name: Mode_full_mono
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_GAME_ACTION
+name: Mode_game_action
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_GAME_ROCK
+name: Mode_game_rock
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_GAME_RPG
+name: Mode_game_rpg
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_GAME_SPORTS
+name: Mode_game_sports
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_NEO6_MUSIC_AUDY
+name: Mode_neo6_music_audy
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_NEO6_THX_CINEMA
+name: Mode_neo6_thx_cinema
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_NEO6_THX_MUSIC
+name: Mode_neo6_thx_music
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_NEO6CINEMA_AUDY
+name: Mode_neo6cinema_audy
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_NEURAL_DIGITAL
+name: Mode_neural_digital
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_ORCHESTRA
+name: Mode_orchestra
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_PLLX_GAME_AUDY
+name: Mode_pllx_game_audy
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_PLLX_MOVIE_AUDY
+name: Mode_pllx_movie_audy
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_PLLX_MUSIC_AUDY
+name: Mode_pllx_music_audy
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_PLLZ_H+GAMES
+name: Mode_pllz_h+games
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_PLLZ_H+THXCINEM
+name: Mode_pllz_h+thxcinem
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_PLLZ_H+THXMUSIC
+name: Mode_pllz_h+thxmusic
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_PLLZ_HEIGHT
+name: Mode_pllz_height
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_STUDIO_MIX
+name: Mode_studio_mix
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODE_TV_LOGIC
+name: Mode_tv_logic
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODEPLLZH+THXU2CINEM
+name: Modepllzh+thxu2cinem
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODEPLLZH+THXU2GAMES
+name: Modepllzh+thxu2games
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MODEPLLZH+THXU2MUSIC
+name: Modepllzh+thxu2music
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MUSIC_OPTIMIZER_OFF
+name: Music_optimizer_off
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MUSIC_OPTIMIZER_ON
+name: Music_optimizer_on
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: MUSIC_OPTIMIZER_WRAP
+name: Music_optimizer_wrap
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: WIDE_MODE_4:3
+name: Wide_mode_4:3
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: WIDE_MODE_FULL
+name: Wide_mode_full
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: WIDE_MODE_SMART_ZOOM
+name: Wide_mode_smart_zoom
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: WIDE_MODE_WIDE_ZOOM
+name: Wide_mode_wide_zoom
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: WIDE_MODE_WRAP
+name: Wide_mode_wrap
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: WIDE_MODE_ZOOM
+name: Wide_mode_zoom
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: VOLUME_DOWN_1DB
+name: Volume_down_1db
 type: parsed
 protocol: NECext
 address: D2 1E 00 00
 command: 50 00 00 00
 #
-name: VOLUME_UP_1DB
+name: Volume_up_1db
 type: parsed
 protocol: NECext
 address: D2 1E 00 00

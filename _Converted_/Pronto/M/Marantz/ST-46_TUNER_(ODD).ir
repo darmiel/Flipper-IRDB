@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 888 1776 888 888 1776 888 888 89305
 #
-name: FM/AM
+name: Fm/am
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 88445
 #
-name: DISPLAY
+name: Display
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 888 1776 888 888 888 888 888 888 888 88445
 #
-name: MONO
+name: Mono
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 1776 888 888 1776 1776 1776 888 88417
 #
-name: MEMO
+name: Memo
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
@@ -91,25 +91,25 @@ frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 888 888 888 888 888 888 888 888 888 888 89333
 #
-name: TUNE-
+name: Tune-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 888 888 888 88417
 #
-name: TUNE+
+name: Tune+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 1776 89333
 #
-name: PRESET-
+name: Preset-
 type: raw
 frequency: 36045
 duty_cycle: 0.330000
 data: 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 88445
 #
-name: PRESET+
+name: Preset+
 type: raw
 frequency: 36045
 duty_cycle: 0.330000

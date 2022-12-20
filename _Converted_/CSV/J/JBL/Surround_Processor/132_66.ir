@@ -1,199 +1,199 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SIBILANCE
+name: Sibilance
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 00 00 00 00
 #
-name: 70_MM_MOVIE
+name: 70_mm_movie
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 02 00 00 00
 #
-name: ROCK
+name: Rock
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 03 00 00 00
 #
-name: THEATER_EQ.
+name: Theater_eq.
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 04 00 00 00
 #
-name: 35_MM_MOVIE
+name: 35_mm_movie
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 06 00 00 00
 #
-name: POP
+name: Pop
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 07 00 00 00
 #
-name: EFX_MUTE
+name: Efx_mute
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 08 00 00 00
 #
-name: THX
+name: Thx
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0A 00 00 00
 #
-name: JAZZ
+name: Jazz
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0B 00 00 00
 #
-name: DOLBY
+name: Dolby
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0E 00 00 00
 #
-name: HALL_1
+name: Hall_1
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 0F 00 00 00
 #
-name: MONO_ENHANCE
+name: Mono_enhance
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 12 00 00 00
 #
-name: HALL_2
+name: Hall_2
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 13 00 00 00
 #
-name: AMBIENCE_+
+name: Ambience_+
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 18 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 19 00 00 00
 #
-name: CENTER_^
+name: Center_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 40 00 00 00
 #
-name: INPUT_CALIBRATE_<
+name: Input_calibrate_<
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 41 00 00 00
 #
-name: CENTER_V
+name: Center_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 43 00 00 00
 #
-name: SOURCE_^
+name: Source_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 44 00 00 00
 #
-name: AUTO
+name: Auto
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 45 00 00 00
 #
-name: SOURCE_V
+name: Source_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 47 00 00 00
 #
-name: DELAY_^
+name: Delay_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 48 00 00 00
 #
-name: INPUT_CALIBRATE_>
+name: Input_calibrate_>
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 49 00 00 00
 #
-name: DELAY_V
+name: Delay_v
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4B 00 00 00
 #
-name: CENTER_ON
+name: Center_on
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4C 00 00 00
 #
-name: CENTER_+3DB
+name: Center_+3db
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 4F 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 50 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 51 00 00 00
 #
-name: DIM.DISPLAY
+name: Dim.display
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 53 00 00 00
 #
-name: REF.
+name: Ref.
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 56 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 58 00 00 00
 #
-name: AMBIENCE_-
+name: Ambience_-
 type: parsed
 protocol: NECext
 address: 84 42 00 00
 command: 5A 00 00 00
 #
-name: SOUND_STAGE
+name: Sound_stage
 type: parsed
 protocol: NECext
 address: 84 42 00 00

@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ON/STAND-BY
+name: On/stand-by
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 0D 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 10 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 11 00 00 00
 #
-name: INPUT_+
+name: Input_+
 type: parsed
 protocol: NECext
 address: 10 00 00 00
 command: 20 00 00 00
 #
-name: INPUT_-
+name: Input_-
 type: parsed
 protocol: NECext
 address: 10 00 00 00

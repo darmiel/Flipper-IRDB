@@ -61,91 +61,91 @@ protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0C 00 00 00
 #
-name: key
+name: Key
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 10 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: pgm
+name: Pgm
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 13 00 00 00
 #
-name: tune_up
+name: Tune_up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 14 00 00 00
 #
-name: tune_down
+name: Tune_down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: envelope
+name: Envelope
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1E 00 00 00
 #
-name: preset_up
+name: Preset_up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 20 00 00 00
 #
-name: preset_down
+name: Preset_down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 21 00 00 00
 #
-name: timer
+name: Timer
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 24 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 07 00 00 00

@@ -1,253 +1,253 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 00 00 00 00
 #
-name: turntable-stop
+name: Turntable-stop
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 01 00 00 00
 #
-name: turntable-play
+name: Turntable-play
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 02 00 00 00
 #
-name: tuner-shift
+name: Tuner-shift
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 03 00 00 00
 #
-name: vid-sound-select
+name: Vid-sound-select
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 07 00 00 00
 #
-name: tuner-1/9
+name: Tuner-1/9
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 08 00 00 00
 #
-name: tuner-2/10
+name: Tuner-2/10
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 09 00 00 00
 #
-name: tuner-3/11
+name: Tuner-3/11
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 0A 00 00 00
 #
-name: tuner-4/12
+name: Tuner-4/12
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 0B 00 00 00
 #
-name: tuner-5/13
+name: Tuner-5/13
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 0C 00 00 00
 #
-name: tuner-6/14
+name: Tuner-6/14
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 0D 00 00 00
 #
-name: tuner-7/15
+name: Tuner-7/15
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 0E 00 00 00
 #
-name: tuner-8/16
+name: Tuner-8/16
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 0F 00 00 00
 #
-name: cas-A-rew
+name: Cas-a-rew
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 10 00 00 00
 #
-name: cas-A-ff
+name: Cas-a-ff
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 11 00 00 00
 #
-name: cas-A-play-reverse
+name: Cas-a-play-reverse
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 12 00 00 00
 #
-name: cas-A-play-front
+name: Cas-a-play-front
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 13 00 00 00
 #
-name: cas-A-record
+name: Cas-a-record
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 18 00 00 00
 #
-name: cas-A-pause
+name: Cas-a-pause
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 19 00 00 00
 #
-name: cas-A-stop
+name: Cas-a-stop
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 1A 00 00 00
 #
-name: cas-B-stop
+name: Cas-b-stop
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 1B 00 00 00
 #
-name: cas-B-rew
+name: Cas-b-rew
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 1C 00 00 00
 #
-name: cas-B-ff
+name: Cas-b-ff
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 1D 00 00 00
 #
-name: cas-B-play-reverse
+name: Cas-b-play-reverse
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 1E 00 00 00
 #
-name: cas-B-play-front
+name: Cas-b-play-front
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 1F 00 00 00
 #
-name: cdp-prev
+name: Cdp-prev
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 40 00 00 00
 #
-name: cdp-next
+name: Cdp-next
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 41 00 00 00
 #
-name: cdp-stop
+name: Cdp-stop
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 42 00 00 00
 #
-name: cdp-play
+name: Cdp-play
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 43 00 00 00
 #
-name: cdp-pause
+name: Cdp-pause
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 44 00 00 00
 #
-name: cdp-repeat
+name: Cdp-repeat
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 45 00 00 00
 #
-name: tape-monitor
+name: Tape-monitor
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 47 00 00 00
 #
-name: eq-select-1
+name: Eq-select-1
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 48 00 00 00
 #
-name: eq-select-2
+name: Eq-select-2
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 49 00 00 00
 #
-name: eq-select-3
+name: Eq-select-3
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 4A 00 00 00
 #
-name: eq-select-4
+name: Eq-select-4
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 4B 00 00 00
 #
-name: input-select-vcr
+name: Input-select-vcr
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 59 00 00 00
 #
-name: input-select-tv
+name: Input-select-tv
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 5A 00 00 00
 #
-name: input-select-vid2
+name: Input-select-vid2
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 5B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 5D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 81 7B 00 00
 command: 5E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 81 7B 00 00

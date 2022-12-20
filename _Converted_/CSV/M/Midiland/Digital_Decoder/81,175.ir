@@ -1,127 +1,127 @@
 Filetype: IR signals file
 Version: 1
 #
-name: FUNCTION
+name: Function
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 02 00 00 00
 #
-name: TEST_TONE
+name: Test_tone
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 03 00 00 00
 #
-name: SPEAKER_SETUP
+name: Speaker_setup
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 04 00 00 00
 #
-name: FRONT
+name: Front
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 05 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 08 00 00 00
 #
-name: REAR
+name: Rear
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 09 00 00 00
 #
-name: FL_VOL
+name: Fl_vol
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 0A 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 0C 00 00 00
 #
-name: CENTRE
+name: Centre
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 0D 00 00 00
 #
-name: RL_VOL
+name: Rl_vol
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 0E 00 00 00
 #
-name: SW_VOL
+name: Sw_vol
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 0F 00 00 00
 #
-name: FR_VOL
+name: Fr_vol
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 10 00 00 00
 #
-name: SUB
+name: Sub
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 11 00 00 00
 #
-name: RR_VOL
+name: Rr_vol
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 12 00 00 00
 #
-name: C_VOL
+name: C_vol
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 14 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 15 00 00 00
 #
-name: SURROUND_MODE
+name: Surround_mode
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 19 00 00 00
 #
-name: VOLUME_SETUP
+name: Volume_setup
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 51 AF 00 00
 command: 1C 00 00 00
 #
-name: INPUT
+name: Input
 type: parsed
 protocol: NECext
 address: 51 AF 00 00

@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 00 10 00 00
@@ -67,73 +67,73 @@ protocol: NECext
 address: 00 10 00 00
 command: 0C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 0E 00 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 0F 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 10 00 00 00
 #
-name: PIL_UPP
+name: Pil_upp
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 11 00 00 00
 #
-name: NSTER
+name: Nster
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 12 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 13 00 00 00
 #
-name: GER
+name: Ger
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 14 00 00 00
 #
-name: PIL_NER
+name: Pil_ner
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 15 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 18 00 00 00
 #
-name: GUL
+name: Gul
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 1A 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 00 10 00 00
@@ -157,19 +157,19 @@ protocol: NECext
 address: 00 10 00 00
 command: 1E 00 00 00
 #
-name: VOLYM+
+name: Volym+
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 1F 00 00 00
 #
-name: VOLYM-
+name: Volym-
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 40 00 00 00
 #
-name: BACK
+name: Back
 type: parsed
 protocol: NECext
 address: 00 10 00 00
@@ -181,13 +181,13 @@ protocol: NECext
 address: 00 10 00 00
 command: 43 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 4D 00 00 00
 #
-name: STOP_TEXT_/_WIDE
+name: Stop_text_/_wide
 type: parsed
 protocol: NECext
 address: 00 10 00 00
@@ -199,25 +199,25 @@ protocol: NECext
 address: 00 10 00 00
 command: 65 00 00 00
 #
-name: STOR_TEXT
+name: Stor_text
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 69 00 00 00
 #
-name: TEXT_?
+name: Text_?
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 6A 00 00 00
 #
-name: HALV_TEXT
+name: Halv_text
 type: parsed
 protocol: NECext
 address: 00 10 00 00
 command: 6C 00 00 00
 #
-name: TEXT_ON_OFF
+name: Text_on_off
 type: parsed
 protocol: NECext
 address: 00 10 00 00

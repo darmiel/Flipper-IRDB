@@ -1,133 +1,133 @@
 Filetype: IR signals file
 Version: 1
 #
-name: hcent-plus
+name: Hcent-plus
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 0C 00 00 00
 #
-name: hcent-min
+name: Hcent-min
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 0D 00 00 00
 #
-name: vcent-plus
+name: Vcent-plus
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 0E 00 00 00
 #
-name: vcent-min
+name: Vcent-min
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 0F 00 00 00
 #
-name: tilt-right
+name: Tilt-right
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 10 00 00 00
 #
-name: tilt-left
+name: Tilt-left
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 11 00 00 00
 #
-name: contr-plus
+name: Contr-plus
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 18 00 00 00
 #
-name: contr-min
+name: Contr-min
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 19 00 00 00
 #
-name: bright-plus
+name: Bright-plus
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 1E 00 00 00
 #
-name: bright-min
+name: Bright-min
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 1F 00 00 00
 #
-name: hsize-plus
+name: Hsize-plus
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 26 00 00 00
 #
-name: hsize-min
+name: Hsize-min
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 27 00 00 00
 #
-name: vsize-plus
+name: Vsize-plus
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 28 00 00 00
 #
-name: vsize-min
+name: Vsize-min
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 29 00 00 00
 #
-name: hstat-plus
+name: Hstat-plus
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 2A 00 00 00
 #
-name: hstat-min
+name: Hstat-min
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 2B 00 00 00
 #
-name: vstat-plus
+name: Vstat-plus
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 2C 00 00 00
 #
-name: vstat-min
+name: Vstat-min
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 2D 00 00 00
 #
-name: color-h
+name: Color-h
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 3B 00 00 00
 #
-name: color-m
+name: Color-m
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 3C 00 00 00
 #
-name: color-l
+name: Color-l
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 3D 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 1A 09 00 00

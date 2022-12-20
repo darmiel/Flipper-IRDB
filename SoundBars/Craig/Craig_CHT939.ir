@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 # 
-name: POWERToggle
+name: Powertoggle
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 12 00 00 00
 # 
-name: VolumeUp
+name: Volumeup
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1F 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 09 00 00 00
 # 
-name: VolumeMute
+name: Volumemute
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1E 00 00 00
 # 
-name: PrevTrack
+name: Prevtrack
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 02 00 00 00
 # 
-name: Play_Pause
+name: Play_pause
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 06 00 00 00
 # 
-name: EQ
+name: Eq
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 03 00 00 00
 # 
-name: MonoStereo
+name: Monostereo
 type: parsed
 protocol: NEC
 address: 00 00 00 00

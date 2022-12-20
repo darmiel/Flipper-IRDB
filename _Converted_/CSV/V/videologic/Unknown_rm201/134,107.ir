@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: speaker_mode
+name: Speaker_mode
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 01 00 00 00
 #
-name: balance
+name: Balance
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 02 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 03 00 00 00
 #
-name: bass
+name: Bass
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 04 00 00 00
 #
-name: delay
+name: Delay
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 05 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 06 00 00 00
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 08 00 00 00
 #
-name: surround
+name: Surround
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 09 00 00 00
 #
-name: pro_logic_auto_on
+name: Pro_logic_auto_on
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 0A 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 12 00 00 00
 #
-name: test
+name: Test
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 86 6B 00 00
 command: 1E 00 00 00
 #
-name: reset
+name: Reset
 type: parsed
 protocol: NECext
 address: 86 6B 00 00

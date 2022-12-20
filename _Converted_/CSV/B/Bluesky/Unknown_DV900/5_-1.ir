@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 12 00 00 00
 #
-name: PREVIOUS
+name: Previous
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 15 00 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 16 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 17 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 18 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 19 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -55,37 +55,37 @@ protocol: NECext
 address: 05 00 00 00
 command: 1D 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1E 00 00 00
 #
-name: DIRECTORY
+name: Directory
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 1F 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 20 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 21 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 22 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -103,31 +103,31 @@ protocol: NECext
 address: 05 00 00 00
 command: 25 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 26 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 27 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 28 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 29 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -151,25 +151,25 @@ protocol: NECext
 address: 05 00 00 00
 command: 2D 00 00 00
 #
-name: CAMERA
+name: Camera
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 2E 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 30 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 05 00 00 00
 command: 31 00 00 00
 #
-name: FORWARD
+name: Forward
 type: parsed
 protocol: NECext
 address: 05 00 00 00
@@ -193,7 +193,7 @@ protocol: NECext
 address: 05 00 00 00
 command: 35 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 00 00 00

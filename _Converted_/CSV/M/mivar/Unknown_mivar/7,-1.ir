@@ -61,13 +61,13 @@ protocol: NECext
 address: 07 00 00 00
 command: 0E 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -85,13 +85,13 @@ protocol: NECext
 address: 07 00 00 00
 command: 16 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1A 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: 07 00 00 00
 command: 1E 00 00 00
 #
-name: V-M
+name: V-m
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 22 00 00 00
 #
-name: P/C
+name: P/c
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 25 00 00 00
 #
-name: L1-L2
+name: L1-l2
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -139,13 +139,13 @@ protocol: NECext
 address: 07 00 00 00
 command: 2A 00 00 00
 #
-name: TV-TVD
+name: Tv-tvd
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 2B 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -163,7 +163,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 2E 00 00 00
 #
-name: spento
+name: Spento
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 34 00 00 00
 #
-name: AV
+name: Av
 type: parsed
 protocol: NECext
 address: 07 00 00 00

@@ -1,139 +1,139 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TAPE1_FF_>>
+name: Tape1_ff_>>
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 0C 00 00 00
 #
-name: TAPE_FF_>>
+name: Tape_ff_>>
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 0C 00 00 00
 #
-name: TAPE1_FFWD_>>
+name: Tape1_ffwd_>>
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 0C 00 00 00
 #
-name: TAPE1_REW_<<
+name: Tape1_rew_<<
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 0D 00 00 00
 #
-name: TAPE_REW_<<
+name: Tape_rew_<<
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 0D 00 00 00
 #
-name: TAPE1_CUE
+name: Tape1_cue
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 0E 00 00 00
 #
-name: TAPE1_REV_PLAY_<
+name: Tape1_rev_play_<
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 11 00 00 00
 #
-name: TAPE1_REC
+name: Tape1_rec
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 14 00 00 00
 #
-name: TAPE_REC
+name: Tape_rec
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 14 00 00 00
 #
-name: TAPE1_PLAY_>
+name: Tape1_play_>
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 15 00 00 00
 #
-name: TAPE_PLAY_>
+name: Tape_play_>
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 15 00 00 00
 #
-name: TAPE1_PAUSE_
+name: Tape1_pause_
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 16 00 00 00
 #
-name: TAPE_PAUSE_
+name: Tape_pause_
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 16 00 00 00
 #
-name: TAPE1_STOP_[]
+name: Tape1_stop_[]
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 17 00 00 00
 #
-name: TAPE_STOP_[]
+name: Tape_stop_[]
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 17 00 00 00
 #
-name: TAPE2_FFWD_>>
+name: Tape2_ffwd_>>
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 8C 00 00 00
 #
-name: TAPE2_REW_<<
+name: Tape2_rew_<<
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 8D 00 00 00
 #
-name: TAPE2_CUE
+name: Tape2_cue
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 8E 00 00 00
 #
-name: TAPE2_REV_PLAY_<
+name: Tape2_rev_play_<
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 91 00 00 00
 #
-name: TAPE2_REC
+name: Tape2_rec
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 94 00 00 00
 #
-name: TAPE2_PLAY_>
+name: Tape2_play_>
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 95 00 00 00
 #
-name: TAPE2_PAUSE_
+name: Tape2_pause_
 type: parsed
 protocol: NECext
 address: 5C A1 00 00
 command: 96 00 00 00
 #
-name: TAPE2_STOP_[]
+name: Tape2_stop_[]
 type: parsed
 protocol: NECext
 address: 5C A1 00 00

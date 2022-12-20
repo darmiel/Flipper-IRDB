@@ -15,19 +15,19 @@ protocol: NECext
 address: 00 EF 00 00
 command: 1F E0 00 00
 # 
-name: Play_Pause
+name: Play_pause
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 03 FC 00 00
 # 
-name: Vol_Up
+name: Vol_up
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 00 FF 00 00
 # 
-name: Vol_Dwn
+name: Vol_dwn
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -45,7 +45,7 @@ protocol: NECext
 address: 00 EF 00 00
 command: 01 FE 00 00
 # 
-name: USB
+name: Usb
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -57,13 +57,13 @@ protocol: NECext
 address: 00 EF 00 00
 command: 16 E9 00 00
 # 
-name: FM_CH
+name: Fm_ch
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 06 F9 00 00
 # 
-name: CD
+name: Cd
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -75,7 +75,7 @@ protocol: NECext
 address: 00 EF 00 00
 command: 0B F4 00 00
 # 
-name: A_B
+name: A_b
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
@@ -141,37 +141,37 @@ protocol: NECext
 address: 00 EF 00 00
 command: 14 EB 00 00
 # 
-name: AUX
+name: Aux
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 13 EC 00 00
 # 
-name: Top_Left
+name: Top_left
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 1A E5 00 00
 # 
-name: Top_Right
+name: Top_right
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 19 E6 00 00
 # 
-name: Bot_Left
+name: Bot_left
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 18 E7 00 00
 # 
-name: Bot_Right
+name: Bot_right
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 17 E8 00 00
 # 
-name: Bot_Mid
+name: Bot_mid
 type: parsed
 protocol: NECext
 address: 00 EF 00 00

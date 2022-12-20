@@ -1,145 +1,145 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV_1
+name: Tv_1
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 00 00 00 00
 #
-name: TV_9
+name: Tv_9
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 01 00 00 00
 #
-name: TV_POWER
+name: Tv_power
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 02 00 00 00
 #
-name: TV_CANCEL
+name: Tv_cancel
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 07 00 00 00
 #
-name: TV_2
+name: Tv_2
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 08 00 00 00
 #
-name: TV_0
+name: Tv_0
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 09 00 00 00
 #
-name: TV_CHANNEL_^
+name: Tv_channel_^
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 0A 00 00 00
 #
-name: TV_3
+name: Tv_3
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 10 00 00 00
 #
-name: TV_CHANNEL_V
+name: Tv_channel_v
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 12 00 00 00
 #
-name: TV_4
+name: Tv_4
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 18 00 00 00
 #
-name: TV_DISPLAY
+name: Tv_display
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 1B 00 00 00
 #
-name: TV_5
+name: Tv_5
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 20 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 22 00 00 00
 #
-name: TV_6
+name: Tv_6
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 28 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 2A 00 00 00
 #
-name: TV_7
+name: Tv_7
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 30 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 32 00 00 00
 #
-name: TV_ENTER
+name: Tv_enter
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 35 00 00 00
 #
-name: TV_8
+name: Tv_8
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 38 00 00 00
 #
-name: TV_INPUT
+name: Tv_input
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 3A 00 00 00
 #
-name: TV_AUDIO_VIDEO
+name: Tv_audio_video
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 40 00 00 00
 #
-name: TV_JOG/ADJ+(IN_SRCH)
+name: Tv_jog/adj+(in_srch)
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 41 00 00 00
 #
-name: TV_JOG/ADJ-(IN_SRCH)
+name: Tv_jog/adj-(in_srch)
 type: parsed
 protocol: NECext
 address: 47 00 00 00
 command: 49 00 00 00
 #
-name: TV_MENU
+name: Tv_menu
 type: parsed
 protocol: NECext
 address: 47 00 00 00

@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 30 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
@@ -25,37 +25,37 @@ protocol: NECext
 address: 2D 2D 00 00
 command: 33 00 00 00
 #
-name: PROGRAM_+
+name: Program_+
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 34 00 00 00
 #
-name: PROGRAM_-
+name: Program_-
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 35 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 36 00 00 00
 #
-name: PAUSE_REC
+name: Pause_rec
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 38 00 00 00
 #
-name: STOPP
+name: Stopp
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 39 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
@@ -121,121 +121,121 @@ protocol: NECext
 address: 2D 2D 00 00
 command: 44 00 00 00
 #
-name: END
+name: End
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 45 00 00 00
 #
-name: CURSOR_UPP
+name: Cursor_upp
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 47 00 00 00
 #
-name: CURSOR_NER
+name: Cursor_ner
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 48 00 00 00
 #
-name: TITLE_/_CHAPTER
+name: Title_/_chapter
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 4A 00 00 00
 #
-name: DISC_MENU
+name: Disc_menu
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 4B 00 00 00
 #
-name: CAMERA
+name: Camera
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 4C 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 53 00 00 00
 #
-name: REPEAT_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 55 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 56 00 00 00
 #
-name: CURSOR_OK
+name: Cursor_ok
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 58 00 00 00
 #
-name: NSTER
+name: Nster
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 59 00 00 00
 #
-name: GER
+name: Ger
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 5A 00 00 00
 #
-name: SET_MARKER
+name: Set_marker
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 61 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 64 00 00 00
 #
-name: KNAPP/CARD
+name: Knapp/card
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: 69 00 00 00
 #
-name: NGAR
+name: Ngar
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: B0 00 00 00
 #
-name: REC_MENU
+name: Rec_menu
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: B7 00 00 00
 #
-name: GUL_KNAPP/TITLE
+name: Gul_knapp/title
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: BA 00 00 00
 #
-name: D_KNAPP/C-SET
+name: D_knapp/c-set
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00
 command: BB 00 00 00
 #
-name: N_KNAPP/SHOWVIEW
+name: N_knapp/showview
 type: parsed
 protocol: NECext
 address: 2D 2D 00 00

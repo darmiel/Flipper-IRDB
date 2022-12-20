@@ -10,13 +10,13 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 888 1776 888 888 1776 1776 888 89888
 #
-name: STANDBY
+name: Standby
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 888 1776 888 888 1776 888 888 90776
 #
-name: MENU
+name: Menu
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -76,7 +76,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 888 1776 1776 888 888 1776 888 89888
 #
-name: EPG
+name: Epg
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -88,31 +88,31 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 888 888 888 90776
 #
-name: LIST
+name: List
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 1776 1776 1776 1776 1776 90776
 #
-name: INFO
+name: Info
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 1776 1776 888 888 888 888 888 888 888 89888
 #
-name: MODE
+name: Mode
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 888 888 1776 888 888 1776 888 888 888 888 1776 90776
 #
-name: TV/R
+name: Tv/r
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 1776 888 89888
 #
-name: CH+
+name: Ch+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -124,7 +124,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 888 90776
 #
-name: VOL+
+name: Vol+
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -136,7 +136,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 1776 888 89888
 #
-name: OK
+name: Ok
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -148,7 +148,7 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 1776 1776 1776 888 888 888 888 888 888 90776
 #
-name: CH-
+name: Ch-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -160,31 +160,31 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 1776 888 888 888 888 888 888 1776 888 89888
 #
-name: VOL-
+name: Vol-
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 888 888 1776 888 888 888 888 888 888 888 888 1776 888 89888
 #
-name: SWAP
+name: Swap
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 1776 888 888 888 888 1776 1776 90776
 #
-name: EXIT
+name: Exit
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 1776 1776 888 888 1776 1776 888 89888
 #
-name: TEXT
+name: Text
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 888 888 1776 888 888 90776
 #
-name: OPTION
+name: Option
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -202,43 +202,43 @@ frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 888 888 1776 888 888 1776 888 89888
 #
-name: ARCHIVE
+name: Archive
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 888 888 1776 888 888 888 888 1776 888 888 1776 90776
 #
-name: REC
+name: Rec
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 888 888 1776 1776 1776 888 888 1776 888 888 888 89888
 #
-name: PLAY
+name: Play
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 888 888 1776 1776 1776 1776 1776 1776 888 89888
 #
-name: REW
+name: Rew
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 888 888 1776 1776 1776 1776 1776 888 888 90776
 #
-name: STOP
+name: Stop
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 888 888 1776 888 888 1776 888 888 888 888 888 888 888 888 888 888 1776 1776 1776 1776 888 89888
 #
-name: PAUSE
+name: Pause
 type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 1776 888 888 888 888 1776 888 888 888 888 888 888 1776 1776 888 888 1776 888 888 888 888 90776
 #
-name: FWD
+name: Fwd
 type: raw
 frequency: 38000
 duty_cycle: 0.33

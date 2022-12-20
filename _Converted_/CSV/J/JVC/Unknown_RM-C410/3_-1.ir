@@ -1,79 +1,79 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 04 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 05 00 00 00
 #
-name: RESET
+name: Reset
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 06 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0A 00 00 00
 #
-name: BROADCAST
+name: Broadcast
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 0B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 17 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 18 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 19 00 00 00
 #
-name: LEVELUP
+name: Levelup
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1A 00 00 00
 #
-name: LEVELDOWN
+name: Leveldown
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1B 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1C 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 1E 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 03 00 00 00
@@ -139,19 +139,19 @@ protocol: NECext
 address: 03 00 00 00
 command: 29 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 3A 00 00 00
 #
-name: FUNCTION
+name: Function
 type: parsed
 protocol: NECext
 address: 03 00 00 00
 command: 3B 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 03 00 00 00

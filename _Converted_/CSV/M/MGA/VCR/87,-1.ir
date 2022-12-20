@@ -13,25 +13,25 @@ protocol: NECext
 address: 57 00 00 00
 command: 01 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 02 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 04 00 00 00
 #
-name: VIDEO/TV
+name: Video/tv
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 05 00 00 00
 #
-name: SLOW_PLAY
+name: Slow_play
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -49,13 +49,13 @@ protocol: NECext
 address: 57 00 00 00
 command: 09 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0C 00 00 00
 #
-name: SLOW_MOTION_+
+name: Slow_motion_+
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 57 00 00 00
 command: 11 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 14 00 00 00
 #
-name: SLOW_MOTION_-
+name: Slow_motion_-
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 57 00 00 00
 command: 19 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -115,7 +115,7 @@ protocol: NECext
 address: 57 00 00 00
 command: 21 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -133,7 +133,7 @@ protocol: NECext
 address: 57 00 00 00
 command: 29 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 57 00 00 00
 command: 31 00 00 00
 #
-name: FF_ADVANCE
+name: Ff_advance
 type: parsed
 protocol: NECext
 address: 57 00 00 00

@@ -3,61 +3,61 @@ Version: 1
 # 
 # Polk Audio Soundbar MagniFi Mini. Remote: POLK-RE9641
 # 
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 00 FF 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 20 DF 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 1E E1 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 1F E0 00 00
 # 
-name: Night_Effect
+name: Night_effect
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 71 8E 00 00
 # 
-name: Bass_Up
+name: Bass_up
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 5C A3 00 00
 # 
-name: Bass_Down
+name: Bass_down
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 5D A2 00 00
 # 
-name: Voice_Up
+name: Voice_up
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 6A 95 00 00
 # 
-name: Voice_Down
+name: Voice_down
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 6B 94 00 00
 # 
-name: Play_Pause
+name: Play_pause
 type: parsed
 protocol: NECext
 address: C8 91 00 00
@@ -75,19 +75,19 @@ protocol: NECext
 address: C8 91 00 00
 command: 24 DB 00 00
 # 
-name: SRC_TV_ARC
+name: Src_tv_arc
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 0F F0 00 00
 # 
-name: SRC_OPTICAL
+name: Src_optical
 type: parsed
 protocol: NECext
 address: C8 91 00 00
 command: 0E F1 00 00
 # 
-name: SRC_AUX
+name: Src_aux
 type: parsed
 protocol: NECext
 address: C8 91 00 00

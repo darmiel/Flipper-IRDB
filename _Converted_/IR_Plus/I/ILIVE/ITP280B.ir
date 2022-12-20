@@ -10,7 +10,7 @@ protocol: NECext
 address: FF 00 00 00
 command: CF 30 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -82,217 +82,217 @@ protocol: NECext
 address: FF 00 00 00
 command: AF 50 00 00
 #
-name: DOT
+name: Dot
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 2F D0 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 47 B8 00 00
 #
-name: iPOD
+name: Ipod
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: F7 08 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 6F 90 00 00
 #
-name: REW
+name: Rew
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: B7 48 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 8F 70 00 00
 #
-name: FWD
+name: Fwd
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 37 C8 00 00
 #
-name: EQ
+name: Eq
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 27 D8 00 00
 #
-name: iPOD
+name: Ipod
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 77 88 00 00
 #
-name: ALARM
+name: Alarm
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 07 F8 00 00
 #
-name: BASS+
+name: Bass+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: D7 28 00 00
 #
-name: BASS-
+name: Bass-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 57 A8 00 00
 #
-name: TREBLE+
+name: Treble+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: E7 18 00 00
 #
-name: TREBLE-
+name: Treble-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 17 E8 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 67 98 00 00
 #
-name: SHUFFLE
+name: Shuffle
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: A7 58 00 00
 #
-name: CLOCK
+name: Clock
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: C7 38 00 00
 #
-name: NEXT
+name: Next
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: FD 02 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: DD 22 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: DD 22 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: BD 42 00 00
 #
-name: PREV
+name: Prev
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 7D 82 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 5D A2 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 3D C2 00 00
 #
-name: ALBUM+
+name: Album+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: ED 12 00 00
 #
-name: CHAPTER+
+name: Chapter+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 6D 92 00 00
 #
-name: MEMORY+
+name: Memory+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: AD 52 00 00
 #
-name: PLAYLIST+
+name: Playlist+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: AD 52 00 00
 #
-name: ALBUM-
+name: Album-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: CD 32 00 00
 #
-name: CHAPTER-
+name: Chapter-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 4D B2 00 00
 #
-name: MEMORY-
+name: Memory-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 8D 72 00 00
 #
-name: PLAYLIST-
+name: Playlist-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 0D F2 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: F5 0A 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 75 8A 00 00
 #
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: B5 4A 00 00
 #
-name: INPUTIPOD
+name: Inputipod
 type: parsed
 protocol: NECext
 address: FF 00 00 00

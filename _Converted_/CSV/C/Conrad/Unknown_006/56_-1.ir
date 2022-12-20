@@ -61,109 +61,109 @@ protocol: NECext
 address: 38 00 00 00
 command: 09 00 00 00
 #
-name: 102ND
+name: 102nd
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0A 00 00 00
 #
-name: TELETEX_MIX
+name: Teletex_mix
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0B 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0B 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0C 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 0D 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 15 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 16 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 17 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 18 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 1C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 1D 00 00 00
 #
-name: TELETEX_ON
+name: Teletex_on
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 46 00 00 00
 #
-name: TELETEX_OFF
+name: Teletex_off
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 46 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 49 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 4A 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 4B 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 38 00 00 00
 command: 4C 00 00 00
 #
-name: TELETEX_HOLD
+name: Teletex_hold
 type: parsed
 protocol: NECext
 address: 38 00 00 00

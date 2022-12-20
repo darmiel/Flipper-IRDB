@@ -7,7 +7,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 00 00 00 00
 #
-name: 0_B
+name: 0_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 01 00 00 00
 #
-name: 1_B
+name: 1_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -31,7 +31,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 02 00 00 00
 #
-name: 2_B
+name: 2_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 03 00 00 00
 #
-name: 3_B
+name: 3_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 04 00 00 00
 #
-name: 4_B
+name: 4_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -73,7 +73,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 05 00 00 00
 #
-name: 5_B
+name: 5_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -85,7 +85,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 06 00 00 00
 #
-name: 6_B
+name: 6_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 07 00 00 00
 #
-name: 7_B
+name: 7_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 22 90 00 00
 command: 08 00 00 00
 #
-name: 8_B
+name: 8_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -121,31 +121,31 @@ protocol: NECext
 address: 22 90 00 00
 command: 09 00 00 00
 #
-name: 9_B
+name: 9_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 09 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 0C 00 00 00
 #
-name: POWER_B
+name: Power_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 0C 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 0D 00 00 00
 #
-name: MUTE_B
+name: Mute_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -157,241 +157,241 @@ protocol: NECext
 address: 22 90 00 00
 command: 0F 00 00 00
 #
-name: I_B
+name: I_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 0F 00 00 00
 #
-name: VOLUME_UP
+name: Volume_up
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 10 00 00 00
 #
-name: VOLUME_UP_B
+name: Volume_up_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 10 00 00 00
 #
-name: VOLUME_DOWN
+name: Volume_down
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 11 00 00 00
 #
-name: VOLUME_DOWN_B
+name: Volume_down_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 11 00 00 00
 #
-name: CHANNEL_UP
+name: Channel_up
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 1E 00 00 00
 #
-name: CHANNEL_UP_B
+name: Channel_up_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 1E 00 00 00
 #
-name: CHANNEL_DOWN
+name: Channel_down
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 1F 00 00 00
 #
-name: CHANNEL_DOWN_B
+name: Channel_down_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 1F 00 00 00
 #
-name: FFW_>>
+name: Ffw_>>
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 20 00 00 00
 #
-name: FFW_>>_B
+name: Ffw_>>_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 20 00 00 00
 #
-name: REW_<<
+name: Rew_<<
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 21 00 00 00
 #
-name: REW_<<_B
+name: Rew_<<_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 21 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 31 00 00 00
 #
-name: STOP_B
+name: Stop_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 31 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 37 00 00 00
 #
-name: RECORD_B
+name: Record_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 37 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 38 00 00 00
 #
-name: PLAY_B
+name: Play_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 39 00 00 00
 #
-name: PAUSE_B
+name: Pause_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 39 00 00 00
 #
-name: TEXT
+name: Text
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 3C 00 00 00
 #
-name: TEXT_B
+name: Text_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 3C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 54 00 00 00
 #
-name: MENU_B
+name: Menu_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 54 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 55 00 00 00
 #
-name: EXIT_B
+name: Exit_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 55 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 58 00 00 00
 #
-name: CURSOR_UP_B
+name: Cursor_up_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 58 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 59 00 00 00
 #
-name: CURSOR_DOWN_B
+name: Cursor_down_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 59 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 5A 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 5A 00 00 00
 #
-name: CURSOR_LEFT_B
+name: Cursor_left_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 5A 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 5B 00 00 00
 #
-name: CURSOR_RIGHT_B
+name: Cursor_right_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 5B 00 00 00
 #
-name: CURSOR_CENTER/OK
+name: Cursor_center/ok
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 5C 00 00 00
 #
-name: CURSOR_CENTER/OK_B
+name: Cursor_center/ok_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 5C 00 00 00
 #
-name: FAV/RED/ROT
+name: Fav/red/rot
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 6D 00 00 00
 #
-name: FAV/RED/ROT_B
+name: Fav/red/rot_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
@@ -403,43 +403,43 @@ protocol: NECext
 address: 22 90 00 00
 command: 6E 00 00 00
 #
-name: N_B
+name: N_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 6E 00 00 00
 #
-name: OPT/YELLOW/GELB
+name: Opt/yellow/gelb
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 6F 00 00 00
 #
-name: OPT/YELLOW/GELB_B
+name: Opt/yellow/gelb_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 6F 00 00 00
 #
-name: TV/R/BLUE/BLAU
+name: Tv/r/blue/blau
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 70 00 00 00
 #
-name: TV/R/BLUE/BLAU_B
+name: Tv/r/blue/blau_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: 70 00 00 00
 #
-name: EPG
+name: Epg
 type: parsed
 protocol: NECext
 address: 22 90 00 00
 command: CC 00 00 00
 #
-name: EPG_B
+name: Epg_b
 type: parsed
 protocol: NECext
 address: 22 90 00 00

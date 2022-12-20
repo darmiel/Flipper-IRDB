@@ -61,79 +61,79 @@ protocol: NECext
 address: AA 03 00 00
 command: 09 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 0A 00 00 00
 #
-name: CYCLEWINDOWS
+name: Cyclewindows
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 0F 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 10 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 12 00 00 00
 #
-name: AUTO/CC
+name: Auto/cc
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 13 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 14 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 1C 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 1D 00 00 00
 #
-name: CH_SEARCH
+name: Ch_search
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 1E 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 1F 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: AA 03 00 00
 command: 20 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: AA 03 00 00

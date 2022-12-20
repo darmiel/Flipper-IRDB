@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: STANDBY
+name: Standby
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 01 00 00 00
 #
-name: I-SCAN
+name: I-scan
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 04 00 00 00
 #
-name: PSM
+name: Psm
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 06 00 00 00
 #
-name: PAL/NTSC
+name: Pal/ntsc
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 07 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -37,19 +37,19 @@ protocol: NECext
 address: 07 00 00 00
 command: 09 00 00 00
 #
-name: FAST_FORWARD
+name: Fast_forward
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0A 00 00 00
 #
-name: SKIP_BACK
+name: Skip_back
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0B 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -61,19 +61,19 @@ protocol: NECext
 address: 07 00 00 00
 command: 0D 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0E 00 00 00
 #
-name: A-B
+name: A-b
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 0F 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -85,55 +85,55 @@ protocol: NECext
 address: 07 00 00 00
 command: 11 00 00 00
 #
-name: MODE
+name: Mode
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 12 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 14 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 15 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 16 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 17 00 00 00
 #
-name: TITLE
+name: Title
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 19 00 00 00
 #
-name: SETUP
+name: Setup
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 1D 00 00 00
 #
-name: EJECT
+name: Eject
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -151,7 +151,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 49 00 00 00
 #
-name: SKIP_FORWARD
+name: Skip_forward
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -175,7 +175,7 @@ protocol: NECext
 address: 07 00 00 00
 command: 4D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 07 00 00 00
@@ -199,85 +199,85 @@ protocol: NECext
 address: 07 00 00 00
 command: 51 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 52 00 00 00
 #
-name: GOTO
+name: Goto
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 53 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 54 00 00 00
 #
-name: ANGLE
+name: Angle
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 55 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 56 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 57 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 58 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 59 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 5B 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 5C 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 5D 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 5E 00 00 00
 #
-name: RETURN
+name: Return
 type: parsed
 protocol: NECext
 address: 07 00 00 00
 command: 5F 00 00 00
 #
-name: OSD
+name: Osd
 type: parsed
 protocol: NECext
 address: 07 00 00 00

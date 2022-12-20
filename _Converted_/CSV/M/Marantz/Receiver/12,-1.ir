@@ -1,31 +1,31 @@
 Filetype: IR signals file
 Version: 1
 #
-name: LD
+name: Ld
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
-name: LASER_DISC
+name: Laser_disc
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
-name: INPUT:_LD
+name: Input:_ld
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
-name: LD_DISC_B/-
+name: Ld_disc_b/-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 72 00 00 00
 #
-name: LD_DISC_+/A
+name: Ld_disc_+/a
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

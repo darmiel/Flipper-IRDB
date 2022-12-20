@@ -1,55 +1,55 @@
 Filetype: IR signals file
 Version: 1
 #
-name: CAM_PROGRAM
+name: Cam_program
 type: parsed
 protocol: NECext
 address: 61 9F 00 00
 command: 00 00 00 00
 #
-name: VCR2_S.Q.P.
+name: Vcr2_s.q.p.
 type: parsed
 protocol: NECext
 address: 61 9F 00 00
 command: 00 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 61 9F 00 00
 command: 14 00 00 00
 #
-name: VCR2_RECORD
+name: Vcr2_record
 type: parsed
 protocol: NECext
 address: 61 9F 00 00
 command: 14 00 00 00
 #
-name: VCR2_REC
+name: Vcr2_rec
 type: parsed
 protocol: NECext
 address: 61 9F 00 00
 command: 14 00 00 00
 #
-name: CAM_REC
+name: Cam_rec
 type: parsed
 protocol: NECext
 address: 61 9F 00 00
 command: 14 00 00 00
 #
-name: REC
+name: Rec
 type: parsed
 protocol: NECext
 address: 61 9F 00 00
 command: 14 00 00 00
 #
-name: VCR2_REC-PLAY
+name: Vcr2_rec-play
 type: parsed
 protocol: NECext
 address: 61 9F 00 00
 command: 14 00 00 00
 #
-name: VTR2_REC
+name: Vtr2_rec
 type: parsed
 protocol: NECext
 address: 61 9F 00 00

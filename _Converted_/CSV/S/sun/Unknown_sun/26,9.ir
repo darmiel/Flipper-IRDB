@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: horizontalRIGHT
+name: Horizontalright
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 0C 00 00 00
 #
-name: horizontalLEFT
+name: Horizontalleft
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 0D 00 00 00
 #
-name: verticalUP
+name: Verticalup
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 0E 00 00 00
 #
-name: verticalDOWN
+name: Verticaldown
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 0F 00 00 00
 #
-name: tiltDOWNRIGHT
+name: Tiltdownright
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 10 00 00 00
 #
-name: tiltDOWNLEFT
+name: Tiltdownleft
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 11 00 00 00
 #
-name: contrastUP
+name: Contrastup
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 18 00 00 00
 #
-name: contrastDOWN
+name: Contrastdown
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 19 00 00 00
 #
-name: brightUP
+name: Brightup
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 1E 00 00 00
 #
-name: brightDOWN
+name: Brightdown
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 1F 00 00 00
 #
-name: widthRIGHT
+name: Widthright
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 26 00 00 00
 #
-name: widthLEFT
+name: Widthleft
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 27 00 00 00
 #
-name: heightUP
+name: Heightup
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 28 00 00 00
 #
-name: heightDOWN
+name: Heightdown
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 29 00 00 00
 #
-name: converganceRIGHT
+name: Converganceright
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 2A 00 00 00
 #
-name: converganceLEFT
+name: Converganceleft
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 2B 00 00 00
 #
-name: converganceUP
+name: Converganceup
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 2C 00 00 00
 #
-name: converganceDOWN
+name: Convergancedown
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 2D 00 00 00
 #
-name: sizeUP
+name: Sizeup
 type: parsed
 protocol: NECext
 address: 1A 09 00 00
 command: 37 00 00 00
 #
-name: sizeDOWN
+name: Sizedown
 type: parsed
 protocol: NECext
 address: 1A 09 00 00

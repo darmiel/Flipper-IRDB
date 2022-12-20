@@ -1,385 +1,385 @@
 Filetype: IR signals file
 Version: 1
 #
-name: BTN01
+name: Btn01
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 00 00 00 00
 #
-name: BTN02
+name: Btn02
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 01 00 00 00
 #
-name: BTN03
+name: Btn03
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 02 00 00 00
 #
-name: BTN04
+name: Btn04
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 03 00 00 00
 #
-name: BTN05
+name: Btn05
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 04 00 00 00
 #
-name: BTN06
+name: Btn06
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 05 00 00 00
 #
-name: BTN07
+name: Btn07
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 06 00 00 00
 #
-name: BTN08
+name: Btn08
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 07 00 00 00
 #
-name: BTN09
+name: Btn09
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 08 00 00 00
 #
-name: BTN10
+name: Btn10
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 09 00 00 00
 #
-name: BTN11
+name: Btn11
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0A 00 00 00
 #
-name: BTN12
+name: Btn12
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0B 00 00 00
 #
-name: BTN13
+name: Btn13
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0C 00 00 00
 #
-name: BTN14
+name: Btn14
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0D 00 00 00
 #
-name: BTN15
+name: Btn15
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0E 00 00 00
 #
-name: BTN16
+name: Btn16
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 0F 00 00 00
 #
-name: BTN17
+name: Btn17
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 10 00 00 00
 #
-name: BTN18
+name: Btn18
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 11 00 00 00
 #
-name: BTN19
+name: Btn19
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 12 00 00 00
 #
-name: BTN20
+name: Btn20
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 13 00 00 00
 #
-name: BTN21
+name: Btn21
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 14 00 00 00
 #
-name: BTN22
+name: Btn22
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 15 00 00 00
 #
-name: BTN23
+name: Btn23
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 16 00 00 00
 #
-name: BTN24
+name: Btn24
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 17 00 00 00
 #
-name: BTN25
+name: Btn25
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 18 00 00 00
 #
-name: BTN26
+name: Btn26
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 19 00 00 00
 #
-name: BTN27
+name: Btn27
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1A 00 00 00
 #
-name: BTN28
+name: Btn28
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1B 00 00 00
 #
-name: BTN29
+name: Btn29
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1C 00 00 00
 #
-name: BTN30
+name: Btn30
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1D 00 00 00
 #
-name: BTN31
+name: Btn31
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1E 00 00 00
 #
-name: BTN32
+name: Btn32
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 1F 00 00 00
 #
-name: BTN33
+name: Btn33
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 20 00 00 00
 #
-name: BTN34
+name: Btn34
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 21 00 00 00
 #
-name: BTN35
+name: Btn35
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 22 00 00 00
 #
-name: BTN36
+name: Btn36
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 23 00 00 00
 #
-name: BTN37
+name: Btn37
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 24 00 00 00
 #
-name: BTN38
+name: Btn38
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 25 00 00 00
 #
-name: BTN39
+name: Btn39
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 26 00 00 00
 #
-name: BTN40
+name: Btn40
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 27 00 00 00
 #
-name: BTN41
+name: Btn41
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 28 00 00 00
 #
-name: BTN42
+name: Btn42
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 29 00 00 00
 #
-name: BTN43
+name: Btn43
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2A 00 00 00
 #
-name: BTN44
+name: Btn44
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2B 00 00 00
 #
-name: BTN45
+name: Btn45
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2C 00 00 00
 #
-name: BTN46
+name: Btn46
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2D 00 00 00
 #
-name: BTN47
+name: Btn47
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2E 00 00 00
 #
-name: BTN48
+name: Btn48
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 2F 00 00 00
 #
-name: BTN49
+name: Btn49
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 30 00 00 00
 #
-name: BTN50
+name: Btn50
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 31 00 00 00
 #
-name: BTN51
+name: Btn51
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 32 00 00 00
 #
-name: BTN52
+name: Btn52
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 33 00 00 00
 #
-name: BTN53
+name: Btn53
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 34 00 00 00
 #
-name: BTN54
+name: Btn54
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 35 00 00 00
 #
-name: BTN55
+name: Btn55
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 36 00 00 00
 #
-name: BTN56
+name: Btn56
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 37 00 00 00
 #
-name: BTN57
+name: Btn57
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 38 00 00 00
 #
-name: BTN58
+name: Btn58
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 39 00 00 00
 #
-name: BTN59
+name: Btn59
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 3A 00 00 00
 #
-name: BTN60
+name: Btn60
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 3B 00 00 00
 #
-name: BTN61
+name: Btn61
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 3C 00 00 00
 #
-name: BTN62
+name: Btn62
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 3D 00 00 00
 #
-name: BTN63
+name: Btn63
 type: parsed
 protocol: NECext
 address: 02 00 00 00
 command: 3E 00 00 00
 #
-name: BTN64
+name: Btn64
 type: parsed
 protocol: NECext
 address: 02 00 00 00

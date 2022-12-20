@@ -1,85 +1,85 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 00 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 01 00 00 00
 #
-name: INPUT_TV
+name: Input_tv
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 0A 00 00 00
 #
-name: INPUT_AV1
+name: Input_av1
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 0D 00 00 00
 #
-name: INPUT_AV2
+name: Input_av2
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 0E 00 00 00
 #
-name: INPUT_AV3
+name: Input_av3
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 0F 00 00 00
 #
-name: INPUT_S-VIDEO
+name: Input_s-video
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 12 00 00 00
 #
-name: INPUT_YPBRPR1
+name: Input_ypbrpr1
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 13 00 00 00
 #
-name: INPUT_YPBRPR2
+name: Input_ypbrpr2
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 14 00 00 00
 #
-name: INPUT_HDMI
+name: Input_hdmi
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 15 00 00 00
 #
-name: INPUT_DVI
+name: Input_dvi
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 17 00 00 00
 #
-name: INPUT_RGB
+name: Input_rgb
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 18 00 00 00
 #
-name: MUTE_ON
+name: Mute_on
 type: parsed
 protocol: NECext
 address: 02 11 00 00
 command: 19 00 00 00
 #
-name: MUTE_OFF
+name: Mute_off
 type: parsed
 protocol: NECext
 address: 02 11 00 00

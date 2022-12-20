@@ -1,781 +1,781 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ZONE2_DIGIT_1
+name: Zone2_digit_1
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 10 00 00 00
 #
-name: ZONE2_DIGIT_2
+name: Zone2_digit_2
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 11 00 00 00
 #
-name: ZONE2_DIGIT_3
+name: Zone2_digit_3
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 12 00 00 00
 #
-name: ZONE2_DIGIT_4
+name: Zone2_digit_4
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 13 00 00 00
 #
-name: ZONE2_DIGIT_5
+name: Zone2_digit_5
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 14 00 00 00
 #
-name: ZONE2_DIGIT_6
+name: Zone2_digit_6
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 15 00 00 00
 #
-name: ZONE2_DIGIT_7
+name: Zone2_digit_7
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 16 00 00 00
 #
-name: ZONE2_DIGIT_8
+name: Zone2_digit_8
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 17 00 00 00
 #
-name: ZONE2_DIGIT_9
+name: Zone2_digit_9
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 18 00 00 00
 #
-name: ZONE2_DIGIT_0
+name: Zone2_digit_0
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 19 00 00 00
 #
-name: ZONE2_CURSOR/ARROW_UP
+name: Zone2_cursor/arrow_up
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1B 00 00 00
 #
-name: ZONE2_CURSOR/ARROW_DOWN
+name: Zone2_cursor/arrow_down
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1C 00 00 00
 #
-name: ZONE2_CURSOR/ARROW_LEFT
+name: Zone2_cursor/arrow_left
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1D 00 00 00
 #
-name: ZONE2_CURSOR/ARROW_RIGHT
+name: Zone2_cursor/arrow_right
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1E 00 00 00
 #
-name: ZONE2_ENTER/SELECT
+name: Zone2_enter/select
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1F 00 00 00
 #
-name: ZONE2_AUDIO_FUNCTION
+name: Zone2_audio_function
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 20 00 00 00
 #
-name: ZONE2_VIDEO_FUNCTION
+name: Zone2_video_function
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 21 00 00 00
 #
-name: ZONE2_RETURN/BACK
+name: Zone2_return/back
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 22 00 00 00
 #
-name: ZONE2_MENU
+name: Zone2_menu
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 23 00 00 00
 #
-name: ZONE2_VIDEO_SELECT
+name: Zone2_video_select
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 70 00 00 00
 #
-name: ZONE2_FAVORITE_1
+name: Zone2_favorite_1
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: F2 00 00 00
 #
-name: ZONE2_FAVORITE_2
+name: Zone2_favorite_2
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: F3 00 00 00
 #
-name: ZONE2_FAVORITE_3
+name: Zone2_favorite_3
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: F4 00 00 00
 #
-name: ZONE2_FAVORITE_4
+name: Zone2_favorite_4
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: F5 00 00 00
 #
-name: ZONE2_QUICK_SELECT_/_USER_PRESET_1
+name: Zone2_quick_select_/_user_preset_1
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 124 00 00 00
 #
-name: ZONE2_QUICK_SELECT_/_USER_PRESET_2
+name: Zone2_quick_select_/_user_preset_2
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 125 00 00 00
 #
-name: ZONE2_QUICK_SELECT_/_USER_PRESET_3
+name: Zone2_quick_select_/_user_preset_3
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 126 00 00 00
 #
-name: ZONE2_SURROUND_MODE_STEREO
+name: Zone2_surround_mode_stereo
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 130 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DIRECT
+name: Zone2_surround_mode_direct
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 131 00 00 00
 #
-name: ZONE2_SURROUND_MODE_PURE
+name: Zone2_surround_mode_pure
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 133 00 00 00
 #
-name: ZONE2_SURROUND_MODE_STANDARD_(DOLBY/DTS)
+name: Zone2_surround_mode_standard_(dolby/dts)
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 134 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DOLBY_DIGITAL
+name: Zone2_surround_mode_dolby_digital
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 138 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DOLBY_DIGITAL_EX
+name: Zone2_surround_mode_dolby_digital_ex
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 139 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DOLBY_PL2_CINEMA
+name: Zone2_surround_mode_dolby_pl2_cinema
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 13A 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DOLBY_PL2_MUSIC
+name: Zone2_surround_mode_dolby_pl2_music
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 13B 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DOLBY_PL
+name: Zone2_surround_mode_dolby_pl
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 13C 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DTS_ES
+name: Zone2_surround_mode_dts_es
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 141 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DTS_NEO6_CINEMA
+name: Zone2_surround_mode_dts_neo6_cinema
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 142 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DTS_NEO6_MUSIC
+name: Zone2_surround_mode_dts_neo6_music
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 143 00 00 00
 #
-name: ZONE2_SURROUND_MODE_GAME
+name: Zone2_surround_mode_game
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 14D 00 00 00
 #
-name: ZONE2_SURROUND_MODE_CINEMA
+name: Zone2_surround_mode_cinema
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 14E 00 00 00
 #
-name: ZONE2_SURROUND_MODE_MUSIC
+name: Zone2_surround_mode_music
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 14F 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_SIMULATION
+name: Zone2_surround_mode_dsp_simulation
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 150 00 00 00
 #
-name: ZONE2_SURROUND_MODE_5/7/MULTI_CH_STEREO
+name: Zone2_surround_mode_5/7/multi_ch_stereo
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 151 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_WIDE_SCREEN
+name: Zone2_surround_mode_dsp_wide_screen
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 152 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_SUPER_STADIUM
+name: Zone2_surround_mode_dsp_super_stadium
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 153 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_ROCK_ARENA
+name: Zone2_surround_mode_dsp_rock_arena
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 154 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_JAZZ_CLUB
+name: Zone2_surround_mode_dsp_jazz_club
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 155 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_CLASSIC_CONCERT
+name: Zone2_surround_mode_dsp_classic_concert
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 156 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_MONO_MOVIE
+name: Zone2_surround_mode_dsp_mono_movie
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 157 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_MATRIX
+name: Zone2_surround_mode_dsp_matrix
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 158 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_VIDEO_GAME
+name: Zone2_surround_mode_dsp_video_game
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 159 00 00 00
 #
-name: ZONE2_SURROUND_MODE_DSP_VIRTUAL
+name: Zone2_surround_mode_dsp_virtual
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 15A 00 00 00
 #
-name: ZONE2_INPUT_MODE_AUTO
+name: Zone2_input_mode_auto
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 160 00 00 00
 #
-name: ZONE2_INPUT_MODE_ANALOG
+name: Zone2_input_mode_analog
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 161 00 00 00
 #
-name: ZONE2_VOLUME_UP
+name: Zone2_volume_up
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 170 00 00 00
 #
-name: ZONE2_VOLUME_DOWN
+name: Zone2_volume_down
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 171 00 00 00
 #
-name: ZONE2_VOLUME_MUTE
+name: Zone2_volume_mute
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 172 00 00 00
 #
-name: ZONE2_VOLUME_PRESET_1_(0DB)
+name: Zone2_volume_preset_1_(0db)
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 174 00 00 00
 #
-name: ZONE2_VOLUME_PRESET_2_(-20DB)
+name: Zone2_volume_preset_2_(-20db)
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 175 00 00 00
 #
-name: ZONE2_VOLUME_PRESET_3_(-40DB)
+name: Zone2_volume_preset_3_(-40db)
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 176 00 00 00
 #
-name: ZONE2_CHANNEL_SELECT
+name: Zone2_channel_select
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 176 00 00 00
 #
-name: ZONE2_CHANNEL_LEVEL_UP
+name: Zone2_channel_level_up
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 17B 00 00 00
 #
-name: ZONE2_CHANNEL_LEVEL_DOWN
+name: Zone2_channel_level_down
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 17C 00 00 00
 #
-name: ZONE2_TEST_TONE
+name: Zone2_test_tone
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 17F 00 00 00
 #
-name: ZONE2_ALL_TREBLE_UP
+name: Zone2_all_treble_up
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 190 00 00 00
 #
-name: ZONE2_ALL_TREBLE_DOWN
+name: Zone2_all_treble_down
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 191 00 00 00
 #
-name: ZONE2_ALL_BASS_UP
+name: Zone2_all_bass_up
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 193 00 00 00
 #
-name: ZONE2_ALL_BASS_DOWN
+name: Zone2_all_bass_down
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 194 00 00 00
 #
-name: ZONE2_TONE_CONTROL_OFF_/_DEFEAT_ON
+name: Zone2_tone_control_off_/_defeat_on
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 197 00 00 00
 #
-name: ZONE2_TONE_CONTROL_ON_/_DEFEAT_OFF
+name: Zone2_tone_control_on_/_defeat_off
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 198 00 00 00
 #
-name: ZONE2_SURROUND_PARAMETER
+name: Zone2_surround_parameter
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1C0 00 00 00
 #
-name: ZONE2_CINEMA_EQ_ON
+name: Zone2_cinema_eq_on
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1C6 00 00 00
 #
-name: ZONE2_CINEMA_EQ_OFF
+name: Zone2_cinema_eq_off
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1C7 00 00 00
 #
-name: ZONE2_SB_SPEAKER_MATRIX_ON
+name: Zone2_sb_speaker_matrix_on
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1F1 00 00 00
 #
-name: ZONE2_SB_SPEAKER_MATRIX_OFF
+name: Zone2_sb_speaker_matrix_off
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1F2 00 00 00
 #
-name: ZONE2_SB_SPEAKER_OFF
+name: Zone2_sb_speaker_off
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 1F3 00 00 00
 #
-name: ZONE2_SB_SPEAKER_TOGGLE_ON/OFF
+name: Zone2_sb_speaker_toggle_on/off
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 206 00 00 00
 #
-name: ZONE2_FRONT_SPEAKER
+name: Zone2_front_speaker
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 20A 00 00 00
 #
-name: ZONE2_NIGHT_MODE
+name: Zone2_night_mode
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 222 00 00 00
 #
-name: ZONE2_RESTORE
+name: Zone2_restore
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 224 00 00 00
 #
-name: ZONE2_SURROUND_SPEAKER_SELECT
+name: Zone2_surround_speaker_select
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 228 00 00 00
 #
-name: ZONE2_SYSTEM_SETUP
+name: Zone2_system_setup
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 230 00 00 00
 #
-name: ZONE2_AUDIO_DELAY
+name: Zone2_audio_delay
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 26C 00 00 00
 #
-name: ZONE2_AUDIO_DELAY_UP
+name: Zone2_audio_delay_up
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 26D 00 00 00
 #
-name: ZONE2_AUDIO_DELAY_DOWN
+name: Zone2_audio_delay_down
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 26E 00 00 00
 #
-name: ZONE2_STATUS_REQUEST
+name: Zone2_status_request
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 285 00 00 00
 #
-name: ZONE2_INPUT_IPOD
+name: Zone2_input_ipod
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 29B 00 00 00
 #
-name: ZONE2_INPUT_INTERNET_RADIO
+name: Zone2_input_internet_radio
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2B3 00 00 00
 #
-name: ZONE2_INPUT_SOURCE_SELECT
+name: Zone2_input_source_select
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2B4 00 00 00
 #
-name: ZONE2_INPUT_PHONO
+name: Zone2_input_phono
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2C0 00 00 00
 #
-name: ZONE2_INPUT_CD
+name: Zone2_input_cd
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2C2 00 00 00
 #
-name: ZONE2_INPUT_AUX/NET/USB/ONLINE_MUSIC
+name: Zone2_input_aux/net/usb/online_music
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2C7 00 00 00
 #
-name: ZONE2_INPUT_AUX/NET
+name: Zone2_input_aux/net
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2C8 00 00 00
 #
-name: ZONE2_INPUT_AUX/IPOD
+name: Zone2_input_aux/ipod
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2C9 00 00 00
 #
-name: ZONE2_INPUT_AUX/USB/SIRIUS_XM/HD_RADIO
+name: Zone2_input_aux/usb/sirius_xm/hd_radio
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2CA 00 00 00
 #
-name: ZONE2_INPUT_DTU/HD_RADIO
+name: Zone2_input_dtu/hd_radio
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2CB 00 00 00
 #
-name: ZONE2_INPUT_NET
+name: Zone2_input_net
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2CC 00 00 00
 #
-name: ZONE2_INPUT_IPOD/DOCK
+name: Zone2_input_ipod/dock
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2CD 00 00 00
 #
-name: ZONE2_INPUT_USB
+name: Zone2_input_usb
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2CE 00 00 00
 #
-name: ZONE2_INPUT_TUNER/HD_RADIO
+name: Zone2_input_tuner/hd_radio
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2CF 00 00 00
 #
-name: ZONE2_INPUT_DVD
+name: Zone2_input_dvd
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2D0 00 00 00
 #
-name: ZONE2_INPUT_HDP/BD
+name: Zone2_input_hdp/bd
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2D1 00 00 00
 #
-name: ZONE2_INPUT_TV/CABLE/HDMI_CEC_AUDIO
+name: Zone2_input_tv/cable/hdmi_cec_audio
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2D2 00 00 00
 #
-name: ZONE2_INPUT_SAT/CABLE
+name: Zone2_input_sat/cable
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2D3 00 00 00
 #
-name: ZONE2_INPUT_GAME/VCR
+name: Zone2_input_game/vcr
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2D5 00 00 00
 #
-name: ZONE2_INPUT_GAME2
+name: Zone2_input_game2
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2D7 00 00 00
 #
-name: ZONE2_INPUT_VCR4
+name: Zone2_input_vcr4
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2D8 00 00 00
 #
-name: ZONE2_INPUT_V.AUX
+name: Zone2_input_v.aux
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2D9 00 00 00
 #
-name: ZONE2_INPUT_V.AUX_2
+name: Zone2_input_v.aux_2
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2DA 00 00 00
 #
-name: ZONE2_INPUT_DVD/HDP/BD
+name: Zone2_input_dvd/hdp/bd
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2DC 00 00 00
 #
-name: ZONE2_INPUT_VCR1/2
+name: Zone2_input_vcr1/2
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2DD 00 00 00
 #
-name: ZONE2_INPUT_VCR3/4
+name: Zone2_input_vcr3/4
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2DE 00 00 00
 #
-name: ZONE2_INPUT_VCR/DVR/MEDIA_PLAYER
+name: Zone2_input_vcr/dvr/media_player
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2DF 00 00 00
 #
-name: ZONE2_INPUT_BLUETOOTH
+name: Zone2_input_bluetooth
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2EF 00 00 00
 #
-name: ZONE2_INPUT_PANDORA
+name: Zone2_input_pandora
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 2FD 00 00 00
 #
-name: ZONE2_INPUT_SOURCE_SELECT_RIGHT
+name: Zone2_input_source_select_right
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 313 00 00 00
 #
-name: ZONE2_INPUT_SOURCE_SELECT_LEFT
+name: Zone2_input_source_select_left
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 314 00 00 00
 #
-name: ZONE2_REPEAT
+name: Zone2_repeat
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3BC 00 00 00
 #
-name: ZONE2_RANDOM/SHUFFLE
+name: Zone2_random/shuffle
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3BD 00 00 00
 #
-name: ZONE2_USB_DIRECT_PLAY
+name: Zone2_usb_direct_play
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3BE 00 00 00
 #
-name: ZONE2_FAVORITE_DIRECT_PLAY
+name: Zone2_favorite_direct_play
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3BF 00 00 00
 #
-name: ZONE2_TUNER_PRESET_CH_UP
+name: Zone2_tuner_preset_ch_up
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3CC 00 00 00
 #
-name: ZONE2_TUNER_PRESET_CH-
+name: Zone2_tuner_preset_ch-
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3CD 00 00 00
 #
-name: ZONE2_TUNER_PRESET_SHIFT
+name: Zone2_tuner_preset_shift
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3CE 00 00 00
 #
-name: ZONE2_TUNER_SEARCH/RDS
+name: Zone2_tuner_search/rds
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3D7 00 00 00
 #
-name: ZONE2_PLAY/PAUSE
+name: Zone2_play/pause
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3E0 00 00 00
 #
-name: ZONE2_STOP
+name: Zone2_stop
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3E1 00 00 00
 #
-name: ZONE2_TUNER_SKIP/TUNE_DOWN
+name: Zone2_tuner_skip/tune_down
 type: parsed
 protocol: NECext
 address: 04 03 00 00
 command: 3E3 00 00 00
 #
-name: ZONE2_TUNER_SKIP/TUNE_UP
+name: Zone2_tuner_skip/tune_up
 type: parsed
 protocol: NECext
 address: 04 03 00 00

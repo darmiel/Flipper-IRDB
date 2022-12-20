@@ -10,7 +10,7 @@ protocol: NECext
 address: FF 00 00 00
 command: A5 5A 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 5F A0 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 9F 60 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 25 DA 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 27 D8 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -160,7 +160,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 97 68 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -196,7 +196,7 @@ protocol: NECext
 address: FF 00 00 00
 command: 1D E2 00 00
 #
-name: Fav/Recall
+name: Fav/recall
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -208,13 +208,13 @@ protocol: NECext
 address: FF 00 00 00
 command: 8D 72 00 00
 #
-name: Subs/List
+name: Subs/list
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: 8F 70 00 00
 #
-name: Txt Expand
+name: Txt_expand
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -238,13 +238,13 @@ protocol: NECext
 address: FF 00 00 00
 command: 2D D2 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: FF 00 00 00
 command: EF 10 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: FF 00 00 00
@@ -256,7 +256,7 @@ protocol: NECext
 address: FF 00 00 00
 command: DD 22 00 00
 #
-name: Sleep Timer
+name: Sleep_timer
 type: parsed
 protocol: NECext
 address: FF 00 00 00

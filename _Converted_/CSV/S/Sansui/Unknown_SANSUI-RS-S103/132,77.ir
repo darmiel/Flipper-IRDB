@@ -7,13 +7,13 @@ protocol: NECext
 address: 84 4D 00 00
 command: 00 00 00 00
 #
-name: Repeat_1/All
+name: Repeat_1/all
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
 command: 01 00 00 00
 #
-name: TIME
+name: Time
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
@@ -31,13 +31,13 @@ protocol: NECext
 address: 84 4D 00 00
 command: 04 00 00 00
 #
-name: A.Space
+name: A.space
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
 command: 05 00 00 00
 #
-name: Repeat_A-B
+name: Repeat_a-b
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
@@ -55,7 +55,7 @@ protocol: NECext
 address: 84 4D 00 00
 command: 0A 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
@@ -67,19 +67,19 @@ protocol: NECext
 address: 84 4D 00 00
 command: 0D 00 00 00
 #
-name: AMPS_rew
+name: Amps_rew
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
 command: 0E 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
 command: 0F 00 00 00
 #
-name: OPEN
+name: Open
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 84 4D 00 00
 command: 12 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
@@ -109,7 +109,7 @@ protocol: NECext
 address: 84 4D 00 00
 command: 15 00 00 00
 #
-name: 10CHANNELSUP
+name: 10channelsup
 type: parsed
 protocol: NECext
 address: 84 4D 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 84 4D 00 00
 command: 19 00 00 00
 #
-name: AMPS_ffd
+name: Amps_ffd
 type: parsed
 protocol: NECext
 address: 84 4D 00 00

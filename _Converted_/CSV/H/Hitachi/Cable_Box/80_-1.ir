@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: AVX
+name: Avx
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 09 00 00 00
 #
-name: LST-CH
+name: Lst-ch
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0A 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 0B 00 00 00
 #
-name: RECALL
+name: Recall
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 10 00 00 00
 #
-name: VOLUME_^
+name: Volume_^
 type: parsed
 protocol: NECext
 address: 50 00 00 00
 command: 12 00 00 00
 #
-name: VOLUME_V
+name: Volume_v
 type: parsed
 protocol: NECext
 address: 50 00 00 00

@@ -2,21 +2,21 @@ Filetype: IR signals file
 Version: 1
 #
 # EDIT [raw] {10010100-101000}
-name: EDIT
+name: Edit
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 68 00 00 00
 #
 # RECALL [raw] {11110100-001111}
-name: RECALL
+name: Recall
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 0F 00 00 00
 #
 # CLEAR [raw] {11010100-111010}
-name: CLEAR
+name: Clear
 type: parsed
 protocol: RC5
 address: 14 00 00 00
@@ -93,126 +93,126 @@ address: 14 00 00 00
 command: 00 00 00 00
 #
 # MEMO [raw] {11110100-101001}
-name: MEMO
+name: Memo
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 29 00 00 00
 #
 # REPEAT [raw] {11010100-011101}
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 1D 00 00 00
 #
 # DISC_1 [20 1 0] {110-10100--000001-000000}
-name: DISC_1 (raw)
+name: Disc_1_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 4445 889 889 889 889 889 889 889 889 889 1778 1778 889 889 889 889 889 889 889 889 889 889 76440
 #
 # DISC_2 [20 2 0] {110-10100--000010-000000}
-name: DISC_2 (raw)
+name: Disc_2_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 4445 889 889 889 889 889 889 889 1778 1778 889 889 889 889 889 889 889 889 889 889 889 889 76440
 #
 # DISC_3 [20 3 0] {110-10100--000011-000000}
-name: DISC_3 (raw)
+name: Disc_3_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 4445 889 889 889 889 889 889 889 1778 889 889 1778 889 889 889 889 889 889 889 889 889 889 76440
 #
 # DISC_4 [20 4 0] {110-10100--000100-000000}
-name: DISC_4 (raw)
+name: Disc_4_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 4445 889 889 889 889 889 1778 1778 889 889 889 889 889 889 889 889 889 889 889 889 889 889 76440
 #
 # DISC_5 [20 5 0] {110-10100--000101-000000}
-name: DISC_5 (raw)
+name: Disc_5_(raw)
 type: raw
 frequency: 36000
 duty_cycle: 0.25
 data: 889 889 1778 1778 1778 1778 1778 889 889 4445 889 889 889 889 889 1778 1778 1778 1778 889 889 889 889 889 889 889 889 889 889 76440
 #
 # R_SRCH [raw] {11010100-100001}
-name: R_SRCH
+name: R_srch
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 21 00 00 00
 #
 # PLAY [raw] {11010100-110101}
-name: PLAY
+name: Play
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 35 00 00 00
 #
 # F_SRCH [raw] {11110100-100000}
-name: F_SRCH
+name: F_srch
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 20 00 00 00
 #
 # DISC-SELECT [raw] {11010100-011110}
-name: DISC-SELECT
+name: Disc-select
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 1E 00 00 00
 #
 # REW [raw] {11110100-110010}
-name: REW
+name: Rew
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 32 00 00 00
 #
 # PAUSE [raw] {11010100-110000}
-name: PAUSE
+name: Pause
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 30 00 00 00
 #
 # FFWD [raw] {11110100-110100}
-name: FFWD
+name: Ffwd
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 34 00 00 00
 #
 # RANDOM [raw] {11010100-011100}
-name: RANDOM
+name: Random
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 1C 00 00 00
 #
 # STOP [raw] {11110100-110110}
-name: STOP
+name: Stop
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 36 00 00 00
 #
 # AMS [raw] {11010100-101011}
-name: AMS
+name: Ams
 type: parsed
 protocol: RC5
 address: 14 00 00 00
 command: 2B 00 00 00
 #
 # TIME_DISPLAY [raw] {11110100-001011}
-name: TIME_DISPLAY
+name: Time_display
 type: parsed
 protocol: RC5
 address: 14 00 00 00

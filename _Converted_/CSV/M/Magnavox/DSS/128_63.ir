@@ -19,91 +19,91 @@ protocol: NECext
 address: 80 3F 00 00
 command: 0E 00 00 00
 #
-name: THEME
+name: Theme
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 11 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 12 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 14 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 15 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 15 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 16 00 00 00
 #
-name: PAGE
+name: Page
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 18 00 00 00
 #
-name: CHANNEL_+
+name: Channel_+
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 1D 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 1D 00 00 00
 #
-name: JUMP
+name: Jump
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 1E 00 00 00
 #
-name: TV/DSS
+name: Tv/dss
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 40 00 00 00
 #
-name: ALTERNATE_AUDIO
+name: Alternate_audio
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 41 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 42 00 00 00
 #
-name: FAVORITE
+name: Favorite
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 43 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
@@ -115,13 +115,13 @@ protocol: NECext
 address: 80 3F 00 00
 command: 45 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
 command: 47 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 80 3F 00 00
@@ -145,7 +145,7 @@ protocol: NECext
 address: 80 3F 00 00
 command: 4E 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 80 3F 00 00

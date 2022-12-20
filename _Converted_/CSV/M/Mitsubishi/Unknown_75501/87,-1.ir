@@ -13,19 +13,19 @@ protocol: NECext
 address: 57 00 00 00
 command: 01 00 00 00
 #
-name: vcr_POWER
+name: Vcr_power
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 02 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 04 00 00 00
 #
-name: vcr/tv
+name: Vcr/tv
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -43,25 +43,25 @@ protocol: NECext
 address: 57 00 00 00
 command: 09 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0A 00 00 00
 #
-name: CANCEL
+name: Cancel
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0B 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 0C 00 00 00
 #
-name: index+
+name: Index+
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -73,19 +73,19 @@ protocol: NECext
 address: 57 00 00 00
 command: 10 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 12 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 14 00 00 00
 #
-name: index-
+name: Index-
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -97,7 +97,7 @@ protocol: NECext
 address: 57 00 00 00
 command: 18 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -109,13 +109,13 @@ protocol: NECext
 address: 57 00 00 00
 command: 20 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 24 00 00 00
 #
-name: display
+name: Display
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -127,7 +127,7 @@ protocol: NECext
 address: 57 00 00 00
 command: 28 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -139,19 +139,19 @@ protocol: NECext
 address: 57 00 00 00
 command: 30 00 00 00
 #
-name: quick_program
+name: Quick_program
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 33 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 35 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 57 00 00 00
@@ -163,37 +163,37 @@ protocol: NECext
 address: 57 00 00 00
 command: 38 00 00 00
 #
-name: x2
+name: X2
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 3A 00 00 00
 #
-name: sp/ep
+name: Sp/ep
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 3E 00 00 00
 #
-name: audio/video
+name: Audio/video
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 40 00 00 00
 #
-name: adjust+
+name: Adjust+
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 41 00 00 00
 #
-name: adjust-
+name: Adjust-
 type: parsed
 protocol: NECext
 address: 57 00 00 00
 command: 49 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 57 00 00 00

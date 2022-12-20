@@ -3,223 +3,223 @@ Version: 1
 # 
 # Sony STRDH590 audio receiver
 #
-name: POWER
+name: Power
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 15 00 00 00
 # 
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 60 00 00 00
 # 
-name: INFO
+name: Info
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00
 command: 18 00 00 00
 # 
-name: BLUETOOTH
+name: Bluetooth
 type: parsed
 protocol: SIRC20
 address: 10 05 00 00
 command: 71 00 00 00
 # 
-name: MEDIA_BOX
+name: Media_box
 type: parsed
 protocol: SIRC20
 address: 10 0D 00 00
 command: 40 00 00 00
 # 
-name: BD_DVD
+name: Bd_dvd
 type: parsed
 protocol: SIRC20
 address: 10 05 00 00
 command: 16 00 00 00
 # 
-name: SAT_CATV
+name: Sat_catv
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 03 00 00 00
 # 
-name: GAME
+name: Game
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 7C 00 00 00
 # 
-name: SA-CD_CD
+name: Sa-cd_cd
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 25 00 00 00
 # 
-name: TV
+name: Tv
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 6A 00 00 00
 # 
-name: FM
+name: Fm
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 18 00 00 00
 # 
-name: PAIRING
+name: Pairing
 type: parsed
 protocol: SIRC20
 address: 10 05 00 00
 command: 77 00 00 00
 # 
-name: 2CH_MULTI
+name: 2ch_multi
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 47 00 00 00
 # 
-name: MOVIE
+name: Movie
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 43 00 00 00
 # 
-name: PURE_DIRECT
+name: Pure_direct
 type: parsed
 protocol: SIRC20
 address: 10 05 00 00
 command: 79 00 00 00
 # 
-name: FRONT_SUR
+name: Front_sur
 type: parsed
 protocol: SIRC20
 address: 10 0D 00 00
 command: 39 00 00 00
 # 
-name: NIGHT_MODE
+name: Night_mode
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 20 00 00 00
 # 
-name: DIMMER
+name: Dimmer
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 4D 00 00 00
 # 
-name: UP
+name: Up
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 78 00 00 00
 # 
-name: DOWN
+name: Down
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 79 00 00 00
 # 
-name: LEFT
+name: Left
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 7A 00 00 00
 # 
-name: RIGHT
+name: Right
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 7B 00 00 00
 # 
-name: OK
+name: Ok
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 0C 00 00 00
 # 
-name: HOME
+name: Home
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 53 00 00 00
 # 
-name: DISPLAY
+name: Display
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 4B 00 00 00
 # 
-name: AMP_MENU
+name: Amp_menu
 type: parsed
 protocol: SIRC15
 address: B0 00 00 00
 command: 77 00 00 00
 # 
-name: BACK
+name: Back
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00
 command: 7D 00 00 00
 # 
-name: OPTION
+name: Option
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00
 command: 73 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 12 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 13 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: SIRC15
 address: 30 00 00 00
 command: 14 00 00 00
 # 
-name: REWIND
+name: Rewind
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00
 command: 33 00 00 00
 # 
-name: PLAY_PAUSE
+name: Play_pause
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00
 command: 3A 00 00 00
 # 
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00
 command: 34 00 00 00
 # 
-name: SKIP_BACK
+name: Skip_back
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00
 command: 30 00 00 00
 # 
-name: STOP
+name: Stop
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00
 command: 38 00 00 00
 # 
-name: SKIP_FORWARD
+name: Skip_forward
 type: parsed
 protocol: SIRC20
 address: 10 01 00 00

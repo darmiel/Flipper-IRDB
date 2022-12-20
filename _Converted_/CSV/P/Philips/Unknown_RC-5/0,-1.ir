@@ -1,37 +1,37 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TV_STANDBY
+name: Tv_standby
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0C 00 00 00
 #
-name: TV_MUTE
+name: Tv_mute
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 0D 00 00 00
 #
-name: TV_VOL_UP
+name: Tv_vol_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 10 00 00 00
 #
-name: TV_VOL_DOWN
+name: Tv_vol_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 11 00 00 00
 #
-name: TV_PRG_UP
+name: Tv_prg_up
 type: parsed
 protocol: NECext
 address: 00 00 00 00
 command: 20 00 00 00
 #
-name: TV_PRG_DOWN
+name: Tv_prg_down
 type: parsed
 protocol: NECext
 address: 00 00 00 00

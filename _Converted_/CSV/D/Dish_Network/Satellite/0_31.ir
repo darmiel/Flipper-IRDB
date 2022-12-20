@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: ALL_ADRESSES_ON
+name: All_adresses_on
 type: parsed
 protocol: NECext
 address: 00 1F 00 00
 command: 01 00 00 00
 #
-name: ALL_ADRESSES_OFF
+name: All_adresses_off
 type: parsed
 protocol: NECext
 address: 00 1F 00 00

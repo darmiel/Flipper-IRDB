@@ -3,31 +3,31 @@ Version: 1
 #
 # Promethan ActivPanel Whiteboards
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 18 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 14 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 10 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 12 00 00 00
 #
-name: BLANK
+name: Blank
 type: parsed
 protocol: NEC
 address: 01 00 00 00

@@ -61,91 +61,91 @@ protocol: NECext
 address: 06 00 00 00
 command: 09 00 00 00
 #
-name: sleep
+name: Sleep
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 0B 00 00 00
 #
-name: channel_up
+name: Channel_up
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 10 00 00 00
 #
-name: channel_next
+name: Channel_next
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 10 00 00 00
 #
-name: channel_down
+name: Channel_down
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 11 00 00 00
 #
-name: channel_prev
+name: Channel_prev
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 11 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 12 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 13 00 00 00
 #
-name: video
+name: Video
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 14 00 00 00
 #
-name: audio
+name: Audio
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 15 00 00 00
 #
-name: fav_main
+name: Fav_main
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 16 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 17 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 18 00 00 00
 #
-name: store
+name: Store
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 19 00 00 00
 #
-name: ext
+name: Ext
 type: parsed
 protocol: NECext
 address: 06 00 00 00
 command: 1A 00 00 00
 #
-name: sys
+name: Sys
 type: parsed
 protocol: NECext
 address: 06 00 00 00

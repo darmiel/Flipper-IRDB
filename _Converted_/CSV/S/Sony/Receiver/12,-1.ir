@@ -1,157 +1,157 @@
 Filetype: IR signals file
 Version: 1
 #
-name: DBFB
+name: Dbfb
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 31 00 00 00
 #
-name: SURROUND_BASS_BOOST
+name: Surround_bass_boost
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 31 00 00 00
 #
-name: BASS_BOOST
+name: Bass_boost
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 31 00 00 00
 #
-name: SF:_ON/OFF
+name: Sf:_on/off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
-name: SOUND_FIELD_ON/OFF
+name: Sound_field_on/off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
-name: SOUND_FIELD_TOGGLE
+name: Sound_field_toggle
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
-name: SURROUND_ON/OFF
+name: Surround_on/off
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 3F 00 00 00
 #
-name: REAR_LEVEL_+
+name: Rear_level_+
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 42 00 00 00
 #
-name: REAR_LEVEL_-
+name: Rear_level_-
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 43 00 00 00
 #
-name: EFFECT/DELAY
+name: Effect/delay
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 44 00 00 00
 #
-name: CURSOR_MODE
+name: Cursor_mode
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 77 00 00 00
 #
-name: ARROW_OK
+name: Arrow_ok
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 77 00 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 77 00 00 00
 #
-name: CURSOR_UP
+name: Cursor_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 78 00 00 00
 #
-name: ARROW_UP
+name: Arrow_up
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 78 00 00 00
 #
-name: CURSOR_DN
+name: Cursor_dn
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 79 00 00 00
 #
-name: CURSOR_DOWN
+name: Cursor_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 79 00 00 00
 #
-name: ARROW_DOWN
+name: Arrow_down
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 79 00 00 00
 #
-name: CURSOR_LF
+name: Cursor_lf
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7A 00 00 00
 #
-name: CURSOR_LEFT
+name: Cursor_left
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7A 00 00 00
 #
-name: ARROW_LEFT
+name: Arrow_left
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7A 00 00 00
 #
-name: BASS_(-)
+name: Bass_(-)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7A 00 00 00
 #
-name: CURSOR_RT
+name: Cursor_rt
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7B 00 00 00
 #
-name: CURSOR_RIGHT
+name: Cursor_right
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7B 00 00 00
 #
-name: ARROW_RIGHT
+name: Arrow_right
 type: parsed
 protocol: NECext
 address: 0C 00 00 00
 command: 7B 00 00 00
 #
-name: BASS_(+)
+name: Bass_(+)
 type: parsed
 protocol: NECext
 address: 0C 00 00 00

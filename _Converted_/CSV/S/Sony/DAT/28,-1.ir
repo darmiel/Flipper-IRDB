@@ -61,121 +61,121 @@ protocol: NECext
 address: 1C 00 00 00
 command: 14 00 00 00
 #
-name: RMS_ENTER
+name: Rms_enter
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 1B 00 00 00
 #
-name: RMS_CHECK
+name: Rms_check
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 1D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 1E 00 00 00
 #
-name: OPEN/CLOSE
+name: Open/close
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 20 00 00 00
 #
-name: COUNTER_MODE
+name: Counter_mode
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 21 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 22 00 00 00
 #
-name: DATE_PRESENT
+name: Date_present
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 29 00 00 00
 #
-name: DATE_RECORDED
+name: Date_recorded
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 2A 00 00 00
 #
-name: POWER_ON
+name: Power_on
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 2E 00 00 00
 #
-name: POWER_OFF
+name: Power_off
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 2F 00 00 00
 #
-name: REPEAT
+name: Repeat
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 36 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 38 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 39 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 3A 00 00 00
 #
-name: REWIND_<<
+name: Rewind_<<
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 3B 00 00 00
 #
-name: FAST_FORWARD_>>
+name: Fast_forward_>>
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 3C 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 3D 00 00 00
 #
-name: AMS_PREVIOUS
+name: Ams_previous
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 68 00 00 00
 #
-name: AMS_NEXT
+name: Ams_next
 type: parsed
 protocol: NECext
 address: 1C 00 00 00
 command: 69 00 00 00
 #
-name: M._SCAN
+name: M._scan
 type: parsed
 protocol: NECext
 address: 1C 00 00 00

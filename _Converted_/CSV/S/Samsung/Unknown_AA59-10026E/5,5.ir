@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -25,7 +25,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -49,7 +49,7 @@ protocol: NECext
 address: 05 05 00 00
 command: 0A 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -73,13 +73,13 @@ protocol: NECext
 address: 05 05 00 00
 command: 0E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 0F 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -91,67 +91,67 @@ protocol: NECext
 address: 05 05 00 00
 command: 11 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 12 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 14 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 15 00 00 00
 #
-name: P./STILL
+name: P./still
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 16 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 18 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 19 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1A 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1D 00 00 00
 #
-name: DISPLAY
+name: Display
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1E 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 1F 00 00 00
 #
-name: LINE_IN
+name: Line_in
 type: parsed
 protocol: NECext
 address: 05 05 00 00
@@ -163,49 +163,49 @@ protocol: NECext
 address: 05 05 00 00
 command: 26 00 00 00
 #
-name: PRE-CH
+name: Pre-ch
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2A 00 00 00
 #
-name: TRK-
+name: Trk-
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2C 00 00 00
 #
-name: TRK+
+name: Trk+
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 2D 00 00 00
 #
-name: MONITOR
+name: Monitor
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 30 00 00 00
 #
-name: EJECTCD
+name: Ejectcd
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 32 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 37 00 00 00
 #
-name: SPEED
+name: Speed
 type: parsed
 protocol: NECext
 address: 05 05 00 00
 command: 3A 00 00 00
 #
-name: P-STD
+name: P-std
 type: parsed
 protocol: NECext
 address: 05 05 00 00

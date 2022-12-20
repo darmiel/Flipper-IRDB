@@ -3,49 +3,49 @@ Version: 1
 # 
 # For Aiwa XR H100, NSXA909U, NSXMT70U, RC7ASO8 and other; Remote: RC-T506
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 00 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 4D 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 4E 00 00 00
 # 
-name: Play/Preset
+name: Play/preset
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 40 00 00 00
 # 
-name: FF/Up
+name: Ff/up
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 42 00 00 00
 # 
-name: Rewind/Down
+name: Rewind/down
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 43 00 00 00
 # 
-name: Pause/Set
+name: Pause/set
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 44 00 00 00
 # 
-name: Stop/Clear
+name: Stop/clear
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
@@ -57,49 +57,49 @@ protocol: NEC42
 address: 6E 00 00 00
 command: 45 00 00 00
 # 
-name: CD
+name: Cd
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 1F 00 00 00
 # 
-name: Video/Aux
+name: Video/aux
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 1D 00 00 00
 # 
-name: Tuner band
+name: Tuner_band
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 1C 00 00 00
 # 
-name: Tape deck
+name: Tape_deck
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 1B 00 00 00
 # 
-name: Open/Close CD
+name: Open/close_cd
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 13 00 00 00
 # 
-name: 1 CD
+name: 1_cd
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 51 00 00 00
 # 
-name: 2 CD
+name: 2_cd
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 02 00 00 00
 # 
-name: 3 CD
+name: 3_cd
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
@@ -189,7 +189,7 @@ protocol: NEC42
 address: 6E 00 00 00
 command: 11 00 00 00
 # 
-name: Edit/Check
+name: Edit/check
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
@@ -213,19 +213,19 @@ protocol: NEC42
 address: 6E 00 00 00
 command: 16 00 00 00
 # 
-name: BBE
+name: Bbe
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 48 00 00 00
 # 
-name: Manual select
+name: Manual_select
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
 command: 58 00 00 00
 # 
-name: Dolby Pro Logic
+name: Dolby_pro_logic
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
@@ -237,7 +237,7 @@ protocol: NEC42
 address: 6E 00 00 00
 command: 50 00 00 00
 # 
-name: T Bass
+name: T_bass
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00
@@ -255,7 +255,7 @@ protocol: NEC42
 address: 6E 00 00 00
 command: 4A 00 00 00
 # 
-name: Karaoke enter
+name: Karaoke_enter
 type: parsed
 protocol: NEC42
 address: 6E 00 00 00

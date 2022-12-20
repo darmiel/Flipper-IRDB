@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: SFC
+name: Sfc
 type: parsed
 protocol: NECext
 address: A0 10 00 00

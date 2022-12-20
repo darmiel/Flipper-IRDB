@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: OPERATE
+name: Operate
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 00 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 01 00 00 00
 #
-name: CH_DN
+name: Ch_dn
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 31 00 00 00
 command: 07 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -73,61 +73,61 @@ protocol: NECext
 address: 31 00 00 00
 command: 0F 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 10 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 11 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 12 00 00 00
 #
-name: FASTFORWARD
+name: Fastforward
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 13 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 14 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 15 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 16 00 00 00
 #
-name: STEP
+name: Step
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 17 00 00 00
 #
-name: SEARCH_INDEX
+name: Search_index
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 19 00 00 00
 #
-name: SLOW
+name: Slow
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -145,55 +145,55 @@ protocol: NECext
 address: 31 00 00 00
 command: 1D 00 00 00
 #
-name: TV-AUX
+name: Tv-aux
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1E 00 00 00
 #
-name: MEM
+name: Mem
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 1F 00 00 00
 #
-name: SET_TIMER
+name: Set_timer
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 42 00 00 00
 #
-name: COUNTER_RESET
+name: Counter_reset
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 44 00 00 00
 #
-name: TAPE_REMAINING
+name: Tape_remaining
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 45 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 47 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 48 00 00 00
 #
-name: VPS
+name: Vps
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 4F 00 00 00
 #
-name: PIP
+name: Pip
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -205,13 +205,13 @@ protocol: NECext
 address: 31 00 00 00
 command: 53 00 00 00
 #
-name: ADD_INDEX
+name: Add_index
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 54 00 00 00
 #
-name: DELETE_INDEX
+name: Delete_index
 type: parsed
 protocol: NECext
 address: 31 00 00 00
@@ -223,19 +223,19 @@ protocol: NECext
 address: 31 00 00 00
 command: 57 00 00 00
 #
-name: ZOOM
+name: Zoom
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 58 00 00 00
 #
-name: ART
+name: Art
 type: parsed
 protocol: NECext
 address: 31 00 00 00
 command: 59 00 00 00
 #
-name: TV_3X3
+name: Tv_3x3
 type: parsed
 protocol: NECext
 address: 31 00 00 00

@@ -1,19 +1,19 @@
 Filetype: IR signals file
 Version: 1
 #
-name: input
+name: Input
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 01 00 00 00
 #
-name: CHANNELUP
+name: Channelup
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 02 00 00 00
 #
-name: CHANNELDOWN
+name: Channeldown
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
@@ -79,115 +79,115 @@ protocol: NECext
 address: 0C FB 00 00
 command: 0D 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 0F 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 10 00 00 00
 #
-name: FAVORITES
+name: Favorites
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 11 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 12 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 13 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 14 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 15 00 00 00
 #
-name: LAST
+name: Last
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 16 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 17 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 18 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 19 00 00 00
 #
-name: dash
+name: Dash
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 36 00 00 00
 #
-name: turbo
+name: Turbo
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 5F 00 00 00
 #
-name: interactive
+name: Interactive
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 60 00 00 00
 #
-name: SEARCH
+name: Search
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 61 00 00 00
 #
-name: prog
+name: Prog
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 62 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 64 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 0C FB 00 00
 command: 65 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 0C FB 00 00

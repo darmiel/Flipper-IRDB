@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 #
-name: capture
+name: Capture
 type: parsed
 protocol: NECext
 address: 86 3B 00 00
@@ -19,13 +19,13 @@ protocol: NECext
 address: 86 3B 00 00
 command: 03 00 00 00
 #
-name: KPMINUS
+name: Kpminus
 type: parsed
 protocol: NECext
 address: 86 3B 00 00
 command: 04 00 00 00
 #
-name: KPPLUS
+name: Kpplus
 type: parsed
 protocol: NECext
 address: 86 3B 00 00

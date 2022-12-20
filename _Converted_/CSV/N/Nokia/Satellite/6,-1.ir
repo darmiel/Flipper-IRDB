@@ -13,7 +13,7 @@ protocol: NECext
 address: 06 00 00 00
 command: 18 00 00 00
 #
-name: TV-SAT
+name: Tv-sat
 type: parsed
 protocol: NECext
 address: 06 00 00 00

@@ -16,13 +16,13 @@ protocol: NECext
 address: FF 20 00 00
 command: CF 30 00 00
 #
-name: TV/AV
+name: Tv/av
 type: parsed
 protocol: NECext
 address: FF 20 00 00
 command: 39 C6 00 00
 #
-name: AV2
+name: Av2
 type: parsed
 protocol: NECext
 address: FF 20 00 00
@@ -100,7 +100,7 @@ protocol: NECext
 address: FF 20 00 00
 command: 59 A6 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: FF 20 00 00
@@ -112,7 +112,7 @@ protocol: NECext
 address: FF 20 00 00
 command: FF 00 00 00
 #
-name: CH+
+name: Ch+
 type: parsed
 protocol: NECext
 address: FF 20 00 00
@@ -124,7 +124,7 @@ protocol: NECext
 address: FF 20 00 00
 command: 3F C0 00 00
 #
-name: OK
+name: Ok
 type: parsed
 protocol: NECext
 address: FF 20 00 00
@@ -136,7 +136,7 @@ protocol: NECext
 address: FF 20 00 00
 command: BF 40 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: FF 20 00 00
@@ -148,7 +148,7 @@ protocol: NECext
 address: FF 20 00 00
 command: 7F 80 00 00
 #
-name: CH-
+name: Ch-
 type: parsed
 protocol: NECext
 address: FF 20 00 00
@@ -178,19 +178,19 @@ protocol: NECext
 address: FF 20 00 00
 command: 47 B8 00 00
 #
-name: Return TV
+name: Return_tv
 type: parsed
 protocol: NECext
 address: FF 20 00 00
 command: DF 20 00 00
 #
-name: Subt List
+name: Subt_list
 type: parsed
 protocol: NECext
 address: FF 20 00 00
 command: 1F E0 00 00
 #
-name: Txt Expand
+name: Txt_expand
 type: parsed
 protocol: NECext
 address: FF 20 00 00
@@ -214,7 +214,7 @@ protocol: NECext
 address: FF 20 00 00
 command: B9 46 00 00
 #
-name: Txt Stop
+name: Txt_stop
 type: parsed
 protocol: NECext
 address: FF 20 00 00

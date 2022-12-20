@@ -1,121 +1,121 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TIVO
+name: Tivo
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 0F 00 00 00
 #
-name: LIVE_TV
+name: Live_tv
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 11 00 00 00
 #
-name: INFO
+name: Info
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 13 00 00 00
 #
-name: UP
+name: Up
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 14 00 00 00
 #
-name: RIGHT
+name: Right
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 15 00 00 00
 #
-name: DOWN
+name: Down
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 16 00 00 00
 #
-name: LEFT
+name: Left
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 17 00 00 00
 #
-name: THUMBS_DOWN
+name: Thumbs_down
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 18 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 19 00 00 00
 #
-name: THUMS_UP
+name: Thums_up
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1A 00 00 00
 #
-name: CHANNEL+
+name: Channel+
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1E 00 00 00
 #
-name: CHANNEL_-
+name: Channel_-
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 1F 00 00 00
 #
-name: RECORD
+name: Record
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 20 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 21 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 22 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 23 00 00 00
 #
-name: F_FORWARD
+name: F_forward
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 24 00 00 00
 #
-name: SLOW_MOTION_-
+name: Slow_motion_-
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 25 00 00 00
 #
-name: 10_SEC_REWIND
+name: 10_sec_rewind
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 26 00 00 00
 #
-name: CATCH_UP
+name: Catch_up
 type: parsed
 protocol: NECext
 address: 85 30 00 00
@@ -181,37 +181,37 @@ protocol: NECext
 address: 85 30 00 00
 command: 31 00 00 00
 #
-name: CLEAR
+name: Clear
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 32 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 33 00 00 00
 #
-name: GUIDE
+name: Guide
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 36 00 00 00
 #
-name: WINDOW
+name: Window
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 44 00 00 00
 #
-name: EXIT
+name: Exit
 type: parsed
 protocol: NECext
 address: 85 30 00 00
 command: 45 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 85 30 00 00

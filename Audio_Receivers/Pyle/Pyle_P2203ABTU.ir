@@ -3,223 +3,223 @@ Version: 1
 # 
 # Pyle 4 Channel Receiver P2203ABTU
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1C 00 00 00
 # 
-name: DVD_CD
+name: Dvd_cd
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 19 00 00 00
 # 
-name: TUNER
+name: Tuner
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 40 00 00 00
 # 
-name: BT_USB
+name: Bt_usb
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1D 00 00 00
 # 
-name: IPOD_MP3
+name: Ipod_mp3
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1B 00 00 00
 # 
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0F 00 00 00
 # 
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 05 00 00 00
 # 
-name: LEFT
+name: Left
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0A 00 00 00
 # 
-name: RIGHT
+name: Right
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 09 00 00 00
 # 
-name: TREBLE-
+name: Treble-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0E 00 00 00
 # 
-name: TREBLE+
+name: Treble+
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 08 00 00 00
 # 
-name: BASS_
+name: Bass_
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 06 00 00 00
 # 
-name: BASS+
+name: Bass+
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 04 00 00 00
 # 
-name: MUTE
+name: Mute
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 0B 00 00 00
 # 
-name: SPEAK_A
+name: Speak_a
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 59 00 00 00
 # 
-name: SPEAK_B
+name: Speak_b
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 43 00 00 00
 # 
-name: SPEAK_A+B
+name: Speak_a+b
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 46 00 00 00
 # 
-name: LOUD
+name: Loud
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 47 00 00 00
 # 
-name: DIP_1
+name: Dip_1
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 44 00 00 00
 # 
-name: DSP_2
+name: Dsp_2
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 4C 00 00 00
 # 
-name: DSP_3
+name: Dsp_3
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 00 00 00 00
 # 
-name: DSP_4
+name: Dsp_4
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 07 00 00 00
 # 
-name: DSP_5
+name: Dsp_5
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 11 00 00 00
 # 
-name: DSP_6
+name: Dsp_6
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 1A 00 00 00
 # 
-name: DSP_7
+name: Dsp_7
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 12 00 00 00
 # 
-name: OFF
+name: Off
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 55 00 00 00
 # 
-name: AUTO_SCAN
+name: Auto_scan
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5C 00 00 00
 # 
-name: AM
+name: Am
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 03 00 00 00
 # 
-name: FM
+name: Fm
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 02 00 00 00
 # 
-name: VFD+
+name: Vfd+
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 01 00 00 00
 # 
-name: VFD-
+name: Vfd-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 58 00 00 00
 # 
-name: MEMORY
+name: Memory
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 45 00 00 00
 # 
-name: PREV
+name: Prev
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 4D 00 00 00
 # 
-name: NEXT
+name: Next
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 54 00 00 00
 # 
-name: ST_MONO
+name: St_mono
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 5E 00 00 00
 # 
-name: TUNING-
+name: Tuning-
 type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 50 00 00 00
 # 
-name: TUNING+
+name: Tuning+
 type: parsed
 protocol: NEC
 address: 00 00 00 00

@@ -1,49 +1,49 @@
 Filetype: IR signals file
 Version: 1
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: F0 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: F1 00 00 00
 #
-name: REWIND
+name: Rewind
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: F2 00 00 00
 #
-name: FAST_FOWARD
+name: Fast_foward
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: F3 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: F4 00 00 00
 #
-name: SELECT
+name: Select
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: F5 00 00 00
 #
-name: SCROLL_FOWARD
+name: Scroll_foward
 type: parsed
 protocol: NECext
 address: 82 72 00 00
 command: F6 00 00 00
 #
-name: SCROLL_BACK
+name: Scroll_back
 type: parsed
 protocol: NECext
 address: 82 72 00 00

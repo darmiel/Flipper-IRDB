@@ -1,13 +1,13 @@
 Filetype: IR signals file
 Version: 1
 #
-name: TIMER
+name: Timer
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 00 00 00 00
 #
-name: EXT
+name: Ext
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
@@ -19,7 +19,7 @@ protocol: NECext
 address: 0F 01 00 00
 command: 02 00 00 00
 #
-name: SLEEP
+name: Sleep
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
@@ -43,7 +43,7 @@ protocol: NECext
 address: 0F 01 00 00
 command: 07 00 00 00
 #
-name: AUDIO
+name: Audio
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
@@ -91,97 +91,97 @@ protocol: NECext
 address: 0F 01 00 00
 command: 0F 00 00 00
 #
-name: AGAIN
+name: Again
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 10 00 00 00
 #
-name: LIST
+name: List
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 11 00 00 00
 #
-name: HEADP
+name: Headp
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 12 00 00 00
 #
-name: RADIO
+name: Radio
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 13 00 00 00
 #
-name: STORE
+name: Store
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 14 00 00 00
 #
-name: X_0_DN
+name: X_0_dn
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 15 00 00 00
 #
-name: X_1_DN
+name: X_1_dn
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 16 00 00 00
 #
-name: LNB
+name: Lnb
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 17 00 00 00
 #
-name: STATUS
+name: Status
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 18 00 00 00
 #
-name: X_0_UP
+name: X_0_up
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 19 00 00 00
 #
-name: X_1_UP
+name: X_1_up
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 1A 00 00 00
 #
-name: VIDEO
+name: Video
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 1B 00 00 00
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 1C 00 00 00
 #
-name: STEREO
+name: Stereo
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 1D 00 00 00
 #
-name: AFC
+name: Afc
 type: parsed
 protocol: NECext
 address: 0F 01 00 00
 command: 1E 00 00 00
 #
-name: MUTE
+name: Mute
 type: parsed
 protocol: NECext
 address: 0F 01 00 00

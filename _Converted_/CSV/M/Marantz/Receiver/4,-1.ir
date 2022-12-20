@@ -1,43 +1,43 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 0C 00 00 00
 #
-name: PLAY
+name: Play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2C 00 00 00
 #
-name: PTY_/_PLAY
+name: Pty_/_play
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 2C 00 00 00
 #
-name: PAUSE
+name: Pause
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 30 00 00 00
 #
-name: STOP
+name: Stop
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 31 00 00 00
 #
-name: DVD
+name: Dvd
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 3F 00 00 00
 #
-name: SUB-T/ATT
+name: Sub-t/att
 type: parsed
 protocol: NECext
 address: 04 00 00 00
@@ -49,13 +49,13 @@ protocol: NECext
 address: 04 00 00 00
 command: 4B 00 00 00
 #
-name: SUBTITLE
+name: Subtitle
 type: parsed
 protocol: NECext
 address: 04 00 00 00
 command: 4B 00 00 00
 #
-name: SET_UP/T._TONE
+name: Set_up/t._tone
 type: parsed
 protocol: NECext
 address: 04 00 00 00

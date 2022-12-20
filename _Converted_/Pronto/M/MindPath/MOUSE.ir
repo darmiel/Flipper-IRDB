@@ -31,67 +31,67 @@ frequency: 38740
 duty_cycle: 0.330000
 data: 903 826 826 826 826 1652 1652 13113
 #
-name: UP
+name: Up
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1729 852 1678 852 852 852 852 4853 1678 852 1678 852 852 852 852 4853 852 852 3304 1678 852 13061
 #
-name: DOWN
+name: Down
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1729 852 1678 852 852 852 852 4853 1678 852 1678 852 852 852 852 4853 852 1678 2478 1678 852 13036
 #
-name: LEFT
+name: Left
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1704 826 1678 852 826 826 826 4853 1678 826 1678 826 826 826 826 4853 2555 826 1678 1678 826 13087
 #
-name: RIGHT
+name: Right
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1704 826 1704 852 826 826 826 4853 1704 826 1704 826 826 826 826 4853 1704 826 2504 1704 826 13087
 #
-name: MOUSE_L
+name: Mouse_l
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 826 826 1652 826 826 1652 13087
 #
-name: MOUSE_R
+name: Mouse_r
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 903 1652 826 826 826 826 1652 13087
 #
-name: ENTER
+name: Enter
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1729 826 1678 826 826 826 826 4853 1678 826 1678 826 826 826 826 4853 1678 826 826 1678
 #
-name: RIGHT_DIAG_UP
+name: Right_diag_up
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1704 878 1678 852 878 878 878 4853 1678 878 1678 878 878 878 878 4853 878 878 878 878 1678 1678 878 13087
 #
-name: RIGHT_DIAG_DN
+name: Right_diag_dn
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1729 826 1678 826 826 826 826 4853 1678 826 1678 826 826 826 826 4853 1678 1678 1678 1678 826 13061
 #
-name: LEFT_DIAG_DN
+name: Left_diag_dn
 type: raw
 frequency: 38740
 duty_cycle: 0.330000
 data: 1729 852 1678 852 852 852 852 4853 1678 852 1678 852 852 852 852 4853 852 2478 1678 1678 852 13061
 #
-name: LEFT_DIAG_UP
+name: Left_diag_up
 type: raw
 frequency: 38740
 duty_cycle: 0.330000

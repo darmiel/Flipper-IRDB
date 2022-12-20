@@ -1,97 +1,97 @@
 Filetype: IR signals file
 Version: 1
 #
-name: POWER
+name: Power
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 02 00 00 00
 #
-name: DISP_MODE
+name: Disp_mode
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 06 00 00 00
 #
-name: VOL+
+name: Vol+
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 07 00 00 00
 #
-name: VOL-
+name: Vol-
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 0A 00 00 00
 #
-name: FREEZE
+name: Freeze
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 0C 00 00 00
 #
-name: MENU
+name: Menu
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 11 00 00 00
 #
-name: KEYSTONE_+
+name: Keystone_+
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 13 00 00 00
 #
-name: KEYSTONE_-
+name: Keystone_-
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 14 00 00 00
 #
-name: RESYNC
+name: Resync
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 15 00 00 00
 #
-name: SOURCE
+name: Source
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 16 00 00 00
 #
-name: ENTER
+name: Enter
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 17 00 00 00
 #
-name: SOURCE-LOCK
+name: Source-lock
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 1B 00 00 00
 #
-name: VIDEO_1
+name: Video_1
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 1C 00 00 00
 #
-name: VIDEO_2
+name: Video_2
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 1D 00 00 00
 #
-name: COMPUTER
+name: Computer
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
 command: 1E 00 00 00
 #
-name: AV_MUTE
+name: Av_mute
 type: parsed
 protocol: NECext
 address: 50 4F 00 00
